@@ -40,7 +40,9 @@ Finally, add the following to the end of `named.conf`,
 
     include "/var/named/blackhole.conf";
 
-Restart bind with `service named restart` or `rndc reload` as appropriate for your system.
+Restart bind with `service named restart` or `rndc reload` as appropriate for your system, and make sure all the devices on your network are set to use your bind instance as their DNS server.
+
+Now see what breaks! Some sites you use might lose functionality because of server blocking. Edit the personal-whitelist.txt and personal-blacklist.txt files to tweak nolovia's generated lists to your liking, then run it again to create a new blackhole.conf file. Once you've worked out any kinks, consider setting up a weekly cron job to make an updated blackhole.conf, copy it to whever bind looks for it, and reload the name server.
 
 ## TODO:
 
