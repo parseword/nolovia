@@ -69,13 +69,11 @@ if ((!file_exists('./data/hosts-yoyo.txt')) || filemtime('./data/hosts-yoyo.txt'
     $data = file_get_contents('http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext');
     debug('Fetched ' . strlen($data) . ' bytes');
     if ((strlen($data) > 30000) && (preg_match('|2o7.net|mi', $data))) {
-        if ($fp = fopen('./data/hosts-yoyo.txt', 'w+')) {
-            fwrite($fp, $data);
-            fclose($fp);
-        }
-        else {
+        if (!$fp = fopen('./data/hosts-yoyo.txt', 'w+')) {
             console_message('Error opening file for writing near line ' . __LINE__, true);
         }
+        fwrite($fp, $data);
+        fclose($fp);
     }
     else {
         debug('Unexpected server response from server: yoyo.org');
@@ -97,13 +95,11 @@ if ((!file_exists('./data/hosts-spammerslapper.txt')) || filemtime('./data/hosts
             foreach ($results[1] as $host) {
                 $data .= trim($host) . "\n";
             }
-            if ($fp = fopen('./data/hosts-spammerslapper.txt', 'w+')) {
-                fwrite($fp, $data);
-                fclose($fp);
-            }
-            else{
+            if (!$fp = fopen('./data/hosts-spammerslapper.txt', 'w+')) {
                 console_message('Error opening file for writing near line ' . __LINE__, true);
             }
+            fwrite($fp, $data);
+            fclose($fp);
             unset($results);
         }
     }
@@ -125,13 +121,11 @@ if ((!file_exists('./data/hosts-hphosts.txt')) || filemtime('./data/hosts-hphost
         $data = preg_replace('|\.$|mi', '', $data);
         //Filter hostnames with underscores in them
 //        $data = preg_replace('|^.*_.*$\n|mi', '', $data);
-        if ($fp = fopen('./data/hosts-hphosts.txt', 'w+')) {
-            fwrite($fp, $data);
-            fclose($fp);
-        }
-        else {
+        if (!$fp = fopen('./data/hosts-hphosts.txt', 'w+')) {
             console_message('Error opening file for writing near line ' . __LINE__, true);
         }
+        fwrite($fp, $data);
+        fclose($fp);
         unset($data);
     }
     else {
@@ -151,13 +145,11 @@ if ((!file_exists('./data/hosts-someonewhocares.txt')) || filemtime('./data/host
         list($good, $junk) = explode('#</ad-sites>', $good);
         $data = preg_replace('|^127.0.0.1(\s+)|mi', '', $good);
         unset($junk, $good);
-        if ($fp = fopen('./data/hosts-someonewhocares.txt', 'w+')) {
-            fwrite($fp, $data);
-            fclose($fp);
-        }
-        else {
+        if (!$fp = fopen('./data/hosts-someonewhocares.txt', 'w+')) {
             console_message('Error opening file for writing near line ' . __LINE__, true);
         }
+        fwrite($fp, $data);
+        fclose($fp);
         unset($data);
     }
     else {
@@ -251,19 +243,17 @@ $header = <<<EOT
 
 EOT;
 debug('Writing bind config file to ./blackhole.conf');
-if ($fp = fopen('./blackhole.conf', 'w+')) {
-    fwrite($fp, $header);
-    foreach ($blockedHosts as $host) {
-        if ($host == 'localhost') {
-            continue;
-        }
-        fwrite($fp, 'zone "' . $host .'" IN { type master; notify no; file "blackhole.zone"; allow-query { recursers; }; };' . "\n");
-    }
-    fclose($fp);
-}
-else {
+if (!$fp = fopen('./blackhole.conf', 'w+')) {
     console_message('Error opening file for writing near line ' . __LINE__, true);
 }
+fwrite($fp, $header);
+foreach ($blockedHosts as $host) {
+    if ($host == 'localhost') {
+        continue;
+    }
+    fwrite($fp, 'zone "' . $host .'" IN { type master; notify no; file "blackhole.zone"; allow-query { recursers; }; };' . "\n");
+}
+fclose($fp);
 debug('All done! Exiting normally');
 
 /* Remove empty lines and #comments from an array */
