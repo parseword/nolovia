@@ -30,27 +30,24 @@ debug('Performing first-run checks');
 if (!file_exists('./data')) {
     debug('Creating ./data directory');
     if (!mkdir('./data')) {
-        echo 'Error creating ./data directory in current directory near line '
-            . __LINE__ . ', this is fatal; exiting';
-        exit;
+        console_message('Error creating ./data directory in current directory near line '
+            . __LINE__, true);
     }
 }
 foreach (array('black', 'white') as $file) {
     if (!file_exists('./personal-' . $file . 'list.txt')) {
         debug('Copying default personal-' . $file . 'list.txt to cwd');
         if (!copy('./skel/personal-' . $file . 'list.txt', './personal-' . $file . 'list.txt')) {
-            echo 'Error copying default personal-' . $file . 'list.txt to cwd near line '
-                . __LINE__ . ', this is fatal; exiting';
-            exit;
+            console_message('Error copying default personal-' . $file 
+                . 'list.txt to cwd near line ' . __LINE__, true);
         }
     }
 }
 if (!file_exists('./data/hosts-legacy.txt')) {
     debug('Copying default hosts-legacy.txt to ./data/');
     if (!copy('./skel/hosts-legacy.txt', './data/hosts-legacy.txt')) {
-        echo 'Error copying default hosts-legacy.txt to ./data/ near line '
-            . __LINE__ . ', this is fatal; exiting';
-        exit;
+        console_message('Error copying default hosts-legacy.txt to ./data/ near line '
+            . __LINE__, true);
     }
 }
 
@@ -77,9 +74,7 @@ if ((!file_exists('./data/hosts-yoyo.txt')) || filemtime('./data/hosts-yoyo.txt'
             fclose($fp);
         }
         else {
-            echo 'Error opening file for writing near line ' . __LINE__ 
-                . ', this is fatal; exiting';
-            exit;
+            console_message('Error opening file for writing near line ' . __LINE__, true);
         }
     }
     else {
@@ -107,9 +102,7 @@ if ((!file_exists('./data/hosts-spammerslapper.txt')) || filemtime('./data/hosts
                 fclose($fp);
             }
             else{
-                echo 'Error opening file for writing near line ' . __LINE__ 
-                    . ', this is fatal; exiting';
-                exit;
+                console_message('Error opening file for writing near line ' . __LINE__, true);
             }
             unset($results);
         }
@@ -137,9 +130,7 @@ if ((!file_exists('./data/hosts-hphosts.txt')) || filemtime('./data/hosts-hphost
             fclose($fp);
         }
         else {
-                echo 'Error opening file for writing near line ' . __LINE__ 
-                    . ', this is fatal; exiting';
-                exit;
+            console_message('Error opening file for writing near line ' . __LINE__, true);
         }
         unset($data);
     }
@@ -165,9 +156,7 @@ if ((!file_exists('./data/hosts-someonewhocares.txt')) || filemtime('./data/host
             fclose($fp);
         }
         else {
-                echo 'Error opening file for writing near line ' . __LINE__ 
-                    . ', this is fatal; exiting';
-                exit;
+            console_message('Error opening file for writing near line ' . __LINE__, true);
         }
         unset($data);
     }
@@ -261,7 +250,7 @@ $header = <<<EOT
 # Generated at $date
 
 EOT;
-debug('Writing bind config file to disk');
+debug('Writing bind config file to ./blackhole.conf');
 if ($fp = fopen('./blackhole.conf', 'w+')) {
     fwrite($fp, $header);
     foreach ($blockedHosts as $host) {
@@ -273,8 +262,7 @@ if ($fp = fopen('./blackhole.conf', 'w+')) {
     fclose($fp);
 }
 else {
-    echo 'Error opening file for writing near line ' . __LINE__ . ', this is fatal; exiting';
-    exit;
+    console_message('Error opening file for writing near line ' . __LINE__, true);
 }
 debug('All done! Exiting normally');
 
@@ -294,17 +282,21 @@ function strip_comments($arr) {
 }
 
 /* Display a notification with timestamp and memory statistics */
-function console_message($message, $line = __LINE__) {
+function console_message($message, $fatal = false) {
     global $timeStart;
     echo date('H:i:s') . ' - ' . sprintf('%6.02f', microtime(true) - $timeStart)
         . 's - ' . sprintf('% 10d', memory_get_usage()) . " bytes - $message\n";
+    if ($fatal === true) {
+        console_message('FAILURE: The previous error was fatal; exiting');
+        exit;
+    }
 }
 
 /* Wrapper to access debug variables when displaying output */
-function debug($message) {
+function debug($message, $fatal = false) {
     if (DEBUG) {
         global $DEBUG;
-        console_message($message);
+        console_message($message, $fatal);
     }
 }
 
