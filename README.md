@@ -17,8 +17,8 @@ Running your own DNS is a more powerful alternative to `hosts` file-based ad blo
 
 Ensure you already have a working instance of the `bind` DNS resolver prior to starting. There are lots of tutorials on installing bind for your OS, and doing so is beyond the scope of this document. Make a backup of your existing `named.conf` file. Then obtain and run nolovia:
 
-`mkdir nolovia && cd nolovia`
-`git clone git@github.com:ampersign/nolovia.git .`
+`mkdir nolovia && cd nolovia`    
+`git clone git@github.com:ampersign/nolovia.git .`    
 `php nolovia.php`
 
 This will generate a file named blackhole.conf. Copy that file and the included blackhole.zone file somewhere that makes sense for your system, like `/var/named/` or `c:\bind\`. 
