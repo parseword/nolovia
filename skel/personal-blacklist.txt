@@ -1,0 +1,333 @@
+################################################################################
+# nolovia personal blacklist file
+# Part of nolovia, <http://github.com/ampersign/nolovia/>
+#
+# This file should contain domains and hostnames you want to block for policy
+# reasons in addition to the hosts included on the various server lists. For
+# example, if you don't use Facebook and don't want your network connecting to
+# them, add their domains to this file.
+
+################################################################################
+# Manually enforced full-domain bans:
+# Several server lists supply subdomains of the following domains. Let's block
+# the entire domains, instead of generating 1000s of extra zones.
+2cnt.net
+302br.net
+51yes.com
+aaddzz.com
+adjuggler.net
+adk2.co
+adk2x.com
+adnxs.com
+adprotect.net
+adsservingtwig.xyz
+adtech.fr
+advertik.com
+analytics.edgesuite.net
+appier.net
+bfast.com
+bravenetmedianetwork.com
+btrll.com
+cjt1.net
+cogocast.com
+cogocast.net
+cogolabs.com
+demdex.net
+delta-boa.com
+deployads.com
+digidip.net
+dol.ru
+doubleclick.net
+dpclk.com
+ezanga.com
+ezanga.net
+free-counter.co.uk
+footprintpredict.com
+go2cloud.org
+hpg.ig.com.br
+hpg.com.br
+ig.com.br
+imaginemedia.com
+integralads.com
+ivwbox.de
+iwon.com
+janrain.com
+justclick.ru
+linksynergy.com
+liveadvert.com
+liteweb.net
+livetex.ru
+llnwd.net
+malware-scan.com
+massrel.io #Spredfast social advertising
+metric.gstatic.com
+millennialmedia.com
+msads.net
+myroitracking.com
+nr-data.net
+paycount.com
+realtrackernl.com
+reporo.net
+rev2pub.com
+revrocket.us
+rpxnow.com
+sextracker.be
+smartyads.com
+speedbit.com
+startappservice.com
+track4.com
+trackvoluum.com
+valueclick.net
+vgwort.de
+vindicosuite.com
+vmsn.de
+voluumtrk.com
+voodoo.com
+vx2.cc
+webhancer.com
+
+################################################################################
+# Additional mobile ad/tracking servers
+ad-score.com
+adjust.com
+crashlytics.com
+justad.mobi
+locationlabs.com
+mediajustad-a.akamaihd.net
+mobileapptracking.com
+mydas.mobi
+netbiscuits.com
+netbiscuits.net
+pinsightmedia.com
+rave-api.com
+shizzle.sprint.com
+samsungosp.com
+smaato.com
+smaato.net
+smithmicro.com
+spcsdns.net
+ssp.samsung.com
+synapsys.us
+yoc-adserver.com
+
+################################################################################
+# Purported Windows telemetry/spying servers
+adnxs.com
+c.msn.com
+g.msn.com
+h1.msn.com
+msedge.net
+rad.msn.com
+ads.msn.com
+adnexus.net
+ac3.msn.com
+c.atdmt.com
+m.adnxs.com
+rad.msn.com
+sO.2mdn.net
+ads1.msn.com
+ec.atdmt.com
+flex.msn.com
+rad.live.com
+ui.skype.com
+msftncsi.com
+a-msedge.net
+a.rad.msn.com
+b.rad.msn.com
+cdn.atdmt.com
+m.hotmail.com
+ads1.msads.net
+a.ads1.msn.com
+a.ads2.msn.com
+apps.skype.com
+b.ads1.msn.com
+view.atdmt.com
+appex.bing.com
+appex.bing.net
+watson.live.com
+preview.msn.com
+aidps.atdmt.com
+preview.msn.com
+static.2mdn.net
+a.ads2.msads.net
+b.ads2.msads.net
+db3aqu.atdmt.com
+secure.adnxs.com
+www.msftncsi.com
+#cs1.wpc.v0cdn.net
+live.rads.msn.com
+bs.serving-sys.com
+a-0001.a-msedge.net
+pricelist.skype.com
+a-0001.a-msedge.net
+a-0002.a-msedge.net
+a-0003.a-msedge.net
+a-0004.a-msedge.net
+a-0005.a-msedge.net
+a-0006.a-msedge.net
+a-0007.a-msedge.net
+a-0008.a-msedge.net
+a-0009.a-msedge.net
+choice.microsoft.com
+watson.microsoft.com
+feedback.windows.com
+aka-cdn-ns.adtech.de
+cds26.ams9.msecn.net
+lb1.www.ms.akadns.net
+corp.sts.microsoft.com
+az361816.vo.msecnd.net
+az512334.vo.msecnd.net
+en-gb.appex-rf.msn.com
+telemetry.microsoft.com
+msntest.serving-sys.com
+secure.flashtalking.com
+telemetry.appex.bing.net
+pre.footprintpredict.com
+vortex.data.microsoft.com
+nexus.officeapps.live.com
+statsfe2.ws.microsoft.com
+statsfe1.ws.microsoft.com
+df.telemetry.microsoft.com
+officeclient.microsoft.com
+oca.telemetry.microsoft.com
+sqm.telemetry.microsoft.com
+telemetry.urs.microsoft.com
+survey.watson.microsoft.com
+compatexchange.cloudapp.net
+feedback.microsoft-hohm.com
+s.gateway.messenger.live.com
+licensing.md.mp.microsoft.com
+vortex-win.data.microsoft.com
+feedback.search.microsoft.com
+schemas.microsoft.akadns.net
+watson.telemetry.microsoft.com
+choice.microsoft.com.nsatc.net
+wes.df.telemetry.microsoft.com
+sqm.df.telemetry.microsoft.com
+settings-win.data.microsoft.com
+redir.metaservices.microsoft.com
+i1.services.social.microsoft.com
+vortex-sandbox.data.microsoft.com
+diagnostics.support.microsoft.com
+watson.ppe.telemetry.microsoft.com
+msnbot-65-55-108-23.search.msn.com
+telecommand.telemetry.microsoft.com
+settings-sandbox.data.microsoft.com
+sls.update.microsoft.com.akadns.net
+fe2.update.microsoft.com.akadns.net
+vortex-bn2.metron.live.com.nsatc.net
+vortex-cy2.metron.live.com.nsatc.net
+oca.telemetry.microsoft.com.nsatc.net
+sqm.telemetry.microsoft.com.nsatc.net
+reports.wes.df.telemetry.microsoft.com
+corpext.msitadfs.glbdns2.microsoft.com
+services.wes.df.telemetry.microsoft.com
+watson.telemetry.microsoft.com.nsatc.net
+statsfe2.update.microsoft.com.akadns.net
+i1.services.social.microsoft.com.nsatc.net
+telecommand.telemetry.microsoft.com.nsatc.net
+
+################################################################################
+# These domains are associated with government-sponsored malware
+# See https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/
+aalaan.tv
+accounts.mx
+adjust-local-settings.com
+alawaeltech.com
+alljazeera.co
+asrararabiya.co
+asrararablya.com
+asrarrarabiya.com
+bahrainsms.co
+bbc-africa.com
+bulbazaur.com
+checkinonlinehere.com
+cnn-africa.co
+damanhealth.online
+emiratesfoundation.net
+fb-accounts.com
+fb-accounts.com
+googleplay-store.com
+icloudcacher.com
+icrcworld.com
+iusacell-movil.com.mx
+kenyasms.org
+manoraonline.net
+mz-vodacom.info
+nation-news.com
+newtarrifs.net
+nsogroup.com
+nsoqa.com
+ooredoodeals.com
+pickuchu.com
+qaintqa.com
+redcrossworld.com
+sabafon.info
+smser.net
+thainews.asia
+topcontactco.com
+track-your-fedex-package.org
+turkeynewsupdates.com
+turkishairines.info
+uaenews.online
+univision.click
+unonoticias.net
+unonoticias.net
+webadv.co
+whatsapp-app.com
+y0utube.com.mx
+
+################################################################################
+# These domains are associated with GRIZZLY STEPPE "Russian Malicious Cyber Activity"
+# See https://www.us-cert.gov/security-publications/GRIZZLY-STEPPE-Russian-Malicious-Cyber-Activity
+pdfregistry.net
+cderlearn.com
+ritsoperrol.ru
+littjohnwilhap.ru
+wilcarobbe.com
+one2shoppee.com
+insta.reduct.ru
+waterfilter.in.ua
+
+################################################################################
+# Webex plugin from Cisco allows RCE
+# See https://bugs.chromium.org/p/project-zero/issues/detail?id=1096
+webex.com
+webex.co.in
+
+################################################################################
+# Miscellaneous. These are commented out by default, as blocking them will
+# disable a lot of social media functionality.
+### fb.com #Facebook
+### fb.me #Facebook
+### fbcdn.com #Facebook
+### fbcdn.net #Facebook
+### facebook.net #Facebook
+### facebook.com #Facebook
+### id.google.com
+### imasdk.googleapis.com
+### metric.gstatic.com
+### instantmessagingpa.googleapis.com
+### r20swj13mr.microsoft.com
+### microsoft-hohm.com
+### msftncsi.com
+### metrigo.com
+### ie9comview.vo.msecnd.net
+### msedge.net
+### nativo.com
+### ntv.io
+### ooyala.com
+### out.reddit.com #Reddit click tracking server
+### pixel.ad
+### qc.to
+### sharedsource.org
+### similarweb.com
+### skslm.swiftkey.net
+### skype.com
+### taurus.urandom.nl
+### tfbnw.net
+### tracker.itk98.net
+### traffictradinghub.com
+### #v0cdn.net
+### vine.co
+### zenfs.com

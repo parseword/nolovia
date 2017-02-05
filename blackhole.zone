@@ -1,0 +1,13 @@
+$TTL 6h
+@        IN    SOA	ns.home.lan.	hostmaster.home.lan. (
+			2015060501
+			10800
+			3600
+			604800
+			86400 )
+
+@		NS	ns.home.lan.
+
+; Resolve domain and wildcard subdomains
+@        IN      A               0.0.0.0
+*        IN      A               0.0.0.0

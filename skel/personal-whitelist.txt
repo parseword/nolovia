@@ -1,0 +1,17 @@
+################################################################################
+# nolovia personal whitelist file
+# Part of nolovia, <http://github.com/ampersign/nolovia/>
+#
+# This file should contain domains and hostnames that nolovia should NOT
+# include in its blackhole.conf file, even if they're present in external
+# ad server lists.
+
+affiliate.zap2it.com #TV listings
+craigslist.org
+datapipe.net
+ftpcontent.worldnow.com
+fulltiltpoker.com
+googlevideo.com
+llnwd.net
+zap2it.com #TV listings
+zyngawithfriends.com #Required for Words With Friends app
