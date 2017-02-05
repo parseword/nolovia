@@ -119,8 +119,6 @@ if ((!file_exists('./data/hosts-hphosts.txt')) || filemtime('./data/hosts-hphost
         $data = preg_replace('|^127.0.0.1(\s+)|mi', '', $data);
         //Strip trailing dot if one exists (theoads.com.)
         $data = preg_replace('|\.$|mi', '', $data);
-        //Filter hostnames with underscores in them
-//        $data = preg_replace('|^.*_.*$\n|mi', '', $data);
         if (!$fp = fopen('./data/hosts-hphosts.txt', 'w+')) {
             console_message('Error opening file for writing near line ' . __LINE__, true);
         }
@@ -170,12 +168,18 @@ $hosts = strip_comments(array_merge(
             file('./personal-blacklist.txt')
         )
 );
-debug('Host lists (combined) contain ' . count($hosts) . ' entries');
+debug('Host list (combined) contains ' . count($hosts) . ' entries');
+
+//Strip leading www. from hosts
+debug('Stripping leading www. from hosts');
+$hosts = array_map(
+    function($val) { return preg_replace('|^www\.|i', '', $val); },
+    $hosts
+);
 
 //Remove any duplicate hosts
 debug('Deduplicating hosts');
-$hosts = array_map('strtolower', $hosts);
-$hosts = array_unique($hosts);
+$hosts = array_unique(array_map('strtolower', $hosts));
 debug('Deduplicated host list contains ' . count($hosts) . ' entries');
 
 //Build a list of domains we're blocking entirely (entire zone/all subdomains)
