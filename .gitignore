@@ -1,2 +1,4 @@
-.svn
+.svn/*
 /data/*
+personal-blacklist.txt
+personal-whitelist.txt
