@@ -22,6 +22,7 @@
 define('DEBUG', true);
 $DEBUG = !DEBUG ? null : array(
     'domainCount' => array(),
+    'printDomainCount' => false,
 );
 $timeStart = microtime(true);
 
@@ -207,7 +208,6 @@ debug('Fully-blocked domain list contains ' . count($domains) . ' entries');
 //enumerating ad1.doubleclick.net and ad2.doubleclick.net. 
 debug('Building final blocklist');
 $blockedHosts = $domains;
-$domainCount = array();
 foreach ($hosts as $host) {
     if (in_array($host, $whitelist)) {
         continue;
@@ -220,13 +220,16 @@ foreach ($hosts as $host) {
     $parts = explode('.', $host);
     if (count($parts) > 1) {
         //Special cases: .co.uk, .com.au, etc. have 3 "parts" in their domain
-        if (preg_match('/com?\.(uk|br|au|il|kr)$/', $host)) {
+        if (preg_match('/com?\.(uk|br|au|il|kr|ua)$/', $host)) {
             $domain = $parts[count($parts)-3] . '.' . $parts[count($parts)-2] . '.' . $parts[count($parts)-1];
         }
         else {
             $domain = $parts[count($parts)-2] . '.' . $parts[count($parts)-1];
         }
-//        if (isset($domainCount[$domain])) { $domainCount[$domain]++; } else { $domainCount[$domain] = 1; }
+        if (DEBUG) {
+            //Increment the number of hosts we've found for this domain
+            if (isset($DEBUG['domainCount'][$domain])) { $DEBUG['domainCount'][$domain]++; } else { $DEBUG['domainCount'][$domain] = 1; }
+        }
         if (in_array($domain, $domains) || in_array($domain, $whitelist)) {
             continue;
         }
@@ -294,13 +297,16 @@ function debug($message, $fatal = false) {
     }
 }
 
-/*
-//debug: see how many hosts we have for each domain
-asort($domainCount);
-foreach(array_keys($domainCount) as $key) {
-    if (in_array($key, $domains) || $domainCount[$key] == 1)
-        unset($domainCount[$key]);
+//Display a list of all multi-host domains, with a count of blocked hosts for each.
+//Useful for finding new domains to block fully.
+if (DEBUG && ($DEBUG['printDomainCount'] === true)) {
+    debug('Building count of hosts per domain');
+    asort($DEBUG['domainCount']);
+    foreach(array_keys($DEBUG['domainCount']) as $key) {
+        //If we already block this domain fully, or it only has one host, ignore it
+        if (in_array($key, $domains) || $DEBUG['domainCount'][$key] == 1)
+            unset($DEBUG['domainCount'][$key]);
+    }
+    var_dump($DEBUG['domainCount']);
+    debug('Finished with count of hosts per domain');
 }
-var_dump($domainCount);
-*/
-
