@@ -80,6 +80,8 @@ realtrackernl.com
 reporo.net
 rev2pub.com
 revrocket.us
+revrocket-static.s3.amazonaws.com
+revrocket-stations-static.s3.amazonaws.com
 rpxnow.com
 sextracker.be
 smartyads.com
