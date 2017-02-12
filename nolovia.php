@@ -26,6 +26,8 @@ $DEBUG = !DEBUG ? null : array(
 );
 $timeStart = microtime(true);
 
+define('REGEX_MULTIPART_TLD', '/com?\.(uk|br|au|il|kr|ua|id)$/');
+
 //Copy skeleton files to initialize local copies, if they don't exist already
 debug('Performing first-run checks');
 if (!file_exists('./data')) {
@@ -195,7 +197,7 @@ foreach ($hosts as $host) {
         $domains[] = $host;
     }
     //Special cases: .co.uk, .com.au, etc. have 3 "parts" in their domain
-    else if ($dots == 2 && preg_match('/com?\.(uk|br|au|il|kr)$/', $host)) {
+    else if ($dots == 2 && preg_match(REGEX_MULTIPART_TLD, $host)) {
         $domains[] = $host;
     }
 }
@@ -220,7 +222,7 @@ foreach ($hosts as $host) {
     $parts = explode('.', $host);
     if (count($parts) > 1) {
         //Special cases: .co.uk, .com.au, etc. have 3 "parts" in their domain
-        if (preg_match('/com?\.(uk|br|au|il|kr|ua)$/', $host)) {
+        if (preg_match(REGEX_MULTIPART_TLD, $host)) {
             $domain = $parts[count($parts)-3] . '.' . $parts[count($parts)-2] . '.' . $parts[count($parts)-1];
         }
         else {
