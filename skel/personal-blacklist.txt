@@ -39,6 +39,7 @@ bravenetmedianetwork.com
 btrll.com
 cclick-adnow.com
 cjt1.net
+clickrouter.com
 clickzzs.nl
 cogocast.com
 cogocast.net
@@ -48,17 +49,22 @@ demdex.net
 delta-boa.com
 deployads.com
 digidip.net
+dmpxs.com
 dol.ru
 doubleclick.net
 dpclk.com
+dpmsrv.com
 eclick-adnow.com
 exoticads.com
 ezanga.com
 ezanga.net
+famousintactswitch.com
+famix.xyz
 fclick-adnow.com
 free-counter.co.uk
 footprintpredict.com
 fwmrm.net
+globalwebindex.net
 go2cloud.org
 hpg.ig.com.br
 hpg.com.br
@@ -71,6 +77,7 @@ ivwbox.de
 iwon.com
 janrain.com
 justclick.ru
+liadm.com
 linksynergy.com
 liveadvert.com
 liteweb.net
@@ -122,6 +129,7 @@ voodoo.com
 vx2.cc
 webhancer.com
 web3000.com
+wishabi.com
 
 ################################################################################
 # Additional mobile ad/tracking servers
@@ -336,6 +344,7 @@ webex.co.in
 ################################################################################
 # Miscellaneous. These are commented out by default, as blocking them will
 # disable a lot of social media functionality.
+### a.slashdotmedia.com
 ### fb.com #Facebook
 ### fb.me #Facebook
 ### fbcdn.com #Facebook
@@ -367,5 +376,7 @@ webex.co.in
 ### tracker.itk98.net
 ### traffictradinghub.com
 ### #v0cdn.net
+### viafoura.co
+### viafoura.com
 ### vine.co
 ### zenfs.com
