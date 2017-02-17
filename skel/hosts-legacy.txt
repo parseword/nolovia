@@ -266,6 +266,7 @@
 a-ads.com
 a-counter.com.ua
 a-counter.kiev.ua
+a-msedge.net
 a-search.biz
 a.0day.kiev.ua
 a.1nimo.com
@@ -1310,8 +1311,10 @@ adjuggler.yourdictionary.com
 adjungle.com
 adjust.com
 adjustnetwork.com
+adk2.co
 adk2.com
 adk2cdn.cpmrocket.com
+adk2x.com
 adkernel.com
 adklik.com.tr
 adklip.com
@@ -1440,6 +1443,7 @@ adnetxchange.com
 adnetz.net
 adnews.maddog2000.de
 adnext.fr
+adnexus.net
 adnimation.com
 adnoble.com
 adnotbad.com
@@ -5228,6 +5232,7 @@ bunitd.com
 burns.adtech.us
 burst.net
 burstmedia.com
+burstnet.akadns.net
 bus-offer.com
 buscamundo.com
 business-made-fun.com
@@ -5332,7 +5337,6 @@ c.nl.msn.com
 c.no.msn.com
 c.ns.inbox.lv
 c.orange.fr
-c.p-advg.com
 c.pebblemedia.be
 c.perlentaucher.de
 c.ph.msn.com
@@ -5534,6 +5538,7 @@ cbs.wondershare.com
 cbsmarket.com
 cc.zeit.de
 ccas.clearchannel.com
+cclick-adnow.com
 ccran.com
 ccstatic.highwebmedia.com
 cctv.adsunion.com
@@ -5767,6 +5772,7 @@ cdnus.alcoholsoftcdn.com
 cdnus.filefactscdn.com
 cds.g8j8b9g6.hwcdn.net
 cds2.freenet.de
+cds26.ams9.msecn.net
 cdu4.cduniverse.com
 cdx.cedexis.com
 ce2-dev-trk.s3.amazonaws.com
@@ -6335,6 +6341,7 @@ commonssearch.com
 comodo.net
 compactbanner.com
 compareyourclicks.com
+compatexchange.cloudapp.net
 compete.com
 competeinc.com
 completecarrd.com
@@ -6472,6 +6479,7 @@ corpext.msitadfs.glbdns2.microsoft.com
 cortoonnetwork.com
 cosmeticscentre.uk.com
 cossette.com
+couldnotfind.com
 coull.com
 count.asnetworks.de
 count.atm.youku.com
@@ -6789,6 +6797,7 @@ custom.demos.su
 customad.cnn.com
 customer.heartinternet.co.uk
 customerscreensavers.com
+customersupporthelp.com
 customize.netster.com
 cutestuf.com
 cutterbuck.com
@@ -7124,6 +7133,7 @@ dcad.watersoul.com
 dcads.sina.com.cn
 dcapps.disney.go.com
 dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com
+dclick-adnow.com
 dclk.net
 dclk.themarker.com
 dcs.plussizetech.com
@@ -7192,6 +7202,7 @@ delivery.yieldoptimisers.net
 delivery04.dhe.ibm.com
 deliverymailsysytem.co.uk
 deloo.de
+delta-boa.com
 delta-search.com
 delta223.homestead.com
 demandbase.com
@@ -7237,6 +7248,7 @@ di1.shopping.com
 di63.shoppingshadow.com
 diagnostics.support.microsoft.com
 dialer.offshoreclicks.com
+dialerplatform.com
 dialerporn.com
 diallerplugin.com
 dianomi.com
@@ -7383,6 +7395,7 @@ dotcommedia.de
 dotcomtoolbar.com
 doubleclic.com
 doubleclick-analytics.com
+doubleclick.be
 doubleclick.com
 doubleclick.d4p.net
 doubleclick.de
@@ -7406,8 +7419,10 @@ downloadandsave-a.akamaihd.net
 downloadcounter.de
 downloadmpplayer.com
 downloads.mytvandmovies.com
+downloadware.net
 dp.citypaper.com
 dp51h10v6ggpa.cloudfront.net
+dpclk.com
 dpm.bluray-disc.de
 dpm.zebestof.com
 dpmsrv.com
@@ -7560,6 +7575,7 @@ ecdn.firstimpression.io
 echo4.bluehornet.com
 echofonads.appspot.com
 ecircle-ag.com
+eclick-adnow.com
 eclick.baidu.com
 eclick.vn
 eclkmpbn.com
@@ -7581,6 +7597,7 @@ edge.jeetyetmedia.com
 edge.mb.gammae.com
 edge.sharethis.com
 edgeio.com
+edgesuite.net
 edgy.demo.sproutinc.com
 edomz.com
 edskes.com.site-id.nl
@@ -7592,6 +7609,7 @@ eezy.plxserve.com
 effectivemeasure.com
 effectivemeasure.net
 efront.com
+eguard.net
 egypolice.com
 ehealthcaresolutions.com
 eightfoldlogic.com
@@ -9157,6 +9175,7 @@ icc.intellisrv.net
 icdirect.com
 icestorm.com
 icityfind.com
+iclicks.net
 icloudcacher.com
 icon.ajiang.net
 iconadserver.com
@@ -11011,6 +11030,7 @@ mrktrecord3.com
 mrskincash.com
 mrss.ads.moguldom.com
 ms-links.com
+msads.net
 msdbb1.surf-town.net
 msdbb2.surf-town.net
 msdbi1.surf-town.net
@@ -11846,6 +11866,7 @@ oxoads.com
 oxosurf.eu
 oxs1.selsin.net
 oz.valueclick.ne.jp
+p-advg.com
 p-log.ykimg.com
 p.adpdx.com
 p.algovid.com
@@ -11944,6 +11965,7 @@ papi.slideme.org
 parenting.searchwho.com
 parisvoyeur.com
 park.above.com
+park.io
 parking.parklogic.com
 parkingcrew.net
 parradoodle.bravejournal.com
@@ -12804,6 +12826,7 @@ quickinfo247.com
 quickinspirations.com
 quicklaunch.com
 quickplugin.com
+quicksearches.net
 quickupdateserv.com
 quienesmejor.com
 quigo.com
@@ -13426,6 +13449,7 @@ salesonline.ie
 sammix.adsame.com
 samsclub.r.delivery.net
 samsungacr.com
+samsungosp.com
 sana.newsinc.com
 sana.newsinc.com.s3.amazonaws.com
 sanalreklam.com
@@ -14170,6 +14194,7 @@ ssl.xplosion.de
 sso.canada.com
 sso.conduit.com
 ssp.anyclip-media.com
+ssp.samsung.com
 ssp.streamrail.net
 ssp.virool.com
 sspcash.adxcore.com
@@ -14212,6 +14237,7 @@ start.freeze.com
 start.outster.com
 startapp.com
 startappexchange.com
+startappservice.com
 startingsearch.com
 startnewtab.com
 startnow.com
@@ -15891,6 +15917,7 @@ uk1.siteimprove.com
 ukaffiliates2.com
 ukbanners.com
 uktc.ijento.com
+ulimit.com
 ulock.it
 ultimatecounter.com
 ultimatefashiongifts.com
@@ -16160,6 +16187,7 @@ vimages.videoprofessor.com
 vinceandjoesmarket.com
 vinculos.com
 vindicoasset.edgesuite.net
+vindicosuite.com
 vioclicks.com
 vip.adstatic.com
 vipfastmoney.com
