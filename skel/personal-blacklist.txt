@@ -3,181 +3,45 @@
 # Part of nolovia, <http://github.com/ampersign/nolovia/>
 #
 # This file should contain domains and hostnames you want to block for policy
-# reasons in addition to the hosts included on the various server lists. For
-# example, if you don't use Facebook and don't want your network connecting to
-# them, add their domains to this file.
+# reasons, in addition to the hosts included on the various server lists. For
+# example, if you don't use Facebook and don't want your network resolving any
+# Facebook domains, add them to this file.
 
 ################################################################################
-# Manually enforced full-domain bans:
+# Manually enforced full-domain blocking:
+#
 # Several server lists supply subdomains of the following domains. Let's block
-# the entire domains, instead of generating 1000s of extra zones.
-2cnt.net
-302br.net
-51yes.com
-aaddzz.com
-abnad.net
-aclick-adnow.com
-adjuggler.net
-adk2.co
-adk2x.com
-adnow.com
-adnxs.com
-adprotect.net
-ads1-adnow.com
-ads2-adnow.com
-ads3-adnow.com
-adservingfactory.com
-adsservingtwig.xyz
-adtech.fr
-advertik.com
-analytics.edgesuite.net
-appier.net
-bclick-adnow.com
-bfast.com
-brat-online.ro
-bravenetmedianetwork.com
-btrll.com
-cclick-adnow.com
-cjt1.net
-clickrouter.com
-clickzzs.nl
-cogocast.com
-cogocast.net
-cogolabs.com
-dclick-adnow.com
-demdex.net
-delta-boa.com
-deployads.com
-digidip.net
-dmpxs.com
-dol.ru
+# the entire domains, instead of generating 1000s of zones for each subdomain.
+
+2o7.net
 doubleclick.net
-dpclk.com
-dpmsrv.com
-eclick-adnow.com
-exoticads.com
-ezanga.com
-ezanga.net
-famousintactswitch.com
-famix.xyz
-fclick-adnow.com
-free-counter.co.uk
-footprintpredict.com
-fwmrm.net
-globalwebindex.net
-go2cloud.org
-hpg.ig.com.br
-hpg.com.br
-ic-live.com
-ig.com.br
-imaginemedia.com
-integralads.com
-inviziads.com
-ivwbox.de
-iwon.com
-janrain.com
-justclick.ru
-liadm.com
-linksynergy.com
-liveadvert.com
-liteweb.net
-livetex.ru
-llnwd.net
-malware-scan.com
-massrel.io #Spredfast social advertising
-mbn.com.ua
-meetrics.com
-meetrics.net
-metric.gstatic.com
-millennialmedia.com
-msads.net
-myroitracking.com
-nr-data.net
-paycount.com
-popclck.com
-popmarker.com
-pxlad.io
-realtrackernl.com
-reporo.net
-rev2pub.com
-revolvermaps.com
-revrocket.us
-revrocket-static.s3.amazonaws.com
-revrocket-stations-static.s3.amazonaws.com
-richmetrics.com
-rpxnow.com
-sextracker.be
-smartyads.com
-speedbit.com
-spring-tns.net
-startappservice.com
-switchadhub.com
-switchads.com
-swtch.io
-toboads.com
-track4.com
-tracking202.com
-trackvoluum.com
-trafflow.com
-userreport.com
-valueclick.net
-vgwort.de
-vindicosuite.com
-vmsn.de
-voluumtrk.com
-voodoo.com
-vx2.cc
-webhancer.com
-web3000.com
-wishabi.com
 
 ################################################################################
-# Additional mobile ad/tracking servers
-ad-score.com
-adjust.com
-crashlytics.com
-justad.mobi
-locationlabs.com
-mediajustad-a.akamaihd.net
-mobileapptracking.com
-mydas.mobi
-netbiscuits.com
-netbiscuits.net
-pinsightmedia.com
-rave-api.com
-samsungosp.com
-shizzle.sprint.com
-shrt.guru #https://redd.it/5sfaem
-smaato.com
-smaato.net
-smithmicro.com
-spcsdns.net
-ssp.samsung.com
-synapsys.us
-yoc-adserver.com
+# Windows 10 telemetry blocking:
+#
+# The following servers are purported to be used by telemetry and data-mining
+# services in Windows 10. Blocking these hosts may cause operability problems
+# with Windows Update and other Windows features. If you find yourself having
+# trouble, you may want to move some or all of these servers into the
+# personal-whitelist.txt file instead.
 
-################################################################################
-# Purported Windows telemetry/spying servers
-adnxs.com
 c.msn.com
 g.msn.com
 h1.msn.com
 msedge.net
 rad.msn.com
 ads.msn.com
-adnexus.net
 ac3.msn.com
 c.atdmt.com
 m.adnxs.com
 rad.msn.com
-sO.2mdn.net
+s0.2mdn.net
 ads1.msn.com
 ec.atdmt.com
 flex.msn.com
+msftncsi.com
 rad.live.com
 ui.skype.com
-msftncsi.com
-a-msedge.net
 a.rad.msn.com
 b.rad.msn.com
 cdn.atdmt.com
@@ -200,11 +64,9 @@ b.ads2.msads.net
 db3aqu.atdmt.com
 secure.adnxs.com
 www.msftncsi.com
-#cs1.wpc.v0cdn.net
 live.rads.msn.com
 bs.serving-sys.com
 a-0001.a-msedge.net
-pricelist.skype.com
 a-0001.a-msedge.net
 a-0002.a-msedge.net
 a-0003.a-msedge.net
@@ -218,7 +80,6 @@ choice.microsoft.com
 watson.microsoft.com
 feedback.windows.com
 aka-cdn-ns.adtech.de
-cds26.ams9.msecn.net
 lb1.www.ms.akadns.net
 corp.sts.microsoft.com
 az361816.vo.msecnd.net
@@ -227,8 +88,10 @@ en-gb.appex-rf.msn.com
 telemetry.microsoft.com
 msntest.serving-sys.com
 secure.flashtalking.com
+ie9comview.vo.msecnd.net
 telemetry.appex.bing.net
 pre.footprintpredict.com
+r20swj13mr.microsoft.com
 vortex.data.microsoft.com
 nexus.officeapps.live.com
 statsfe2.ws.microsoft.com
@@ -239,13 +102,12 @@ oca.telemetry.microsoft.com
 sqm.telemetry.microsoft.com
 telemetry.urs.microsoft.com
 survey.watson.microsoft.com
-compatexchange.cloudapp.net
 feedback.microsoft-hohm.com
+schemas.microsoft.akadns.net
 s.gateway.messenger.live.com
 licensing.md.mp.microsoft.com
 vortex-win.data.microsoft.com
 feedback.search.microsoft.com
-schemas.microsoft.akadns.net
 watson.telemetry.microsoft.com
 choice.microsoft.com.nsatc.net
 wes.df.telemetry.microsoft.com
@@ -261,21 +123,18 @@ telecommand.telemetry.microsoft.com
 settings-sandbox.data.microsoft.com
 sls.update.microsoft.com.akadns.net
 fe2.update.microsoft.com.akadns.net
-vortex-bn2.metron.live.com.nsatc.net
-vortex-cy2.metron.live.com.nsatc.net
-oca.telemetry.microsoft.com.nsatc.net
 sqm.telemetry.microsoft.com.nsatc.net
 reports.wes.df.telemetry.microsoft.com
 corpext.msitadfs.glbdns2.microsoft.com
 services.wes.df.telemetry.microsoft.com
-watson.telemetry.microsoft.com.nsatc.net
 statsfe2.update.microsoft.com.akadns.net
-i1.services.social.microsoft.com.nsatc.net
-telecommand.telemetry.microsoft.com.nsatc.net
 
 ################################################################################
-# These domains are associated with government-sponsored malware
-# See https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/
+# Government-sponsored iOS malware blocking:
+#
+# These domains are associated with government-sponsored malware, see
+# https://citizenlab.org/2016/08/million-dollar-dissident-iphone-zero-day-nso-group-uae/
+
 aalaan.tv
 accounts.mx
 adjust-local-settings.com
@@ -318,14 +177,16 @@ turkishairines.info
 uaenews.online
 univision.click
 unonoticias.net
-unonoticias.net
 webadv.co
 whatsapp-app.com
 y0utube.com.mx
 
 ################################################################################
+# Russian malware blocking:
+#
 # These domains are associated with GRIZZLY STEPPE "Russian Malicious Cyber Activity"
 # See https://www.us-cert.gov/security-publications/GRIZZLY-STEPPE-Russian-Malicious-Cyber-Activity
+
 pdfregistry.net
 cderlearn.com
 ritsoperrol.ru
@@ -336,47 +197,56 @@ insta.reduct.ru
 waterfilter.in.ua
 
 ################################################################################
-# Webex plugin from Cisco allows RCE
+# Webex plugin from Cisco allows remote code execution. If you use Cisco Webex,
+# you should comment these two entries out.
 # See https://bugs.chromium.org/p/project-zero/issues/detail?id=1096
+
 webex.com
 webex.co.in
 
 ################################################################################
-# Miscellaneous. These are commented out by default, as blocking them will
-# disable a lot of social media functionality.
-### a.slashdotmedia.com
-### fb.com #Facebook
-### fb.me #Facebook
-### fbcdn.com #Facebook
-### fbcdn.net #Facebook
-### facebook.net #Facebook
-### facebook.com #Facebook
-### id.google.com
-### imasdk.googleapis.com
-### metric.gstatic.com
-### instantmessagingpa.googleapis.com
-### r20swj13mr.microsoft.com
-### microsoft-hohm.com
-### msftncsi.com
-### metrigo.com
-### ie9comview.vo.msecnd.net
-### msedge.net
-### nativo.com
-### ntv.io
-### ooyala.com
-### out.reddit.com #Reddit click tracking server
-### pixel.ad
-### qc.to
-### sharedsource.org
-### similarweb.com
-### skslm.swiftkey.net
-### skype.com
-### taurus.urandom.nl
-### tfbnw.net
-### tracker.itk98.net
-### traffictradinghub.com
-### #v0cdn.net
-### viafoura.co
-### viafoura.com
-### vine.co
-### zenfs.com
+# Miscellaneous blocking:
+#
+# Here are some more servers you may wish to block. They're commented out by
+# default, since blocking them disables a lot of social media activity.
+
+# a.slashdotmedia.com
+# fb.com       #Facebook
+# fb.me        #Facebook
+# fbcdn.com    #Facebook
+# fbcdn.net    #Facebook
+# facebook.net #Facebook
+# facebook.com #Facebook
+# tfbnw.net    #Facebook
+# id.google.com
+# imasdk.googleapis.com
+# instagram.com
+# instantmessagingpa.googleapis.com
+# metric.gstatic.com
+# microsoft-hohm.com
+# msftncsi.com
+# metrigo.com
+# msedge.net
+# nativo.com
+# ntv.io
+# ooyala.com
+# out.reddit.com #Reddit click-tracking server
+# pixel.ad
+# qc.to
+# sharedsource.org
+# similarweb.com
+# skslm.swiftkey.net
+# skype.com
+# tracker.itk98.net
+# traffictradinghub.com
+# viafoura.co
+# viafoura.com
+# vine.co
+# zenfs.com
+
+################################################################################
+# Add your own:
+#
+# Below, add any other servers you want to include in the blackhole config file.
+
+

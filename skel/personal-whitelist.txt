@@ -2,16 +2,16 @@
 # nolovia personal whitelist file
 # Part of nolovia, <http://github.com/ampersign/nolovia/>
 #
-# This file should contain domains and hostnames that nolovia should NOT
+# This file should contain domains and hostnames that nolovia will NOT
 # include in its blackhole.conf file, even if they're present in external
 # ad server lists.
 
-affiliate.zap2it.com #TV listings
+affiliate.zap2it.com       #TV listings
 craigslist.org
 datapipe.net
-ftpcontent.worldnow.com
+ftpcontent.worldnow.com    #TV news CDN
 fulltiltpoker.com
 googlevideo.com
 llnwd.net
-zap2it.com #TV listings
-zyngawithfriends.com #Required for Words With Friends app
+zap2it.com                 #TV listings
+zyngawithfriends.com       #Words With Friends app
