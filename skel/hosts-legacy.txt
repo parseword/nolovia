@@ -4453,7 +4453,6 @@ b.xfreeservice.com
 b12.myspace.com
 b17261b2b5010f3c6c93-d77e110c9a6908e75cd02fbd7eb24572.r86.cf2.rackcdn.com
 b23.ru
-b2blinkshare.com
 b3-uk.mookie1.com
 b3.mookie1.com
 b3.rivalgaming.com
@@ -5168,6 +5167,7 @@ brightinfo.com
 brightonclick.com
 brightshare.com
 brilliantdigital.com
+british-banners.com
 brittlefilet.com
 broadcast.piximedia.fr
 broadjump.com
@@ -5332,6 +5332,7 @@ c.nl.msn.com
 c.no.msn.com
 c.ns.inbox.lv
 c.orange.fr
+c.p-advg.com
 c.pebblemedia.be
 c.perlentaucher.de
 c.ph.msn.com
@@ -8082,6 +8083,7 @@ flagcounter.com
 flagship.asp-host.co.uk
 flash-counter.com
 flash.vg.no
+flashbanner.no
 flashbanners.static.ard.xxxblackbook.com
 flashstats.libsyn.com
 flashtalking.com
@@ -8722,6 +8724,7 @@ grieftalk.com
 gripfile.net
 grippedownloads.co
 grokster.com
+groovinads.com
 group-mail.com
 groupm.com
 gs1.surf-town.net
@@ -9333,7 +9336,6 @@ img.mqcdn.com
 img.mybet.com
 img.nameintel.com
 img.prohardver.hu
-img.qualtrics.com
 img.revcontent.com
 img.servint.net
 img.share-online.biz
@@ -9350,15 +9352,6 @@ img.wmp10.elsitiodc.com
 img.woolik.com
 img.xnxx.com
 img.zemanta.com
-img001.groovinads.com
-img002.groovinads.com
-img003.groovinads.com
-img004.groovinads.com
-img005.groovinads.com
-img006.groovinads.com
-img007.groovinads.com
-img008.groovinads.com
-img009.groovinads.com
 img03.en25.com
 img1.webring.com
 img2.paipaiimg.com
@@ -9683,7 +9676,6 @@ jobs.nuwerk.monsterboard.nl
 joetec.net
 join.whitegfs.com
 join1.winhundred.com
-jokedollars.com
 jokep.com
 jokes.searchwho.com
 jonathanleger.com
@@ -10193,7 +10185,6 @@ log.pinterest.com
 log.pladform.ru
 log.streamagent.sensic.net
 log.suchen.de
-log.superweb.ws
 log.sz-online.de
 log.tagcade.com
 log.tapatalk.com
@@ -12725,6 +12716,7 @@ pure-ads.com
 pureadexchange.com
 purefuck.com
 puretec.de
+purgecolon.net
 purgrobi.com
 purityscan.com
 purredheanb.online
@@ -12785,6 +12777,7 @@ qualifiedourspecialoffer.com
 qualigo.de
 qualigo.net
 qualityclickcontrol.com
+qualtrics.com
 quantcast.com
 quantcount.com
 quantserve.com
@@ -13891,7 +13884,6 @@ sitecentric.com
 siteflow.com
 siteimproveanalytics.com
 siteinfo.libero.it
-siteintercept.qualtrics.com
 sitelife.ehow.com
 sitemeter.com
 sitepal.com
@@ -16743,7 +16735,6 @@ wwa.dateformore.de
 wwv4ez0n.com
 www-banner.chat.ru
 www-google-analytics.l.google.com
-www.microsoft.com.org
 www1.belboon.de
 www1.clickdownloader.com
 www1.counter.bloke.com
@@ -17106,13 +17097,6 @@ zipropyl.com
 zirve100.com
 zj.dcys.ksmobile.com
 zmedia.com
-zn0cjgsju6439lcsd-microsoft.siteintercept.qualtrics.com
-zn87b2gchqlbyp0jn-viacom.siteintercept.qualtrics.com
-zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com
-zn_4slwdofs4ykbmhc-espn.siteintercept.qualtrics.com
-zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
-zn_b4q1adq70amqdth-citrix.siteintercept.qualtrics.com
-zn_brp7urzdaj4xmxn-edhealth.siteintercept.qualtrics.com
 znext.com
 zo6.adservlite.com
 zombo.com
@@ -17128,3 +17112,4 @@ zu1.november-lax.com
 zuvio.com
 zv1.november-lax.com
 zxcvb.space
+
