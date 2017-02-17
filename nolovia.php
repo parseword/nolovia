@@ -46,17 +46,17 @@ foreach (array('black', 'white') as $file) {
         }
     }
 }
-if (!file_exists('./data/hosts-legacy.txt')) {
-    debug('Copying default hosts-legacy.txt to ./data/');
-    if (!copy('./skel/hosts-legacy.txt', './data/hosts-legacy.txt')) {
-        console_message('Error copying default hosts-legacy.txt to ./data/ near line '
+if (!file_exists('./data/hosts-baseline.txt')) {
+    debug('Copying default hosts-baseline.txt to ./data/');
+    if (!copy('./skel/hosts-baseline.txt', './data/hosts-baseline.txt')) {
+        console_message('Error copying default hosts-baseline.txt to ./data/ near line '
             . __LINE__, true);
     }
 }
 
 //Create backups before writing new files
 debug('Backups beginning');
-foreach (array('hosts-hphosts.txt', 'hosts-legacy.txt', 'hosts-someonewhocares.txt',
+foreach (array('hosts-hphosts.txt', 'hosts-baseline.txt', 'hosts-someonewhocares.txt',
     'hosts-spammerslapper.txt', 'hosts-yoyo.txt') as $filename) {
     if (file_exists('./data/' . $filename)) {
         debug('copy(./data/' . $filename . ', ./data/' . $filename . '.bak)');
@@ -163,7 +163,7 @@ debug('External fetching completed, importing lists');
 $whitelist = strip_comments(file('personal-whitelist.txt'));
 debug('Whitelist contains ' . count($whitelist) . ' entries');
 $hosts = strip_comments(array_merge(
-            file('./data/hosts-legacy.txt'),
+            file('./data/hosts-baseline.txt'),
             file('./data/hosts-hphosts.txt'),
             file('./data/hosts-someonewhocares.txt'),
             file('./data/hosts-spammerslapper.txt'),
