@@ -61,11 +61,10 @@ if (!file_exists('./data/hosts-baseline.txt')) {
 
 //Create backups before writing new files
 debug('Backups beginning');
-foreach (array('hosts-hphosts.txt', 'hosts-baseline.txt', 'hosts-someonewhocares.txt',
-    'hosts-spammerslapper.txt', 'hosts-yoyo.txt', 'hosts-isc.txt') as $filename) {
-    if (file_exists('./data/' . $filename)) {
-        debug('copy(./data/' . $filename . ', ./data/' . $filename . '.bak)');
-        copy('./data/' . $filename, './data/' . $filename . '.bak');
+foreach (array('baseline', 'hphosts', 'isc', 'someonewhocares', 'spammerslapper', 'yoyo') as $filename) {
+    if (file_exists('./data/hosts-' . $filename . '.txt')) {
+        debug('copy(./data/hosts-' . $filename . '.txt, ./data/hosts-' . $filename . '.txt.bak)');
+        copy('./data/hosts-' . $filename . '.txt', './data/hosts-' . $filename . '.txt.bak');
     }
 }
 debug('Backups completed, fetching host lists from external sources');
