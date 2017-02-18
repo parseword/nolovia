@@ -26,6 +26,10 @@ $DEBUG = !DEBUG ? null : array(
 );
 $timeStart = microtime(true);
 
+//Only retrieve external host lists if the local copy is older than this interval
+define('FETCH_INTERVAL', time()-86400);
+
+//Recognize some TLDs with more than one part, e.g. com.au
 define('REGEX_MULTIPART_TLD', 
     '/com?\.(ar|au|bo|br|co|cc|id|il|in|hk|jp|kr|kz|mx|nz|ph|rs|tr|ua|uk|uy|vn|za)$/');
 
@@ -68,7 +72,7 @@ debug('Backups completed, fetching host lists from external sources');
 
 //Host list: pgl.yoyo.org
 debug('Processing list: yoyo.org');
-if ((!file_exists('./data/hosts-yoyo.txt')) || filemtime('./data/hosts-yoyo.txt') < time()-86400) {
+if ((!file_exists('./data/hosts-yoyo.txt')) || filemtime('./data/hosts-yoyo.txt') < FETCH_INTERVAL) {
     debug('Retrieving list from server: yoyo.org');
     $data = file_get_contents('http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext');
     debug('Fetched ' . strlen($data) . ' bytes');
@@ -86,7 +90,7 @@ if ((!file_exists('./data/hosts-yoyo.txt')) || filemtime('./data/hosts-yoyo.txt'
 
 //Host list: spammerslapper.com
 debug('Processing list: spammerslapper.com');
-if ((!file_exists('./data/hosts-spammerslapper.txt')) || filemtime('./data/hosts-spammerslapper.txt') < time()-86400) {
+if ((!file_exists('./data/hosts-spammerslapper.txt')) || filemtime('./data/hosts-spammerslapper.txt') < FETCH_INTERVAL) {
     debug('Retrieving list from server: spammerslapper.com');
     $data = file_get_contents('http://spammerslapper.com/downloads/adblock_include.conf');
     debug('Fetched ' . strlen($data) . ' bytes');
@@ -114,7 +118,7 @@ if ((!file_exists('./data/hosts-spammerslapper.txt')) || filemtime('./data/hosts
 
 //Host list: hpHosts from Malwarebytes
 debug('Processing list: hosts-file.net');
-if ((!file_exists('./data/hosts-hphosts.txt')) || filemtime('./data/hosts-hphosts.txt') < time()-86400) {
+if ((!file_exists('./data/hosts-hphosts.txt')) || filemtime('./data/hosts-hphosts.txt') < FETCH_INTERVAL) {
     debug('Retrieving list from server: hosts-file.net');
     $data = file_get_contents('http://hosts-file.net/ad_servers.txt');
     debug('Fetched ' . strlen($data) . ' bytes');
@@ -137,7 +141,7 @@ if ((!file_exists('./data/hosts-hphosts.txt')) || filemtime('./data/hosts-hphost
 
 //Host list: someonewhocares.com
 debug('Processing list: someonewhocares.com');
-if ((!file_exists('./data/hosts-someonewhocares.txt')) || filemtime('./data/hosts-someonewhocares.txt') < time()-86400) {
+if ((!file_exists('./data/hosts-someonewhocares.txt')) || filemtime('./data/hosts-someonewhocares.txt') < FETCH_INTERVAL) {
     debug('Retrieving list from server: someonewhocares.com');
     $data = file_get_contents('http://someonewhocares.org/hosts/hosts');
     debug('Fetched ' . strlen($data) . ' bytes');
@@ -161,7 +165,7 @@ if ((!file_exists('./data/hosts-someonewhocares.txt')) || filemtime('./data/host
 
 //Host list: ISC suspicious domains
 debug('Processing list: isc.sans.edu');
-if ((!file_exists('./data/hosts-isc.txt')) || filemtime('./data/hosts-isc.txt') < time()-86400) {
+if ((!file_exists('./data/hosts-isc.txt')) || filemtime('./data/hosts-isc.txt') < FETCH_INTERVAL) {
     debug('Retrieving list from server: isc.sans.edu');
     $data = file_get_contents('https://isc.sans.edu/feeds/suspiciousdomains_Low.txt');
     debug('Fetched ' . strlen($data) . ' bytes');
@@ -248,7 +252,7 @@ foreach ($hosts as $host) {
         else {
             $domain = $parts[count($parts)-2] . '.' . $parts[count($parts)-1];
         }
-        if (DEBUG) {
+        if (DEBUG && $DEBUG['printDomainCount']) {
             //Increment the number of hosts we've found for this domain
             if (isset($DEBUG['domainCount'][$domain])) { $DEBUG['domainCount'][$domain]++; } else { $DEBUG['domainCount'][$domain] = 1; }
         }
@@ -321,7 +325,7 @@ function debug($message, $fatal = false) {
 
 //Display a list of all multi-host domains, with a count of blocked hosts for each.
 //Useful for finding new domains to block fully.
-if (DEBUG && ($DEBUG['printDomainCount'] === true)) {
+if (DEBUG && $DEBUG['printDomainCount']) {
     debug('Building count of hosts per domain');
     asort($DEBUG['domainCount']);
     foreach(array_keys($DEBUG['domainCount']) as $key) {
