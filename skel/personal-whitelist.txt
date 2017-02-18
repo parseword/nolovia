@@ -13,5 +13,6 @@ ftpcontent.worldnow.com    #TV news CDN
 fulltiltpoker.com
 googlevideo.com
 llnwd.net
+xtra.co.nz                 #Yahoo New Zealand. The Malwarebytes host list includes this (?)
 zap2it.com                 #TV listings
 zyngawithfriends.com       #Words With Friends app
