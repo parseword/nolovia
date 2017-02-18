@@ -58,7 +58,7 @@ if (!file_exists('./data/hosts-baseline.txt')) {
 //Create backups before writing new files
 debug('Backups beginning');
 foreach (array('hosts-hphosts.txt', 'hosts-baseline.txt', 'hosts-someonewhocares.txt',
-    'hosts-spammerslapper.txt', 'hosts-yoyo.txt') as $filename) {
+    'hosts-spammerslapper.txt', 'hosts-yoyo.txt', 'hosts-isc.txt') as $filename) {
     if (file_exists('./data/' . $filename)) {
         debug('copy(./data/' . $filename . ', ./data/' . $filename . '.bak)');
         copy('./data/' . $filename, './data/' . $filename . '.bak');
@@ -159,6 +159,24 @@ if ((!file_exists('./data/hosts-someonewhocares.txt')) || filemtime('./data/host
     }
 }
 
+//Host list: ISC suspicious domains
+debug('Processing list: isc.sans.edu');
+if ((!file_exists('./data/hosts-isc.txt')) || filemtime('./data/hosts-isc.txt') < time()-86400) {
+    debug('Retrieving list from server: isc.sans.edu');
+    $data = file_get_contents('https://isc.sans.edu/feeds/suspiciousdomains_Low.txt');
+    debug('Fetched ' . strlen($data) . ' bytes');
+    if ((strlen($data) > 1000) && (preg_match('|dshield|mi', $data))) {
+        if (!$fp = fopen('./data/hosts-isc.txt', 'w+')) {
+            console_message('Error opening file for writing near line ' . __LINE__, true);
+        }
+        fwrite($fp, $data);
+        fclose($fp);
+    }
+    else {
+        debug('Unexpected server response from server: isc.sans.edu');
+    }
+}
+
 //Import server lists
 debug('External fetching completed, importing lists');
 $whitelist = strip_comments(file('personal-whitelist.txt'));
@@ -166,6 +184,7 @@ debug('Whitelist contains ' . count($whitelist) . ' entries');
 $hosts = strip_comments(array_merge(
             file('./data/hosts-baseline.txt'),
             file('./data/hosts-hphosts.txt'),
+            file('./data/hosts-isc.txt'),
             file('./data/hosts-someonewhocares.txt'),
             file('./data/hosts-spammerslapper.txt'),
             file('./data/hosts-yoyo.txt'),

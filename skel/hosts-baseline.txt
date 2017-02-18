@@ -7937,6 +7937,7 @@ f.staticlp.com
 f.thanksearch.com
 f.tracking.goodgamestudios.com
 f1.ilivlite.com
+f3322.net
 f54d6bf2b1.se
 f5biz.com
 f8350e7c1.se
@@ -11666,6 +11667,8 @@ onespot-tracking.herokuapp.com
 onestat.com
 onestatfree.com
 onestepsearch.biz
+onion.cab
+onion.to
 onlinadverts.com
 online-dialer.com
 online-metrix.net
@@ -15215,6 +15218,7 @@ topstat.ru
 topstats.com
 topsurvey-offers.com
 toptrafficsource.com
+tor2web.org
 toroadvertisingmedia.com
 torque.bittorrent.com
 torrentinstaller.com
