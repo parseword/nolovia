@@ -514,6 +514,7 @@ actualdeals.com
 actualnames.com
 actvtrack.com
 acuityads.com
+acuityplatform.com
 acustat.com
 acvs.mediaonenetwork.net
 acvsrv.mediaonenetwork.net
@@ -5161,6 +5162,7 @@ bravo.israelinfo.ru
 bravo.israelweather.co.il
 bravospots.com
 brcache.madthumbs.com
+brealtime.com
 brew-u-ex.tekblue.net
 brickandmobile.com
 bride.ru
@@ -7386,6 +7388,8 @@ done.witchcraftcash.com
 donkeymails.com
 donnez-votre-avis.org
 dontblockme.modaco.com
+dopa.com
+dopa.com.cn
 dosugcz.biz
 dot.eporner.com
 dot.wp.pl
@@ -14900,6 +14904,7 @@ tarkita.ru
 tat-neftbank.ru
 tatango.com
 tatsumi-sys.jp
+tawk.to
 taz.de
 tbe.tom.ru
 tbtrack.zugo.com
@@ -15642,6 +15647,7 @@ traffdaq.com
 traffic-delivery.com
 traffic-exchange.com
 traffic-hits.com
+traffic-searches.cn
 traffic-supremacy.com
 traffic.acwebconnecting.com
 traffic.adxprts.com
@@ -17019,6 +17025,7 @@ yoclub.waphall.com
 yoggrt.com
 yoogee.com
 yotefiles.com
+yotpo.com
 yottos.com
 yotube.com
 you2mail.com
