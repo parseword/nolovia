@@ -1,6 +1,6 @@
 <?php
 /*
- * Copyright 2015 Shaun Cummiskey, <shaun@shaunc.com> <http://shaunc.com>
+ * Copyright 2015-2017 Shaun Cummiskey, <shaun@shaunc.com> <http://shaunc.com>
  * <https://github.com/ampersign/nolovia>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -26,7 +26,8 @@ $DEBUG = !DEBUG ? null : array(
 );
 $timeStart = microtime(true);
 
-define('REGEX_MULTIPART_TLD', '/com?\.(uk|br|au|il|kr|ua|id)$/');
+define('REGEX_MULTIPART_TLD', 
+    '/com?\.(ar|au|bo|br|co|cc|id|il|in|hk|jp|kr|kz|mx|nz|ph|rs|tr|ua|uk|uy|vn|za)$/');
 
 //Copy skeleton files to initialize local copies, if they don't exist already
 debug('Performing first-run checks');
