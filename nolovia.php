@@ -269,13 +269,14 @@ foreach ($hosts as $host) {
     }
     //Parse the domain out of the hostname
     $parts = explode('.', $host);
-    if (count($parts) > 1) {
+    $count = count($parts);
+    if ($count > 1) {
         //Special cases: .co.uk, .com.au, etc. have 3 "parts" in their domain
         if (preg_match(REGEX_MULTIPART_TLD, $host)) {
-            $domain = $parts[count($parts)-3] . '.' . $parts[count($parts)-2] . '.' . $parts[count($parts)-1];
+            $domain = $parts[$count-3] . '.' . $parts[$count-2] . '.' . $parts[$count-1];
         }
         else {
-            $domain = $parts[count($parts)-2] . '.' . $parts[count($parts)-1];
+            $domain = $parts[$count-2] . '.' . $parts[$count-1];
         }
         if (DEBUG && $DEBUG['printDomainCount']) {
             //Increment the number of hosts we've found for this domain
