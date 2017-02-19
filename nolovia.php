@@ -15,8 +15,14 @@
  * See the License for the specific language governing permissions and 
  * limitations under the License.
  * 
- * This script fetches and makes use of a hosts file compiled by Dan Pollock 
- * which can be found at http://someonewhocares.org/hosts/
+ * This script fetches and makes use of server lists compiled by: 
+ *
+ * Jason Lam at http://www.networksec.org/grabbho/block.txt
+ * Peter Lowe at http://pgl.yoyo.org/adservers/
+ * Malwarebytes at https://hosts-file.net/?s=Download
+ * Dan Pollock at http://someonewhocares.org/hosts/
+ * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
+ * Spammer Slapper at http://spammerslapper.com/
  */
 
 define('DEBUG', true);
@@ -61,7 +67,8 @@ if (!file_exists('./data/hosts-baseline.txt')) {
 
 //Create backups before writing new files
 debug('Backups beginning');
-foreach (array('baseline', 'hphosts', 'isc', 'someonewhocares', 'spammerslapper', 'yoyo') as $filename) {
+foreach (array('baseline', 'hphosts', 'isc', 'networksec', 'someonewhocares', 
+    'spammerslapper', 'yoyo') as $filename) {
     if (file_exists('./data/hosts-' . $filename . '.txt')) {
         debug('copy(./data/hosts-' . $filename . '.txt, ./data/hosts-' . $filename . '.txt.bak)');
         copy('./data/hosts-' . $filename . '.txt', './data/hosts-' . $filename . '.txt.bak');
@@ -180,6 +187,24 @@ if ((!file_exists('./data/hosts-isc.txt')) || filemtime('./data/hosts-isc.txt') 
     }
 }
 
+//Host list: networksec.org
+debug('Processing list: networksec.org');
+if ((!file_exists('./data/hosts-networksec.txt')) || filemtime('./data/hosts-networksec.txt') < FETCH_INTERVAL) {
+    debug('Retrieving list from server: networksec.org');
+    $data = file_get_contents('http://www.networksec.org/grabbho/block.txt');
+    debug('Fetched ' . strlen($data) . ' bytes');
+    if ((strlen($data) > 1000) && (preg_match('|badlist|mi', $data))) {
+        if (!$fp = fopen('./data/hosts-networksec.txt', 'w+')) {
+            console_message('Error opening file for writing near line ' . __LINE__, true);
+        }
+        fwrite($fp, $data);
+        fclose($fp);
+    }
+    else {
+        debug('Unexpected server response from server: networksec.org');
+    }
+}
+
 //Import server lists
 debug('External fetching completed, importing lists');
 $whitelist = strip_comments(file('personal-whitelist.txt'));
@@ -188,6 +213,7 @@ $hosts = strip_comments(array_merge(
             file('./data/hosts-baseline.txt'),
             file('./data/hosts-hphosts.txt'),
             file('./data/hosts-isc.txt'),
+            file('./data/hosts-networksec.txt'),
             file('./data/hosts-someonewhocares.txt'),
             file('./data/hosts-spammerslapper.txt'),
             file('./data/hosts-yoyo.txt'),
