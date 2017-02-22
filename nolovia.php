@@ -23,6 +23,7 @@
  * Dan Pollock at http://someonewhocares.org/hosts/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
+ * Disconnect at https://disconnect.me/ 
  */
 
 define('DEBUG', true);
@@ -67,8 +68,8 @@ if (!file_exists('./data/hosts-baseline.txt')) {
 
 //Create backups before writing new files
 debug('Backups beginning');
-foreach (array('baseline', 'hphosts', 'isc', 'networksec', 'someonewhocares', 
-    'spammerslapper', 'yoyo') as $filename) {
+foreach (array('baseline', 'disconnect-malvertising', 'hphosts', 'isc', 'networksec',
+    'someonewhocares', 'spammerslapper', 'yoyo') as $filename) {
     if (file_exists('./data/hosts-' . $filename . '.txt')) {
         debug('copy(./data/hosts-' . $filename . '.txt, ./data/hosts-' . $filename . '.txt.bak)');
         copy('./data/hosts-' . $filename . '.txt', './data/hosts-' . $filename . '.txt.bak');
@@ -205,12 +206,32 @@ if ((!file_exists('./data/hosts-networksec.txt')) || filemtime('./data/hosts-net
     }
 }
 
+//Host list: disconnect.me malvertising
+debug('Processing list: disconnect.me malvertising');
+if ((!file_exists('./data/hosts-disconnect-malvertising.txt')) 
+    || filemtime('./data/hosts-disconnect-malvertising.txt') < FETCH_INTERVAL) {
+    debug('Retrieving list from server: disconnect.me');
+    $data = file_get_contents('https://disconnect.me/lists/malvertising');
+    debug('Fetched ' . strlen($data) . ' bytes');
+    if ((strlen($data) > 30000) && (preg_match('|2o7.net|mi', $data))) {
+        if (!$fp = fopen('./data/hosts-disconnect-malvertising.txt', 'w+')) {
+            console_message('Error opening file for writing near line ' . __LINE__, true);
+        }
+        fwrite($fp, $data);
+        fclose($fp);
+    }
+    else {
+        debug('Unexpected server response from server: disconnect.me');
+    }
+}
+
 //Import server lists
 debug('External fetching completed, importing lists');
 $whitelist = strip_comments(file('personal-whitelist.txt'));
 debug('Whitelist contains ' . count($whitelist) . ' entries');
 $hosts = strip_comments(array_merge(
             file('./data/hosts-baseline.txt'),
+            file('./data/hosts-disconnect-malvertising.txt'),
             file('./data/hosts-hphosts.txt'),
             file('./data/hosts-isc.txt'),
             file('./data/hosts-networksec.txt'),
