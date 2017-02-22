@@ -93,6 +93,7 @@ if ((!file_exists('./data/hosts-yoyo.txt')) || filemtime('./data/hosts-yoyo.txt'
     else {
         debug('Unexpected server response from server: yoyo.org');
     }
+    unset($data);
 }
 
 //Host list: spammerslapper.com
@@ -101,10 +102,9 @@ if ((!file_exists('./data/hosts-spammerslapper.txt')) || filemtime('./data/hosts
     debug('Retrieving list from server: spammerslapper.com');
     $data = file_get_contents('http://spammerslapper.com/downloads/adblock_include.conf');
     debug('Fetched ' . strlen($data) . ' bytes');
-    if ((strlen($data) > 30000) && (preg_match('|2o7.net|mi', $data))) {
-        //Parse hosts out of the "Ad Blocking" section only
-        list($good, $bad) = explode('//End Ad Blocking', $data);
-        preg_match_all('|zone "(.*?)"|', $good, $results);
+    //Parse hosts out of the "Ad Blocking" section only
+    if (preg_match('|(.*?)//End Ad Blocking|si', $data, $results)) {
+        preg_match_all('|zone "(.*?)"|', $results[1], $results);
         if (count($results[1])) {
             $data = '';
             foreach ($results[1] as $host) {
@@ -121,6 +121,7 @@ if ((!file_exists('./data/hosts-spammerslapper.txt')) || filemtime('./data/hosts
     else {
         debug('Unexpected response from server: spammerslapper.com');
     }
+    unset($data);
 }
 
 //Host list: hpHosts from Malwarebytes
@@ -139,11 +140,11 @@ if ((!file_exists('./data/hosts-hphosts.txt')) || filemtime('./data/hosts-hphost
         }
         fwrite($fp, $data);
         fclose($fp);
-        unset($data);
     }
     else {
         debug('Unexpected response from server: hosts-file.net');
     }
+    unset($data);
 }
 
 //Host list: someonewhocares.com
@@ -152,22 +153,20 @@ if ((!file_exists('./data/hosts-someonewhocares.txt')) || filemtime('./data/host
     debug('Retrieving list from server: someonewhocares.com');
     $data = file_get_contents('http://someonewhocares.org/hosts/hosts');
     debug('Fetched ' . strlen($data) . ' bytes');
-    if ((strlen($data) > 30000) && (preg_match('|2o7.net|mi', $data))) {
-        //Parse hosts out of the "<ad-sites>" section only
-        list($junk, $good) = explode('#<ad-sites>', $data);
-        list($good, $junk) = explode('#</ad-sites>', $good);
-        $data = preg_replace('|^127.0.0.1(\s+)|mi', '', $good);
-        unset($junk, $good);
+    //Parse hosts out of the "<ad-sites>" section only
+    if (preg_match('|#<ad-sites>(.*?)#</ad-sites>|si', $data, $results)) {
+        $data = preg_replace('|^127.0.0.1(\s+)|mi', '', $results[1]);
         if (!$fp = fopen('./data/hosts-someonewhocares.txt', 'w+')) {
             console_message('Error opening file for writing near line ' . __LINE__, true);
         }
         fwrite($fp, $data);
         fclose($fp);
-        unset($data);
+        unset($results);
     }
     else {
         debug('Unexpected response from server: someonewhocares.com');
     }
+    unset($data);
 }
 
 //Host list: ISC suspicious domains
@@ -186,6 +185,7 @@ if ((!file_exists('./data/hosts-isc.txt')) || filemtime('./data/hosts-isc.txt') 
     else {
         debug('Unexpected server response from server: isc.sans.edu');
     }
+    unset($data);
 }
 
 //Host list: networksec.org
@@ -204,6 +204,7 @@ if ((!file_exists('./data/hosts-networksec.txt')) || filemtime('./data/hosts-net
     else {
         debug('Unexpected server response from server: networksec.org');
     }
+    unset($data);
 }
 
 //Host list: disconnect.me malvertising
@@ -223,6 +224,7 @@ if ((!file_exists('./data/hosts-disconnect-malvertising.txt'))
     else {
         debug('Unexpected server response from server: disconnect.me');
     }
+    unset($data);
 }
 
 //Import server lists
