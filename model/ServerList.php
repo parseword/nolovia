@@ -16,5 +16,84 @@
  * limitations under the License.
  */
  
-public class ServerList {
+/* POPO to hold server list configuration properties */
+class ServerList {
+
+    private $name = null;
+    private $filePath = null;
+    private $uri = null;
+    private $listStartDelimiter = '';
+    private $listEndDelimiter = '';
+    private $minimumExpectedBytes = 0;
+    private $validationText = '';
+    private $replacePatterns = array();
+    private $matchAllPattern = '';
+
+    public function __construct($name) {
+        $this->name = $name;
+    }
+
+    public function getName() {
+        return $this->name;
+    }
+    function setName($name) {
+        $this->name = $name;
+    }
+    public function getFilePath() {
+        return $this->filePath;
+    }
+    function setFilePath($filePath) {
+        $this->filePath = $filePath;
+    }
+    public function getUri() {
+        return $this->uri;
+    }
+    function setUri($uri) {
+        $this->uri = $uri;
+    }
+    public function getData() {
+        return $this->data;
+    }
+    function setData($data) {
+        $this->data = $data;
+    }
+    public function getListStartDelimiter() {
+        return $this->listStartDelimiter;
+    }
+    function setListStartDelimiter($listStartDelimiter) {
+        $this->listStartDelimiter = $listStartDelimiter;
+    }
+    public function getListEndDelimiter() {
+        return $this->listEndDelimiter;
+    }
+    function setListEndDelimiter($listEndDelimiter) {
+        $this->listEndDelimiter = $listEndDelimiter;
+    }
+    public function getMinimumExpectedBytes() {
+        return $this->minimumExpectedBytes;
+    }
+    function setMinimumExpectedBytes($minimumExpectedBytes) {
+        $this->minimumExpectedBytes = $minimumExpectedBytes;
+    }
+    public function getValidationText() {
+        return $this->validationText;
+    }
+    function setValidationText($validationText) {
+        $this->validationText = $validationText;
+    }
+    public function getReplacePatterns() {
+        return $this->replacePatterns;
+    }
+    function setReplacePatterns($replacePatterns) {
+        if (!is_array($replacePatterns)) {
+            throw new Exception('Argument to ServerList::setReplacePatterns() must be an array');
+        }
+        $this->replacePatterns = $replacePatterns;
+    }
+    public function getMatchAllPattern() {
+        return $this->matchAllPattern;
+    }
+    function setMatchAllPattern($matchAllPattern) {
+        $this->matchAllPattern = $matchAllPattern;
+    }
 }
