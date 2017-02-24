@@ -77,7 +77,7 @@ foreach ($serverLists as $sl) {
     debug('Processing list: ' . $sl->getName());
     
     //Only fetch this list if the local copy is too old or doesn't exist
-    if ((file_exists($sl->getFilePath())) && (filemtime($sl->getFilePath()) >= FETCH_INTERVAL)) {
+    if ((int) @filemtime($sl->getFilePath()) >= FETCH_INTERVAL) {
         debug($sl->getFilePath() . ' exists and is recent, using local copy');
         continue;
     }
