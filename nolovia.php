@@ -26,21 +26,10 @@
  * Disconnect at https://disconnect.me/ 
  */
 
-define('DEBUG', true);
-$DEBUG = !DEBUG ? null : array(
-    'domainCount' => array(),
-    'printDomainCount' => false,
-);
-$timeStart = microtime(true);
+//Server lists and other settings are defined in the configuration file
+require_once('config.php');
 
-//Only retrieve external host lists if the local copy is older than this interval
-define('FETCH_INTERVAL', time()-86400);
-
-//Recognize some TLDs with more than one part, e.g. com.au
-define('REGEX_MULTIPART_TLD', 
-    '/com?\.(ar|au|bo|br|co|cc|id|il|in|hk|jp|kr|kz|mx|nz|ph|rs|tr|ua|uk|uy|vn|za)$/');
-
-//Copy skeleton files to initialize local copies, if they don't exist already
+//Make sure the data directory exists
 debug('Performing first-run checks');
 if (!file_exists('./data')) {
     debug('Creating ./data directory');
@@ -49,6 +38,8 @@ if (!file_exists('./data')) {
             . __LINE__, true);
     }
 }
+
+//Copy skeleton files to initialize local copies, if they don't exist already
 foreach (array('black', 'white') as $file) {
     if (!file_exists('./personal-' . $file . 'list.txt')) {
         debug('Copying default personal-' . $file . 'list.txt to cwd');
@@ -68,181 +59,91 @@ if (!file_exists('./data/hosts-baseline.txt')) {
 
 //Create backups before writing new files
 debug('Backups beginning');
-foreach (array('baseline', 'disconnect-malvertising', 'hphosts', 'isc', 'networksec',
-    'someonewhocares', 'spammerslapper', 'yoyo') as $filename) {
-    if (file_exists('./data/hosts-' . $filename . '.txt')) {
-        debug('copy(./data/hosts-' . $filename . '.txt, ./data/hosts-' . $filename . '.txt.bak)');
-        copy('./data/hosts-' . $filename . '.txt', './data/hosts-' . $filename . '.txt.bak');
+$files = array('hosts-baseline.txt');
+foreach ($serverLists as $sl) {
+    $files[] = $sl->getFilePath();
+}
+foreach ($files as $filename) {
+    if (file_exists($filename)) {
+        debug("copy({$filename}, {$filename}.bak)");
+        copy($filename, $filename . '.bak');
     }
 }
+unset($files, $filename);
 debug('Backups completed, fetching host lists from external sources');
 
-//Host list: pgl.yoyo.org
-debug('Processing list: yoyo.org');
-if ((!file_exists('./data/hosts-yoyo.txt')) || filemtime('./data/hosts-yoyo.txt') < FETCH_INTERVAL) {
-    debug('Retrieving list from server: yoyo.org');
-    $data = file_get_contents('http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext');
+//Process remote server lists
+foreach ($serverLists as $sl) {
+    debug('Processing list: ' . $sl->getName());
+    
+    //Only fetch this list if the local copy is too old or doesn't exist
+    if ((file_exists($sl->getFilePath())) && (filemtime($sl->getFilePath()) >= FETCH_INTERVAL)) {
+        debug($sl->getFilePath() . ' exists and is recent, using local copy');
+        continue;
+    }
+    debug('Retrieving list from server: ' . $sl->getName());
+    $data = str_replace("\r\n", "\n", @file_get_contents($sl->getUri()));
     debug('Fetched ' . strlen($data) . ' bytes');
-    if ((strlen($data) > 30000) && (preg_match('|2o7.net|mi', $data))) {
-        if (!$fp = fopen('./data/hosts-yoyo.txt', 'w+')) {
-            console_message('Error opening file for writing near line ' . __LINE__, true);
-        }
-        fwrite($fp, $data);
-        fclose($fp);
+    
+    //Perform some sanity checks on the data we fetched
+    if (strlen($data) < $sl->getMinimumExpectedBytes()) {
+        console_message('Server response was only ' . strlen($data) . ' bytes '
+            . ', expected at least ' . $sl->getMinimumExpectedBytes(), true);
     }
-    else {
-        debug('Unexpected server response from server: yoyo.org');
+    if (!preg_match('|' . $sl->getValidationText() . '|si', $data)) {
+        console_message('Server response is missing validation text "'
+            . $sl->getValidationText() . '"', true);
     }
-    unset($data);
-}
-
-//Host list: spammerslapper.com
-debug('Processing list: spammerslapper.com');
-if ((!file_exists('./data/hosts-spammerslapper.txt')) || filemtime('./data/hosts-spammerslapper.txt') < FETCH_INTERVAL) {
-    debug('Retrieving list from server: spammerslapper.com');
-    $data = file_get_contents('http://spammerslapper.com/downloads/adblock_include.conf');
-    debug('Fetched ' . strlen($data) . ' bytes');
-    //Parse hosts out of the "Ad Blocking" section only
-    if (preg_match('|(.*?)//End Ad Blocking|si', $data, $results)) {
-        preg_match_all('|zone "(.*?)"|', $results[1], $results);
-        if (count($results[1])) {
-            $data = '';
-            foreach ($results[1] as $host) {
-                $data .= trim($host) . "\n";
-            }
-            if (!$fp = fopen('./data/hosts-spammerslapper.txt', 'w+')) {
-                console_message('Error opening file for writing near line ' . __LINE__, true);
-            }
-            fwrite($fp, $data);
-            fclose($fp);
-            unset($results);
-        }
-    }
-    else {
-        debug('Unexpected response from server: spammerslapper.com');
-    }
-    unset($data);
-}
-
-//Host list: hpHosts from Malwarebytes
-debug('Processing list: hosts-file.net');
-if ((!file_exists('./data/hosts-hphosts.txt')) || filemtime('./data/hosts-hphosts.txt') < FETCH_INTERVAL) {
-    debug('Retrieving list from server: hosts-file.net');
-    $data = file_get_contents('http://hosts-file.net/ad_servers.txt');
-    debug('Fetched ' . strlen($data) . ' bytes');
-    if ((strlen($data) > 30000) && (preg_match('|2o7.net|mi', $data))) {
-        $data = str_replace("\r\n", "\n", $data);
-        $data = preg_replace('|^127.0.0.1(\s+)|mi', '', $data);
-        //Strip trailing dot if one exists (theoads.com.)
-        $data = preg_replace('|\.$|mi', '', $data);
-        if (!$fp = fopen('./data/hosts-hphosts.txt', 'w+')) {
-            console_message('Error opening file for writing near line ' . __LINE__, true);
-        }
-        fwrite($fp, $data);
-        fclose($fp);
-    }
-    else {
-        debug('Unexpected response from server: hosts-file.net');
-    }
-    unset($data);
-}
-
-//Host list: someonewhocares.com
-debug('Processing list: someonewhocares.com');
-if ((!file_exists('./data/hosts-someonewhocares.txt')) || filemtime('./data/hosts-someonewhocares.txt') < FETCH_INTERVAL) {
-    debug('Retrieving list from server: someonewhocares.com');
-    $data = file_get_contents('http://someonewhocares.org/hosts/hosts');
-    debug('Fetched ' . strlen($data) . ' bytes');
-    //Parse hosts out of the "<ad-sites>" section only
-    if (preg_match('|#<ad-sites>(.*?)#</ad-sites>|si', $data, $results)) {
-        $data = preg_replace('|^127.0.0.1(\s+)|mi', '', $results[1]);
-        if (!$fp = fopen('./data/hosts-someonewhocares.txt', 'w+')) {
-            console_message('Error opening file for writing near line ' . __LINE__, true);
-        }
-        fwrite($fp, $data);
-        fclose($fp);
+    
+    //If we only want part of the file, glom it out
+    if ($sl->getListStartDelimiter() != '' || $sl->getListEndDelimiter() != '') {
+        debug('Extracting text between "' . $sl->getListStartDelimiter()
+            . '" and "' . $sl->getListEndDelimiter() . '"');
+        preg_match('|' . $sl->getListStartDelimiter() . '(.*?)' 
+            . $sl->getListEndDelimiter() . '|si', $data, $results);
+        $data = $results[1];
         unset($results);
     }
-    else {
-        debug('Unexpected response from server: someonewhocares.com');
-    }
-    unset($data);
-}
-
-//Host list: ISC suspicious domains
-debug('Processing list: isc.sans.edu');
-if ((!file_exists('./data/hosts-isc.txt')) || filemtime('./data/hosts-isc.txt') < FETCH_INTERVAL) {
-    debug('Retrieving list from server: isc.sans.edu');
-    $data = file_get_contents('https://isc.sans.edu/feeds/suspiciousdomains_Low.txt');
-    debug('Fetched ' . strlen($data) . ' bytes');
-    if ((strlen($data) > 1000) && (preg_match('|dshield|mi', $data))) {
-        if (!$fp = fopen('./data/hosts-isc.txt', 'w+')) {
-            console_message('Error opening file for writing near line ' . __LINE__, true);
+    
+    //Remove extra text (e.g. 127.0.0.1) from server entries
+    if (count($sl->getReplacePatterns()) > 0) {
+        foreach ($sl->getReplacePatterns() as $pattern) {
+            debug('Replacing pattern: ' . $pattern);
+            $data = preg_replace($pattern, '', $data);
         }
-        fwrite($fp, $data);
-        fclose($fp);
     }
-    else {
-        debug('Unexpected server response from server: isc.sans.edu');
+    
+    //If finding servers in the list requires matching a pattern, do it now
+    if ($sl->getMatchAllPattern() != '') {
+        debug('Matching all on pattern: ' . $sl->getMatchAllPattern());
+        preg_match_all($sl->getMatchAllPattern(), $data, $results);
+        $data = join("\n", $results[1]);
+        unset($results);
     }
-    unset($data);
-}
-
-//Host list: networksec.org
-debug('Processing list: networksec.org');
-if ((!file_exists('./data/hosts-networksec.txt')) || filemtime('./data/hosts-networksec.txt') < FETCH_INTERVAL) {
-    debug('Retrieving list from server: networksec.org');
-    $data = file_get_contents('http://www.networksec.org/grabbho/block.txt');
-    debug('Fetched ' . strlen($data) . ' bytes');
-    if ((strlen($data) > 1000) && (preg_match('|badlist|mi', $data))) {
-        if (!$fp = fopen('./data/hosts-networksec.txt', 'w+')) {
-            console_message('Error opening file for writing near line ' . __LINE__, true);
-        }
-        fwrite($fp, $data);
-        fclose($fp);
+    
+    //Write the file
+    if (!$fp = fopen($sl->getFilePath(), 'w+')) {
+        console_message('Error opening ' . $sl->getFilePath() 
+            . ' for writing near line ' . __LINE__, true);
     }
-    else {
-        debug('Unexpected server response from server: networksec.org');
-    }
-    unset($data);
-}
-
-//Host list: disconnect.me malvertising
-debug('Processing list: disconnect.me malvertising');
-if ((!file_exists('./data/hosts-disconnect-malvertising.txt')) 
-    || filemtime('./data/hosts-disconnect-malvertising.txt') < FETCH_INTERVAL) {
-    debug('Retrieving list from server: disconnect.me');
-    $data = file_get_contents('https://disconnect.me/lists/malvertising');
-    debug('Fetched ' . strlen($data) . ' bytes');
-    if ((strlen($data) > 30000) && (preg_match('|2o7.net|mi', $data))) {
-        if (!$fp = fopen('./data/hosts-disconnect-malvertising.txt', 'w+')) {
-            console_message('Error opening file for writing near line ' . __LINE__, true);
-        }
-        fwrite($fp, $data);
-        fclose($fp);
-    }
-    else {
-        debug('Unexpected server response from server: disconnect.me');
-    }
-    unset($data);
+    fwrite($fp, $data);
+    fclose($fp);
 }
 
 //Import server lists
 debug('External fetching completed, importing lists');
 $whitelist = strip_comments(file('personal-whitelist.txt'));
 debug('Whitelist contains ' . count($whitelist) . ' entries');
+//Static local lists
 $hosts = strip_comments(array_merge(
-            file('./data/hosts-baseline.txt'),
-            file('./data/hosts-disconnect-malvertising.txt'),
-            file('./data/hosts-hphosts.txt'),
-            file('./data/hosts-isc.txt'),
-            file('./data/hosts-networksec.txt'),
-            file('./data/hosts-someonewhocares.txt'),
-            file('./data/hosts-spammerslapper.txt'),
-            file('./data/hosts-yoyo.txt'),
-            file('./personal-blacklist.txt')
-        )
+        file('./data/hosts-baseline.txt'),
+        file('./personal-blacklist.txt')
+    )
 );
+//Fetched remote lists
+foreach ($serverLists as $sl) {
+    $hosts = array_merge($hosts, strip_comments(file($sl->getFilePath())));
+}
 debug('Host list (combined) contains ' . count($hosts) . ' entries');
 
 //Strip leading www. from hosts
