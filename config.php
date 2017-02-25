@@ -17,14 +17,15 @@
  * 
  * This script fetches and makes use of server lists compiled by: 
  *
+ * Disconnect at https://disconnect.me/
  * Jason Lam at http://www.networksec.org/grabbho/block.txt
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
+ * Malware Domain List at https://www.malwaredomainlist.com/
  * Dan Pollock at http://someonewhocares.org/hosts/
  * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
- * Disconnect at https://disconnect.me/ 
  */
 
 require_once('./model/ServerList.php');
@@ -107,4 +108,12 @@ $sl->setFilePath('./data/hosts-ransomware-tracker.txt');
 $sl->setUri('https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt');
 $sl->setMinimumExpectedBytes(10240);
 $sl->setValidationText('Ransomware Domain Blocklist');
+$serverLists[] = $sl;
+
+$sl = new ServerList('Malware Domain List');
+$sl->setFilePath('./data/hosts-malwaredomainlist.txt');
+$sl->setUri('https://www.malwaredomainlist.com/hostslist/hosts.txt');
+$sl->setMinimumExpectedBytes('20480');
+$sl->setValidationText('MalwareDomainList.com Hosts List');
+$sl->setReplacePatterns(array('|^127.0.0.1(\s+)|m'));
 $serverLists[] = $sl;

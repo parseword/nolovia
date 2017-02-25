@@ -17,14 +17,15 @@
  * 
  * This script fetches and makes use of server lists compiled by: 
  *
+ * Disconnect at https://disconnect.me/
  * Jason Lam at http://www.networksec.org/grabbho/block.txt
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
+ * Malware Domain List at https://www.malwaredomainlist.com/
  * Dan Pollock at http://someonewhocares.org/hosts/
  * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
- * Disconnect at https://disconnect.me/ 
  */
 
 //Server lists and other settings are defined in the configuration file
