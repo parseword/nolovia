@@ -6553,7 +6553,6 @@ counter.hyipexplorer.com
 counter.inetusa.com
 counter.kaspersky.com
 counter.ksm.it
-counter.li.org
 counter.maases.com
 counter.megaindex.ru
 counter.mirohost.net

@@ -7,6 +7,7 @@
 # ad server lists.
 
 affiliate.zap2it.com       #TV listings
+counter.li.org             #Linux Counter Project, not a tracker
 craigslist.org
 datapipe.net
 ftpcontent.worldnow.com    #TV news CDN
