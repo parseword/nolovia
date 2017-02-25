@@ -209,6 +209,10 @@ sort($blockedHosts);
 //Write the resolver config files
 $date = date('Y-m-d H:i:s');
 foreach ($resolvers as $r) {
+    //Skip disabled resolvers
+    if (!$r->isEnabled()) {
+        continue;
+    }
     $header = <<<EOT
 # {$r->getFileName()}
 # DNS blackhole configuration for advertising, tracking, and malware servers
@@ -216,6 +220,7 @@ foreach ($resolvers as $r) {
 # Generated at $date
 
 EOT;
+    //Write a config file in this resolver's format
     debug('Writing ' . $r->getName() . ' config file to ' . $r->getFilePath());
     if (!$fp = fopen($r->getFilePath(), 'w+')) {
         console_message('Error opening file for writing near line ' . __LINE__, true);
