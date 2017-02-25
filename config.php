@@ -28,6 +28,7 @@
  * Spammer Slapper at http://spammerslapper.com/
  */
 
+require_once('./model/ResolverConfiguration.php');
 require_once('./model/ServerList.php');
 $timeStart = microtime(true);
 
@@ -46,6 +47,18 @@ define('FETCH_INTERVAL', time()-86400);
 //Recognize some TLDs with more than one part, e.g. com.au
 define('REGEX_MULTIPART_TLD', 
     '/com?\.(ar|au|bo|br|co|cc|id|il|in|hk|jp|kr|kz|mx|nz|ph|rs|tr|ua|uk|uy|vn|za)$/');
+
+//Set up the resolvers we're going to generate config files for
+$resolvers = array();
+
+$r = new ResolverConfiguration('bind');
+$r->setEnabled(true);
+$r->setFilePath('./blackhole.conf');
+$r->setZoneDefinitionTemplate('zone "%HOST%" IN { type master; notify no; '
+    . 'file "blackhole.zone"; allow-query { recursers; }; };');
+$resolvers[] = $r;
+
+unset($r);
 
 //Set up the external server lists we're going to fetch
 $serverLists = array();
@@ -117,3 +130,5 @@ $sl->setMinimumExpectedBytes(20480);
 $sl->setValidationText('MalwareDomainList.com Hosts List');
 $sl->setReplacePatterns(array('|^127.0.0.1(\s+)|m'));
 $serverLists[] = $sl;
+
+unset($sl);
