@@ -46,11 +46,15 @@ class ResolverConfiguration {
     public function getFilePath() {
         return $this->filePath;
     }
+    public function getFileName() {
+        return basename($this->filePath);
+    }
     function setFilePath($filePath) {
         $this->filePath = $filePath;
     }
     public function getZoneDefinitionTemplate() {
-        return $this->zoneDefinitionTemplate;
+        //Ensure there's a newline at the end
+        return trim($this->zoneDefinitionTemplate) . "\n";
     }
     function setZoneDefinitionTemplate($zoneDefinitionTemplate) {
         $this->zoneDefinitionTemplate = $zoneDefinitionTemplate;
