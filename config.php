@@ -113,7 +113,7 @@ $serverLists[] = $sl;
 $sl = new ServerList('Malware Domain List');
 $sl->setFilePath('./data/hosts-malwaredomainlist.txt');
 $sl->setUri('https://www.malwaredomainlist.com/hostslist/hosts.txt');
-$sl->setMinimumExpectedBytes('20480');
+$sl->setMinimumExpectedBytes(20480);
 $sl->setValidationText('MalwareDomainList.com Hosts List');
 $sl->setReplacePatterns(array('|^127.0.0.1(\s+)|m'));
 $serverLists[] = $sl;
