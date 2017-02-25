@@ -46,7 +46,6 @@ Now see what breaks! Some sites you use might lose functionality because of serv
 
 ## TODO:
 
-* Refactor fetching external files into a modular design
 * Export zone files for additional resolvers
 * Filter hostnames N levels deep instead of just 2, e.g. if metric.gstatic.com is blocked, p2-aahhyknavsj2m-wtnlrzkba6lht33q-if-v6exp3-v4.metric.gstatic.com should be recognized as a subdomain instead of making a separate entry
 * Support RPZ or hole-punching (e.g. "block all of evilcompany.tld *except* safeserver.evilcompany.tld")
