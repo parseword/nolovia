@@ -21,6 +21,7 @@
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
  * Dan Pollock at http://someonewhocares.org/hosts/
+ * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
  * Disconnect at https://disconnect.me/ 
@@ -99,4 +100,11 @@ $sl->setFilePath('./data/hosts-disconnect-malvertising.txt');
 $sl->setUri('https://disconnect.me/lists/malvertising');
 $sl->setMinimumExpectedBytes(65536);
 $sl->setValidationText('2o7.net');
+$serverLists[] = $sl;
+
+$sl = new ServerList('Ransomware Tracker from abuse.ch');
+$sl->setFilePath('./data/hosts-ransomware-tracker.txt');
+$sl->setUri('https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt');
+$sl->setMinimumExpectedBytes(10240);
+$sl->setValidationText('Ransomware Domain Blocklist');
 $serverLists[] = $sl;

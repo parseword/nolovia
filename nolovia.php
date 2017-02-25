@@ -21,6 +21,7 @@
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
  * Dan Pollock at http://someonewhocares.org/hosts/
+ * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
  * Disconnect at https://disconnect.me/ 
