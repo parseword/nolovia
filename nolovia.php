@@ -49,7 +49,8 @@ foreach (array('black', 'white') as $file) {
         }
     }
 }
-if (!file_exists('./data/hosts-baseline.txt')) {
+//If the local hosts-baseline.txt is older than the distribution copy, update it
+if ((int) @filemtime('./data/hosts-baseline.txt') < filemtime('./skel/hosts-baseline.txt')) {
     debug('Copying default hosts-baseline.txt to ./data/');
     if (!copy('./skel/hosts-baseline.txt', './data/hosts-baseline.txt')) {
         console_message('Error copying default hosts-baseline.txt to ./data/ near line '
@@ -57,22 +58,8 @@ if (!file_exists('./data/hosts-baseline.txt')) {
     }
 }
 
-//Create backups before writing new files
-debug('Backups beginning');
-$files = array('hosts-baseline.txt');
-foreach ($serverLists as $sl) {
-    $files[] = $sl->getFilePath();
-}
-foreach ($files as $filename) {
-    if (file_exists($filename)) {
-        debug("copy({$filename}, {$filename}.bak)");
-        copy($filename, $filename . '.bak');
-    }
-}
-unset($files, $filename);
-debug('Backups completed, fetching host lists from external sources');
-
 //Process remote server lists
+debug('Fetching host lists from external sources');
 foreach ($serverLists as $sl) {
     debug('Processing list: ' . $sl->getName());
     
