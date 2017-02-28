@@ -76,8 +76,8 @@ foreach ($serverLists as $sl) {
     
     //Perform some sanity checks on the data we fetched
     if (strlen($data) < $sl->getMinimumExpectedBytes()) {
-        console_message('Server response was only ' . strlen($data) . ' bytes '
-            . ', expected at least ' . $sl->getMinimumExpectedBytes(), true);
+        console_message('Server response was only ' . strlen($data) . ' bytes,'
+            . ' expected at least ' . $sl->getMinimumExpectedBytes(), true);
     }
     if (!preg_match('|' . $sl->getValidationText() . '|si', $data)) {
         console_message('Server response is missing validation text "'
