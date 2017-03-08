@@ -60,8 +60,18 @@ $resolvers[] = $r;
 
 unset($r);
 
-//Set up the external server lists we're going to fetch
+//Set up the server lists we're going to fetch
 $serverLists = array();
+
+$sl = new ServerList('nolovia Windows Telemetry');
+$sl->setFilePath('./data/hosts-windows-telemetry.txt');
+$sl->setUri('./skel/hosts-windows-telemetry.txt');
+$serverLists[] = $sl;
+
+$sl = new ServerList('nolovia State-sponsored Malware');
+$sl->setFilePath('./data/hosts-government-malware.txt');
+$sl->setUri('./skel/hosts-government-malware.txt');
+$serverLists[] = $sl;
 
 $sl = new ServerList('pgl.yoyo.org');
 $sl->setFilePath('./data/hosts-yoyo.txt');
