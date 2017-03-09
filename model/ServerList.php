@@ -24,10 +24,11 @@ class ServerList {
     private $uri = null;
     private $listStartDelimiter = '';
     private $listEndDelimiter = '';
-    private $minimumExpectedBytes = 0;
+    private $minimumExpectedBytes = 1;
     private $validationText = '';
     private $replacePatterns = array();
     private $matchAllPattern = '';
+    private $fetchFailed = false;
 
     public function __construct($name) {
         $this->name = $name;
@@ -95,5 +96,11 @@ class ServerList {
     }
     function setMatchAllPattern($matchAllPattern) {
         $this->matchAllPattern = $matchAllPattern;
+    }
+    public function getFetchFailed() {
+        return $this->fetchFailed;
+    }
+    function setFetchFailed($fetchFailed) {
+        $this->fetchFailed = $fetchFailed;
     }
 }

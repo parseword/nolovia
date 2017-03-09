@@ -60,8 +60,8 @@ if ((int) @filemtime('./data/hosts-baseline.txt') < filemtime('./skel/hosts-base
     }
 }
 
-//Process remote server lists
-debug('Fetching host lists from external sources');
+//Process dynamic server lists
+debug('Fetching host lists');
 foreach ($serverLists as $sl) {
     debug('Processing list: ' . $sl->getName());
     
@@ -70,18 +70,21 @@ foreach ($serverLists as $sl) {
         debug($sl->getFilePath() . ' exists and is recent, using local copy');
         continue;
     }
-    debug('Retrieving list from server: ' . $sl->getName());
+    debug('Retrieving URI: ' . $sl->getUri());
     $data = str_replace("\r\n", "\n", @file_get_contents($sl->getUri()));
     debug('Fetched ' . strlen($data) . ' bytes');
     
     //Perform some sanity checks on the data we fetched
     if (strlen($data) < $sl->getMinimumExpectedBytes()) {
+        $sl->setFetchFailed(true);
         console_message('Server response was only ' . strlen($data) . ' bytes,'
-            . ' expected at least ' . $sl->getMinimumExpectedBytes(), true);
+            . ' expected at least ' . $sl->getMinimumExpectedBytes(), 
+            FETCH_FAILURE_FATALITY_FLAG);
     }
     if (!preg_match('|' . $sl->getValidationText() . '|si', $data)) {
+        $sl->setFetchFailed(true);
         console_message('Server response is missing validation text "'
-            . $sl->getValidationText() . '"', true);
+            . $sl->getValidationText() . '"', FETCH_FAILURE_FATALITY_FLAG);
     }
     
     //If we only want part of the file, glom it out
@@ -110,6 +113,12 @@ foreach ($serverLists as $sl) {
         unset($results);
     }
     
+    if ($sl->getFetchFailed()) {
+        console_message('Not writing list ' . $sl->getName() 
+            . ' to disk due to fetch failure', false);
+        continue;
+    }
+    
     //Write the file
     if (!$fp = fopen($sl->getFilePath(), 'w+')) {
         console_message('Error opening ' . $sl->getFilePath() 
@@ -129,8 +138,12 @@ $hosts = strip_comments(array_merge(
         file('./personal-blacklist.txt')
     )
 );
-//Fetched remote lists
+//Fetched dynamic lists
 foreach ($serverLists as $sl) {
+    if ($sl->getFetchFailed()) {
+        continue;
+    }
+    debug('Loading list ' . $sl->getName() . ' from file ' . $sl->getFilePath());
     $hosts = array_merge($hosts, strip_comments(file($sl->getFilePath())));
 }
 debug('Host list (combined) contains ' . count($hosts) . ' entries');

@@ -44,6 +44,9 @@ $DEBUG = !DEBUG ? null : array(
 //Only retrieve external host lists if the local copy is older than this interval
 define('FETCH_INTERVAL', time()-86400);
 
+//Should failure to fetch one of the server lists be considered a fatal error?
+define('FETCH_FAILURE_FATALITY_FLAG', true);
+
 //Recognize some TLDs with more than one part, e.g. com.au
 define('REGEX_MULTIPART_TLD', 
     '/com?\.(ar|au|bo|br|co|cc|id|il|in|hk|jp|kr|kz|mx|nz|ph|rs|tr|ua|uk|uy|vn|za)$/');
