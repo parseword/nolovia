@@ -15525,6 +15525,8 @@ leadaffiliates.com
 leadbolt.com
 leadbolt.net
 leadboltads.net
+leadboltmobile.com
+leadboltmobile.net
 leadclick.com
 leadcrunch.com
 leadformix.com
@@ -16629,10 +16631,6 @@ mcssl.com
 mdataroom.com
 mdchoice.com
 mdlinx.app4.hubspot.com
-mdn1.phluantmobile.net
-mdn2.phluantmobile.net
-mdn3.phluantmobile.net
-mdn3origin.phluantmobile.net
 mdotm.com
 me.3788.cn
 me404.net
@@ -19022,6 +19020,8 @@ phitenmy.com
 phizzle.com
 phlpolice.com
 phluant.com
+phluantmobile.com
+phluantmobile.net
 phn.apnanalytics.com
 phoenixads.co.in
 phonearena.com
