@@ -1,4 +1,5 @@
 .svn/*
 /data/*
+config.php
 personal-blacklist.txt
 personal-whitelist.txt

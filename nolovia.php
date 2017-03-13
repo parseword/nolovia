@@ -28,8 +28,22 @@
  * Spammer Slapper at http://spammerslapper.com/
  */
 
+$timeStart = microtime(true);
+
 //Server lists and other settings are defined in the configuration file
-require_once('config.php');
+if (!file_exists('./config.php')) {
+    console_message('Copying default config.php-dist to config.php, '
+        . 'please review config.php for application settings.');
+    if (!copy('./config.php-dist', './config.php')) {
+        console_message('Error copying config.php-dist to config.php', true);
+    }
+}
+//Warn if the distribution config is newer than the local one
+if ((int) @filemtime('./config.php') < filemtime('./config.php-dist')) {
+    console_message('NOTICE: php.config-dist is newer than your config.php. '
+        . 'Please check for new settings to ensure proper operation.');
+}
+require_once('./config.php');
 
 //Make sure the data directory exists
 debug('Performing first-run checks');

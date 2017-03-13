@@ -30,7 +30,6 @@
 
 require_once('./model/ResolverConfiguration.php');
 require_once('./model/ServerList.php');
-$timeStart = microtime(true);
 
 //Enabling debug mode makes the script more chatty
 define('DEBUG', true);
