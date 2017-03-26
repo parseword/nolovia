@@ -65,6 +65,7 @@ foreach (array('black', 'white') as $file) {
         }
     }
 }
+
 //If the local hosts-baseline.txt is older than the distribution copy, update it
 if ((int) @filemtime('./data/hosts-baseline.txt') < filemtime('./skel/hosts-baseline.txt')) {
     debug('Copying default hosts-baseline.txt to ./data/');
@@ -80,7 +81,7 @@ foreach ($serverLists as $sl) {
     debug('Processing list: ' . $sl->getName());
     
     //Only fetch this list if the local copy is too old or doesn't exist
-    if ((int) @filemtime($sl->getFilePath()) >= FETCH_INTERVAL) {
+    if (!FORCE_FETCH && (int)@filemtime($sl->getFilePath()) >= FETCH_INTERVAL) {
         debug($sl->getFilePath() . ' exists and is recent, using local copy');
         continue;
     }
