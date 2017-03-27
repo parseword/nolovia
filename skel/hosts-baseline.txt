@@ -9357,6 +9357,7 @@ clktag.com
 clmbtrk.com
 clnk.me
 clog.go.com
+closedloopattribution.com
 closeoutproductsreview.com
 clou.ovh
 cloud.beyondmobtrax.com
@@ -14656,6 +14657,17 @@ iwin.net
 iwon.com
 iworld.com
 iwstat.tudou.com
+ixi-corp.com
+ixi-corporation.com
+ixiaa.com
+ixicorp.com
+ixicorp.net
+ixidigital.com
+ixidigital.net
+ixihq.com
+ixihq.net
+ixihq.xyz
+ixinet.com
 iybasketball.info
 iyfnzgb.com
 izlinix.com
@@ -25203,6 +25215,7 @@ wdm.map24.com
 wdm29.com
 wdvxeval.ru
 we-are-gamers.com
+wealthlinx.biz
 weather7.com
 weatherscope.com
 web-controlling.com
