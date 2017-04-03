@@ -146,4 +146,16 @@ $sl->setValidationText('MalwareDomainList.com Hosts List');
 $sl->setReplacePatterns(array('|^127.0.0.1(\s+)|m'));
 $serverLists[] = $sl;
 
+//Cybercrime Tracker bot/malware command and control server list.
+//Disabled by default for now because it contains many dead and defunct hosts.
+/*
+$sl = new ServerList('Cybercrime Tracker C&C');
+$sl->setFilePath('./data/hosts-cybercrime-tracker.txt');
+$sl->setUri('https://cybercrime-tracker.net/all.php');
+$sl->setMinimumExpectedBytes(10240);
+$sl->setValidationText('panel');
+$sl->setMatchAllPattern('|^([a-z][a-z0-9\.\-]+)/(.*?)$|mi');
+$serverLists[] = $sl;
+*/
+
 unset($sl);
