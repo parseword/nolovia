@@ -2632,6 +2632,7 @@ ado.pro-market.net
 adobe-update.com
 adobee.com
 adobeflashupdate14.com
+adobeupdater.org
 adobur.com
 adobur.net
 adoburcrv.com
@@ -17511,6 +17512,7 @@ native.sharethrough.com
 nativead.tech
 nativeads.com
 natlalirans.hotmail.ru
+nato-info.com
 nats.hushmoney.com
 natural.buckeyeenergyforum.com
 naturalsearchtoolresults.com
@@ -21950,6 +21952,7 @@ ssdk.adkmob.com
 sserv.com
 sshtunnel.at
 ssl-g.searchgist.com
+ssl-icloud.com
 ssl-nl.persgroep.edgekey.net
 ssl-static.vinsight.de
 ssl-stats.wordpress.com
