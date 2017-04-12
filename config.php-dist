@@ -56,11 +56,19 @@ define('REGEX_MULTIPART_TLD',
 //Set up the resolvers we're going to generate config files for
 $resolvers = array();
 
+//bind (enabled by default)
 $r = new ResolverConfiguration('bind');
 $r->setEnabled(true);
 $r->setFilePath('./blackhole.conf');
 $r->setZoneDefinitionTemplate('zone "%HOST%" IN { type master; notify no; '
     . 'file "blackhole.zone"; allow-query { recursers; }; };');
+$resolvers[] = $r;
+
+//nsd (disabled by default)
+$r = new ResolverConfiguration('nsd');
+$r->setEnabled(false);
+$r->setFilePath('./blackhole-nsd.conf');
+$r->setZoneDefinitionTemplate('zone: name: "%HOST%" zonefile: "blackhole.zone"');
 $resolvers[] = $r;
 
 unset($r);
