@@ -71,6 +71,13 @@ $r->setFilePath('./blackhole-nsd.conf');
 $r->setZoneDefinitionTemplate('zone: name: "%HOST%" zonefile: "blackhole.zone"');
 $resolvers[] = $r;
 
+//Plaintext host list output (disabled by default)
+$r = new ResolverConfiguration('hostlist');
+$r->setEnabled(false);
+$r->setFilePath('./blackhole-hostlist.txt');
+$r->setZoneDefinitionTemplate('%HOST%');
+$resolvers[] = $r;
+
 unset($r);
 
 //Set up the server lists we're going to fetch
