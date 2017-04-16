@@ -141,6 +141,7 @@ foreach ($serverLists as $sl) {
     }
     fwrite($fp, $data);
     fclose($fp);
+    unset($data);
 }
 
 //Import server lists
