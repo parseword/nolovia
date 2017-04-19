@@ -137,6 +137,7 @@
 12place.com
 130.211.230.53
 13148990763.com
+1314pb.com
 137311.com
 137852403.log.optimizely.com
 138771.com
@@ -1445,6 +1446,11 @@ accomplir.science
 accorder.science
 accounnt-accsess-solutions.com
 account-acccsess-blocked.com
+account-datacenter.com
+account-limitedcentre.com
+account-lockedservice.com
+account-securelink.info
+account-securitylimitedcentre.com
 account-service-centero.com
 accountlocked-fraudpreventscom.com
 accountlogin-repairs.com
@@ -6385,9 +6391,13 @@ applab-sdk.amazon.com
 apple-es.com
 apple-icloud-110-id-cn.top
 apple-icloud-lnci-110.top
+apple-id-has-locked.com
 apple-id.en-upd.de
 apple-iphoneid-cn.com
 apple-lnc-id-110.top
+apple-lock.xyz
+apple-logon.com
+apple-my-location.com
 apple-pink-id.com
 apple-rocks-id.com
 apple-safe-link.com
@@ -6406,11 +6416,14 @@ applebarq.com
 appleicloud.top
 appleid-cloud-store.com
 appleid-cloud-store.site
+appleid-webkentod-resolved.com
 appleid.apple.amlife.my
+appleidconfirmationfraudtransaction.com
 appleitl.rewards-bonanza-2.com
 applelounge.com
 appleprotection.org
 applesnoutsthings.bid
+appleverifid.com
 applicationgrabb.net
 applicationpremium70.club
 applicationwiki.com
@@ -8410,6 +8423,7 @@ canadabanner.com
 canadabook.ca
 canadasfamilyoffice.com
 canadianonlineagreementservices.kz
+cancel-paymentorders-paypal.com
 cancerlove.org
 candi-nolen.us
 candi-parman.us
@@ -9686,10 +9700,13 @@ coloritpak.by
 com-accountvertifyapple.com
 com-activitylog.com
 com-findmyidevice.com
+com-idsecure.site
 com-infs.com
+com-io5.com
 com-ldmsa.info
 com-limited.solutions
 com-resolveded.cloud
+com-resolvedid.com
 com-service-information.com
 com-serviceauthinc.com
 com-shop.club
@@ -9715,6 +9732,7 @@ cometcursor.com
 cometsystems.com
 cometzone.com
 comevisitnetwork.com
+comfirm-account-fraud-php.com
 comfm.com
 comm.ovh.fr
 comme.science
@@ -9937,6 +9955,7 @@ cosmos.felago.es
 cosmos.furnipict.com
 cosmosdady.su
 cossette.com
+costumer-emailserviceaccount-live.com
 coudre.ovh
 couldnotfind.com
 coull.com
@@ -10763,6 +10782,7 @@ datais.net
 datalabusa.com
 datamaster.com.cn
 datametrical.com
+datapersonal-member.info
 datashreddergold.com
 datastorm.biz
 datatech.es
@@ -10991,6 +11011,7 @@ desktopdollars.com
 deskwww.s3.amazonaws.com
 destinationurl.com
 destre45.com
+details-resolution-centers.com
 detect.ergebnis-dienst.de
 deunce68rtaint.rr.nu
 dev.adforum.com
@@ -11764,6 +11785,7 @@ emonitor.takeit.cz
 empe3net7.neostrada.pl
 emrlogistics.com
 emsvr.com
+en-account.com
 en-gb.appex-rf.msn.com
 en.adtech.info
 en.minormetal.cn
@@ -12533,6 +12555,7 @@ fishum.com
 fitga.ru
 fixbonus.com
 fixin.de
+fixingapple-issue.com
 fizzix.com
 fjlhh.com
 fjronmao.com
@@ -13489,6 +13512,7 @@ goto.mystreamdelivery.xyz
 goto.trafficmultiplier.com
 gotoast.com
 gotoconfirmationpagedetailorder.com
+gotoebaycustomersupport.com
 gotoo.com
 gotsavings.com
 gouddc.com
@@ -13791,6 +13815,7 @@ help1comp.ru
 helpformedicalbills.com
 helpkaden.org
 helpmymacfaster.club
+helps-account-limited.com
 henanct.com
 henex.net.ua
 hengjia8.com
@@ -14372,14 +14397,18 @@ icityfind.com
 icleanforyou.com.au
 iclicks.net
 icloud-apple.ltd
+icloud-brasil.com
 icloud-cast-id.com
 icloud-idues.com
 icloud-lvice.com
 icloud-my-ios.com
 icloud-validate-center.com
+icloud888.com
 icloudcacher.com
+icloudfindmyiphones.com
 icloudid-ios104.com
 icloudres.com
+icloudsuppors.com
 icloup-yuie.cn
 icon.ajiang.net
 iconadserver.com
@@ -16367,6 +16396,8 @@ login-checkaccountactivity.com
 login-paymentordercancel-paypal.com
 login-resolve-confirmation-policy.com
 login-secure-account-verified.com
+login-secure-activity-verified.com
+login-verify-account-intl.com
 login.affluentco.com
 loginlog.sdo.com
 loglady.publicbroadcasting.net
@@ -16754,6 +16785,7 @@ mampoks.ru
 man-street.tk
 man.zzn.com
 man1234.com
+manage-apple-id-webapps.com
 manage-update-account.com
 manage.com
 manager.koocash.fr
@@ -17874,6 +17906,7 @@ n.targetdtracker.com
 n.uimserv.net
 n01d05.cumulus-cloud.com
 n0cgi.distributed.net
+n1plcpnl0077prodams1secureserver.com
 n24.de
 n339.asp-cc.com
 n388hkxg.com
@@ -19277,11 +19310,13 @@ payback-de.baynote.net
 paycount.com
 paycounter.com
 payload.yieldbuild.com
+payment-declined.online
 paymoneyexpress.com
 paymonsters.biz
 paymonsters.com
 paypai-actived.com
 paypal-verify-account.com
+paypal-web.site
 paypal.adtag.where.com
 paypal.com.signin.country.xgb.locale.xengb.eastcoastpackages.com
 paypal.support.entlogin.securities.privacy.safeandsound1.com
@@ -19801,6 +19836,7 @@ pokerlivestar.de
 pokerlounge-langenfeld.de
 polaerunity.top
 pole.6rooms.com
+polesn.net
 police11.provenprotection.net
 politads.com
 politicalopinionsurvey.com
@@ -20849,6 +20885,8 @@ reports.wes.df.telemetry.microsoft.com
 republika.onet.pl
 request.issuu.com
 requiemfishing.com
+requireconfirmlogin.com
+res-center-verification-account-service.com
 res-x.com
 res.lazyswipe.com
 res3.feedsportal.com
@@ -20861,7 +20899,9 @@ researchshowing.com
 reserve.jumpingcrab.com
 resimler.randevum.com
 resolution-account-limitation.com
+resolved-myaccountstore.com
 resolvethem.com
+resolvingmyaccount-fraudprevention.center
 resolvingserver.com
 resolvingyouraccountlimitaion.center
 resource-marketing.com
@@ -21308,6 +21348,7 @@ safe-systemactivity.com
 safe.bestapps.com-protection.info
 safe.hyperpaysys.com
 safebrowse.com
+safekey-appleidpayment.com
 safelinking.net
 safelinktracker.com
 safelists.com
@@ -21623,6 +21664,7 @@ secure-ads.pictela.net
 secure-apps-accounts-fbpages.com
 secure-cdn.mplxtms.com
 secure-home-sigin-account.com
+secure-locationtrack.online
 secure-processingcenter.com
 secure-softwaremanager.com
 secure-your-account-pages-recovery.com
@@ -21666,6 +21708,7 @@ securestudies.com
 securetalk.cwsurf.de
 securetestingnetwotk.com
 securetracking2.com
+security-applelnc.com
 securitytrojanalarm.xyz
 securitywebservices.com
 sedewww.com
@@ -21802,6 +21845,7 @@ serversss.biz
 servesharp.net
 servethis.com
 service-limitation-account.com
+service-signin-paypail-security.com
 service-stat.tbn.ru
 service.maxymiser.net
 service.mm-r-prop-11-16-2.com
@@ -23921,6 +23965,7 @@ top-viral-videos.com
 top.chebra.lt
 top.dkd.lt
 top.elec.ru
+top.equisbioenergy.co
 top.mail.ru
 top.mp3sound.com
 top.plusde18ans.com
@@ -24466,6 +24511,7 @@ trackpromotion.net
 tracks.arubamediamarketing.it
 trackstarsengland.net
 trackthatad.com
+tracktheiphone.com
 trackvoluum.com
 trackword.net
 trackyourlinks.com
@@ -24833,6 +24879,7 @@ tuizhong.com
 tumri.net
 tunatekstil.net
 tunders.com
+tunes-support-billing.com
 tuouyunittyewr.top
 turbofind.com
 turkeyhotelnoslafas.su
@@ -25017,6 +25064,7 @@ unlck.net
 unlim-app.tk
 unlimitedtextads.com
 unlink.altitude.lv
+unlock-userid-service.com
 unlock-verification-userid.com
 uno.wbrotator.biz
 unocl45trpuoefft.054t69.bid
@@ -25214,6 +25262,7 @@ unrulymedia.com
 unsearchlocal.com
 unstat.baidu.com
 untd.com
+unusual-activities-account.info
 unwashedsound.com
 uobsoe.com
 uole.ad.uol.com.br
@@ -25226,6 +25275,7 @@ update-account-information.com.cgi-bin.cgi-bin.webscrcmd-login-submit.ipds.org.n
 update-account-locked.net
 update-account-resolution-center.com
 update-accountid-icloudverify.info
+update-improve-required.com
 update-validation-information.com
 update.odeen.eu
 update.onescan.co.kr
@@ -25235,6 +25285,7 @@ update.timstackleshop.es
 update.topconverting.com
 updateacces.org
 updateaccount-paypal.com
+updateaccount-simple.info
 updated-ios.com
 updated.com
 updatedate.cn
@@ -25334,10 +25385,10 @@ usergrid.com
 userlog.synapseip.tv
 username1.link
 userreport.com
-userverify0.com
-userverify1.com
 users.marketleverage.com
 users173.lolipop.jp
+userverify0.com
+userverify1.com
 usmsad.tom.com
 usr.dropkickmedia.com
 usswrite.com
@@ -25476,12 +25527,15 @@ verdict.abc.go.com
 verfer.com
 verfied-form.000webhostapp.com
 vericlick.com
+verif-sec0pp987656789-accsloginen.com
 verification-badge.com
 verification-information-update.com
 verification-service.net
 verification-service.org
 verificationaccounts-paypal.com
 verifications-supports.com
+verificationyourid.com
+verifid-account.com
 verify-1cdac5ad084879.com
 verify-your-account-id.armersgroup.com
 vernoblisk.com
@@ -25963,6 +26017,7 @@ webalize.com
 webalize.net
 webandcraft.com
 webangel.ru
+webappssolvingproblems.com
 webappswadminlogin.com
 webattack.com
 webaudit.hu
@@ -26562,6 +26617,7 @@ wwttmm.com
 wwv4ez0n.com
 www-banner.chat.ru
 www-cm.com
+www-ebay-purchase.com
 www-google-analytics.l.google.com
 www-paypal-id.com
 www1.ad.tomshardware.com
@@ -27041,6 +27097,7 @@ youknownow.ru
 youkuedu.com
 youmakemoney.com
 youmi.net
+your-apple-id-has-disabled.com
 your-free-iphone.com
 your-gift-zone.com
 your.365advert.com
@@ -27069,6 +27126,7 @@ yoursubdomain.bravemusings.com
 yoursubdomain.bravereflections.com
 yoursubdomain.braveweblog.com
 yoursubdomain.bravewriting.com
+yourtransactionislimitaion.center
 yousewan.com
 youspacko.com
 youthfire.com
