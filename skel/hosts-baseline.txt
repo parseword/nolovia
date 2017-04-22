@@ -2203,9 +2203,11 @@ adbot.com
 adbot.de
 adbot.theonion.com
 adbox.beweb.com
+adbrain.com
 adbrands.co.il
 adbrite.com
 adbroker.de
+adbrn.com
 adbsrv.com
 adbucks.com
 adbuddiz.com
@@ -6484,6 +6486,8 @@ apu0600.audientia.net
 apu0640.audientia.net
 apx.motads.com
 apxadtracking.net
+apxlv.com
+apxlv.net
 aqbly.com
 aqua.7eer.net
 aquantive.com
@@ -7700,6 +7704,7 @@ bibrath.eu
 bid.socdm.com
 bidclix.com
 bidclix.net
+bidswitch.com
 bidswitch.net
 bidsystem.com
 bidtraffic.com
@@ -10972,6 +10977,7 @@ deltagroup.kz
 demandbase.com
 demande.science
 demandmedia.s3.amazonaws.com
+demdex.com
 demdex.net
 demetria-tickle.us
 demexsoft.com
@@ -15973,6 +15979,7 @@ lfstmedia.com
 lhs-mhs.org
 lia-bartell.us
 lia-trollinger.us
+liadm.com
 liagand.cn
 lian-yis.com
 liana-carls.us
@@ -16944,6 +16951,7 @@ matchcraft.com
 material.mediav.com
 mathenea.com
 mathtag.com
+mathtag.net
 matismilenium.com
 matomy.com
 matomybranches.com
@@ -22390,6 +22398,7 @@ softwarepiset.com
 softwares.timesink.com
 soidc.com
 soinwarep.com
+sojern.com
 sokhibd.cf
 soldi.msn.it
 solitairetime.com
