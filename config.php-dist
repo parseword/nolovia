@@ -93,6 +93,11 @@ $sl->setFilePath('./data/hosts-government-malware.txt');
 $sl->setUri('./skel/hosts-government-malware.txt');
 $serverLists[] = $sl;
 
+$sl = new ServerList('nolovia Supplemental Bad Host Index');
+$sl->setFilePath('./data/hosts-nolovia.txt');
+$sl->setUri('./skel/hosts-nolovia.txt');
+$serverLists[] = $sl;
+
 $sl = new ServerList('pgl.yoyo.org');
 $sl->setFilePath('./data/hosts-yoyo.txt');
 $sl->setUri('http://pgl.yoyo.org/adservers/serverlist.php?hostformat=nohtml&mimetype=plaintext');
