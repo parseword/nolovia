@@ -6,6 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 
+37kddsserrt.xyz
 access-account-service.com
 access-limit.com
 access-reminderlimited.com
@@ -91,6 +92,7 @@ buscar.cloud
 cancel-paymentorderpaypal-check.com
 cancelitationebaytransaction.com
 cashiopeia-updates.com
+castrokolaz.top
 cgi-webscr-billing-account.com
 check-account-acces.com
 check-account-now.com
@@ -344,6 +346,7 @@ verifìcation.com
 web-id-securedinformation.com
 whereareyou.pro
 whitekoala1.xyz
+wowaskopoq.top
 www-ebay-dispute-payment.com
 www-ebay-dispute.com
 xn--facebok-wx4c.com
