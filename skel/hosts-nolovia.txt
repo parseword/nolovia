@@ -6,6 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 
+0pe.kr
 37kddsserrt.xyz
 access-account-service.com
 access-appleid-costumer.com
