@@ -284,7 +284,7 @@ function strip_comments($arr) {
 function console_message($message, $fatal = false) {
     global $timeStart;
     echo date('H:i:s') . ' - ' . sprintf('%6.02f', microtime(true) - $timeStart)
-        . 's - ' . sprintf('% 10d', memory_get_usage()) . " bytes - $message\n";
+        . 's - ' . sprintf('% 10d', memory_get_usage()) . " bytes - {$message}\n";
     if ($fatal === true) {
         console_message('FAILURE: The previous error was fatal; exiting');
         exit;
