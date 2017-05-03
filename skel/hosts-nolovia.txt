@@ -227,6 +227,8 @@ details-update-resolutions.com
 directref-paymobility1.com
 diretrak.com
 disputepayment-checked.com
+docscloud.download
+docscloud.win
 doctelldreo.us
 docuative.us
 docurnent.com
@@ -244,6 +246,9 @@ findmyiphone-app-maps.com
 findmylphone-icloud.com
 findni-iphone.net
 findyouriphones.com
+g-cloud.pro
+g-cloud.win
+gdocs.download
 get-login.com
 gov-secure.co.uk
 govsecure.co.uk
