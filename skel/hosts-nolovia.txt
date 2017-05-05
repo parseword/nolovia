@@ -10,6 +10,7 @@
 0pe.kr
 1e-transfer-interac.com
 37kddsserrt.xyz
+5apple.online
 about-locked.com
 about-summary.com
 access-account-appleid.com
@@ -57,6 +58,7 @@ app-bancobrasil.com
 app-bancodobrasil.com
 app-find-iphone-apple.com
 appid-apple-yun.com
+appid-direct-resolvecenter.com
 appid-rejectedservinter.com
 appidservice-pagepolicy.com
 appidservice-policypage.com
@@ -139,6 +141,7 @@ applelcloud-support.com
 applenz.com
 appleprovide.com
 applers-id.com
+applestore-receipt.info
 applesupportaccountlocked.com
 appleverfity.com
 appleveri-ficaton.com
@@ -250,6 +253,7 @@ customerservice-appleid.com
 customerservice-resolveaccount.com
 czusecureupdates.com
 datasecure-member.info
+dataupdate-service.info
 de-info-kunden-verifikationsicherer.ru
 de-information-mitglieder-sichererlogin.ru
 de-sicher-information-kundenlogin.ru
@@ -299,6 +303,7 @@ heavypanda1.xyz
 help-report-center.com
 help-solution-limited.com
 home-update.net
+icl0ud-iphone.com
 icl0ud-locked-detail.com
 icloud-anc-apple.com
 icloud-apple.org
@@ -307,7 +312,9 @@ icloud-block.ru
 icloud-br.com
 icloud-ceid.xyz
 icloud-chid.xyz
+icloud-cio.top
 icloud-confirmation-identifty.com
+icloud-connect.com
 icloud-help-unlocked.com
 icloud-iccd-id.com
 icloud-id.xyz
@@ -316,6 +323,7 @@ icloud-locide.site
 icloud-lock.xyz
 icloud-locked-access.com
 icloud-ns.com
+icloud-serviceaccountsuspended.com
 icloud171.com
 icloud222.com
 icloud771.com
@@ -444,8 +452,10 @@ payment-credentials-loginen.com
 payment-refunded-confirmation.com
 payment-update.site
 payment-update.website
+paymentinformation-resolutioncenter.info
 paypal-getlogin.com
 paypal-limited.com
+paypal-limited.xyz
 paypal-resolve.website
 paypalhome.com
 petwandey.us
@@ -461,6 +471,7 @@ ps-webapps.com
 purplecat1.xyz
 pushplay.tv
 quickintertac-paymentrewards.com
+reason-locked-id1.info
 rebelmouse.com
 recovery-account-system.com
 recovery-accountlogin.com
@@ -597,6 +608,7 @@ systemverification-apple.com
 telegram-verification.com
 ticklishpanda1.xyz
 tinybear1.xyz
+tosecurecode-appleid.info
 trustmordor.pw
 ucrenkyapi.com
 unauthorize-account-signin.com
@@ -604,6 +616,7 @@ unexpect-login.com
 unlock-payment-userid.com
 unlock-step-verification.com
 unlocked-accountid.com
+unlocked-online.info
 unlocked-review-apple.com
 unlockedaccount-verifyid.com
 update-account-information.info
