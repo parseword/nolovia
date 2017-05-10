@@ -5,7 +5,8 @@
 # The following list is compiled by nolovia's author from various sources, and
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
-
+#
+# Generated at 2017-05-10 11:43:45
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -134,6 +135,7 @@ applecr-iphone.com
 applecustomer.org
 appleddf.com
 applednkdk.com
+applefindlnc.com
 applei-appleeid.com
 appleicl-manageaccount.com
 appleicl.com
@@ -162,6 +164,7 @@ appleid-serviceupdate.com
 appleid-signin-apple.com
 appleid-top.com
 appleid-update-account-secure-data-cardinfo-detail.com
+appleid-verification-account-required.com
 appleid-verificatons.com
 appleid-verify-account-service.com
 appleid-webmail.com
@@ -188,6 +191,7 @@ applesecuremyaccount.com
 applestore-receipt.info
 applestore-verification.com
 applesupportaccountlocked.com
+appleunders.com
 appleverfity.com
 appleveri-ficaton.com
 appleverif.com
@@ -304,6 +308,7 @@ com-unlock.plus
 com-unlocked-account.com
 com-unlockedid778823.info
 com-user-client-itunz.com
+com-verifyourpaymeents.com
 com-webapps-activity-login.com
 com-webapps-securepolicy.net
 com-webappsscurekontloekevingedinemen.com
@@ -329,6 +334,7 @@ crazypanda1.xyz
 crazypeacock1.xyz
 customer-help-care-centre.com
 customer-service-manager.net
+customer-service-resolution-center-paypal.com
 customeraccountummary.info
 customerdetailoreses.com
 customerloginupdate.com
@@ -443,6 +449,7 @@ id-apple.info
 id-clientupdate.com
 id-confirmation.systems
 id-unlock-account.com
+idappleconfirmaccount.com
 idevicemap-location.com
 idmsa-login-recovery.com
 idpaypal-datacenter-recovery.com
@@ -729,6 +736,7 @@ sicherheits-abgleich.biz
 sicherheits-abgleich.com
 sicherheits-abgleich.org
 sign-fmicloud.com
+sign-in-security-account.info
 sign-in-youraccounthasbeenlimit.com
 signauth-verification.info
 signauthverifyaccess-information.com
@@ -773,6 +781,7 @@ suport-garena.com
 suport-lcloud.com
 suporte-find-iphone.com
 support-account-apple.com
+support-accounts.info
 support-apple-online.com
 support-appleid-apple-i.cloud
 support-apps.info
