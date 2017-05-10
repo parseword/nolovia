@@ -95,7 +95,7 @@ $serverLists[] = $sl;
 
 $sl = new ServerList('nolovia Supplemental Bad Host Index');
 $sl->setFilePath('./data/hosts-nolovia.txt');
-$sl->setUri('./skel/hosts-nolovia.txt');
+$sl->setUri('https://raw.githubusercontent.com/ampersign/nolovia/master/skel/hosts-nolovia.txt');
 $serverLists[] = $sl;
 
 $sl = new ServerList('pgl.yoyo.org');
