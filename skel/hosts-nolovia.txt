@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-05-11 06:50:31
+# Generated at 2017-05-11 18:34:19
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -601,6 +601,7 @@ manageupdate-accountunlock.info
 me-look-update-now.com
 member-validation.info
 memberdetail-data.info
+mobifoth.com
 mobileinterac-pointpayrewards.com
 mocdoctest.us
 money-lnteractfunds.com
