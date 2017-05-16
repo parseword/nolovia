@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-05-16 09:48:37
+# Generated at 2017-05-16 11:55:37
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -253,6 +253,8 @@ azadify.com
 bancomermexico2017.com
 beautifulelephant1.xyz
 beijingvampires.com
+beoplr66bxcgs.net
+betsransfercomunications.org
 bigbird1.xyz
 bigcat1.xyz
 bigduck1.xyz
@@ -422,6 +424,7 @@ docusgn.com
 e-1interac.com
 e-transfer11-interac.com
 e1-interac.com
+eesiiuroffde445.com
 emailcostumers-limited.com
 en-verify.com
 es-webapps.com
@@ -446,6 +449,7 @@ findmylphone-icloud.com
 findni-iphone.net
 findyouriphones.com
 fisrtinlogin.com
+fkksjobnn43.org
 fraud-loginactivity.com
 g-cloud.pro
 g-cloud.win
@@ -459,10 +463,12 @@ greenmouse1.xyz
 group-secureservice.xyz
 gsx2newapple.com
 guerritor.info
+h552terriddows.com
 hasbeenlimited-stoppedworking.com
 heavypanda1.xyz
 help-report-center.com
 help-solution-limited.com
+hg777hdorotosskot.info
 home-update.net
 iappleid-regist.com
 icl0ud-iphone.com
@@ -639,6 +645,7 @@ managepurchaseinaccount-service.com
 manager-support-account-security.com
 manageupdate-accountidunlock.info
 manageupdate-accountunlock.info
+maximusstafastoriesticks.info
 me-look-update-now.com
 member-validation.info
 memberdetail-data.info
@@ -937,6 +944,7 @@ thatmember.com
 ticklishpanda1.xyz
 tinybear1.xyz
 tosecurecode-appleid.info
+trollitrancessions.net
 trustmordor.pw
 twitteraccountverified.online
 uappllee.com
