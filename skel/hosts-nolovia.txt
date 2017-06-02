@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-05-30 11:25:41
+# Generated at 2017-06-01 11:26:59
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -264,6 +264,9 @@ appleid-refund.com
 appleid-resolution.com
 appleid-restore.com
 appleid-secureinfo.com
+appleid-security.site
+appleid-security.space
+appleid-security.website
 appleid-service-account.com
 appleid-serviceupdate.com
 appleid-signin-apple.com
@@ -1312,6 +1315,7 @@ supportlimitedservicesacount-paypal.com
 supportlogin-costumers.com
 supports.ltd
 supportserviceaccount-limiteds.net
+supportweeklyadmin.com
 suspciusignin.com
 suspicious-accountactivty.com
 suspicious-accountslogin.com
@@ -1450,6 +1454,7 @@ verificationicloudsactivity-signin-id.com
 verificationlogin09.com
 verified-accountemailacces.com
 verified-id.online
+verifiedaccountinformation-apple.com
 verifucationsontar.com
 verify-597d3b5730992b7c44.live
 verify-7898615c61fb40.live
