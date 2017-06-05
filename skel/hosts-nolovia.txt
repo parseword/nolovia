@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-01 11:26:59
+# Generated at 2017-06-05 15:52:45
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -450,6 +450,7 @@ com-appleinc.com
 com-appsdoi.net
 com-appsdoi.org
 com-aspx1808.com
+com-authentication-accountid.info
 com-authorized-cancellationpayment.com
 com-cgi-bin-data.info
 com-cgi-webapps-authentica-account.com
@@ -522,6 +523,7 @@ com-updates-accounts-scrtpf0912.com
 com-updates.org
 com-user-account-apple.com
 com-user-client-itunz.com
+com-verification-account-signin.info
 com-verificationclient.com
 com-verifyourpaymeents.com
 com-webapps-activity-login.com
@@ -833,6 +835,7 @@ limitation-manage.com
 limitedaccresolve-help-service-bin.com
 limitted-account.com
 lnterac-funds.com
+lnterac-secure.org
 lnteract-rewards.com
 loading-apple.com
 localize-icloud.com
@@ -1182,6 +1185,7 @@ service-paypail.net
 service-ppl-safe.com
 service-solution-account.info
 service-update-details.com
+service-updateaccount.date
 service-user-account.com
 service-userid.com
 serviceappfian.com
@@ -1326,6 +1330,7 @@ swiss-underupdate.com
 systemverification-apple.com
 tangerine-webverifications.com
 tcpidapple-acntcloud.com
+tech-supportcenter.us
 telegram-verification.com
 temporaryhold-webappssvcs.com
 terms-service.com
