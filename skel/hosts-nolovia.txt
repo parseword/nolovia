@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-08 09:18:56
+# Generated at 2017-06-11 15:37:27
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -105,6 +105,7 @@ adnegah.ir
 adnegah.net
 adsbtrack.com
 adsbtrk.com
+adstanding.com
 afftrack.com
 already-apple.com
 amazon-awsummary.com
@@ -704,6 +705,7 @@ help-solution-limited.com
 hg777hdorotosskot.info
 home-secured-autentic-verifi-account.com
 home-update.net
+hucksterbot.ru
 iappleid-regist.com
 icl0ud-iphone.com
 icl0ud-locked-detail.com
@@ -1012,6 +1014,7 @@ new-verificationdevelopeer.com
 news-mitteilung.online
 next-verifty-account.com
 ninicloud.com
+ninjaoutreach.com
 notification-apple-service.com
 officialpage-appleid.com
 onlinepaymennt.com
@@ -1071,6 +1074,7 @@ policypage-updatestoppedworking.com
 polyicloudfinder.com
 popularenlineaservicios.com
 powerrballi.top
+pozvonim.com
 ppintl-limited-account-service-solution-id8-v2.com
 ppintl-service-account-limitid-colution-center-id-cgi1.com
 ppintl-service-account-limitid-colution-center-id-member.com
@@ -1317,6 +1321,7 @@ signin.store
 signinsecured-paypal-comaccs-payverify29038-resolution9910.com
 silvertiger1.xyz
 skrilln.net
+slimcutmedia.com
 smallbutterfly1.xyz
 smallduck1.xyz
 smallpanda1.xyz
@@ -1333,6 +1338,7 @@ source-payments.com
 source-updateacces-accountlocked.com
 source-updateacces-helpaccountlocked.com
 source-updateacces-servicelocked.com
+sphereup.com
 sprinklr.com
 ssl-appleidverification.com
 sslnewupdatess2017.com
