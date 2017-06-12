@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-11 15:37:27
+# Generated at 2017-06-11 22:35:33
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -110,6 +110,7 @@ afftrack.com
 already-apple.com
 amazon-awsummary.com
 amazon-premiumsecu.com
+amellet.bit
 amexopesx.com
 apk-bancodobrasil.com
 app-bancobrasil.com
@@ -375,6 +376,7 @@ appstore-unclocked.com
 appstore-unlockservice.com
 appstores-icloud.com
 apptunes-appleid.info
+aprode.bit
 asksummaryaccount.com
 assd-webapps.com
 associated-account-purchase.com
@@ -418,6 +420,7 @@ blueconic.com
 bluegorilla1.xyz
 bn-multired1.com
 bokletdoc.us
+bosshugss.me
 brainpad.co.jp
 brightfunnel.com
 brownpanda1.xyz
@@ -429,6 +432,9 @@ callibri.ru
 cancel-paymentorderpaypal-check.com
 canceledpayment.com
 cancelitationebaytransaction.com
+carajoin.me
+caramella.fun
+caramella.life
 cashiopeia-updates.com
 castrokolaz.top
 cenb.gdn
@@ -619,10 +625,13 @@ de-sichererlogin-kundencheckout.ru
 de-sicherermitglieder-checkout.ru
 de-sicherheit-check-true.info
 de-sicherheit-check-valid.info
+dere879.me
+derraaa11.me
 detailaccount.info
 details-resolution-access.com
 details-update-resolutions.com
 detufrgybyapple.com
+dionbeno.me
 direct-verified.com
 directref-paymobility1.com
 diretrak.com
@@ -633,6 +642,7 @@ doctelldreo.us
 docuative.us
 docurnent.com
 docusgn.com
+drossel.me
 e-1interac.com
 e-transfer11-interac.com
 e1-interac.com
@@ -674,10 +684,12 @@ fkksjobnn43.org
 flndmyiphone-applelocation.com
 fmimaps-apple.com
 follingerservicemabe.com
+fopflop.me
 forultimateandbest4upgradepc.download
 fraud-loginactivity.com
 g-cloud.pro
 g-cloud.win
+ganzerri.me
 gdocs.download
 get-confirmation.com
 get-login.com
@@ -841,6 +853,8 @@ iphone-findip.com
 iphone-icloud-find.com
 iphone-recuperar.com
 iphone-sivre.com
+ipichnaear.me
+ipichnaear22.me
 issue-access.com
 istomembersproduct.com
 itunes-account-recover.com
@@ -852,6 +866,7 @@ itunesapplenvoice.info
 iverifyaccount.info
 jdocfrez.us
 jetlore.com
+jpar333.me
 jump4geo.com
 justvalidate.xyz
 justvalidateit.xyz
@@ -995,6 +1010,7 @@ myappleipone.org
 mycarddetailsverify.com
 mycustomer-service.com
 myfraudtransactionaccount.center
+mygtmn.com
 myicloud-apple-account-verify.com
 myicloud-id.com
 myid-iphone.net
@@ -1091,6 +1107,7 @@ ppintl-servicelimited-gethelps-solution-id2.com
 ppintl-servicesolutionlimitservcs-id1.com
 ppleid-lockedid.com
 predep.com
+prestoris.com
 prevent-limitation.com
 priv-my-autoservice.com
 privacyaccountlimited.com
@@ -1334,6 +1351,7 @@ solve-your-account.net
 solve-your-important-account.net
 soporte-appid.com
 soporteicloud.com
+sorafef.me
 source-payments.com
 source-updateacces-accountlocked.com
 source-updateacces-helpaccountlocked.com
@@ -1653,7 +1671,10 @@ whereareyou.pro
 whitekoala1.xyz
 winclicks.info
 wixsite.com
+wlespuld.me
+wlespulsd1.me
 wowaskopoq.top
+wqiwjwwgyz.science
 ww3-appleid-store.com
 www-appleid-notify.com
 www-ebay-dispute-payment.com
