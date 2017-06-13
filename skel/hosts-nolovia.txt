@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-11 22:35:33
+# Generated at 2017-06-13 10:00:22
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -48,6 +48,8 @@ account-center.net
 account-disable-activity.com
 account-disable-updates.com
 account-expired.com
+account-helperservice.com
+account-helperservice.net
 account-icloud-verification.info
 account-icloudverification.info
 account-identity-verify.com
@@ -108,8 +110,12 @@ adsbtrk.com
 adstanding.com
 afftrack.com
 already-apple.com
+amazoapp.com
+amazoappreview.com
 amazon-awsummary.com
 amazon-premiumsecu.com
+amazonnapp.com
+amazonsse.com
 amellet.bit
 amexopesx.com
 apk-bancodobrasil.com
@@ -528,6 +534,7 @@ com-resolutioncentre.com
 com-resolve-centes.net
 com-resolve-costumer.net
 com-resolvedicloud.info
+com-reviewsolvenow.info
 com-scrtst-updatesrt-requires6819.com
 com-secure-alerts-scrts5891.com
 com-secure-center.info
@@ -616,6 +623,7 @@ czusecureupdates.com
 d7t0ajd8uy1xk.cloudfront.net
 data-validmember.info
 datacenter-customer.com
+datacreated-updates.info
 datasecure-member.info
 dataupdate-service.info
 de-info-kunden-verifikationsicherer.ru
@@ -667,6 +675,7 @@ find-iphone-app-apple.com
 find-iphone-inc.com
 find-iphones-ios.com
 find-itunes-id.com
+find-logindata.info
 find-lost-apple-devices.com
 findi-apple-icloud.com
 findiphone-device.com
@@ -930,6 +939,7 @@ login-toverify-youraccount.info
 login-toverify-youraccountid.info
 login-unlockaccount-appleid.com
 login-updateaccounst.com
+logincreateddata.info
 logindata-updateservice.com
 logininformationwebapps.com
 loginsu.com
@@ -1268,6 +1278,7 @@ service-informations.net
 service-paypail.net
 service-ppl-safe.com
 service-salsa.com
+service-security-center.com
 service-solution-account.info
 service-update-details.com
 service-updateaccount.date
@@ -1317,6 +1328,7 @@ sign-update-information-accountse.com
 signauth-verification.info
 signauthverifyaccess-information.com
 signiin-account.com
+signiin-accounts-access.com
 signin-access-account-verify.com
 signin-access-restore-account.com
 signin-account-secure-verify.com
@@ -1361,6 +1373,7 @@ sprinklr.com
 ssl-appleidverification.com
 sslnewupdatess2017.com
 sso-billingservice-webapps.com
+statement-account-limitation.info
 statements-icloudappleid.com
 statusdelivery.com
 stepconfirm-limitation-eng-lang.com
@@ -1438,6 +1451,7 @@ tech-supportcenter.us
 telegram-verification.com
 temporaryhold-webappssvcs.com
 terms-service.com
+terworkingaccountapple-yourverifiedhanc.com
 thatmember.com
 ticklishpanda1.xyz
 tinybear1.xyz
