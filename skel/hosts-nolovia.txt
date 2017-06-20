@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-13 10:00:22
+# Generated at 2017-06-20 14:12:36
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -726,6 +726,14 @@ help-solution-limited.com
 hg777hdorotosskot.info
 home-secured-autentic-verifi-account.com
 home-update.net
+hs-scripts.com
+hsappstatic.net
+hscta.net
+hsforms.net
+hsstatic.net
+hubapi.com
+hubs.ly
+hubspot.net
 hucksterbot.ru
 iappleid-regist.com
 icl0ud-iphone.com
@@ -987,6 +995,7 @@ money-lnteractfunds.com
 mpp-service.com
 mrdarkddos.com
 mudrakgroup.in
+murdoog.com
 must-update-uewe.com
 my-applelocate.com
 my-appsstoreicloud.com
@@ -1028,6 +1037,7 @@ mynativeplatform.com
 mysecure-id-icloud.com
 mytransaction-account-fraudprevention.center
 myuaccname-apple.info
+navistone.com
 near-located.com
 need-attention-error-detected.xyz
 need-attention.xyz
