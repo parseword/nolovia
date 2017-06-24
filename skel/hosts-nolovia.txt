@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-22 11:10:13
+# Generated at 2017-06-24 15:39:16
 01interac-etransfer-ca.com
 0pe.kr
 1e-transfer-interac.com
@@ -464,6 +464,7 @@ china-iphone.top
 chk-update.com
 cibconline-verifications.com
 claim-policyupdate.com
+clickability.com
 client-accountbilling.com
 client-accountremove.com
 client-servicezones.com
@@ -633,6 +634,7 @@ de-sichererlogin-kundencheckout.ru
 de-sicherermitglieder-checkout.ru
 de-sicherheit-check-true.info
 de-sicherheit-check-valid.info
+departapp.com
 dere879.me
 derraaa11.me
 detailaccount.info
@@ -705,6 +707,7 @@ get-confirmation.com
 get-login.com
 get-verived-account.com
 getsitecontrol.com
+gigya.com
 go2click.org
 googlecloud.su
 googlz.blackfriday
@@ -923,6 +926,7 @@ locked-apps.net
 locked-page.com
 locked-verify.com
 lockedmyacc-appleid.info
+lockerdome.com
 loghaomedoc.us
 login-acces-verified-account-intl.com
 login-acces-verify-account-intl.com
@@ -1380,6 +1384,9 @@ source-updateacces-accountlocked.com
 source-updateacces-helpaccountlocked.com
 source-updateacces-servicelocked.com
 sphereup.com
+spot.im
+spots.im
+springserve.com
 sprinklr.com
 ssl-appleidverification.com
 sslnewupdatess2017.com
@@ -1399,6 +1406,7 @@ summary-account-service.org
 summary-report.com
 summary-resolutioncenter.com
 summaryunrecognizedinfo.com
+sumologic.com
 suport-garena.com
 suport-lcloud.com
 suporte-find-iphone.com
@@ -1467,6 +1475,7 @@ thatmember.com
 ticklishpanda1.xyz
 tinybear1.xyz
 tosecurecode-appleid.info
+tremorhub.com
 trollitrancessions.net
 trustmordor.pw
 twitteraccountverified.online
