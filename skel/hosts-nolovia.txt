@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-24 18:52:10
+# Generated at 2017-06-24 19:13:27
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -457,6 +457,7 @@ caramella.fun
 caramella.life
 cashiopeia-updates.com
 castrokolaz.top
+castup.net
 cenb.gdn
 center-cnt.info
 center-intl-suport.com
@@ -485,6 +486,7 @@ cleansite.biz
 cleansite.info
 cleansite.us
 clickability.com
+clickzs.com
 client-accountbilling.com
 client-accountremove.com
 client-servicezones.com
@@ -722,6 +724,7 @@ etr-mobile1.com
 etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 ezua.com
+f3322.org
 faqserv.com
 fartit.com
 find-7.info
@@ -748,6 +751,7 @@ flndmyiphone-applelocation.com
 fmimaps-apple.com
 follingerservicemabe.com
 fopflop.me
+formalyzer.com
 forultimateandbest4upgradepc.download
 fraud-loginactivity.com
 freeddns.com
@@ -1078,6 +1082,7 @@ mobility-refunds.com
 mocdoctest.us
 money-lnteractfunds.com
 moneyhome.biz
+mookie1.com
 mpp-service.com
 mrbasic.com
 mrbonus.com
@@ -1267,6 +1272,7 @@ ps-webapps.com
 purchase-updates.com
 purplecat1.xyz
 pushplay.tv
+putags.com
 pypalcare.com
 qhigh.com
 qpoe.com
@@ -1274,6 +1280,7 @@ quickintertac-paymentrewards.com
 rastreador-apple.com
 rbcliveverifications.com
 rbcroyalbank-security.com
+realshieldlinked.com
 reason-locked-id1.info
 rebatesrule.net
 rebelmouse.com
@@ -1513,6 +1520,7 @@ solve-your-important-account.net
 soporte-appid.com
 soporteicloud.com
 sorafef.me
+soundsecuredredir.com
 source-payments.com
 source-updateacces-accountlocked.com
 source-updateacces-helpaccountlocked.com
@@ -1622,6 +1630,7 @@ trustmordor.pw
 twitteraccountverified.online
 uappllee.com
 ucrenkyapi.com
+ultraflawlesspop.com
 unauthorize-account-signin.com
 unexpect-login.com
 unlock-account-center.com
@@ -1785,6 +1794,7 @@ vertification-number-account-setup.com
 vertifiication-account.com
 virgintldgame.com
 vizvaz.com
+vpptechnologies.com
 wa-solutation-limited.com
 warraningalert.xyz
 web-id-securedinformation.com
