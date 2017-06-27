@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-24 19:13:27
+# Generated at 2017-06-26 21:07:34
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -113,6 +113,7 @@ admin-apple.space
 adnegah.com
 adnegah.ir
 adnegah.net
+ads-twitter.com
 adsbtrack.com
 adsbtrk.com
 adstanding.com
