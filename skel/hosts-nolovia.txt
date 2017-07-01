@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-30 22:29:51
+# Generated at 2017-07-01 11:25:10
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1262,6 +1262,7 @@ ppintl-servicelimited-gethelps-solution-id1.com
 ppintl-servicelimited-gethelps-solution-id2.com
 ppintl-servicesolutionlimitservcs-id1.com
 ppleid-lockedid.com
+ppmon.com
 predep.com
 prestoris.com
 prevent-limitation.com
