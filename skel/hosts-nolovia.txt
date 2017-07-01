@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-06-29 20:49:33
+# Generated at 2017-06-30 22:29:51
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1211,6 +1211,7 @@ payment-update.site
 payment-update.website
 paymentconfimrs.com
 paymentinformation-resolutioncenter.info
+payments-account-payypal.co
 payments-refund.com
 paypa.world
 paypa1l.com
