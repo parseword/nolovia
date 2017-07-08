@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-01 11:25:10
+# Generated at 2017-07-05 13:51:50
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1178,6 +1178,7 @@ ns3.name
 ocry.com
 officialpage-appleid.com
 onedumb.com
+onion.dog
 onlinepaymennt.com
 onlines-access.com
 onmypc.biz
@@ -1613,6 +1614,7 @@ svalkaw.su
 swiss-underupdate.com
 systemverification-apple.com
 tangerine-webverifications.com
+tay-sun.ru
 tcpidapple-acntcloud.com
 tech-supportcenter.us
 telegram-verification.com
