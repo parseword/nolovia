@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-05 13:51:50
+# Generated at 2017-07-08 21:26:40
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -129,6 +129,7 @@ amazonsse.com
 amellet.bit
 americanunfinished.com
 amexopesx.com
+analytics.tout.com
 apk-bancodobrasil.com
 app-bancobrasil.com
 app-bancodobrasil.com
@@ -1161,6 +1162,7 @@ networkdocweb.us
 new-loginservice.com
 new-verificationdevelopeer.com
 news-mitteilung.online
+newsmaxfeednetwork.com
 next-verifty-account.com
 ninicloud.com
 ninjaoutreach.com
@@ -1616,6 +1618,7 @@ systemverification-apple.com
 tangerine-webverifications.com
 tay-sun.ru
 tcpidapple-acntcloud.com
+td583.com
 tech-supportcenter.us
 telegram-verification.com
 temporaryhold-webappssvcs.com
