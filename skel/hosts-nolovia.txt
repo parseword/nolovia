@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-08 21:26:40
+# Generated at 2017-07-10 00:05:11
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -109,6 +109,7 @@ active-your-pp.com
 activedocelog.us
 activity-accountid.com
 activityloginpurchase.com
+admantx.com
 admin-apple.space
 adnegah.com
 adnegah.ir
@@ -418,6 +419,7 @@ bancomermexico2017.com
 beautifulelephant1.xyz
 beijingvampires.com
 beoplr66bxcgs.net
+bestsecuritysearch.com
 betsransfercomunications.org
 bigbird1.xyz
 bigcat1.xyz
@@ -922,6 +924,7 @@ interac-e1.com
 interac-refund-transfercanada.com
 interac.world
 interaconline-etransfer-paymentrefund.com
+intercom.io
 intermob-refundbnk1.com
 internetmessagebox.xyz
 internetmessageboxneedvalidation.xyz
@@ -1642,6 +1645,7 @@ ucrenkyapi.com
 ultraflawlesspop.com
 unauthorize-account-signin.com
 unexpect-login.com
+universalcookie.com
 unlock-account-center.com
 unlock-account-center.net
 unlock-login-id-frozen.com
