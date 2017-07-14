@@ -93,6 +93,11 @@ $sl->setFilePath('./data/hosts-government-malware.txt');
 $sl->setUri('./skel/hosts-government-malware.txt');
 $serverLists[] = $sl;
 
+$sl = new ServerList('nolovia IBM Silverpop Marketing');
+$sl->setFilePath('./data/hosts-silverpop.txt');
+$sl->setUri('./skel/hosts-silverpop.txt');
+$serverLists[] = $sl;
+
 $sl = new ServerList('nolovia Supplemental Bad Host Index');
 $sl->setFilePath('./data/hosts-nolovia.txt');
 $sl->setUri('https://raw.githubusercontent.com/ampersign/nolovia/master/skel/hosts-nolovia.txt');
