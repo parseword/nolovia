@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-15 18:41:57
+# Generated at 2017-07-18 10:09:37
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1706,6 +1706,7 @@ updating-information-service.com
 ups-webaps.net
 urgentauthrequire.xyz
 urgentauthrequired.xyz
+uscert.top
 user-summary-account.com
 useraccountverifications-appleid.com
 validate-to-get-access.xyz
