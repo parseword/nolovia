@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-18 10:09:37
+# Generated at 2017-07-20 09:39:19
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -510,6 +510,7 @@ com-account-notifycation.xyz
 com-accounts-invoices.info
 com-accountsettings.com
 com-accs-resolution-doc9281.com
+com-actions-id.info
 com-appleid-apple-service-client.com
 com-appleid.com
 com-appleinc.com
@@ -520,6 +521,7 @@ com-authentication-accountid.info
 com-authorized-cancellationpayment.com
 com-cgi-bin-data.info
 com-cgi-webapps-authentica-account.com
+com-cgi.info
 com-cloudaction.com
 com-customer-helpdesk.info
 com-dsima-ssl.com
@@ -539,6 +541,7 @@ com-managemyaccount-resolve.com
 com-myicloud.info
 com-notifeyallowyora.com
 com-paymentinformation.net
+com-personal.info
 com-portalrecovery.com
 com-privasi-center.com
 com-recoveryaccountlogin.com
@@ -799,6 +802,7 @@ help-forgot-information.org
 help-report-center.com
 help-service-center.com
 help-solution-limited.com
+help-suport.net
 hg777hdorotosskot.info
 home-secured-autentic-verifi-account.com
 home-update.net
@@ -862,6 +866,7 @@ icloud771.com
 icloudaccount-update.info
 icloudap.com
 icloudapo.com
+icloudfound.com
 icloudfuwu.com
 icloudguide.com
 icloudhint.com
@@ -869,6 +874,7 @@ icloudid-usa.xyz
 icloudireland.com
 icloudiservices.com
 icloudken.com
+icloudkeys.com
 icloudmain.com
 icloudsite.com
 icloup-yuie.cn
@@ -1101,6 +1107,7 @@ mrslove.com
 mudrakgroup.in
 murdoog.com
 must-update-uewe.com
+my-account-profilepypal-reactivated.info
 my-applelocate.com
 my-appsstoreicloud.com
 my-iclid-icloud.com
@@ -1218,6 +1225,7 @@ payment-policy.com
 payment-refunded-confirmation.com
 payment-update.site
 payment-update.website
+paymentaccount-verificationinformation.info
 paymentconfimrs.com
 paymentinformation-resolutioncenter.info
 payments-account-payypal.co
@@ -1328,6 +1336,7 @@ refunded-payment-service.com
 refunds-confirmation.com
 refunds-program.com
 refunds-program.net
+registerdata.info
 registered-customers.com
 relogin-euwee.com
 reportabuse-apple.com
@@ -1393,6 +1402,7 @@ secure-group.pw
 secure-locked.com
 secure-logoini-info.com
 secure-myaccount.online
+secure-myappleid.com
 secure-verification-account-required.com
 secure-verification-account.com
 secure-verification-activity.com
@@ -1516,6 +1526,7 @@ signin-verificationyouraccounthasbeenlimit.com
 signin-verify-accounts.com
 signin.store
 signinsecured-paypal-comaccs-payverify29038-resolution9910.com
+signinwebappsresolvehight.info
 silvertiger1.xyz
 sixth.biz
 skrilln.net
@@ -1696,11 +1707,14 @@ updateaccounts-verifications.com
 updatebillinginformation-i.cloud
 updated-recovery-access.com
 updatedata-member.info
+updatedata-user.info
 updateinformation-itunes.com
 updatepolicedverif1id.net
 updatepolicyinfo-system.net
+updatermation.fyi
 updates-accounts-scrts77814.com
 updates-privacy.com
+updatesuser.info
 updateverification-service.com
 updating-information-service.com
 ups-webaps.net
