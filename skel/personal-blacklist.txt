@@ -17,9 +17,10 @@
 doubleclick.net
 
 ################################################################################
-# Webex plugin from Cisco allows remote code execution. If you use Cisco Webex,
-# you should comment these two entries out.
-# See https://bugs.chromium.org/p/project-zero/issues/detail?id=1096
+# Webex plugin from Cisco has a history of remote code execution vulnerabilities.
+# If you use Cisco Webex, you should comment these two entries out.
+# See https://bugs.chromium.org/p/project-zero/issues/detail?id=1096  [Jan 2017]
+# See https://bugs.chromium.org/p/project-zero/issues/detail?id=1324  [Jul 2017]
 
 webex.com
 webex.co.in
