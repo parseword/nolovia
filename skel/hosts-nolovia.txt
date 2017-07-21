@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-20 09:39:19
+# Generated at 2017-07-21 14:19:40
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1321,6 +1321,7 @@ redbear1.xyz
 redduck1.xyz
 redirect-confirmation.com
 redirect-domainservice.com
+redirect-report.com
 redmouse1.xyz
 redpeacock1.xyz
 redswan1.xyz
