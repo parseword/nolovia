@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-21 14:19:40
+# Generated at 2017-07-22 16:17:41
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -735,6 +735,7 @@ etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 ezua.com
 f3322.org
+facebook-front.com
 faqserv.com
 fartit.com
 find-7.info
@@ -808,6 +809,7 @@ home-secured-autentic-verifi-account.com
 home-update.net
 hs-scripts.com
 hsappstatic.net
+hsbcuksecure.com
 hscta.net
 hsforms.net
 hsstatic.net
@@ -926,6 +928,7 @@ infoupdateppl.com
 instagram-checkout.com
 instagram-page.com
 instagramim.xyz
+instagramtakipciservis.com
 instanthq.com
 inte-authorization0102.com
 interac-e1.com
@@ -1090,6 +1093,7 @@ me-look-update-now.com
 mefound.com
 member-validation.info
 memberdetail-data.info
+mhoblysantanderbr.com
 mobifoth.com
 mobiledevsafety.com
 mobileinterac-pointpayrewards.com
@@ -1412,6 +1416,7 @@ secureaccount-limitedverification.com
 secureapple-apple.com
 secured-account-locked.com
 secureidupdateinformation.com
+secureloginsecure.online
 secures-apple.com
 secures-intlrecovery.com
 secureservice-group.xyz
@@ -1420,6 +1425,7 @@ secureupdateid.info
 secureupdatepayp.com
 securiety-access.com
 security-account-login.com
+security-instagram.com
 security-paymentacces-id.com
 security-quickcheck.com
 security-service.group
@@ -1537,6 +1543,7 @@ smallduck1.xyz
 smallpanda1.xyz
 smlblinds.com
 sms-info-apple.com
+snapchat-help.com
 solutation-update.com
 solve-account-verificationss-acces.com
 solve-accounts-verifications-info.com
@@ -1892,6 +1899,7 @@ whitekoala1.xyz
 wikaba.com
 winclicks.info
 wixsite.com
+wklimited.com
 wlespuld.me
 wlespulsd1.me
 wowaskopoq.top
@@ -1914,6 +1922,7 @@ www1.biz
 wwwacessocooopnore.com
 wwwcrediplanacesso.com
 wwwhost.biz
+wwwwmobisantander.com
 x24hr.com
 xn--facebok-wx4c.com
 xn--facebok-y2c.com
