@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-22 16:17:41
+# Generated at 2017-07-26 13:06:47
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1662,6 +1662,7 @@ trickip.org
 trollitrancessions.net
 trustmordor.pw
 twitteraccountverified.online
+uacexchange.us
 uappllee.com
 ucrenkyapi.com
 ultraflawlesspop.com
