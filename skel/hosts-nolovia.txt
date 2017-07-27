@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-26 13:06:47
+# Generated at 2017-07-27 12:29:49
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -735,9 +735,11 @@ etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 ezua.com
 f3322.org
+face-book.online
 facebook-front.com
 faqserv.com
 fartit.com
+filmcoffee.win
 find-7.info
 find-iphone-app-apple.com
 find-iphone-inc.com
