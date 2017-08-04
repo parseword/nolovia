@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-07-27 12:29:49
+# Generated at 2017-08-04 14:58:44
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -142,6 +142,7 @@ app-id-login.com
 app-id-service.com
 app-idresolvehelp.com
 app-updtscure.com
+app.link
 appid-apple-yun.com
 appid-dataresolve.com
 appid-direct-resolutioncenter.com
@@ -486,7 +487,11 @@ china-app-appleid.com
 china-iphone-id.com
 china-iphone.top
 chk-update.com
+choicepoint.com
 cibconline-verifications.com
+citrix-online.com
+citrix-online.xyz
+citrix-software.com
 claim-policyupdate.com
 cleansite.biz
 cleansite.info
@@ -716,6 +721,7 @@ e1-interac.com
 edns.biz
 eesiiuroffde445.com
 emailcostumers-limited.com
+emaile.org
 en-verify.com
 eng-servicesonlineactivity.com
 enmask.com
@@ -1236,6 +1242,7 @@ paymentconfimrs.com
 paymentinformation-resolutioncenter.info
 payments-account-payypal.co
 payments-refund.com
+payoneerz.com
 paypa.world
 paypa1l.com
 paypaaljembutjembut.net
