@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-08-05 23:12:10
+# Generated at 2017-08-10 09:39:05
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -99,6 +99,7 @@ accountupdate-unusualactivity-verification.info
 aceptandverify.com
 acessocliente.net
 acessomovel.mobi
+acessoonlinedocliente.com
 acmetoy.com
 acount-customer.info
 acount-reviiews.com
@@ -419,6 +420,7 @@ authresolveunauthorisedtransaction.com
 autoconfirm-refunds.com
 azadify.com
 bancomermexico2017.com
+banksampahbaginda.com
 beautifulelephant1.xyz
 beijingvampires.com
 beoplr66bxcgs.net
@@ -935,6 +937,7 @@ information-accountdb.com
 infoupdateppl.com
 instagram-checkout.com
 instagram-page.com
+instagram61.com
 instagramim.xyz
 instagramtakipciservis.com
 instanthq.com
@@ -1416,6 +1419,7 @@ secure-data-center.com
 secure-group.pw
 secure-locked.com
 secure-logoini-info.com
+secure-my-account.com
 secure-myaccount.online
 secure-myappleid.com
 secure-verification-account-required.com
@@ -1548,6 +1552,8 @@ silvertiger1.xyz
 sixth.biz
 skrilln.net
 slimcutmedia.com
+slkdocsmember.website
+slkdocsofficemember.website
 smallbutterfly1.xyz
 smallduck1.xyz
 smallpanda1.xyz
@@ -1810,6 +1816,7 @@ verify-597d3b5730992b7c44.live
 verify-7898615c61fb40.live
 verify-account-disabled.com
 verify-accountlimitedinformation.com
+verify-accountt.com
 verify-ad88f30d322722.com
 verify-ad88f30fd322722.com
 verify-af88f30d3vcb.com
