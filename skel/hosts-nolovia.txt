@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-08-13 21:08:00
+# Generated at 2017-08-16 15:20:55
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -51,6 +51,7 @@ accessinfoverification.com
 accoount-resolve-center.net
 accou1nt-update-login.com
 accounsystemverificationppal.com
+account-action-info.date
 account-activation-premium.com
 account-anz-home.com
 account-apple-secured-locked.com
@@ -292,6 +293,7 @@ appleid-confirm.com
 appleid-cust-protections-helpdesk.com
 appleid-customerservice.com
 appleid-emailupdate.com
+appleid-helperaccount-information.com
 appleid-icloud-safe.com
 appleid-icloudaccount.space
 appleid-icloudaccount.website
@@ -674,6 +676,7 @@ copperchickens.com
 copycarpenter.com
 copyrightaccesscontrols.com
 costumer-account-update.com
+costumerservice.community
 crawlclocks.com
 crazycat1.xyz
 crazypanda1.xyz
@@ -1032,6 +1035,7 @@ ip-appleid.com
 ip.taobao.com
 ipcypral-revused.com
 iphone-app.top
+iphone-applle.com.cn
 iphone-ary.com
 iphone-awg.com
 iphone-awx.com
@@ -1098,6 +1102,7 @@ limited-version.com
 limitedaccresolve-help-service-bin.com
 limitted-account.com
 limpingline.com
+lisasmithpypl.com
 lizardslaugh.com
 lloydsbacs.co.uk
 lnterac-funds.com
@@ -1257,6 +1262,7 @@ mypop3.net
 mypop3.org
 mysecondarydns.com
 mysecure-id-icloud.com
+myserviceaccount.net
 mytransaction-account-fraudprevention.center
 myuaccname-apple.info
 mywww.biz
@@ -1515,6 +1521,7 @@ scrappcloud-idapple.com
 scrubsky.com
 scrubswim.com
 scureee-paypall.com
+searchmyiphone.com
 secur0intl-payment-access-pp99057875.com
 secure-2stepverification-requires.com
 secure-appleid.net
@@ -1725,6 +1732,7 @@ sumary-repoerteraccount.com
 summary-account-service.org
 summary-report.com
 summary-resolutioncenter.com
+summarybilling-srvcs.online
 summaryunrecognizedinfo.com
 sumologic.com
 superficialsink.com
@@ -1737,6 +1745,7 @@ support-accounts.com
 support-accounts.info
 support-appl-eid-apple.com
 support-apple-online.com
+support-appleid-accounts.com
 support-appleid-apple-account.com
 support-appleid-apple-i.cloud
 support-appleid-info.com
@@ -1821,11 +1830,14 @@ uappllee.com
 ucrenkyapi.com
 ultraflawlesspop.com
 unauthorize-account-signin.com
+unblocked-account.com
+unblocked-account.net
 unexpect-login.com
 universalcookie.com
 unknowntray.com
 unlock-account-center.com
 unlock-account-center.net
+unlock-limited-account.com
 unlock-login-id-frozen.com
 unlock-myaccount-i.cloud
 unlock-payment-userid.com
