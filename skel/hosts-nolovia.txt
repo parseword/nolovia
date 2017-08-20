@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-08-20 16:39:02
+# Generated at 2017-08-20 16:43:53
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1567,6 +1567,7 @@ retrowebdoc.us
 reunlock-services-accountapple.com
 reupload-security-update-uewe.com
 revalidatelicence.xyz
+revealmobile.com
 revenuepervisit.com
 revieu-account.space
 reviewaccountlogin.com
