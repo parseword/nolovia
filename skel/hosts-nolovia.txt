@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-08-18 22:22:32
+# Generated at 2017-08-20 16:39:02
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -83,6 +83,7 @@ account-user-notice-reminder.com
 account-verification-agreement.info
 account-verifizieren.xyz
 accountcenter.cloud
+accountcheckout.net
 accountid-unusualactivity-verification.info
 accountlimited-securegeneral.com
 accountlocked.engineer
@@ -94,6 +95,7 @@ accounts-id.com
 accounts-limiteds.com
 accounts-mypaypal.com
 accounts-oulook365.com
+accounts-snapchat.online
 accounts-verify-paypal.com
 accountsauthentification.com
 accountservice-limited.org
@@ -422,6 +424,7 @@ attention-required.xyz
 aunth-undisable-verification.info
 auth-login-verif-online.com
 authenticate-updates.com
+authenticateaccount.stream
 authentication-appleaccount.com
 authentication-appleid.com
 authorization-account.com
@@ -434,6 +437,7 @@ authresolveunauthorisedtransaction.com
 autoconfirm-refunds.com
 awzbijw.com
 azadify.com
+bad-reqest-344.ru
 balloontexture.com
 bancomermexico2017.com
 banksampahbaginda.com
@@ -588,6 +592,7 @@ com-customer-helpdesk.info
 com-dsima-ssl.com
 com-fbc34a6acfdg334fbg.com
 com-fiind.top
+com-help-contact-1337232414680045.center
 com-home-appleid-verification.com
 com-i05.com
 com-icloudid-secure.org
@@ -873,6 +878,7 @@ fuzzyflavor.com
 g-cloud.pro
 g-cloud.win
 ga87z2o.com
+ganti-nama-facebook.com
 ganzerri.me
 gdocs.download
 get-confirmation.com
@@ -1174,6 +1180,8 @@ login-ivpple.com
 login-limitedaccounts.com
 login-me-the-account.com
 login-myaccount-verify.com
+login-netflix.com
+login-rambler.ru
 login-reminderlimited.com
 login-resolveaccountlimited.com
 login-secure-account.com
@@ -1394,11 +1402,13 @@ payment-policy.com
 payment-refunded-confirmation.com
 payment-update.site
 payment-update.website
+payment-yandex.ru
 paymentaccount-verificationinformation.info
 paymentconfimrs.com
 paymentinformation-resolutioncenter.info
 payments-account-payypal.co
 payments-refund.com
+paymentyandex.xyz
 payoneerz.com
 paypa.world
 paypa1l.com
@@ -1648,6 +1658,7 @@ service-account-accs0987656789-nyolong-barokah.com
 service-account-pypallimited.com
 service-apps.com
 service-center-inc.com
+service-centered.info
 service-confirmation-privacy.com
 service-datacenter-update.com
 service-disputed-gblog-bngst.net
@@ -2081,6 +2092,7 @@ vipddos.com
 virgintldgame.com
 vizvaz.com
 voicevegetable.com
+volume-login-key-349388231231291.ru
 vpptechnologies.com
 wa-solutation-limited.com
 warraningalert.xyz
@@ -2153,6 +2165,7 @@ wlespuld.me
 wlespulsd1.me
 wowaskopoq.top
 wqiwjwwgyz.science
+wusecureaccountsworld.com
 ww3-appleid-store.com
 www-appleid-notify.com
 www-ebay-dispute-payment.com
