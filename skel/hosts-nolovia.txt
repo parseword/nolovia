@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-08-24 11:35:58
+# Generated at 2017-08-27 18:32:01
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -770,6 +770,8 @@ directnative.com
 directref-paymobility1.com
 diretrak.com
 disputepayment-checked.com
+districtm.ca
+districtm.net
 dk4ywix.com
 dns-dns.com
 dns-stuff.com
@@ -1436,6 +1438,7 @@ paypallssjembutsss.net
 paypl-direct-resolutioncenter.com
 pcanywhere.net
 peacepowder.com
+perfectmarket.com
 petwandey.us
 photographpan.com
 pietexture.com
