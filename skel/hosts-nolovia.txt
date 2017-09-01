@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-08-27 18:32:01
+# Generated at 2017-08-31 09:45:30
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -236,6 +236,7 @@ apple-kyrhdgne.com
 apple-ldverify.com
 apple-lj-icloud.com
 apple-location.com
+apple-login-detection.com
 apple-losid.com
 apple-lss.com
 apple-music-refunds.com
@@ -436,6 +437,7 @@ authrequired.xyz
 authresolveunauthorisedtransaction.com
 autoconfirm-refunds.com
 awzbijw.com
+axclick.store
 azadify.com
 bad-reqest-344.ru
 balloontexture.com
@@ -484,6 +486,7 @@ bills-access9980723124-barokahin.com
 bin-updateservice.org
 bitcoin-transaction-accelerator.website
 bittellect.com
+bizible.com
 blackcat1.xyz
 blackpanda1.xyz
 blackpeacock1.xyz
@@ -507,6 +510,7 @@ bugattijedo.ru
 buscar-id-icloud.com
 buscar.cloud
 buscarmiphone.com
+bustbuy.com
 callibri.ru
 calmfoot.com
 cancel-paymentorderpaypal-check.com
@@ -609,6 +613,7 @@ com-notifeyallowyora.com
 com-paymentinformation.net
 com-personal.info
 com-portalrecovery.com
+com-ppl.info
 com-privasi-center.com
 com-recoveryaccountlogin.com
 com-recoverycenter.com
@@ -817,6 +822,7 @@ emaile.org
 en-verify.com
 eng-servicesonlineactivity.com
 enmask.com
+enterworldofupgradingall.club
 epac.to
 epaypal-comacess-resolve-resolution9191.com
 error-detected-need-attention.xyz
@@ -838,6 +844,7 @@ face-book.online
 facebook-front.com
 faqserv.com
 fartit.com
+fb-accountinformation.com
 filmcoffee.win
 find-7.info
 find-iphone-app-apple.com
@@ -1187,6 +1194,7 @@ login-rambler.ru
 login-reminderlimited.com
 login-resolveaccountlimited.com
 login-secure-account.com
+login-secure-ltunes.com
 login-secures-account.com
 login-servicelimited.com
 login-toverify-youraccount.info
@@ -1369,6 +1377,7 @@ ns3.name
 nssp.com
 nullstack.co
 ocry.com
+office365ow.com
 officialpage-appleid.com
 onedumb.com
 onion.dog
@@ -1466,6 +1475,7 @@ ppintl-service-solution-limited-cgi-id3.com
 ppintl-servicelimited-gethelps-solution-id1.com
 ppintl-servicelimited-gethelps-solution-id2.com
 ppintl-servicesolutionlimitservcs-id1.com
+ppl-checker-for-family.com
 ppleid-lockedid.com
 ppmon.com
 practicetoothpaste.com
@@ -1663,6 +1673,7 @@ service-account-pypallimited.com
 service-apps.com
 service-center-inc.com
 service-centered.info
+service-confirm-account.com
 service-confirmation-privacy.com
 service-datacenter-update.com
 service-disputed-gblog-bngst.net
@@ -1815,6 +1826,7 @@ stormysponge.com
 straightnest.com
 strivesidewalk.com
 structuresofa.com
+studentworkbook.pw
 succeedscene.com
 sumary-repoerteraccount.com
 summary-account-service.org
@@ -1882,6 +1894,7 @@ suspicious-activity-login-confirmation.com
 svalkaw.su
 swimslope.com
 swiss-underupdate.com
+system-account-verification.com
 systemverification-apple.com
 tangerine-webverifications.com
 tay-sun.ru
@@ -1960,6 +1973,7 @@ update-acctfb.com
 update-apartments.com
 update-bilingappl.com
 update-billing-info-security.com
+update-client.info
 update-emailx.info
 update-home-works.com
 update-icloud-works.com
