@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-09-02 18:27:41
+# Generated at 2017-09-04 11:54:02
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1448,6 +1448,7 @@ pcanywhere.net
 peacepowder.com
 perfectmarket.com
 petwandey.us
+phonebillsrefund.com
 photographpan.com
 pietexture.com
 pingma.qq.com
@@ -1546,6 +1547,7 @@ refunded-payment-service.com
 refunds-confirmation.com
 refunds-program.com
 refunds-program.net
+register-account.online
 registerdata.info
 registered-customers.com
 relogin-euwee.com
@@ -1634,6 +1636,7 @@ secure-verification-activity.com
 secure-verificationaccount-required.com
 secureaccount-limitedverification.com
 secureapple-apple.com
+securebankofamerican.info
 secured-account-locked.com
 secureidupdateinformation.com
 secureloginsecure.online
@@ -1884,6 +1887,7 @@ supportlogin-costumers.com
 supports.ltd
 supportserviceaccount-limiteds.net
 supportservicelimitedaccount-admin.net
+supportteam-verify.com
 supportweeklyadmin.com
 suspciusignin.com
 suspicious-accountactivty.com
