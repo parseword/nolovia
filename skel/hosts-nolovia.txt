@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-09-04 11:54:02
+# Generated at 2017-09-07 17:20:23
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -162,6 +162,7 @@ appid-apple-yun.com
 appid-dataresolve.com
 appid-direct-resolutioncenter.com
 appid-direct-resolvecenter.com
+appid-info.help
 appid-rejectedservinter.com
 appidservice-pagepolicy.com
 appidservice-policypage.com
@@ -606,6 +607,7 @@ com-j4v.com
 com-locate.com
 com-locked-appleicloud.com
 com-locked.tech
+com-loginauthorizes.info
 com-manageid.cloud
 com-managemyaccount-resolve.com
 com-myicloud.info
@@ -849,6 +851,7 @@ filmcoffee.win
 find-7.info
 find-iphone-app-apple.com
 find-iphone-inc.com
+find-iphone.info
 find-iphones-ios.com
 find-itunes-id.com
 find-logindata.info
@@ -1271,6 +1274,7 @@ mudrakgroup.in
 murdoog.com
 must-update-uewe.com
 my-account-profilepypal-reactivated.info
+my-appleiid.org
 my-applelocate.com
 my-appsstoreicloud.com
 my-iclid-icloud.com
@@ -1283,6 +1287,7 @@ my-iocid-icloud.com
 my03.com
 myaccount-appleid-identification.com
 myaccount-rejectedpayment.center
+myaccount-server.org
 myaccount-solved.com
 myaccount-summary-resolved.com
 myaccount-summary.org
@@ -1352,6 +1357,7 @@ need-to-validate.xyz
 needtovalidate.xyz
 needvalidationtogolive.xyz
 networkdocweb.us
+new-feedback-apple-information-by-administrator.com
 new-loginservice.com
 new-verificationdevelopeer.com
 news-mitteilung.online
