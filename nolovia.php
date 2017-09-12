@@ -95,11 +95,13 @@ foreach ($serverLists as $sl) {
         console_message('Server response was only ' . strlen($data) . ' bytes,'
             . ' expected at least ' . $sl->getMinimumExpectedBytes(), 
             FETCH_FAILURE_FATALITY_FLAG);
+        continue;
     }
     if (!preg_match('|' . $sl->getValidationText() . '|si', $data)) {
         $sl->setFetchFailed(true);
         console_message('Server response is missing validation text "'
             . $sl->getValidationText() . '"', FETCH_FAILURE_FATALITY_FLAG);
+        continue;
     }
     
     //If we only want part of the file, glom it out
