@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-09-11 12:57:09
+# Generated at 2017-09-12 09:53:15
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1260,6 +1260,7 @@ mefound.com
 member-validation.info
 memberdetail-data.info
 messagenovice.com
+mfacebook.net
 mhoblysantanderbr.com
 mixedreading.com
 mixpo.com
