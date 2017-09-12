@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-09-07 17:20:23
+# Generated at 2017-09-11 12:57:09
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -64,6 +64,7 @@ account-disable-updates.com
 account-expired.com
 account-helperservice.com
 account-helperservice.net
+account-icloud-locked-informationpage731553579966.com
 account-icloud-verification.info
 account-icloudverification.info
 account-identity-verify.com
@@ -72,6 +73,8 @@ account-locked-activity.com
 account-login-icloud-service.com
 account-login.info
 account-notification.date
+account-problem.info
+account-problems.info
 account-re.store
 account-recorveryhelps.com
 account-secure.org
@@ -91,10 +94,14 @@ accountproblems.bid
 accountpypal.com
 accountrecovery-billsafe.com
 accounts-activiity.com
+accounts-appeal.info
+accounts-authentication.info
 accounts-id.com
 accounts-limiteds.com
 accounts-mypaypal.com
 accounts-oulook365.com
+accounts-problem.info
+accounts-problems.info
 accounts-snapchat.online
 accounts-verify-paypal.com
 accountsauthentification.com
@@ -608,6 +615,8 @@ com-locate.com
 com-locked-appleicloud.com
 com-locked.tech
 com-loginauthorizes.info
+com-logninauthorize.info
+com-logninsauthorizes.info
 com-manageid.cloud
 com-managemyaccount-resolve.com
 com-myicloud.info
@@ -1788,6 +1797,7 @@ smlblinds.com
 sms-info-apple.com
 snakesort.com
 snapchat-help.com
+snapchet.net
 sneaklevel.com
 sneakystamp.com
 solutation-update.com
