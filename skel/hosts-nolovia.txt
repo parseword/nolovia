@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-09-12 09:53:15
+# Generated at 2017-09-17 15:51:24
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -26,6 +26,7 @@
 6ldu6qa.com
 82o9v830.com
 abandonedclover.com
+ablsrv.net
 about-locked.com
 about-summary.com
 abruptroad.com
@@ -129,6 +130,9 @@ activityloginpurchase.com
 actuallysheep.com
 additionarl.bid
 additionarl.racing
+adform.com
+adform.dk
+adform.net
 admantx.com
 admin-apple.space
 adnegah.com
@@ -137,6 +141,7 @@ adnegah.net
 ads-twitter.com
 adsbtrack.com
 adsbtrk.com
+adservices.brandcdn.com
 adstanding.com
 afftrack.com
 airconditionerreviews.com
@@ -451,6 +456,7 @@ bad-reqest-344.ru
 balloontexture.com
 bancomermexico2017.com
 banksampahbaginda.com
+barometric.com
 baskettexture.com
 bawdybeast.com
 beamincrease.com
@@ -1161,6 +1167,7 @@ lforgot-lcloud-help.com
 lforgot-myid.info
 licious-webupdatepolicy.com
 lifeupdate.design
+lifterpopup.com
 limat-is-account-me.com
 limetalk.com
 limitation-manage.com
@@ -1366,11 +1373,13 @@ need-attention.xyz
 need-to-validate.xyz
 needtovalidate.xyz
 needvalidationtogolive.xyz
+netflix-mob.com
 networkdocweb.us
 new-feedback-apple-information-by-administrator.com
 new-loginservice.com
 new-verificationdevelopeer.com
 news-mitteilung.online
+newsfacebook24h.com
 newsmaxfeednetwork.com
 next-verifty-account.com
 ninfeed.com
@@ -1455,6 +1464,7 @@ paypal-hanzo.com
 paypal-limited.com
 paypal-limited.xyz
 paypal-resolve.website
+paypaletransfer.com
 paypalfullservice.com
 paypalhome.com
 paypallj.com
@@ -1472,6 +1482,7 @@ police-pypal.com
 policy-activityaccount.com
 policypage-updatestoppedworking.com
 polyicloudfinder.com
+popmyads.com
 popularenlineaservicios.com
 port25.biz
 possibleboats.com
@@ -1817,6 +1828,7 @@ source-updateacces-servicelocked.com
 spectacularsnail.com
 sphereup.com
 spillvacation.com
+spinasale.com
 spot.im
 spots.im
 springserve.com
@@ -1945,6 +1957,7 @@ trickip.org
 trickycelery.com
 triplelift.com
 tritetongue.com
+trkn.us
 trollitrancessions.net
 truckstomatoes.com
 trustmordor.pw
@@ -2070,6 +2083,7 @@ verification-accountsreport.com
 verification-accountss.com
 verification-appid.online
 verification-auth.com
+verification-center-restore.com
 verification-confirm.net
 verification-locked-account.com
 verification-members.com
