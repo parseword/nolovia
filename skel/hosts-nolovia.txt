@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-09-19 14:06:50
+# Generated at 2017-09-20 14:26:25
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -225,6 +225,7 @@ apple-icloudis.com
 apple-iclovd.com
 apple-icoxs10.com
 apple-id-applewebinfo.com
+apple-id-center.online
 apple-id-hasbeen-locked.com
 apple-id-inc-usa.com
 apple-id-privacy-data.com
@@ -1413,6 +1414,7 @@ onmypc.net
 onmypc.org
 onmypc.us
 opendingweb.us
+optincollect.com
 organiccrap.com
 organicladybug1.xyz
 organiclion1.xyz
@@ -1653,6 +1655,7 @@ secure-claimpolicyupdate.com
 secure-data-center.com
 secure-group.pw
 secure-locked.com
+secure-login.tech
 secure-logoini-info.com
 secure-my-account.com
 secure-myaccount.online
@@ -2187,6 +2190,7 @@ webmail-update.com
 webmediadeclaration.xyz
 webmediavalidation.xyz
 webresoved-service.com
+webrivage.com
 webrootyoun.us
 webs-accountinfo.com
 webscr-accountupdatehelpingcustomer.net
