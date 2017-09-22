@@ -166,10 +166,17 @@ foreach ($serverLists as $sl) {
 }
 debug('Host list (combined) contains ' . count($hosts) . ' entries');
 
-//Strip leading www. from hosts
-debug('Stripping leading www. from hosts');
+//Strip leading www. from hostnames
+debug('Stripping leading www. from hostnames');
 $hosts = array_map(
     function($val) { return preg_replace('|^www\.|i', '', $val); },
+    $hosts
+);
+
+//Strip trailing dot from hostnames
+debug('Stripping trailing dot from hostnames');
+$hosts = array_map(
+    function($val) { return preg_replace('|\.$|i', '', $val); },
     $hosts
 );
 
