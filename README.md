@@ -7,8 +7,8 @@ nolovia is a config file generator that assists in implementing a blackholing
 DNS server or DNS "sinkhole" firewall. nolovia ingests several public lists of 
 advertising, tracking, analytics, malware, and other potentially undesirable 
 servers. These lists are then merged and minimized as much as possible, and 
-exported as a config file suitable for use with the `bind` or `nsd` DNS resolver. 
-A corresponding blackhole zone file is included.
+exported as a config file suitable for use with the `bind` or `nsd` DNS resolvers. 
+A corresponding blackhole [zone file](https://raw.githubusercontent.com/parseword/nolovia/master/blackhole.zone) is included.
 
 ## Why operate a local DNS server? 
 
@@ -35,11 +35,11 @@ so is beyond the scope of this document.
 
 This will generate a file named `blackhole.conf`. 
 
-4. Copy `blackhole.conf` and the included `blackhole.zone` file somewhere that 
-makes sense for your system, like `/var/named/` or `c:\bind\`. 
+4. Copy `blackhole.conf` and the included `blackhole.zone` file to locations that 
+suit your `bind` installation, like `/var/named/` or `c:\bind\`.
 
 5. Edit your `named.conf` to define an access control list (ACL) named "recursers," 
-this will define who's allowed to query your DNS server recursively. For 
+this will determine who's allowed to query your DNS server recursively. For 
 security purposes, only hosts on your local network should be allowed:
 
     acl recursers {
@@ -54,7 +54,8 @@ enable recursion *for the recursers ACL only*, set:
     recursion yes;
     allow-recursion { recursers; };
 
-6. Finally, add the following to the end of `named.conf`,
+6. Finally, add the following to the end of `named.conf`, specifying the path to
+which you copied `blackhole.conf`:
 
     include "/var/named/blackhole.conf";
 
