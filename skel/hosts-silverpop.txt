@@ -1,6 +1,6 @@
 ################################################################################
 # nolovia IBM Silverpop Marketing blacklist file
-# Part of nolovia, <http://github.com/ampersign/nolovia/>
+# Part of nolovia, <http://github.com/parseword/nolovia/>
 #
 # The following domains are used by an IBM marketing and analytics subsidiary
 # known as Silverpop. These domains are often linked to via advertising emails,

@@ -30,7 +30,7 @@ so is beyond the scope of this document.
 3. Obtain and run nolovia:
 
 `mkdir nolovia && cd nolovia`    
-`git clone https://github.com/ampersign/nolovia.git .`    
+`git clone https://github.com/parseword/nolovia.git .`    
 `php nolovia.php`
 
 This will generate a file named `blackhole.conf`. 
@@ -73,7 +73,7 @@ so is beyond the scope of this document.
 3. Obtain nolovia and create its configuration file:
 
 `mkdir nolovia && cd nolovia`    
-`git clone https://github.com/ampersign/nolovia.git .`    
+`git clone https://github.com/parseword/nolovia.git .`    
 `cp config.php-dist config.php`
 
 4. Edit config.php to enable `NSD` support

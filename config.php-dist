@@ -1,7 +1,7 @@
 <?php
 /*
  * Copyright 2015-2017 Shaun Cummiskey, <shaun@shaunc.com> <http://shaunc.com>
- * <https://github.com/ampersign/nolovia>
+ * <https://github.com/parseword/nolovia>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -100,7 +100,7 @@ $serverLists[] = $sl;
 
 $sl = new ServerList('nolovia Supplemental Bad Host Index');
 $sl->setFilePath('./data/hosts-nolovia.txt');
-$sl->setUri('https://raw.githubusercontent.com/ampersign/nolovia/master/skel/hosts-nolovia.txt');
+$sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt');
 $serverLists[] = $sl;
 
 $sl = new ServerList('pgl.yoyo.org');

@@ -1,6 +1,6 @@
 ################################################################################
 # nolovia Microsoft Windows telemetry blacklist file
-# Part of nolovia, <http://github.com/ampersign/nolovia/>
+# Part of nolovia, <http://github.com/parseword/nolovia/>
 #
 # The following servers are purported to be used by telemetry and data-mining
 # services in Windows 10. Blocking these hosts may cause operability problems

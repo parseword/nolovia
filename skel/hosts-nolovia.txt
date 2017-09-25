@@ -1,6 +1,6 @@
 ################################################################################
 # nolovia Supplemental Bad Host Index blacklist file
-# Part of nolovia, <http://github.com/ampersign/nolovia/>
+# Part of nolovia, <http://github.com/parseword/nolovia/>
 #
 # The following list is compiled by nolovia's author from various sources, and
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 

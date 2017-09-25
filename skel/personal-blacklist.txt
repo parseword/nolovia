@@ -1,6 +1,6 @@
 ################################################################################
 # nolovia personal blacklist file
-# Part of nolovia, <http://github.com/ampersign/nolovia/>
+# Part of nolovia, <http://github.com/parseword/nolovia/>
 #
 # This file should contain domains and hostnames you want to block for policy
 # reasons, in addition to the hosts included on the various server lists. For
