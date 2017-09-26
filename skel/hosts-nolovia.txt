@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-09-23 23:20:52
+# Generated at 2017-09-26 11:55:43
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -74,6 +74,7 @@ account-locked-activity.com
 account-login-icloud-service.com
 account-login.info
 account-notification.date
+account-onhold.org
 account-problem.info
 account-problems.info
 account-re.store
@@ -143,6 +144,8 @@ adsbtrack.com
 adsbtrk.com
 adservices.brandcdn.com
 adstanding.com
+adwords-login.com
+adwords-online.org
 afftrack.com
 airconditionerreviews.com
 ak0gsh40.com
@@ -819,6 +822,7 @@ domainpowered.com
 doomnooaxc.top
 doubtfulrainstorm.com
 dragzebra.com
+dropped-clicks.com
 drossel.me
 dsmtp.com
 dumb1.com
@@ -917,6 +921,7 @@ getsitecontrol.com
 gettrials.com
 giddycoat.com
 gigya.com
+gmail-service.online
 go2click.org
 googlecloud.su
 googlz.blackfriday
@@ -1305,6 +1310,7 @@ my-incid-icloud.com
 my-iocid-icloud.com
 my03.com
 myaccount-appleid-identification.com
+myaccount-instagram.com
 myaccount-rejectedpayment.center
 myaccount-server.org
 myaccount-solved.com
@@ -1329,6 +1335,7 @@ mycarddetailsverify.com
 mycustomer-service.com
 mydad.info
 myddns.com
+myebayaccess.com
 myfraudtransactionaccount.center
 myftp.info
 myftp.name
