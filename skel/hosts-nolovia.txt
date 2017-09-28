@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-09-26 11:55:43
+# Generated at 2017-09-28 18:32:47
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -813,6 +813,8 @@ docscloud.download
 docscloud.win
 doctelldreo.us
 docuative.us
+documentverify.download
+documentverify.verify
 docurnent.com
 docusgn.com
 domainpoints.com
@@ -1414,6 +1416,7 @@ office365ow.com
 officialpage-appleid.com
 onedumb.com
 onion.dog
+onion.rip
 onlinepaymennt.com
 onlines-access.com
 onmypc.biz
