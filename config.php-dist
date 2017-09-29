@@ -85,17 +85,22 @@ $serverLists = array();
 
 $sl = new ServerList('nolovia Windows Telemetry');
 $sl->setFilePath('./data/hosts-windows-telemetry.txt');
-$sl->setUri('./skel/hosts-windows-telemetry.txt');
+$sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-windows-telemetry.txt');
 $serverLists[] = $sl;
 
 $sl = new ServerList('nolovia State-sponsored Malware');
 $sl->setFilePath('./data/hosts-government-malware.txt');
-$sl->setUri('./skel/hosts-government-malware.txt');
+$sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt');
 $serverLists[] = $sl;
 
 $sl = new ServerList('nolovia IBM Silverpop Marketing');
 $sl->setFilePath('./data/hosts-silverpop.txt');
-$sl->setUri('./skel/hosts-silverpop.txt');
+$sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-silverpop.txt');
+$serverLists[] = $sl;
+
+$sl = new ServerList('nolovia Dynamic DNS Providers');
+$sl->setFilePath('./data/hosts-dynamic-dns.txt');
+$sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-dynamic-dns.txt');
 $serverLists[] = $sl;
 
 $sl = new ServerList('nolovia Supplemental Bad Host Index');
