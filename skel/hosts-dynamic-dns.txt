@@ -1,0 +1,28 @@
+################################################################################
+# nolovia dynamic DNS provider blacklist file
+# Part of nolovia, <http://github.com/parseword/nolovia/>
+#
+# The following domains provide dynamic DNS services. Dynamic DNS has valid and
+# legitimate uses, especially for people on unreliable internet connections. 
+# However, in recent years, bad actors have begun abusing dynamic DNS services 
+# to distribute malware, mask spam endpoints, and route botnet command and 
+# control infrastructure.
+#
+# None of the domains in this list are malicious on their own. Nolovia defaults 
+# to blocking them due to the abuse potential, and in order to flatten what 
+# would otherwise be hundreds of individual zones into a handful instead.
+#
+# If you need to connect to a site hosted by one of these providers, you may 
+# want to disable this list in the config.php file, or add the specific domain
+# to your personal-whitelist.txt file.
+
+3322.org
+boxip.net
+ddns.net
+duckdns.org
+free.fr
+eu.org
+hopto.org
+rr.nu
+zapto.org
+ze.am
