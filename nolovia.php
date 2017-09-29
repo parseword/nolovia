@@ -218,6 +218,10 @@ foreach ($hosts as $host) {
     if (substr($host, -8) == '.invalid') {
         continue;
     }
+    //The underscore is not permitted in hostnames, per RFC1912 et al
+    if (strpos($host, '_') !== false) {
+        continue;
+    }
     //Parse the domain out of the hostname
     $parts = explode('.', $host);
     $count = count($parts);
