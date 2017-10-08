@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-10-02 11:44:58
+# Generated at 2017-10-08 15:26:57
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -824,6 +824,7 @@ domainpower.com
 domainpower.net
 domainpowered.com
 doomnooaxc.top
+doubleverify.com
 doubtfulrainstorm.com
 dragzebra.com
 dropped-clicks.com
