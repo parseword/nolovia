@@ -46,6 +46,9 @@ define('FETCH_INTERVAL', time()-86400);
 //Passing "force" on the command line will override the FETCH_INTERVAL setting
 define('FORCE_FETCH', isset($argv) && in_array('force', $argv));
 
+//How many times should we try to fetch a list before giving up due to failure?
+define('FETCH_ATTEMPTS', 3);
+
 //Should failure to fetch one of the server lists be considered a fatal error?
 define('FETCH_FAILURE_FATALITY_FLAG', true);
 

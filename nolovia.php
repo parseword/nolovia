@@ -85,22 +85,44 @@ foreach ($serverLists as $sl) {
         debug($sl->getFilePath() . ' exists and is recent, using local copy');
         continue;
     }
-    debug('Retrieving URI: ' . $sl->getUri());
-    $data = str_replace("\r\n", "\n", @file_get_contents($sl->getUri()));
-    debug('Fetched ' . strlen($data) . ' bytes');
     
-    //Perform some sanity checks on the data we fetched
-    if (strlen($data) < $sl->getMinimumExpectedBytes()) {
-        $sl->setFetchFailed(true);
-        console_message('Server response was only ' . strlen($data) . ' bytes,'
-            . ' expected at least ' . $sl->getMinimumExpectedBytes(), 
-            FETCH_FAILURE_FATALITY_FLAG);
-        continue;
+    $fetchAttempts = defined('FETCH_ATTEMPTS') ? FETCH_ATTEMPTS : 1;
+    
+    for ($i=1; $i <= $fetchAttempts ; $i++) {
+        $error = false;
+        debug("Retrieving URI (try #{$i}): " . $sl->getUri());
+        $data = str_replace("\r\n", "\n", @file_get_contents($sl->getUri()));
+        debug('Fetched ' . strlen($data) . ' bytes');
+        
+        //Perform some sanity checks on the data we fetched
+        if (strlen($data) < $sl->getMinimumExpectedBytes()) {
+            console_message('Server response was only ' . strlen($data) . ' bytes,'
+                . ' expected at least ' . $sl->getMinimumExpectedBytes());
+            $error = true;
+        }
+        if (!preg_match('|' . $sl->getValidationText() . '|si', $data)) {
+            console_message('Server response is missing validation text "'
+                . $sl->getValidationText() . '"');
+            $error = true;
+        }
+        
+        //If something went wrong, see if we should try again
+        if ($error) {
+            if ($i >= $fetchAttempts) {
+                console_message('Exhausted retry attempts fetching ' . $sl->getName());
+                $sl->setFetchFailed(true);
+            }
+            continue;
+        }
+        
+        //List was successfully retrieved
+        break;
     }
-    if (!preg_match('|' . $sl->getValidationText() . '|si', $data)) {
-        $sl->setFetchFailed(true);
-        console_message('Server response is missing validation text "'
-            . $sl->getValidationText() . '"', FETCH_FAILURE_FATALITY_FLAG);
+    
+    //Bail on failure
+    if ($sl->getFetchFailed()) {
+        console_message('Not writing list ' . $sl->getName() 
+            . ' to disk due to fetch failure', FETCH_FAILURE_FATALITY_FLAG);
         continue;
     }
     
@@ -128,12 +150,6 @@ foreach ($serverLists as $sl) {
         preg_match_all($sl->getMatchAllPattern(), $data, $results);
         $data = join("\n", $results[1]);
         unset($results);
-    }
-    
-    if ($sl->getFetchFailed()) {
-        console_message('Not writing list ' . $sl->getName() 
-            . ' to disk due to fetch failure', false);
-        continue;
     }
     
     //Write the file
