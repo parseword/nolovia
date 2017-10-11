@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-10-08 15:26:57
+# Generated at 2017-10-11 12:49:46
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1526,6 +1526,7 @@ predep.com
 presetrabbits.com
 prestoris.com
 prevent-limitation.com
+printscreens.info
 priv-my-autoservice.com
 privacyaccountlimited.com
 profitrumour.com
@@ -1713,12 +1714,15 @@ separatesilver.com
 serach-icloud.com
 serivice-limiited-account.com
 serivice-limited-account.com
+server-account.com
 serveuser.com
 serveusers.com
 service-account-accs0987656789-nyolong-barokah.com
 service-account-pypallimited.com
 service-apps.com
+service-autoid.com
 service-center-inc.com
+service-center-validation.com
 service-centered.info
 service-confirm-account.com
 service-confirmation-privacy.com
@@ -1732,6 +1736,7 @@ service-information-webapps.com
 service-informations.net
 service-paypail.net
 service-ppl-safe.com
+service-refunds.net
 service-salsa.com
 service-security-center.com
 service-solution-account.info
@@ -1753,6 +1758,7 @@ serviceppaccount.com
 services-account-verifications-required.com
 services-account-verifications-secure.com
 services-account.com
+services-appleidbill.com
 services-idappleverification.com
 services-limited.net
 services-verify-information.com
