@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-10-13 16:02:11
+# Generated at 2017-10-13 16:51:00
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -901,6 +901,7 @@ flndmyiphone-applelocation.com
 floodprincipal.com
 fmimaps-apple.com
 follingerservicemabe.com
+footprint.net
 fopflop.me
 formalyzer.com
 forultimateandbest4upgradepc.download
@@ -923,6 +924,7 @@ gdocs.download
 get-confirmation.com
 get-login.com
 get-verived-account.com
+getlytics.com
 getsitecontrol.com
 gettrials.com
 giddycoat.com
@@ -969,6 +971,7 @@ hsbcuksecure.com
 hscta.net
 hsforms.net
 hsstatic.net
+htl.bid
 https443.net
 https443.org
 hubapi.com
@@ -1249,6 +1252,7 @@ lowerdocieu.us
 lp3tdqle.com
 ltunes.cloud
 lumpyleaf.com
+lytics.io
 mail-service-costumeraccount.com
 mail-service-redirect.com
 mailservice-apple.com
