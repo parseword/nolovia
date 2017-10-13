@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-10-11 12:49:46
+# Generated at 2017-10-13 16:02:11
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -586,6 +586,7 @@ client-servicezones.com
 clintareasinginservicelimtednpphome-indexhtml.com
 cloud-checkyouraccount.com
 cloud-id-recover.com
+coin-have.com
 coin-hive.com
 coinhive.com
 com-accept-security.info
@@ -1149,6 +1150,7 @@ jetos.com
 jewelcheese.com
 jkub.com
 jpar333.me
+jsecoin.com
 jump4geo.com
 jungleheart.com
 justdied.com
@@ -1281,6 +1283,7 @@ memberdetail-data.info
 messagenovice.com
 mfacebook.net
 mhoblysantanderbr.com
+minemytraffic.com
 mixedreading.com
 mixpo.com
 mobifoth.com
@@ -1521,6 +1524,7 @@ ppintl-servicesolutionlimitservcs-id1.com
 ppl-checker-for-family.com
 ppleid-lockedid.com
 ppmon.com
+ppoi.org
 practicetoothpaste.com
 predep.com
 presetrabbits.com
