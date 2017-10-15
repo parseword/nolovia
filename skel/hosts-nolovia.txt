@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-10-13 16:51:00
+# Generated at 2017-10-15 16:31:07
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -124,6 +124,7 @@ acount-reviiews.com
 acount-update-limited.com
 acounts-appleid.com
 activation-account-procced.com
+activation-icloud.com
 active-your-pp.com
 activedocelog.us
 activity-accountid.com
@@ -764,6 +765,7 @@ cutecushion.com
 cybervalidationneeded.xyz
 czusecureupdates.com
 d7t0ajd8uy1xk.cloudfront.net
+danalinc.com
 data-validmember.info
 datacenter-customer.com
 datacreated-updates.info
@@ -871,6 +873,7 @@ ezua.com
 f3322.org
 face-book.online
 facebook-front.com
+facebooksecurity.info
 faqserv.com
 fartit.com
 fb-accountinformation.com
@@ -1435,6 +1438,7 @@ onmypc.net
 onmypc.org
 onmypc.us
 opendingweb.us
+optimize-stats.voxmedia.com
 optincollect.com
 organiccrap.com
 organicladybug1.xyz
