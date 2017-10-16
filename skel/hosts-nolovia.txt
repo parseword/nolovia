@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-10-15 16:31:07
+# Generated at 2017-10-15 18:26:57
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -904,7 +904,6 @@ flndmyiphone-applelocation.com
 floodprincipal.com
 fmimaps-apple.com
 follingerservicemabe.com
-footprint.net
 fopflop.me
 formalyzer.com
 forultimateandbest4upgradepc.download
@@ -1454,6 +1453,7 @@ parafarmaciaabascal.com
 password-appleid.com
 pasword-recovery.com
 payement-support-services.com
+payfone.com
 payles-service.com
 payment-account-unloked-login.com
 payment-account-update-information.com
