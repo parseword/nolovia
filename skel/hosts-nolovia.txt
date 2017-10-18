@@ -587,11 +587,6 @@ client-servicezones.com
 clintareasinginservicelimtednpphome-indexhtml.com
 cloud-checkyouraccount.com
 cloud-id-recover.com
-cnhv.co
-coin-have.com
-coin-hive.com
-coinblind.com
-coinhive.com
 com-accept-security.info
 com-acces-issuer-case.com
 com-acces-scrts0612.com
@@ -1157,7 +1152,6 @@ jetos.com
 jewelcheese.com
 jkub.com
 jpar333.me
-jsecoin.com
 jump4geo.com
 jungleheart.com
 justdied.com
@@ -1292,7 +1286,6 @@ mercycoin.org
 messagenovice.com
 mfacebook.net
 mhoblysantanderbr.com
-minemytraffic.com
 mixedreading.com
 mixpo.com
 mobifoth.com
@@ -1535,7 +1528,6 @@ ppintl-servicesolutionlimitservcs-id1.com
 ppl-checker-for-family.com
 ppleid-lockedid.com
 ppmon.com
-ppoi.org
 practicetoothpaste.com
 predep.com
 presetrabbits.com
