@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-10-17 23:01:54
+# Generated at 2017-10-20 21:49:57
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1921,6 +1921,7 @@ support-data-account-verification.com
 support-data-update-verification.com
 support-data-verification-update.com
 support-help-ilcloud.info
+support-ip.com
 support-limited-control.com
 support-loginactivity.com
 support-recover-account.com
