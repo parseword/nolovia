@@ -41,7 +41,7 @@ $DEBUG = !DEBUG ? null : array(
 );
 
 //Only retrieve external host lists if the local copy is older than this interval
-define('FETCH_INTERVAL', time()-86400);
+define('FETCH_INTERVAL', time()-43200);
 
 //Passing "force" on the command line will override the FETCH_INTERVAL setting
 define('FORCE_FETCH', isset($argv) && in_array('force', $argv));
