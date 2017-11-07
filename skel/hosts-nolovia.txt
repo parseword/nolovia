@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-10-20 21:49:57
+# Generated at 2017-11-07 11:46:26
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -224,6 +224,7 @@ apple-iclode.com
 apple-icloud-is.com
 apple-icloud-resolved.com
 apple-icloud-service-wabss.com
+apple-icloud-webapps.com
 apple-icloudios-id.com
 apple-icloudis.com
 apple-iclovd.com
@@ -610,6 +611,7 @@ com-authorized-cancellationpayment.com
 com-cgi-bin-data.info
 com-cgi-webapps-authentica-account.com
 com-cgi.info
+com-checkpoint.ga
 com-cloudaction.com
 com-customer-helpdesk.info
 com-dsima-ssl.com
