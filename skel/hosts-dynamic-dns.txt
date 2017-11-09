@@ -25,6 +25,7 @@ eu.org
 hopto.org
 no-ip.biz
 no-ip.org
+now.sh
 rr.nu
 zapto.org
 ze.am
