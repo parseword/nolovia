@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-07 11:46:26
+# Generated at 2017-11-13 22:46:52
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1086,6 +1086,7 @@ infoplantillas.com
 information-account-limited.org
 information-accountdb.com
 infoupdateppl.com
+innovid.com
 instagram-checkout.com
 instagram-page.com
 instagram61.com
@@ -1500,6 +1501,7 @@ peacepowder.com
 perfectmarket.com
 petwandey.us
 phonebillsrefund.com
+phonefix.guru
 photographpan.com
 pietexture.com
 pingma.qq.com
@@ -2176,6 +2178,7 @@ vertification-accountproblemcstmr.com
 vertification-applesinc.com
 vertification-number-account-setup.com
 vertifiication-account.com
+verygoodads.com
 vipddos.com
 virgintldgame.com
 vizvaz.com

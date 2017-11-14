@@ -14,13 +14,16 @@
 # want to disable this list in the config.php file, or add the specific domains
 # to your personal-whitelist.txt file.
 
+afminer.com
 authedmine.com
 cnhv.co
 coin-have.com
 coin-hive.com
 coinblind.com
+coinerra.com
 coinhive-manager.com
 coinhive.com
+crypto-loot.com
 jsecoin.com
 minemytraffic.com
 papoto.com
