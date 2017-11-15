@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-13 22:46:52
+# Generated at 2017-11-15 16:24:41
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -150,6 +150,7 @@ adwords-online.org
 afftrack.com
 airconditionerreviews.com
 ak0gsh40.com
+all-ransomware.info
 almostmy.com
 already-apple.com
 amazoapp.com
@@ -2282,6 +2283,7 @@ xn--facebok-wx4c.com
 xn--facebok-y2c.com
 xn--faceook-pm3c.com
 xn--iclod-nva.com
+xn--oogle-wmc.com
 xn--pypa-0na75c.com
 xovq5nemr.com
 xxuz.com
