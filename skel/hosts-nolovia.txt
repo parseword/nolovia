@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-16 20:39:27
+# Generated at 2017-11-17 16:32:02
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -583,6 +583,7 @@ cleansite.info
 cleansite.us
 clickability.com
 clicknetwork.com
+clicktale.com
 clickzs.com
 client-accountbilling.com
 client-accountremove.com
@@ -915,6 +916,7 @@ freewww.biz
 freewww.info
 ftp1.biz
 ftpserver.biz
+fullstory.com
 functionalclam.com
 futuristicfairies.com
 fuzzyflavor.com
@@ -968,6 +970,7 @@ hg777hdorotosskot.info
 hilariouszinc.com
 home-secured-autentic-verifi-account.com
 home-update.net
+hotjar.com
 hs-scripts.com
 hsappstatic.net
 hsbcuksecure.com
@@ -1289,6 +1292,7 @@ member-validation.info
 memberdetail-data.info
 mercycoin.org
 messagenovice.com
+metrica.yandex.com
 mfacebook.net
 mhoblysantanderbr.com
 mixedreading.com
@@ -1779,6 +1783,7 @@ servicesolutionlimited-ppintl1-solution-home-index-html.com
 servicessupports.com
 servisedelivery.com
 servlet-appleidverification.com
+sessioncam.com
 severvaliidation.xyz
 severvaliidationrequired.xyz
 sexidude.com
@@ -1842,6 +1847,7 @@ slkdocsofficemember.website
 smallbutterfly1.xyz
 smallduck1.xyz
 smallpanda1.xyz
+smartlook.com
 smlblinds.com
 sms-info-apple.com
 snakesort.com
@@ -2077,6 +2083,7 @@ urgentauthrequired.xyz
 uscert.top
 user-summary-account.com
 useraccountverifications-appleid.com
+userreplay.com
 validate-to-get-access.xyz
 validate2explore.xyz
 validateconnection.xyz
