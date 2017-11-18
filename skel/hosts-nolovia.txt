@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-17 16:32:02
+# Generated at 2017-11-18 12:18:18
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1496,6 +1496,7 @@ paypal-hanzo.com
 paypal-limited.com
 paypal-limited.xyz
 paypal-resolve.website
+paypal-reviewsaccount.com
 paypaletransfer.com
 paypalfullservice.com
 paypalhome.com
@@ -2294,6 +2295,7 @@ xn--iclod-nva.com
 xn--oogle-wmc.com
 xn--pypa-0na75c.com
 xovq5nemr.com
+xvidmovies.in
 xxuz.com
 xxxy.biz
 xxxy.info
