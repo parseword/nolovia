@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-20 00:15:28
+# Generated at 2017-11-20 12:23:44
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -776,6 +776,8 @@ customingupdate-informationwebscrintlintl.com
 cutecushion.com
 cybervalidationneeded.xyz
 czusecureupdates.com
+d10lpsik1i8c69.cloudfront.net
+d2oh4tlt9mrke9.cloudfront.net
 d7t0ajd8uy1xk.cloudfront.net
 danalinc.com
 data-validmember.info
@@ -797,6 +799,8 @@ de-sichererlogin-kundencheckout.ru
 de-sicherermitglieder-checkout.ru
 de-sicherheit-check-true.info
 de-sicherheit-check-valid.info
+decibelinsight.com
+decibelinsight.net
 decisiveducks.com
 delightdriving.com
 departapp.com
@@ -1269,6 +1273,7 @@ logininformationwebapps.com
 loginsu.com
 loginupdate-billingsc.com
 logln-lcloud.com
+logrocket.com
 longmusic.com
 loopme.com
 lopsidedspoon.com
@@ -1593,6 +1598,7 @@ pypalcare.com
 qhigh.com
 qpoe.com
 quaintcan.com
+quantummetric.com
 quickintertac-paymentrewards.com
 quicksandear.com
 rapiddomainbuilder.com
@@ -1692,6 +1698,7 @@ safe-activity-resume.com
 safe-i.cloud
 safekey-verificationrequaires.com
 safepaypal.com
+salemove.com
 santander-app.com
 santander-clientes.com
 santander-contas.online
@@ -2120,6 +2127,7 @@ uscert.top
 user-summary-account.com
 useraccountverifications-appleid.com
 userreplay.com
+userreplay.net
 validate-to-get-access.xyz
 validate2explore.xyz
 validateconnection.xyz
