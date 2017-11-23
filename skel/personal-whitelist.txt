@@ -10,10 +10,8 @@ affiliate.zap2it.com       #TV listings
 counter.li.org             #Linux Counter Project, not a tracker
 craigslist.org
 datapipe.net
-ftpcontent.worldnow.com    #TV news CDN
-fulltiltpoker.com
+ftpcontent.worldnow.com    #American TV news CDN
 googlevideo.com
-llnwd.net
+llnwd.net                  #Limelight CDN
 xtra.co.nz                 #Yahoo New Zealand. The Malwarebytes host list includes this (?)
 zap2it.com                 #TV listings
-zyngawithfriends.com       #Words With Friends app
