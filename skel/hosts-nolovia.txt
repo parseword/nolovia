@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-20 12:23:44
+# Generated at 2017-11-23 13:11:45
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -169,6 +169,7 @@ americanunfinished.com
 amexopesx.com
 analytics.tout.com
 angsrvr.com
+antivirus-upgrade.com
 anxiousapples.com
 apk-bancodobrasil.com
 app-bancobrasil.com
@@ -774,6 +775,7 @@ customerservice-appleid.com
 customerservice-resolveaccount.com
 customingupdate-informationwebscrintlintl.com
 cutecushion.com
+cxense.com
 cybervalidationneeded.xyz
 czusecureupdates.com
 d10lpsik1i8c69.cloudfront.net
@@ -950,6 +952,7 @@ getsitecontrol.com
 gettrials.com
 giddycoat.com
 gigya.com
+ginzametrics.com
 gmail-service.online
 go2click.org
 googlecloud.su
