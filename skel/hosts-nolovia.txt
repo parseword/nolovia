@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-23 13:11:45
+# Generated at 2017-11-27 14:58:03
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -866,6 +866,7 @@ edns.biz
 eesiiuroffde445.com
 elasticchange.com
 elephantqueue.com
+email-g.com
 emailcostumers-limited.com
 emaile.org
 emxdgt.com
