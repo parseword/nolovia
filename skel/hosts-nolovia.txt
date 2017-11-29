@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-28 12:29:46
+# Generated at 2017-11-28 23:23:08
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -27,12 +27,14 @@
 5apple.online
 6ldu6qa.com
 82o9v830.com
+a4.tl
 abandonedclover.com
 ablsrv.net
 about-locked.com
 about-summary.com
 abruptroad.com
 ac-loptxt.com
+accengage.com
 accesd-verifications.com
 access-account-appleid.com
 access-account-appstores.com
@@ -132,6 +134,7 @@ activedocelog.us
 activity-accountid.com
 activityloginpurchase.com
 actuallysheep.com
+ad4screen.com
 additionarl.bid
 additionarl.racing
 adform.com
@@ -181,6 +184,7 @@ app-id-service.com
 app-idresolvehelp.com
 app-updtscure.com
 app.link
+appboy.com
 appid-apple-yun.com
 appid-dataresolve.com
 appid-direct-resolutioncenter.com
@@ -433,6 +437,7 @@ apps-icloud.org
 apps-limitedaccess.com
 apps-s3rver.com
 appsantander.mobi
+appsflyer.com
 appstore-centers-i.cloud
 appstore-confirmation.com
 appstore-locked-i.cloud
@@ -532,6 +537,7 @@ boredcrown.com
 bosshugss.me
 brainpad.co.jp
 brassrule.com
+braze.com
 brightfunnel.com
 broadboundary.com
 broadcastbed.com
@@ -783,6 +789,7 @@ d2oh4tlt9mrke9.cloudfront.net
 d7t0ajd8uy1xk.cloudfront.net
 danalinc.com
 data-validmember.info
+databerries.com
 datacenter-customer.com
 datacreated-updates.info
 datasecure-member.info
@@ -884,6 +891,7 @@ esmtp.biz
 et-etransfer-interact-trusted.com
 et-interac-etransfer-payment.com
 et-transfer1-interac1.com
+etl.tindersparks.com
 etr-lnterac-mobile1.com
 etr-mobile-lnterac.com
 etr-mobile1.com
@@ -898,6 +906,7 @@ facebooksecurity.info
 faqserv.com
 fartit.com
 fb-accountinformation.com
+fidzup.com
 filmcoffee.win
 find-7.info
 find-iphone-app-apple.com
@@ -990,6 +999,7 @@ help-suport.net
 hfc195b.com
 hg777hdorotosskot.info
 hilariouszinc.com
+hockeyapp.net
 home-secured-autentic-verifi-account.com
 home-update.net
 hotjar.com
@@ -1209,6 +1219,7 @@ lcloudonline.com
 lde-signin-privat-true-login1.info
 lde-signin-privat-true-login1.site
 leadzupc.com
+leanplum.com
 legalmember.info
 lemonpi.io
 lflink.com
@@ -1238,6 +1249,7 @@ lnterac-secure.org
 lnteract-rewards.com
 loading-apple.com
 localize-icloud.com
+localytics.com
 locked-accountsystem.net
 locked-apps.net
 locked-page.com
@@ -1336,6 +1348,7 @@ mms.cnn.com
 mms.huffingtonpost.com
 mms.lifehacker.com
 mobifoth.com
+mobileapptracking.com
 mobiledevsafety.com
 mobileinterac-pointpayrewards.com
 mobility-refunds.com
@@ -1344,7 +1357,9 @@ money-lnteractfunds.com
 moneyhome.biz
 mookie1.com
 moomeeo.com
+mopub.com
 mowfruit.com
+mparticle.com
 mpp-service.com
 mrbasic.com
 mrbonus.com
@@ -1447,6 +1462,7 @@ new-verificationdevelopeer.com
 news-mitteilung.online
 newsfacebook24h.com
 newsmaxfeednetwork.com
+nexage.com
 next-verifty-account.com
 ngtv.io
 ninfeed.com
@@ -1598,6 +1614,7 @@ puchex.site
 purchase-updates.com
 purplecat1.xyz
 pushplay.tv
+pushwoosh.com
 putags.com
 pypalcare.com
 qhigh.com
@@ -1701,6 +1718,7 @@ rtbstandards.com
 rulerabbit.com
 safe-activity-resume.com
 safe-i.cloud
+safegraph.com
 safekey-verificationrequaires.com
 safepaypal.com
 salemove.com
@@ -1711,6 +1729,7 @@ santanderct.com
 santanderma.net
 santanderms.net
 santanderrs.net
+saspreview.com
 savagtolldoc.us
 saysidewalk.com
 sc-applle-login.com
@@ -1891,6 +1910,7 @@ slkdocsofficemember.website
 smallbutterfly1.xyz
 smallduck1.xyz
 smallpanda1.xyz
+smartadserver.com
 smartlook.com
 smlblinds.com
 sms-info-apple.com
@@ -2023,7 +2043,9 @@ tangerine-webverifications.com
 tay-sun.ru
 tcpidapple-acntcloud.com
 td583.com
+tealiumiq.com
 tech-supportcenter.us
+teemo.co
 teknosurf.com
 teknosurf2.com
 telegram-verification.com
@@ -2039,6 +2061,7 @@ ticklishpanda1.xyz
 tidytrail.com
 timesink.com
 tinybear1.xyz
+tiqcdn.com
 toh.info
 tosecurecode-appleid.info
 toythieves.com
@@ -2054,6 +2077,7 @@ trollitrancessions.net
 truckstomatoes.com
 trustmordor.pw
 trustx.org
+tune.com
 twitteraccountverified.online
 uacexchange.us
 uappllee.com
@@ -2282,6 +2306,8 @@ webmail-icloud.com
 webmail-update.com
 webmediadeclaration.xyz
 webmediavalidation.xyz
+weborama.fr
+weborama.net
 webresoved-service.com
 webrivage.com
 webrootyoun.us
@@ -2337,6 +2363,7 @@ wwwcrediplanacesso.com
 wwwhost.biz
 wwwwmobisantander.com
 x24hr.com
+xiti.com
 xn--facebok-wx4c.com
 xn--facebok-y2c.com
 xn--faceook-pm3c.com
