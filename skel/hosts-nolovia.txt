@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-27 14:58:03
+# Generated at 2017-11-28 12:29:46
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -806,6 +806,7 @@ decibelinsight.net
 decisiveducks.com
 delightdriving.com
 departapp.com
+department-gov.com
 dere879.me
 derraaa11.me
 detailaccount.info
