@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-11-28 23:23:08
+# Generated at 2017-12-01 23:46:16
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -2371,6 +2371,7 @@ xn--iclod-nva.com
 xn--oogle-wmc.com
 xn--pypa-0na75c.com
 xovq5nemr.com
+xpanama.net
 xvidmovies.in
 xxuz.com
 xxxy.biz
