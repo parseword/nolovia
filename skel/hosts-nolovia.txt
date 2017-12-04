@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-04 00:16:29
+# Generated at 2017-12-04 17:07:26
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1770,6 +1770,7 @@ secures-apple.com
 secures-intlrecovery.com
 secureservice-group.xyz
 securesolutionsaccounts.com
+securessltunnel.com
 securetransaction.online
 secureupdateid.info
 secureupdatepayp.com
