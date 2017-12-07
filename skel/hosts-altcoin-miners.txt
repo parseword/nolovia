@@ -34,3 +34,11 @@ minr.pw
 papoto.com
 ppoi.org
 reasedoper.pw
+
+# Additional hosts noted as serving cryptojacking malware
+
+abc.pema.cl
+host.d-ns.ga
+metrika.ron.si
+st.kjli.fi
+xy.nullrefexcep.com
