@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-08 13:51:44
+# Generated at 2017-12-08 17:06:39
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1747,6 +1747,7 @@ scrubsky.com
 scrubswim.com
 scureee-paypall.com
 searchmyiphone.com
+sec2tunnel.co.uk
 secur0intl-payment-access-pp99057875.com
 secure-2stepverification-requires.com
 secure-appleid.net
