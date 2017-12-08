@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-07 12:43:12
+# Generated at 2017-12-08 13:51:44
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1578,6 +1578,7 @@ policypage-updatestoppedworking.com
 polyicloudfinder.com
 popmyads.com
 popularenlineaservicios.com
+port.sec.miui.com
 port25.biz
 possibleboats.com
 powerrballi.top
