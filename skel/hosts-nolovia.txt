@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-08 17:06:39
+# Generated at 2017-12-09 13:53:37
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -599,8 +599,10 @@ cleansite.biz
 cleansite.info
 cleansite.us
 clickability.com
+clickhoptk.com
 clicknetwork.com
 clicktale.com
+clicktrackopt.com
 clickzs.com
 client-accountbilling.com
 client-accountremove.com
