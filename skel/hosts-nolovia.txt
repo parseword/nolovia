@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-09 13:53:37
+# Generated at 2017-12-09 17:31:50
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -175,6 +175,7 @@ analytics.tout.com
 angsrvr.com
 antivirus-upgrade.com
 anxiousapples.com
+api.e-toys.cn
 apk-bancodobrasil.com
 app-bancobrasil.com
 app-bancodobrasil.com
@@ -204,6 +205,7 @@ appiexr-iphone.com
 appiezr-iphone.com
 appios-icloud-id.com
 appiosi-icloud-id.com
+appjiagu.com
 appl-notices-verifiedacc.com
 appl-notices-verifiedaccnt.com
 appl-noticeverified.com
