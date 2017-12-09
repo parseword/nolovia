@@ -39,7 +39,9 @@ reasedoper.pw
 # Additional hosts noted as serving cryptojacking malware
 
 abc.pema.cl
+cdn.rove.cl
 host.d-ns.ga
 metrika.ron.si
 st.kjli.fi
+static.hk.rs
 xy.nullrefexcep.com
