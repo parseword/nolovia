@@ -1,13 +1,15 @@
 # nolovia
-nolovia is an ad-blocking config file generator for `bind`, `NSD`, or other resolvers
+nolovia is an ad-blocking config file generator for `bind`, `NSD`, or other 
+DNS resolvers
 
 _From Latin, loosely: **nolo**, I don't want; **via**, a path or route_.
 
-nolovia is a config file generator that assists in implementing a blackholing 
-DNS server or DNS "sinkhole" firewall. nolovia ingests several public lists of 
-advertising, tracking, analytics, malware, and other potentially undesirable 
-servers. These lists are then merged and minimized as much as possible, and 
-exported as a config file suitable for use with the `bind` or `nsd` DNS resolvers. 
+nolovia helps you implement a blackholing DNS server or DNS "sinkhole" firewall, 
+by generating configuration files that block potentially malicious servers.
+
+nolovia ingests several public lists of advertising, tracking, analytics, malware, 
+cryptojacking, and other undesirable servers. These lists are merged and minimized, 
+then exported as a config file suitable for use with the `bind` or `nsd` DNS resolvers. 
 A corresponding blackhole [zone file](https://raw.githubusercontent.com/parseword/nolovia/master/blackhole.zone) is included.
 
 ## Why operate a local DNS server? 
@@ -22,8 +24,7 @@ blocking and tracker blocking.
 ## Using nolovia with `bind`
 
 1. Ensure you already have a working instance of the [`bind` DNS resolver](https://www.isc.org/downloads/bind/) prior to 
-starting. There are lots of tutorials on installing `bind` for your OS; doing 
-so is beyond the scope of this document. 
+starting. There are lots of tutorials on installing `bind` for your OS. 
 
 2. Make a backup of your existing `named.conf` file. 
 
@@ -48,8 +49,7 @@ security purposes, only hosts on your local network should be allowed:
     };
 
 Now look at the `options { ... }` stanza in your `named.conf` and find the 
-recursion settings. If recursion is already enabled, you can skip this step. To 
-enable recursion *for the recursers ACL only*, set:
+recursion settings. To enable recursion *for the recursers ACL only*, set:
 
     recursion yes;
     allow-recursion { recursers; };
@@ -66,8 +66,7 @@ your system, and make sure all the devices on your network are set to use your
 ## Using nolovia with `NSD`
 
 1. Ensure you already have a working instance of the [`NSD` DNS resolver](https://www.nlnetlabs.nl/projects/nsd/) prior to 
-starting. There are lots of tutorials on installing `NSD` for your OS; doing 
-so is beyond the scope of this document. 
+starting. There are lots of tutorials on installing `NSD` for your OS. 
 
 2. Make a backup of your existing `nsd.conf` file. 
 
@@ -81,7 +80,7 @@ so is beyond the scope of this document.
 
 Out of the box, nolovia's `NSD` support isn't enabled. Open the `config.php` 
 file in the editor of your choice, and look for this section, which is around 
-line 67 as of this writing:
+line 70 as of this writing:
 
     //nsd (disabled by default)
     $r = new ResolverConfiguration('nsd');
@@ -107,7 +106,7 @@ This will generate a file named `blackhole-nsd.conf`.
 into your NSD `zonesdir`, which is probably `/etc/nsd/`.
 
 Restart `NSD` with `service nsd restart` or `nsd-control reconfig` as appropriate  
-for your system, and make sure  the devices on your network are set to use your 
+for your system, and make sure the devices on your network are set to use your 
 `NSD` instance as their DNS server.
 
 ## After installation
@@ -116,7 +115,7 @@ Now see what breaks! Some sites you use might lose functionality because of
 server blocking. Edit the personal-whitelist.txt and personal-blacklist.txt 
 files to tweak nolovia's generated lists to your liking, then run it again to 
 create a new blackhole.conf file. Once you've worked out any kinks, consider 
-setting up a weekly cron job to make an updated blackhole.conf, copy it to 
+setting up a daily cron job to make an updated blackhole.conf, copy it to 
 wherever your resolver looks for it, and reload the name server.
 
 ## TODO:
