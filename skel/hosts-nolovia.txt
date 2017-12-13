@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-13 13:38:52
+# Generated at 2017-12-13 16:44:13
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -611,6 +611,7 @@ client-accountbilling.com
 client-accountremove.com
 client-servicezones.com
 clintareasinginservicelimtednpphome-indexhtml.com
+cliqz.com
 cloud-checkyouraccount.com
 cloud-id-recover.com
 cloudflare.solutions
