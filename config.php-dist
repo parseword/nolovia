@@ -26,6 +26,7 @@
  * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
+ * ZeroDot1 at https://zerodot1.github.io/CoinBlockerLists/
  */
 
 require_once('./model/ResolverConfiguration.php');
@@ -83,7 +84,8 @@ $resolvers[] = $r;
 
 unset($r);
 
-//Set up the server lists we're going to fetch
+//Set up the server lists we're going to fetch. To disable a particular list, 
+//comment out the block that defines it.
 $serverLists = array();
 
 $sl = new ServerList('nolovia Windows Telemetry');
@@ -182,6 +184,13 @@ $sl->setUri('https://www.malwaredomainlist.com/hostslist/hosts.txt');
 $sl->setMinimumExpectedBytes(20480);
 $sl->setValidationText('MalwareDomainList.com Hosts List');
 $sl->setReplacePatterns(array('|^127.0.0.1(\s+)|m'));
+$serverLists[] = $sl;
+
+$sl = new ServerList('CoinBlockerList from ZeroDot1');
+$sl->setFilePath('./data/hosts-coinblocker.txt');
+$sl->setUri('https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt');
+$sl->setMinimumExpectedBytes(2048);
+$sl->setValidationText('bitcoin');
 $serverLists[] = $sl;
 
 //Cybercrime Tracker bot/malware command and control server list.
