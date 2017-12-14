@@ -37,15 +37,23 @@ papoto.com
 ppoi.org
 reasedoper.pw
 
-# Additional hosts noted as serving cryptojacking malware
+# Additional hosts noted as serving cryptojacking sites or infrastructure
 
 abc.pema.cl
+bitcoiner.win
+carrel.services
 cdn.rove.cl
-cdn.static-cnt.bid
+cliggi.download
+clod.pw
 cloudcdn.gdn
+cloudmediacdn.com
+cody.services
 hallaert.online
 host.d-ns.ga
 metrika.ron.si
+nitsche.top
 st.kjli.fi
 static.hk.rs
+static-cnt.bid
+statistic.date
 xy.nullrefexcep.com
