@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-13 16:44:13
+# Generated at 2017-12-19 23:48:23
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -159,6 +159,7 @@ afftrack.com
 airconditionerreviews.com
 ak0gsh40.com
 all-ransomware.info
+alluorine.info
 almostmy.com
 already-apple.com
 amazoapp.com
@@ -175,6 +176,7 @@ analytics.tout.com
 angsrvr.com
 antivirus-upgrade.com
 anxiousapples.com
+api-profit.com
 api.e-toys.cn
 apk-bancodobrasil.com
 app-bancobrasil.com
@@ -915,6 +917,7 @@ facebooksecurity.info
 faqserv.com
 fartit.com
 fb-accountinformation.com
+fdsvtrwda.info
 fidzup.com
 filmcoffee.win
 find-7.info
@@ -976,6 +979,7 @@ ginzametrics.com
 gmail-service.online
 gmaile.org
 go2click.org
+golangwq.info
 googlecloud.su
 googlz.blackfriday
 gorgeousground.com
@@ -1217,6 +1221,7 @@ karisimbi.net
 kdata.fr
 ketdocwel.us
 kinoprofi.hhos.ru
+krnwhyvq.info
 kro.kr
 laappleservee.com
 lazycat1.xyz
@@ -1335,6 +1340,7 @@ managepurchaseinaccount-service.com
 manager-support-account-security.com
 manageupdate-accountidunlock.info
 manageupdate-accountunlock.info
+mancortz.info
 mandate-to-validate.xyz
 mandatetovalidate.xyz
 mangement-purchaseappleid-investigation.store
@@ -1357,6 +1363,7 @@ mms.chip.de
 mms.cnn.com
 mms.huffingtonpost.com
 mms.lifehacker.com
+mnfioew.info
 mobifoth.com
 mobileapptracking.com
 mobiledevsafety.com
@@ -1369,6 +1376,8 @@ mookie1.com
 moomeeo.com
 mopub.com
 mowfruit.com
+mp-app.info
+mp-tracker.com
 mparticle.com
 mpp-service.com
 mrbasic.com
@@ -1441,6 +1450,7 @@ mytransaction-account-fraudprevention.center
 myuaccname-apple.info
 mywww.biz
 myz.info
+narusnex.info
 nativein-ad.com
 nativein-feed.com
 nativeinad.com
@@ -1474,6 +1484,7 @@ newsfacebook24h.com
 newsmaxfeednetwork.com
 nexage.com
 next-verifty-account.com
+ngkciwmnq.info
 ngtv.io
 ninfeed.com
 ninicloud.com
@@ -1493,6 +1504,7 @@ ns2.name
 ns3.name
 nssp.com
 nullstack.co
+nvewpvnid.info
 ocry.com
 office365ow.com
 officialpage-appleid.com
@@ -1517,6 +1529,7 @@ organicpanda1.xyz
 otzo.com
 ourhobby.com
 ovalpigs.com
+ovnwislxf.info
 p-w.kr
 page-account.info
 page-appleid-apple.com
@@ -1718,6 +1731,7 @@ reviewaccountlogin.com
 reviewservicelimitedaccountsrv.com
 rfihub.com
 rolandcomputers.com
+ronesio.xyz
 royal-submitverifcations.com
 royalbank-verification2.com
 rset-update.com
@@ -1964,6 +1978,7 @@ starreviews.com
 statement-account-limitation.info
 statements-icloudappleid.com
 statusdelivery.com
+steamchristmas.com
 stepconfirm-limitation-eng-lang.com
 steptoverif.com
 stolen-icloud.com
@@ -2382,6 +2397,7 @@ xn--faceook-pm3c.com
 xn--iclod-nva.com
 xn--oogle-wmc.com
 xn--pypa-0na75c.com
+xn--verifcation-gcb.com
 xovq5nemr.com
 xpanama.net
 xvidmovies.in
