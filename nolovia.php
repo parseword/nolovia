@@ -196,10 +196,14 @@ $hosts = array_map(
     $hosts
 );
 
+//Discard entries with invalid characters
+debug('Discarding entries with invalid characters');
+$hosts = strip_invalid($hosts);
+
 //Remove any duplicate hosts
 debug('Deduplicating hosts');
 $hosts = array_unique(array_map('strtolower', $hosts));
-debug('Deduplicated host list contains ' . count($hosts) . ' entries');
+debug('Scrubbed host list contains ' . count($hosts) . ' entries');
 
 //Build a list of domains we're blocking entirely (entire zone/all subdomains)
 debug('Building list of fully-blocked domains');
@@ -307,6 +311,13 @@ function strip_comments($arr) {
         }
     }
     return array_map('trim', $arr);
+}
+
+/* Remove invalid hostnames from an array */
+function strip_invalid($arr) {
+    return array_filter($arr, function($val) {
+            return !preg_match('|[^A-Z0-9\-\.]|i', $val);
+    });
 }
 
 /* Display a notification with timestamp and memory statistics */
