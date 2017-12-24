@@ -57,6 +57,9 @@ define('FETCH_FAILURE_FATALITY_FLAG', true);
 define('REGEX_MULTIPART_TLD', 
     '/\.com?\.(ar|au|bo|br|cc|cn|co|id|il|in|hk|jp|kr|kz|mx|nz|ph|rs|tr|ua|uk|uy|vn|za)$/');
 
+//Should we send a non-blank User-Agent when fetching web resources?
+ini_set("user_agent", "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0");
+
 //Set up the resolvers we're going to generate config files for
 $resolvers = array();
 
