@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-19 23:48:23
+# Generated at 2017-12-26 21:13:43
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -2391,6 +2391,7 @@ wwwhost.biz
 wwwwmobisantander.com
 x24hr.com
 xiti.com
+xn--bittrx-th8b.com
 xn--facebok-wx4c.com
 xn--facebok-y2c.com
 xn--faceook-pm3c.com
