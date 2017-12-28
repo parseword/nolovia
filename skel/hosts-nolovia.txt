@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-26 21:13:43
+# Generated at 2017-12-28 09:40:15
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -616,6 +616,7 @@ clintareasinginservicelimtednpphome-indexhtml.com
 cliqz.com
 cloud-checkyouraccount.com
 cloud-id-recover.com
+cloud-wp.org
 cloudflare.solutions
 clrstm.com
 codeonclick.com
@@ -2368,6 +2369,8 @@ wklimited.com
 wlespuld.me
 wlespulsd1.me
 wowaskopoq.top
+wpconnect.org
+wpserve.org
 wqiwjwwgyz.science
 wusecureaccountsworld.com
 ww3-appleid-store.com
