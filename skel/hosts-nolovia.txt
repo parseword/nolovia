@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2017-12-28 09:40:15
+# Generated at 2017-12-28 10:28:00
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -2399,9 +2399,22 @@ xn--facebok-wx4c.com
 xn--facebok-y2c.com
 xn--faceook-pm3c.com
 xn--iclod-nva.com
+xn--iclou-9ya.com
+xn--iclud-i9a.com
+xn--myetherwale-os8e5y.com
+xn--mytherwalet-ms8e53d.com
 xn--oogle-wmc.com
 xn--pypa-0na75c.com
+xn--steacommunlt-b44fi3g.com
+xn--steamcommunly-6ib.com
+xn--steamcommunly-sv2g.com
+xn--steamcommuntly-b78g.com
+xn--steamcommutly-5ib.com
+xn--steamcomunlt-e44f72g.com
+xn--therdelta-9gb.com
 xn--verifcation-gcb.com
+xn--yetewallet-hf2e6mrk.com
+xn--yhoo-qzb.com
 xovq5nemr.com
 xpanama.net
 xvidmovies.in
