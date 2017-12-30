@@ -54,6 +54,7 @@ eruuludam.mn
 etacontent.com
 hallaert.online
 host.d-ns.ga
+jquery-uim.download
 jquerystatistics.org
 metrika.ron.si
 nitsche.top
