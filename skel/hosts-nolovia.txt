@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-06 15:29:16
+# Generated at 2018-01-06 16:37:49
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -779,6 +779,7 @@ criticalwarraningalert.xyz
 critictruck.com
 crownclam.com
 crypto-loot.com
+culturalconvergencemedia.com
 curtaincows.com
 customer-account-confirm.com
 customer-accountacces.com
@@ -1594,6 +1595,7 @@ phonefix.guru
 photographpan.com
 pietexture.com
 pingma.qq.com
+pmi5media.com
 police-pypal.com
 policy-activityaccount.com
 policypage-updatestoppedworking.com
