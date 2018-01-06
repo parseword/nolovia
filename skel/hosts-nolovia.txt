@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-04 22:31:05
+# Generated at 2018-01-06 13:14:29
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -790,6 +790,7 @@ customeraccountummary.info
 customerdetailoreses.com
 customerloginupdate.com
 customerprestige-interacpay.com
+customers-security-privacy-center.com
 customerservice-appleid.com
 customerservice-resolveaccount.com
 customingupdate-informationwebscrintlintl.com
