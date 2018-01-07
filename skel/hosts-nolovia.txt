@@ -6,13 +6,14 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-06 16:37:49
+# Generated at 2018-01-07 14:56:54
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
 1e-transfer-interac.com
 1etransfer--sent.com
 1rx.io
+1xgo.xyz
 25u.com
 2bq.xyz
 2waky.com
@@ -525,6 +526,7 @@ billing-primary.info
 billingupdate-logins.com
 bills-access9980723124-barokahin.com
 bin-updateservice.org
+binanct.com
 bitcoin-transaction-accelerator.website
 bittellect.com
 bizible.com
