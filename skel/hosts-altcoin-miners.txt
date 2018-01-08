@@ -16,6 +16,7 @@
 
 afminer.com
 authedmine.com
+browsermine.com
 cnhv.co
 coin-have.com
 coin-hive.com
