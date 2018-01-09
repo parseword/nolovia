@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-08 21:19:02
+# Generated at 2018-01-09 12:54:04
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1360,6 +1360,7 @@ memberdetail-data.info
 memevideoad.com
 mercycoin.org
 messagenovice.com
+metric.makemytrip.com
 metrica.yandex.com
 mfacebook.net
 mhoblysantanderbr.com
