@@ -160,13 +160,6 @@ $sl->setMinimumExpectedBytes(4096);
 $sl->setValidationText('Suspicious Domain List');
 $serverLists[] = $sl;
 
-$sl = new ServerList('networksec.org');
-$sl->setFilePath('./data/hosts-networksec.txt');
-$sl->setUri('http://www.networksec.org/grabbho/block.txt');
-$sl->setMinimumExpectedBytes(1024);
-$sl->setValidationText('badlist');
-$serverLists[] = $sl;
-
 $sl = new ServerList('Disconnect Malvertising');
 $sl->setFilePath('./data/hosts-disconnect-malvertising.txt');
 $sl->setUri('https://disconnect.me/lists/malvertising');
@@ -205,6 +198,17 @@ $sl->setUri('https://cybercrime-tracker.net/all.php');
 $sl->setMinimumExpectedBytes(10240);
 $sl->setValidationText('panel');
 $sl->setMatchAllPattern('|^([a-z][a-z0-9\.\-]+)/(.*?)$|mi');
+$serverLists[] = $sl;
+*/
+
+//networksec.org list
+//Appears to be either defunct or lacking updates as of January 2018
+/*
+$sl = new ServerList('networksec.org');
+$sl->setFilePath('./data/hosts-networksec.txt');
+$sl->setUri('http://www.networksec.org/grabbho/block.txt');
+$sl->setMinimumExpectedBytes(1024);
+$sl->setValidationText('badlist');
 $serverLists[] = $sl;
 */
 
