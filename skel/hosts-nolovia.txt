@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-09 12:54:04
+# Generated at 2018-01-14 19:40:58
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -924,6 +924,7 @@ facebooksecurity.info
 faqserv.com
 fartit.com
 fb-accountinformation.com
+fbkingsuk.s3.amazonaws.com
 fdsvtrwda.info
 fidzup.com
 filmcoffee.win
@@ -1351,6 +1352,7 @@ mancortz.info
 mandate-to-validate.xyz
 mandatetovalidate.xyz
 mangement-purchaseappleid-investigation.store
+masttracker.com
 matchcows.com
 maximusstafastoriesticks.info
 me-look-update-now.com
