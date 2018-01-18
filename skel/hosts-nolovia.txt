@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-14 19:40:58
+# Generated at 2018-01-18 13:01:56
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1646,6 +1646,7 @@ provideplant.com
 proxydns.com
 ps-webapps.com
 puchex.site
+pumpmywallet.com
 purchase-updates.com
 purplecat1.xyz
 pushplay.tv
