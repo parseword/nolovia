@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-18 22:13:39
+# Generated at 2018-01-23 17:04:29
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -1357,6 +1357,7 @@ masttracker.com
 matchcows.com
 maximusstafastoriesticks.info
 me-look-update-now.com
+medianewsonline.com
 mefound.com
 member-validation.info
 memberdetail-data.info
@@ -1454,6 +1455,7 @@ mynumber.org
 mypicture.info
 mypop3.net
 mypop3.org
+mypressonline.com
 mysecondarydns.com
 mysecure-id-icloud.com
 myserviceaccount.net
