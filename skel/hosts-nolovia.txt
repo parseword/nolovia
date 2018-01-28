@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-23 23:52:23
+# Generated at 2018-01-27 23:45:28
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -2265,6 +2265,7 @@ verifications-members.com
 verified-accountemailacces.com
 verified-id.online
 verified-sqhtwnmsafjjkapple.com
+verifiedaccount.io
 verifiedaccountinformation-apple.com
 verifiedaccounts.news
 verifiedreview.online
