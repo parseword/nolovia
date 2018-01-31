@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-27 23:45:28
+# Generated at 2018-01-31 13:25:24
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -220,6 +220,7 @@ apple-ai.com
 apple-ajuda.com
 apple-aofer.top
 apple-app-find-iphone.com
+apple-apple-id-problem.com
 apple-appleied.com
 apple-appsicloud.com
 apple-assistant-support.com
@@ -709,12 +710,14 @@ com-service.supply
 com-servicecenter-mpp-webbase.info
 com-servicecenter-mpp-webbase1.info
 com-servwork.info
+com-signin-getapt.ml
 com-signin-page.info
 com-statement-verify.net
 com-steeaveenlasoeakiaa.info
 com-suporte.com
 com-suspicious-account.info
 com-sv.ga
+com-tdldiej256127ppk.com
 com-unlock.plus
 com-unlocked-account.com
 com-unlockedid778823.info
@@ -742,6 +745,7 @@ compress.to
 concernrain.com
 configloginsecure.com
 confirm-account-info.net
+confirm-customer.com
 confirm-now.com
 confirm-paymentordercanceled.com
 confirm-reactive-accountsec.com
@@ -782,6 +786,7 @@ criticalwarraningalert.xyz
 critictruck.com
 crownclam.com
 crypto-loot.com
+cuentas-seguravsptr-activysinformacion.com
 culturalconvergencemedia.com
 curtaincows.com
 customer-account-confirm.com
@@ -831,6 +836,8 @@ decibelinsight.com
 decibelinsight.net
 decisiveducks.com
 delightdriving.com
+denizbank-esube.com
+denizibankasi.com
 departapp.com
 department-gov.com
 dere879.me
@@ -887,6 +894,7 @@ dynamicdns.org.uk
 dyndns.pro
 dynssl.com
 e-1interac.com
+e-onlinegirisim.com
 e-transfer11-interac.com
 e1-interac.com
 edns.biz
@@ -917,6 +925,8 @@ etr-mobile1.com
 etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 exclusivebrass.com
+exmo.info
+exmo.tech
 ezua.com
 f3322.org
 face-book.online
@@ -943,10 +953,13 @@ findmeicloud-appleinc.info
 findmy-apple.net
 findmy-phone.info
 findmyiphone-app-maps.com
+findmyiphone-apples.com
 findmylphone-icloud.com
 findmyph0ne.com
 findni-iphone.net
 findyouriphones.com
+firm-intl.com
+firsatziraatdesizinlle.com
 firststep-login.com
 fisrtinlogin.com
 fkksjobnn43.org
@@ -1010,6 +1023,8 @@ guitarbelieve.com
 gumgum.com
 h552terriddows.com
 h78xb.pw
+halkcekilisiduyurular.com
+halkebank.com
 hapc.gdn
 hasbeenlimited-stoppedworking.com
 heavypanda1.xyz
@@ -1040,6 +1055,7 @@ hubs.ly
 hucksterbot.ru
 iappleid-regist.com
 ib-ibi.com
+ibasvuru-ziraatbank.com
 icl0ud-iphone.com
 icl0ud-locked-detail.com
 iclo0ud-locked-details.com
@@ -1061,10 +1077,12 @@ icloud-confirmation-identifty.com
 icloud-connect.com
 icloud-defense.com
 icloud-europe.com
+icloud-find-sms.com
 icloud-help-unlocked.com
 icloud-iccd-id.com
 icloud-icicid-id.com
 icloud-id.xyz
+icloud-ios-find.com
 icloud-iosv.com
 icloud-iphoneld.com
 icloud-locide.site
@@ -1152,6 +1170,7 @@ information-account-limited.org
 information-accountdb.com
 infoupdateppl.com
 innovid.com
+insta-signin.xyz
 instagram-checkout.com
 instagram-page.com
 instagram61.com
@@ -1166,6 +1185,7 @@ interac.world
 interaconline-etransfer-paymentrefund.com
 intercom.io
 intermob-refundbnk1.com
+internet-bankofamerica.com
 internetmessagebox.xyz
 internetmessageboxneedvalidation.xyz
 intl-appleservice-locked.info
@@ -1228,8 +1248,10 @@ justvalidateit.xyz
 kalooga.com
 karisimbi.net
 kdata.fr
+keep-your-account.com
 ketdocwel.us
 kinoprofi.hhos.ru
+klantenservice-inlogin.pro
 krnwhyvq.info
 kro.kr
 laappleservee.com
@@ -1262,6 +1284,8 @@ limitation-manage.com
 limited-policy.com
 limited-version.com
 limitedaccresolve-help-service-bin.com
+limitedpurchased.com
+limitgdawe.com
 limitted-account.com
 limpingline.com
 linknetwork.com
@@ -1327,6 +1351,7 @@ lp3tdqle.com
 ltunes.cloud
 lumpyleaf.com
 lytics.io
+mail-authorization.pro
 mail-service-costumeraccount.com
 mail-service-redirect.com
 mailservice-apple.com
@@ -1435,11 +1460,14 @@ myapple-locked-account-resolve-service-webrecovery.com
 myapple-verification-identification.com
 myappleid-verifications.com
 myappleipone.org
+mybitcoinmastercard.com
 mycarddetailsverify.com
 mycustomer-service.com
 mydad.info
 myddns.com
 myebayaccess.com
+myetherwalleit.info
+myetrherwallert.com
 myfraudtransactionaccount.center
 myftp.info
 myftp.name
@@ -1489,6 +1517,8 @@ need-to-validate.xyz
 needtovalidate.xyz
 needvalidationtogolive.xyz
 netflix-mob.com
+netflix-offre.net
+netflixcolombia.net
 networkdocweb.us
 new-feedback-apple-information-by-administrator.com
 new-loginservice.com
@@ -1526,6 +1556,7 @@ onedumb.com
 onesignal.com
 onion.dog
 onion.rip
+onlineaccesshsbcvveb.com
 onlinepaymennt.com
 onlines-access.com
 onmypc.biz
@@ -1573,6 +1604,7 @@ payoneerz.com
 paypa.world
 paypa1l.com
 paypaaljembutjembut.net
+paypai-supportactiveyour-account.com
 paypal-accounts-updating.com
 paypal-billing.top
 paypal-cgi-bin.com
@@ -1590,12 +1622,14 @@ paypal-limited.com
 paypal-limited.xyz
 paypal-resolve.website
 paypal-reviewsaccount.com
+paypalclient.com
 paypaletransfer.com
 paypalfullservice.com
 paypalhome.com
 paypallj.com
 paypallssjembutsss.net
 paypl-direct-resolutioncenter.com
+paypol-securities.biz
 pcanywhere.net
 peacepowder.com
 perfectmarket.com
@@ -1616,6 +1650,7 @@ port.sec.miui.com
 port25.biz
 possibleboats.com
 powerrballi.top
+poypal-team-online.com
 pozvonim.com
 ppintl-limited-account-service-solution-id8-v2.com
 ppintl-service-account-limitid-colution-center-id-cgi1.com
@@ -1776,6 +1811,7 @@ sc-applle-login.com
 scarcestream.com
 scintillatingspace.com
 score-youraccount.info
+scotia-online-banking.com
 scotiabankdelperu.com
 scrappcloud-idapple.com
 scrubsky.com
@@ -1826,6 +1862,7 @@ security-update-datacenter.com
 security-verification-account-center.com
 securityaccountapple.com
 securityclient-appleid-apple.com
+securitypaypal.com
 securiy-accsess-center.com
 seguridadonline-icloud.com
 sek-tc.com
@@ -1921,6 +1958,7 @@ signauth-verification.info
 signauthverifyaccess-information.com
 signiin-account.com
 signiin-accounts-access.com
+signin-4462.net
 signin-access-account-verify.com
 signin-access-restore-account.com
 signin-account-secure-verify.com
@@ -1999,6 +2037,7 @@ stepconfirm-limitation-eng-lang.com
 steptoverif.com
 stolen-icloud.com
 stops-appid.com
+store-getrefund.com
 store-id-resolution-accs9921.com
 store-updaccount.com
 storebox-update9812.com
@@ -2011,6 +2050,7 @@ stringengines.com
 strivesidewalk.com
 structuresofa.com
 studentworkbook.pw
+sube-hizmeti.org
 succeedscene.com
 sumary-repoerteraccount.com
 summary-account-service.org
@@ -2166,6 +2206,7 @@ update-accountid-information.info
 update-accounttactivity.com
 update-acctfb.com
 update-apartments.com
+update-apple-info.com
 update-bilingappl.com
 update-billing-info-security.com
 update-client.info
@@ -2344,6 +2385,7 @@ webapps-verification-ncxvrmne.com
 webapps-verification-nxcmna-i.cloud
 webapps-verificationmembers.com
 webappsc-cgi-access-service.com
+webappsecurityupdate.com
 webappss-security-bin-apple.com
 webdeclaration.xyz
 webdoctell.us
@@ -2397,6 +2439,7 @@ wqiwjwwgyz.science
 wusecureaccountsworld.com
 ww3-appleid-store.com
 www-appleid-notify.com
+www-desjardins-com.com
 www-ebay-dispute-payment.com
 www-ebay-dispute.com
 www-login-americanxpress.com
@@ -2424,6 +2467,7 @@ xn--iclod-nva.com
 xn--iclou-9ya.com
 xn--iclud-i9a.com
 xn--myetherwale-os8e5y.com
+xn--mytherwalet-3qb08c.com
 xn--mytherwalet-ms8e53d.com
 xn--oogle-wmc.com
 xn--pypa-0na75c.com
@@ -2462,6 +2506,14 @@ zapplestore.com
 zbwp6ghm.com
 zdockappleid.com
 zertweekdoc.us
+ziraat-bankasl.com
+ziraat-internetisube.com
+ziraatbank-bireyselhizmetler.com
+ziraatbank-kampaya.com
+ziraatbank26.com
+ziraatbanklahizmetler.com
+ziraatbankyeniinternetsubemiz.com
+ziraatintbankasi.com
 zyns.com
 zz.am
 zzux.com
