@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-01-31 13:25:24
+# Generated at 2018-02-01 13:56:26
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -623,6 +623,7 @@ cloud-wp.org
 cloudflare.solutions
 clrstm.com
 codeonclick.com
+coin-service.com
 com-accept-security.info
 com-acces-issuer-case.com
 com-acces-scrts0612.com
@@ -1703,6 +1704,8 @@ rastreador-apple.com
 rationalyze.com
 rbcliveverifications.com
 rbcroyalbank-security.com
+rcyclmnr.com
+rcyclmnrhgntry.com
 readgoldfish.com
 realshieldlinked.com
 reason-locked-id1.info
@@ -1721,6 +1724,7 @@ recovery-confirmation.com
 recovery-yourpaypallimit.com
 recoveryaccount-pages.com
 recoverypasword.com
+recycloped.com
 redbear1.xyz
 redduck1.xyz
 redirect-confirmation.com
