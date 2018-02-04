@@ -42,6 +42,7 @@ reasedoper.pw
 # Additional hosts noted as serving cryptojacking sites or infrastructure
 
 abc.pema.cl
+analytics.blue
 bitcoiner.win
 c7e935.netlify.com
 carrel.services
