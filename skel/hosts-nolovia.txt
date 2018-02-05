@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-02-03 20:27:31
+# Generated at 2018-02-05 14:28:26
 01interac-etransfer-ca.com
 0pe.kr
 1dumb.com
@@ -44,6 +44,7 @@ access-account-service.com
 access-accountinform.com
 access-appleid-costumer.com
 access-appleid.com
+access-denied-helpcenter-question.com
 access-limit.com
 access-login-accounts-appstores.com
 access-mypayment.com
@@ -88,6 +89,7 @@ account-secure.org
 account-serivce.com
 account-service-center.info
 account-service-information.com
+account-short.com
 account-update-login.com
 account-user-notice-reminder.com
 account-verification-agreement.info
@@ -116,6 +118,7 @@ accountsauthentification.com
 accountservice-limited.org
 accountservicenotification.com
 accountslock-confirm.com
+accountsnapchatverfiy.com
 accountsresolutioncenter.com
 accountsummary.website
 accountupdate-unusualactivity-policyagreement.info
@@ -173,6 +176,7 @@ ambitiousagreement.com
 amellet.bit
 americanunfinished.com
 amexopesx.com
+analytics.blue
 analytics.tout.com
 angsrvr.com
 antivirus-upgrade.com
@@ -191,6 +195,8 @@ app-updtscure.com
 app.link
 appboy.com
 appid-apple-yun.com
+appid-caseiilkezelgayssd123123.com
+appid-casekelzeiilguysada09123.com
 appid-dataresolve.com
 appid-direct-resolutioncenter.com
 appid-direct-resolvecenter.com
@@ -305,6 +311,7 @@ appleaccount-resolve.com
 appleaen.com
 appleano.com
 applecck.com
+applecgi.com
 applecr-iphone.com
 applecustomer.org
 appled-info.com
@@ -363,6 +370,7 @@ appleid-security.space
 appleid-security.website
 appleid-service-account.com
 appleid-serviceupdate.com
+appleid-sevice.top
 appleid-signin-apple.com
 appleid-sms-apple.com
 appleid-storeapple.com
@@ -384,6 +392,7 @@ appleid-websrc.site
 appleid-websrc.space
 appleid-websrc.website
 appleid-websrcxresolved-login.com
+appleid-wepapps.com
 appleidcgi-steps.net
 appleidlink.com
 appleidp-apple.com
@@ -467,6 +476,7 @@ authenticateaccount.stream
 authentication-appleaccount.com
 authentication-appleid.com
 authorization-account.com
+authorization-apple-security-id.com
 authorizeddns.net
 authorizeddns.org
 authorizeddns.us
@@ -580,6 +590,15 @@ change-recovery-access.com
 changeip.name
 changeip.net
 changeip.org
+chase-banking-login1.xyz
+chase-banking-login2.xyz
+chase-banking-login3.xyz
+chase-banking-login4.xyz
+chase-banking-login5.xyz
+chase-banking-login6.xyz
+chase-banking-login7.xyz
+chase-banking-login8.xyz
+chase-banking-login9.xyz
 check-account-acceess.com
 check-account-acces.com
 check-account-now.com
@@ -973,6 +992,7 @@ follingerservicemabe.com
 fopflop.me
 formalyzer.com
 forultimateandbest4upgradepc.download
+fraddation-pyments-acounting.com
 fraud-loginactivity.com
 freeddns.com
 freetcp.com
@@ -999,6 +1019,7 @@ gettrials.com
 giddycoat.com
 gigya.com
 ginzametrics.com
+gmail-security-account.com
 gmail-service.online
 gmaile.org
 go2click.org
@@ -1189,6 +1210,7 @@ intermob-refundbnk1.com
 internet-bankofamerica.com
 internetmessagebox.xyz
 internetmessageboxneedvalidation.xyz
+intl-appidservmiaccsrvids.com
 intl-appleservice-locked.info
 intl-bankaccount.com
 intl-secureaccount-locked.com
@@ -1229,6 +1251,7 @@ itsaol.com
 itunes-account-recover.com
 itunes-been.com
 itunes-billing-processor-disabled.com
+itunes-payment.com
 itunes-store-buy-blocked.com
 itunesapple.org
 itunesapplenvoice.info
@@ -1368,6 +1391,7 @@ manage-limitation.com
 manage-myaccount.info
 manage-mypayment.com
 manage-supportservice.com
+managed-forgot-account.com
 management-accountapple-purchaseappstore.store
 management-accountappleid-purchaseverification.store
 management-dataicloud.info
@@ -1390,6 +1414,7 @@ member-validation.info
 memberdetail-data.info
 memevideoad.com
 mercycoin.org
+messageaccount.com
 messagenovice.com
 metric.makemytrip.com
 metrica.yandex.com
@@ -1439,8 +1464,10 @@ my-icnid-icloud.com
 my-incid-icloud.com
 my-iocid-icloud.com
 my03.com
+myaccount-apple-service-security.com
 myaccount-appleid-identification.com
 myaccount-instagram.com
+myaccount-limited-update.online
 myaccount-rejectedpayment.center
 myaccount-server.org
 myaccount-solved.com
@@ -1467,6 +1494,7 @@ mycarddetailsverify.com
 mycustomer-service.com
 mydad.info
 myddns.com
+mydepositsfunds-online.com
 myebayaccess.com
 myetherwalleit.info
 myetrherwallert.com
@@ -1525,6 +1553,7 @@ networkdocweb.us
 new-feedback-apple-information-by-administrator.com
 new-loginservice.com
 new-verificationdevelopeer.com
+newpayment-mynetflix.com
 news-mitteilung.online
 newsfacebook24h.com
 newsmaxfeednetwork.com
@@ -1583,6 +1612,7 @@ page-appleid-apple.com
 parafarmaciaabascal.com
 password-appleid.com
 pasword-recovery.com
+patronim.com
 payement-support-services.com
 payfone.com
 payles-service.com
@@ -1917,6 +1947,7 @@ servicecenteraccountlimiteds.com
 servicefraudwebappssecurr-youraccount.com
 servicemyaccount-service.com
 servicemyaccount-service.info
+servicenoticed.com
 serviceobatkuat.com
 serviceppaccount.com
 services-account-verifications-required.com
@@ -1930,6 +1961,7 @@ servicesolutionlimited-ppintl1-solution-home-index-html.com
 servicessupports.com
 servisedelivery.com
 servlet-appleidverification.com
+sescure-icloud.com
 sessioncam.com
 severvaliidation.xyz
 severvaliidationrequired.xyz
@@ -2173,6 +2205,7 @@ twitteraccountverified.online
 uacexchange.us
 uappllee.com
 ucrenkyapi.com
+uk-paypal.net
 ultraflawlesspop.com
 unauthorize-account-signin.com
 unblocked-account.com
@@ -2286,6 +2319,7 @@ validitions-apple-account-service.com
 verif-youraccount.com
 verifappleaccount.com
 verifcheck.com
+verificar-supportwebappleid.com
 verificarcontalcloud.com
 verification-account-lock.com
 verification-accountlocked-paypal.com
@@ -2342,6 +2376,7 @@ verify-payment.com
 verify-refundaccepted.com
 verify-scr.info
 verify-unlock.com
+verify-wahtsapp.com
 verify2nd.com
 verifyaccounts-access.com
 verifyamzn.com
