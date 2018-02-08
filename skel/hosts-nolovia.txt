@@ -6,9 +6,10 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-02-05 14:28:26
+# Generated at 2018-02-08 10:06:49
 01interac-etransfer-ca.com
 0pe.kr
+1588-2040.co.kr
 1dumb.com
 1e-transfer-interac.com
 1etransfer--sent.com
