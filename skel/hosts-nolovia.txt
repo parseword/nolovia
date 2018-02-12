@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-02-08 10:06:49
+# Generated at 2018-02-12 11:48:54
 01interac-etransfer-ca.com
 0pe.kr
 1588-2040.co.kr
@@ -807,6 +807,7 @@ criticalwarraningalert.xyz
 critictruck.com
 crownclam.com
 crypto-loot.com
+cryptotab.net
 cuentas-seguravsptr-activysinformacion.com
 culturalconvergencemedia.com
 curtaincows.com
@@ -1020,6 +1021,7 @@ gettrials.com
 giddycoat.com
 gigya.com
 ginzametrics.com
+give-me-coins.com
 gmail-security-account.com
 gmail-service.online
 gmaile.org
