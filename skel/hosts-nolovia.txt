@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-02-12 19:18:20
+# Generated at 2018-02-12 22:10:20
 01interac-etransfer-ca.com
 0pe.kr
 1588-2040.co.kr
@@ -54,6 +54,7 @@ access-papma.com
 access-payments.com
 access-reminderlimited.com
 access-verificatiion.com
+access.watch
 accessc-itigroupb.com
 accessid-applestores.com
 accessinfoverification.com
@@ -644,6 +645,7 @@ clickzs.com
 client-accountbilling.com
 client-accountremove.com
 client-servicezones.com
+clientmediaserver.com
 clintareasinginservicelimtednpphome-indexhtml.com
 cliqz.com
 cloud-checkyouraccount.com
@@ -1889,6 +1891,7 @@ scrappcloud-idapple.com
 scrubsky.com
 scrubswim.com
 scureee-paypall.com
+searchlinks.com
 searchmyiphone.com
 sec2tunnel.co.uk
 secur0intl-payment-access-pp99057875.com
@@ -1942,6 +1945,7 @@ seguridadonline-icloud.com
 sek-tc.com
 sellclassics.com
 sendsmtp.com
+sentry.io
 seoconsultants.org
 separatesilver.com
 serach-icloud.com
@@ -2440,6 +2444,7 @@ vertification-number-account-setup.com
 vertifiication-account.com
 verygoodads.com
 vidazoo.com
+vilynx.com
 vipddos.com
 virgintldgame.com
 visasecureverification.info
