@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-02-12 12:53:06
+# Generated at 2018-02-12 19:18:20
 01interac-etransfer-ca.com
 0pe.kr
 1588-2040.co.kr
@@ -998,6 +998,9 @@ flavordecision.com
 flndmyiphone-applelocation.com
 floodprincipal.com
 fluct.jp
+fmi-finder.tk
+fmi-service.cf
+fmi.services
 fmimaps-apple.com
 follingerservicemabe.com
 fopflop.me
@@ -1306,6 +1309,8 @@ lazyduck1.xyz
 lazyfish1.xyz
 lazyfrog1.xyz
 lciuod.com
+lcloud-service.gq
+lcloud-services.cf
 lcloudonline.com
 lde-signin-privat-true-login1.info
 lde-signin-privat-true-login1.site
@@ -1427,6 +1432,7 @@ mancortz.info
 mandate-to-validate.xyz
 mandatetovalidate.xyz
 mangement-purchaseappleid-investigation.store
+map-localisation.me
 masttracker.com
 matchcows.com
 maximusstafastoriesticks.info
@@ -1590,6 +1596,7 @@ ninjaoutreach.com
 ninstream.com
 ninth.biz
 notification-apple-service.com
+notifications-service.ga
 npm.hacktask.net
 ns01.biz
 ns01.info
