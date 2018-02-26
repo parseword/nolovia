@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-02-12 22:10:20
+# Generated at 2018-02-25 19:06:36
 01interac-etransfer-ca.com
 0pe.kr
 1588-2040.co.kr
@@ -183,6 +183,7 @@ amexopesx.com
 analytics.blue
 analytics.tout.com
 angsrvr.com
+answerscloud.com
 antivirus-upgrade.com
 anxiousapples.com
 api-profit.com
@@ -1006,6 +1007,7 @@ fmi.services
 fmimaps-apple.com
 follingerservicemabe.com
 fopflop.me
+foresee.com
 formalyzer.com
 forultimateandbest4upgradepc.download
 fraddation-pyments-acounting.com
