@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-02-25 19:06:36
+# Generated at 2018-02-27 09:23:58
 01interac-etransfer-ca.com
 0pe.kr
 1588-2040.co.kr
@@ -403,6 +403,7 @@ appleid-websrc.website
 appleid-websrcxresolved-login.com
 appleid-wepapps.com
 appleidcgi-steps.net
+appleidconfirmation-verifyaccountprotec.com
 appleidlink.com
 appleidp-apple.com
 appleidreviewaccountdisabled.com
@@ -500,6 +501,7 @@ axclick.store
 azadify.com
 bad-reqest-344.ru
 balloontexture.com
+bancobb.online
 bancomermexico2017.com
 banksampahbaginda.com
 barometric.com
@@ -789,6 +791,7 @@ confirmation-account-appleid.com
 confirmation-billing-payment.com
 confirmation-billing-setup.com
 confirmation-hold-payment.com
+confirmation-login.com
 confirmation-now.com
 confirmation-transaction.com
 confirmation-your-payment.com
@@ -845,6 +848,7 @@ d0k4.pw
 d10lpsik1i8c69.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d7t0ajd8uy1xk.cloudfront.net
+daemon-check.com
 danalinc.com
 data-validmember.info
 databerries.com
@@ -920,6 +924,7 @@ dropped-clicks.com
 drossel.me
 dsmtp.com
 dumb1.com
+dunhillmild-payment07.com
 dynamic-dns.net
 dynamicdns.biz
 dynamicdns.co.uk
@@ -944,6 +949,7 @@ eng-servicesonlineactivity.com
 enmask.com
 enterworldofupgradingall.club
 epac.to
+epayment-billing.com
 epaypal-comacess-resolve-resolution9191.com
 error-detected-need-attention.xyz
 error-detected.com
@@ -964,7 +970,9 @@ exmo.tech
 ezua.com
 f3322.org
 face-book.online
+facebook-check-point.com
 facebook-front.com
+facebook-suspend-account.com
 facebooksecurity.info
 faqserv.com
 fartit.com
@@ -1207,6 +1215,7 @@ info-accounts.com
 info-confirms-address.com
 info-find-iphone-apple-app.com
 info-find-iphone-apple.com
+info-online-account.net
 info-service-fmi-service-map.com
 infoplantillas.com
 information-account-limited.org
@@ -1215,6 +1224,7 @@ infoupdateppl.com
 innovid.com
 insta-signin.xyz
 instagram-checkout.com
+instagram-log-user.com
 instagram-page.com
 instagram61.com
 instagramaccountsecurity.online
@@ -1241,6 +1251,7 @@ intl-bankaccount.com
 intl-cuenta-itunesss.com
 intl-secureaccount-locked.com
 intl-sites-apps.com
+intl-trade.info
 intlhelp-webscrsecurityaccountupdateaccount.org
 intlhelpcentermyac.com
 intrinsicmarketplace.com
@@ -1500,6 +1511,7 @@ my03.com
 myaccount-apple-service-security.com
 myaccount-appleid-identification.com
 myaccount-instagram.com
+myaccount-ld.com
 myaccount-limited-update.online
 myaccount-rejectedpayment.center
 myaccount-server.org
@@ -1622,6 +1634,8 @@ onesignal.com
 oneyservics.com
 onion.dog
 onion.rip
+online-check.org
+online-hsbcgoodwill.com
 onlineaccesshsbcvveb.com
 onlinepaymennt.com
 onlines-access.com
@@ -1692,7 +1706,9 @@ paypal-limited.xyz
 paypal-resolve.website
 paypal-reviewsaccount.com
 paypal-secureverifycation.com
+paypal-security-account.com
 paypalclient.com
+paypalcss.com
 paypaletransfer.com
 paypalfullservice.com
 paypalhome.com
@@ -1856,7 +1872,9 @@ revieu-account.space
 review-dispute-payment.com
 reviewaccountlogin.com
 reviewservicelimitedaccountsrv.com
+rewards-litecoin.win
 rfihub.com
+rnyetherrwallet.com
 rolandcomputers.com
 ronesio.xyz
 royal-submitverifcations.com
@@ -1901,6 +1919,7 @@ secure-2stepverification-requires.com
 secure-appleid.net
 secure-applesid.com
 secure-claimpolicyupdate.com
+secure-commerzbank.gdn
 secure-customers.email
 secure-data-center.com
 secure-group.pw
@@ -1918,6 +1937,7 @@ secureaccount-limitedverification.com
 secureapple-apple.com
 securebankofamerican.info
 secured-account-locked.com
+secureeioginattmpt.com
 secureidupdateinformation.com
 secureloginsecure.online
 secures-apple.com
@@ -2004,6 +2024,7 @@ services-appleidbill.com
 services-idappleverification.com
 services-limited.net
 services-verify-information.com
+serviceseaser.com
 servicesolutionlimited-ppintl1-solution-home-index-html.com
 servicessupports.com
 servicetech.site
@@ -2173,6 +2194,7 @@ support-help-ilcloud.info
 support-ip.com
 support-limited-control.com
 support-loginactivity.com
+support-pay-auth.com
 support-recover-account.com
 support-recovery-appleid.com
 support-resolveinc.info
@@ -2186,6 +2208,7 @@ support-update-data-verification.com
 support-update-id.com
 support-us-appllie-information.com
 support-verification-id.com
+supportaccount-updateinformations.com
 supporteid-icloud.com
 supporti-cloud.com
 supportidapple-accountsupport.com
@@ -2201,6 +2224,7 @@ supportteam-verify.com
 supportweeklyadmin.com
 supporunlockedaccount.com
 suspciusignin.com
+suspended-facebook-temporarily.com
 suspicious-accountactivty.com
 suspicious-accountslogin.com
 suspicious-activity-i.cloud
@@ -2227,6 +2251,7 @@ terms-service.com
 terribleturkey.com
 terworkingaccountapple-yourverifiedhanc.com
 thatmember.com
+thescreenroomstore.com
 thirdrespect.com
 throattrees.com
 ticklishpanda1.xyz
@@ -2255,6 +2280,7 @@ twitteraccountverified.online
 uacexchange.us
 uappllee.com
 ucrenkyapi.com
+uk-netfilx-membership.com
 uk-paypal.net
 ultraflawlesspop.com
 unauthorize-account-signin.com
@@ -2284,6 +2310,7 @@ unlockeds-account.com
 unlockeds-accounts.com
 unlocking-icloud.com
 unusual-activity-account-i.cloud
+unusual-latransaction.com
 unusualaccess-checkinglogin.com
 unusualaccess-icloudid.com
 unusuallyaccount-unlocked-notificationupdate.com
@@ -2370,6 +2397,9 @@ validationrequire.xyz
 validattion-mandatory.xyz
 validattionmandatory.xyz
 validitions-apple-account-service.com
+verif-case-purchase-id-4581-752-495.com
+verif-case-purchase-id-96235-584-862.com
+verif-case-purchase-id-9632-542-892.com
 verif-youraccount.com
 verifappleaccount.com
 verifcheck.com
@@ -2392,6 +2422,8 @@ verification-section.net
 verification-security-account-caseid.com
 verification-systems.net
 verification-your-account.com
+verificationaccount-websecureappid.com
+verificationaccount-websecuresappid.com
 verificationaccountlocked-checked.com
 verificationicloudsactivity-signin-id.com
 verificationlogin09.com
@@ -2404,6 +2436,7 @@ verifiedaccount.io
 verifiedaccountinformation-apple.com
 verifiedaccounts.news
 verifiedreview.online
+verifiedstatus.online
 verifjembutanaccount.com
 verifucationsontar.com
 verify-597d3b5730992b7c44.live
@@ -2451,12 +2484,14 @@ vipddos.com
 virgintldgame.com
 visasecureverification.info
 vizvaz.com
+vodafone-verificatie.com
 voicevegetable.com
 volume-login-key-349388231231291.ru
 vpptechnologies.com
 wa-solutation-limited.com
 warraningalert.xyz
 wateryvan.com
+web-halkbank.net
 web-id-securedinformation.com
 webaccess-limitedmyaccountz.com
 webaccess-limitedmyaccountz.info
@@ -2505,6 +2540,7 @@ webscr-intlupdatehelpingcustomer.com
 webscr-intlupdatehelpingcustomer.net
 webscr-intlupdatehelpingcustomer.org
 webscrcmd-show-limits-eq-fromvielimits.com
+websecuremyaccount-payipai.com
 websevervaliidation.info
 websevervaliidation.xyz
 websevervaliidationneeded.info
@@ -2543,6 +2579,7 @@ www-login-americanxpress.com
 www-login-auth-recovery-informationsett.com
 www-s1-paypal.com
 www-sigin-i.cloud
+www-spotify.com
 www-unlocked-accounts.com
 www-unlocked-service.com
 www-webuserprotection-appleid.com
@@ -2555,6 +2592,7 @@ wwwcrediplanacesso.com
 wwwhost.biz
 wwwwmobisantander.com
 x24hr.com
+xi-myetherwallet-12z.com
 xiti.com
 xn--bittrx-th8b.com
 xn--facebok-wx4c.com
@@ -2563,9 +2601,13 @@ xn--faceook-pm3c.com
 xn--iclod-nva.com
 xn--iclou-9ya.com
 xn--iclud-i9a.com
+xn--myeterwallt-cm8e02e.com
+xn--myetherallt-pl9elw.com
 xn--myetherwale-os8e5y.com
+xn--myetherwalet-49b.com
 xn--mytherwalet-3qb08c.com
 xn--mytherwalet-ms8e53d.com
+xn--mytherwalle-jb9ey9a.com
 xn--oogle-wmc.com
 xn--pypa-0na75c.com
 xn--steacommunlt-b44fi3g.com
