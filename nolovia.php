@@ -1,6 +1,6 @@
 <?php
 /*
- * Copyright 2015-2017 Shaun Cummiskey, <shaun@shaunc.com> <http://shaunc.com>
+ * Copyright 2015-2018 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
  * <https://github.com/parseword/nolovia>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -26,6 +26,8 @@
  * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
+ * Vetyt Yhonay at https://github.com/Yhonay/antipopads/
+ * ZeroDot1 at https://zerodot1.github.io/CoinBlockerLists/
  */
 
 $timeStart = microtime(true);

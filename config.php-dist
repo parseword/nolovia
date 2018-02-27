@@ -1,6 +1,6 @@
 <?php
 /*
- * Copyright 2015-2017 Shaun Cummiskey, <shaun@shaunc.com> <http://shaunc.com>
+ * Copyright 2015-2018 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
  * <https://github.com/parseword/nolovia>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -26,6 +26,7 @@
  * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
+ * Vetyt Yhonay at https://github.com/Yhonay/antipopads/
  * ZeroDot1 at https://zerodot1.github.io/CoinBlockerLists/
  */
 
@@ -187,6 +188,14 @@ $sl->setFilePath('./data/hosts-coinblocker.txt');
 $sl->setUri('https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt');
 $sl->setMinimumExpectedBytes(2048);
 $sl->setValidationText('bitcoin');
+$serverLists[] = $sl;
+
+$sl = new ServerList('antipopads List from Yhonay');
+$sl->setFilePath('./data/hosts-antipopads.txt');
+$sl->setUri('https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts');
+$sl->setMinimumExpectedBytes(10240);
+$sl->setValidationText('0.0.0.0');
+$sl->setReplacePatterns(array('|^0.0.0.0(\s+)|m'));
 $serverLists[] = $sl;
 
 //Cybercrime Tracker bot/malware command and control server list.
