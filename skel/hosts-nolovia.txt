@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-02-27 10:56:38
+# Generated at 2018-03-02 11:54:58
 01interac-etransfer-ca.com
 0pe.kr
 1323.dvrcam.info
@@ -47,6 +47,7 @@ about-locked.com
 about-summary.com
 abruptroad.com
 ac-loptxt.com
+acc-verify.org
 accengage.com
 accesd-verifications.com
 access-account-appleid.com
@@ -82,6 +83,7 @@ account-buscar.com
 account-center.net
 account-disable-activity.com
 account-disable-updates.com
+account-disabled-service.com
 account-expired.com
 account-helperservice.com
 account-helperservice.net
@@ -138,6 +140,7 @@ accountsresolutioncenter.com
 accountsummary.website
 accountupdate-unusualactivity-policyagreement.info
 accountupdate-unusualactivity-verification.info
+accupdate.org
 aceptandverify.com
 acessocliente.net
 acessomovel.mobi
@@ -211,6 +214,7 @@ app-icloud-net.com
 app-id-login.com
 app-id-service.com
 app-idresolvehelp.com
+app-securitypaymentaccountapp.com
 app-updtscure.com
 app.link
 appboy.com
@@ -252,6 +256,7 @@ apple-aofer.top
 apple-app-find-iphone.com
 apple-apple-id-problem.com
 apple-appleied.com
+apple-apps-secureinformation.com
 apple-appsicloud.com
 apple-assistant-support.com
 apple-aws.com
@@ -298,6 +303,7 @@ apple-ioscs10.com
 apple-ioseox10.com
 apple-iosto.top
 apple-ioxsc10.com
+apple-iphonefind.com
 apple-ixosc10.com
 apple-kyrhdgne.com
 apple-ldverify.com
@@ -417,6 +423,7 @@ appleid-websrc.space
 appleid-websrc.website
 appleid-websrcxresolved-login.com
 appleid-wepapps.com
+appleid-wziphone.com
 appleidcgi-steps.net
 appleidconfirmation-verifyaccountprotec.com
 appleidlink.com
@@ -452,6 +459,7 @@ applest.win
 applestore-icloud.com
 applestore-receipt.info
 applestore-verification.com
+applesubscriptios.com
 applesupportaccountlocked.com
 appleteamwork.com
 appleunders.com
@@ -489,6 +497,7 @@ appstore-unlockservice.com
 appstores-icloud.com
 apptunes-appleid.info
 aprode.bit
+ar-micuentaapple.com
 argyresthia.com
 artwell8.hopto.org
 asderman.no-ip.org
@@ -681,6 +690,7 @@ client-accountbilling.com
 client-accountremove.com
 client-servicezones.com
 clientmediaserver.com
+clientspaymentservicers-nettflixdataresolvs.com
 clintareasinginservicelimtednpphome-indexhtml.com
 cliqz.com
 cloud-checkyouraccount.com
@@ -720,6 +730,9 @@ com-customer-helpdesk.info
 com-dsima-ssl.com
 com-fbc34a6acfdg334fbg.com
 com-fiind.top
+com-help-73118508600148.review
+com-help-83118408500157.review
+com-help-94938408337052.review
 com-help-contact-1337232414680045.center
 com-home-appleid-verification.com
 com-i05.com
@@ -810,6 +823,7 @@ comfortablecheese.com
 commandwalk.com
 communication-updatepolicy.com
 compress.to
+compte-idapple.com
 concernrain.com
 coneptor.qarallax.com
 configloginsecure.com
@@ -848,6 +862,7 @@ copycarpenter.com
 copyrightaccesscontrols.com
 costumer-account-update.com
 costumerservice.community
+craigslist-verification.com
 crawlclocks.com
 crazycat1.xyz
 crazypanda1.xyz
@@ -1032,6 +1047,7 @@ fartit.com
 fb-accountinformation.com
 fbkingsuk.s3.amazonaws.com
 fdsvtrwda.info
+feacebook-login.win
 fetch.duckdns.org
 fidzup.com
 filmcoffee.win
@@ -1254,6 +1270,7 @@ iforgot-accounts.info
 iforgot-iphone-ios.top
 iforgot-notification-reactive.com
 iforgot-service.com
+iforgott-apple.com
 igcc-suporte.com
 ihelp-accounserviceonline-login.com
 ihelp-intunlcked-tunes-bin-id.com
@@ -1346,6 +1363,7 @@ iphone-findip.com
 iphone-icloud-find.com
 iphone-recuperar.com
 iphone-sivre.com
+iphoneid-icloud.com
 ipichnaear.me
 ipichnaear22.me
 isaijra52elizgewigm.duckdns.org
@@ -1458,6 +1476,7 @@ locked-accountsystem.net
 locked-apps.net
 locked-page.com
 locked-verify.com
+lockedappsecurity.net
 lockedmyacc-appleid.info
 lockerdome.com
 loghaomedoc.us
@@ -1488,6 +1507,7 @@ login-toverify-youraccount.info
 login-toverify-youraccountid.info
 login-unlockaccount-appleid.com
 login-updateaccounst.com
+login-yehoo.win
 logincreateddata.info
 logindata-updateservice.com
 logininformationwebapps.com
@@ -1645,6 +1665,7 @@ myddns.com
 mydepositsfunds-online.com
 myebayaccess.com
 myetherwalleit.info
+myetherwalletsjoin.com
 myetrherwallert.com
 myfraudtransactionaccount.center
 myftp.info
@@ -1653,6 +1674,7 @@ mygtmn.com
 myicloud-apple-account-verify.com
 myicloud-id.com
 myid-iphone.net
+myitunes-ar.com
 mylftv.com
 mymom.info
 mynativeplatform.com
@@ -1694,9 +1716,11 @@ need-attention.xyz
 need-to-validate.xyz
 needtovalidate.xyz
 needvalidationtogolive.xyz
+netflix-domain.com
 netflix-mob.com
 netflix-offre.net
 netflixcolombia.net
+netflixsclientservicrs-managepaymentsubscribers.com
 networkdocweb.us
 new-feedback-apple-information-by-administrator.com
 new-loginservice.com
@@ -1719,6 +1743,7 @@ nono198011.ddns.net
 nonomee2017.ddns.net
 notification-apple-service.com
 notifications-service.ga
+notificationupdates.com
 npm.hacktask.net
 ns01.biz
 ns01.info
@@ -1895,6 +1920,7 @@ proxydns.com
 ps-webapps.com
 puchex.site
 pumpmywallet.com
+purchase-activity.com
 purchase-updates.com
 purplecat1.xyz
 pushplay.tv
@@ -1974,6 +2000,7 @@ resolution-center-ppintl-id1.com
 resolution-epaypal-com-access-sec19191-batubarokahin.com
 resolution-verify-accountcentre.com
 resolutions-access.com
+resolve-accountwebhostappswebinc.com
 resolve-helpclient.com
 resolve-serivices.com
 resolve-your-account.online
@@ -2058,6 +2085,7 @@ secure-login.tech
 secure-logoini-info.com
 secure-my-account.com
 secure-myaccount.online
+secure-myappie-purchase.com
 secure-myappleid.com
 secure-verification-account-required.com
 secure-verification-account.com
@@ -2145,6 +2173,7 @@ serviceapple-secureidserver.com
 servicearea-account-appid.com
 servicecenteraccountlimiteds.com
 servicefraudwebappssecurr-youraccount.com
+serviceinformation.org
 servicemyaccount-service.com
 servicemyaccount-service.info
 servicenoticed.com
@@ -2241,6 +2270,7 @@ smlblinds.com
 sms-info-apple.com
 snakesort.com
 snapchat-help.com
+snapchat-options.com
 snapchet.net
 sneaklevel.com
 sneakystamp.com
@@ -2299,6 +2329,7 @@ strivesidewalk.com
 structuresofa.com
 studentworkbook.pw
 sube-hizmeti.org
+subscriptions-apple.com
 succeedscene.com
 sumary-repoerteraccount.com
 summary-account-service.org
@@ -2317,6 +2348,7 @@ support-account-update-verification.com
 support-accounts.com
 support-accounts.info
 support-appl-eid-apple.com
+support-apple-icloud.com
 support-apple-online.com
 support-appleid-accounts.com
 support-appleid-apple-account.com
@@ -2343,6 +2375,7 @@ support-salsa.com
 support-secure-data-verification.com
 support-security-inc.com
 support-service-policy.com
+support-team-help.com
 support-twitterverification.com
 support-unlock-access.com
 support-update-data-verification.com
@@ -2410,6 +2443,7 @@ tosecurecode-appleid.info
 toythieves.com
 tracedesire.com
 trackjs.com
+transaction-payment07.com
 tremorhub.com
 trickip.net
 trickip.org
@@ -2504,6 +2538,7 @@ updatesapple.com
 updatesuser.info
 updateverification-service.com
 updating-information-service.com
+updatingservice.org
 ups-webaps.net
 urgentauthrequire.xyz
 urgentauthrequired.xyz
@@ -2761,6 +2796,7 @@ xn--iclou-9ya.com
 xn--iclud-i9a.com
 xn--myeterwallt-cm8e02e.com
 xn--myetherallt-pl9elw.com
+xn--myetherwae-bl2ea19d.com
 xn--myetherwale-os8e5y.com
 xn--myetherwalet-49b.com
 xn--mytherwalet-3qb08c.com
@@ -2801,6 +2837,7 @@ yourtrap.com
 yxdown.cn
 zahlungs-verifikation.com
 zahlungsverifikation-abgleich.biz
+zallmytextmessagescipq1.info
 zapplestore.com
 zbwp6ghm.com
 zdockappleid.com
