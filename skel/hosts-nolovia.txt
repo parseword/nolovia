@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-02 11:54:58
+# Generated at 2018-03-04 16:23:23
 01interac-etransfer-ca.com
 0pe.kr
 1323.dvrcam.info
@@ -660,6 +660,7 @@ cherrythread.com
 chickensstation.com
 chiefcurrent.com
 chikazz.ddns.net
+childrenlawyer.win
 china-anc-apple.com
 china-app-appleid.com
 china-iphone-id.com
@@ -1529,6 +1530,9 @@ ltunescancelationpayment.com
 lumpyleaf.com
 lytics.io
 macdanielo.hopto.org
+macfantsy.com
+macinstallerinfo.com
+macresourcescdn.com
 mail-authorization.pro
 mail-service-costumeraccount.com
 mail-service-redirect.com
@@ -1875,6 +1879,7 @@ police-pypal.com
 policy-activityaccount.com
 policypage-updatestoppedworking.com
 polyicloudfinder.com
+ponystudent.win
 pool0852.hopto.org
 popmyads.com
 popularenlineaservicios.com
@@ -2294,6 +2299,7 @@ spectacularsnail.com
 sphereup.com
 spillvacation.com
 spinasale.com
+spoonstory.win
 spot.im
 spots.im
 spotx.tv
@@ -2833,6 +2839,7 @@ youdontcare.com
 your-account-unlock.com
 yourbestandupdatesafe.pw
 yourinformationupdate.com
+yourreliablesite4content.bid
 yourtrap.com
 yxdown.cn
 zahlungs-verifikation.com
