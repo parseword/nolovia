@@ -24,6 +24,7 @@ coinblind.com
 coinerra.com
 coinhive-manager.com
 coinhive.com
+coinhub.win
 coinimp.com
 crypto-loot.com
 jsecoin.com
@@ -38,6 +39,7 @@ novaminers.tk
 papoto.com
 ppoi.org
 reasedoper.pw
+webmine.pro
 
 # Additional hosts noted as serving cryptojacking sites or infrastructure
 
