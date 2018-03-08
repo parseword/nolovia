@@ -27,5 +27,6 @@ no-ip.biz
 no-ip.org
 now.sh
 rr.nu
+usa.cc
 zapto.org
 ze.am

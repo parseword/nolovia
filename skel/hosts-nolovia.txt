@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-07 15:37:27
+# Generated at 2018-03-07 21:16:44
 01interac-etransfer-ca.com
 0pe.kr
 1323.dvrcam.info
@@ -2449,6 +2449,7 @@ tosecurecode-appleid.info
 toythieves.com
 tracedesire.com
 trackjs.com
+trafficjunky.com
 trafficninjas.co
 transaction-payment07.com
 tremorhub.com
