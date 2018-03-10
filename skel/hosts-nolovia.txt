@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-07 21:16:44
+# Generated at 2018-03-09 20:21:08
 01interac-etransfer-ca.com
 0pe.kr
 1323.dvrcam.info
@@ -157,6 +157,8 @@ activedocelog.us
 activity-accountid.com
 activityloginpurchase.com
 actuallysheep.com
+ad2up.com
+ad2upapp.com
 ad4screen.com
 additionarl.bid
 additionarl.racing
@@ -684,6 +686,7 @@ clickability.com
 clickhoptk.com
 clicknetwork.com
 clickredirection.com
+clicksgear.com
 clicktale.com
 clicktrackopt.com
 clickzs.com
@@ -825,6 +828,7 @@ commandwalk.com
 communication-updatepolicy.com
 compress.to
 compte-idapple.com
+conceau.co
 concernrain.com
 coneptor.qarallax.com
 configloginsecure.com
@@ -863,6 +867,7 @@ copycarpenter.com
 copyrightaccesscontrols.com
 costumer-account-update.com
 costumerservice.community
+cpm10.com
 craigslist-verification.com
 crawlclocks.com
 crazycat1.xyz
@@ -874,6 +879,7 @@ critictruck.com
 crownclam.com
 crypto-loot.com
 cryptotab.net
+cs6hm.com
 cuentas-seguravsptr-activysinformacion.com
 culturalconvergencemedia.com
 curtaincows.com
@@ -910,6 +916,7 @@ datasecure-member.info
 dataupdate-service.info
 datawrkz.com
 davvid3948.ddns.net
+dbmads.com
 ddns.info
 ddns.me.uk
 ddns.mobi
@@ -928,6 +935,7 @@ decibelinsight.net
 decisiveducks.com
 dehaizegroup35.hopto.org
 delightdriving.com
+deliverymodo.com
 denizbank-esube.com
 denizibankasi.com
 departapp.com
@@ -1167,6 +1175,7 @@ help-suport.net
 hfc195b.com
 hg777hdorotosskot.info
 hilariouszinc.com
+hitcpm.com
 hockeyapp.net
 home-secured-autentic-verifi-account.com
 home-update.net
@@ -1293,6 +1302,7 @@ indexapps-summary.info
 indexexchange.com
 indominestuff33.hopto.org
 ineed-location.com
+infinitads.com
 info-accessvalidatesumary.com
 info-account-verification.com
 info-accounts.com
@@ -1764,6 +1774,7 @@ nvewpvnid.info
 obi234.ddns.net
 obi333.ddns.net
 obilosgini.ddns.net
+oclasrv.com
 ocry.com
 office365ow.com
 officebrighty.ddns.net
@@ -1923,6 +1934,7 @@ protect-appleid.com
 provideplant.com
 proxydns.com
 ps-webapps.com
+pub2srv.com
 puchex.site
 pumpmywallet.com
 purchase-activity.com
@@ -2550,6 +2562,7 @@ updatingservice.org
 ups-webaps.net
 urgentauthrequire.xyz
 urgentauthrequired.xyz
+urldelivery.com
 uscert.top
 user-summary-account.com
 useraccountverifications-appleid.com
@@ -2837,6 +2850,7 @@ yellowbird1.xyz
 yellowleopard1.xyz
 yellowmeercat1.xyz
 ygto.com
+ylx-4.com
 youdontcare.com
 your-account-unlock.com
 yourbestandupdatesafe.pw
