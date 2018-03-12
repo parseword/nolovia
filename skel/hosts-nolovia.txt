@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-09 20:21:08
+# Generated at 2018-03-11 22:30:20
 01interac-etransfer-ca.com
 0pe.kr
 1323.dvrcam.info
@@ -202,6 +202,7 @@ americanunfinished.com
 amexopesx.com
 analytics.blue
 analytics.tout.com
+andspurs.com
 angsrvr.com
 answerscloud.com
 antivirus-upgrade.com
@@ -525,6 +526,7 @@ authrequire.xyz
 authrequired.xyz
 authresolveunauthorisedtransaction.com
 autoconfirm-refunds.com
+autocount.org
 avocet.io
 awzbijw.com
 axclick.store
@@ -630,6 +632,7 @@ cartolarepresentacoes.com.br
 cashiopeia-updates.com
 castrokolaz.top
 castup.net
+cavanic9.net
 cenb.gdn
 center-cnt.info
 center-intl-suport.com
@@ -964,6 +967,7 @@ dns04.com
 dns05.com
 dns1.us
 dns2.us
+dnsapp.info
 dnset.com
 dnso.ddns.net
 dnsrd.com
@@ -1473,6 +1477,7 @@ limitgdawe.com
 limitted-account.com
 limpingline.com
 linknetwork.com
+linodepower.com
 lisasmithpypl.com
 lizardslaugh.com
 lloydsbacs.co.uk
@@ -1587,6 +1592,7 @@ mefound.com
 member-validation.info
 memberdetail-data.info
 memevideoad.com
+memozilla.org
 mercycoin.org
 messageaccount.com
 messagenovice.com
@@ -2044,6 +2050,7 @@ reviewaccountlogin.com
 reviewservicelimitedaccountsrv.com
 rewards-litecoin.win
 rfihub.com
+ridingduck.com
 rnyetherrwallet.com
 robbieadanfo.ddns.net
 robinjmcca.ddns.net
@@ -2765,6 +2772,7 @@ wha.la
 whereareyou.pro
 whitekoala1.xyz
 wikaba.com
+wikaba.org
 winclicks.info
 window5.win
 windowsupdatesalert.ml
@@ -2865,6 +2873,7 @@ zapplestore.com
 zbwp6ghm.com
 zdockappleid.com
 zertweekdoc.us
+zipcodeterm.com
 ziraat-bankasl.com
 ziraat-internetisube.com
 ziraatbank-bireyselhizmetler.com
