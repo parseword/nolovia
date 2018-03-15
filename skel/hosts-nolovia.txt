@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-11 22:30:20
+# Generated at 2018-03-15 07:00:30
 01interac-etransfer-ca.com
 0pe.kr
 1323.dvrcam.info
@@ -20,6 +20,8 @@
 1dumb.com
 1e-transfer-interac.com
 1etransfer--sent.com
+1myetherwallet.info
+1myetherwallet.net
 1rx.io
 1suser.ddns.net
 1xgo.xyz
@@ -59,6 +61,7 @@ access-appleid-costumer.com
 access-appleid.com
 access-denied-helpcenter-acc.com
 access-denied-helpcenter-question.com
+access-identification-ca.com
 access-limit.com
 access-login-accounts-appstores.com
 access-mypayment.com
@@ -123,6 +126,8 @@ accountreview-netflix.com
 accounts-activiity.com
 accounts-appeal.info
 accounts-authentication.info
+accounts-giogle.info
+accounts-googie.site
 accounts-id.com
 accounts-limiteds.com
 accounts-mypaypal.com
@@ -212,6 +217,7 @@ api.e-toys.cn
 apk-bancodobrasil.com
 app-bancobrasil.com
 app-bancodobrasil.com
+app-epicgamespplrefund.com
 app-find-iphone-apple.com
 app-icloud-net.com
 app-id-login.com
@@ -594,6 +600,7 @@ blast.ddns.net
 blockedlogin-info.com
 blueconic.com
 bluegorilla1.xyz
+bm-verification.com
 bn-multired1.com
 bodyclick.net
 bofa-accontcheck.com
@@ -641,6 +648,7 @@ cgi-appleverification.com
 cgi-icloud.com
 cgi-verif123.com
 cgi-webscr-billing-account.com
+cguggrstf-managssapplicationsss-lockedpurchases-sevicesss.com
 change-recovery-access.com
 changeip.name
 changeip.net
@@ -655,6 +663,11 @@ chase-banking-login6.xyz
 chase-banking-login7.xyz
 chase-banking-login8.xyz
 chase-banking-login9.xyz
+chase-logbank1.xyz
+chase-logbank2.xyz
+chase-logbank3.xyz
+chase-logbank4.xyz
+chase-logbank5.xyz
 check-account-acceess.com
 check-account-acces.com
 check-account-now.com
@@ -676,6 +689,7 @@ choicepoint.com
 chriswork999.ddns.net
 chuksthedon.duckdns.org
 cibconline-verifications.com
+citigroups-onlinebk.com
 citrix-online.com
 citrix-online.xyz
 citrix-software.com
@@ -734,6 +748,7 @@ com-cgi.info
 com-checkpoint.ga
 com-cloudaction.com
 com-customer-helpdesk.info
+com-customerappeal-service.net
 com-dsima-ssl.com
 com-fbc34a6acfdg334fbg.com
 com-fiind.top
@@ -755,6 +770,7 @@ com-logninauthorize.info
 com-logninsauthorizes.info
 com-manageid.cloud
 com-managemyaccount-resolve.com
+com-myetherwallet.com
 com-myicloud.info
 com-notifeyallowyora.com
 com-paymentinformation.net
@@ -867,6 +883,7 @@ controlaccounticloud.com
 controlx.ddns.net
 copperchickens.com
 copycarpenter.com
+copycopypayment.site
 copyrightaccesscontrols.com
 costumer-account-update.com
 costumerservice.community
@@ -911,6 +928,7 @@ d7t0ajd8uy1xk.cloudfront.net
 daemon-check.com
 dam5i6.linkpc.net
 danalinc.com
+dashbord-mysecure-unlocked-acces-1nfo.com
 data-validmember.info
 databerries.com
 datacenter-customer.com
@@ -999,6 +1017,8 @@ dsmtp.com
 dubaiexchange.dynu.net
 dumb1.com
 dunhillmild-payment07.com
+dvla-refund-gov.online
+dvla-swansea-refund.online
 dynamic-dns.net
 dynamicdns.biz
 dynamicdns.co.uk
@@ -1072,6 +1092,7 @@ find-iphones-ios.com
 find-itunes-id.com
 find-logindata.info
 find-lost-apple-devices.com
+find-my-iphone-us.com
 findi-apple-icloud.com
 findiphone-device.com
 findmeicloud-appleinc.info
@@ -1093,6 +1114,7 @@ flndmyiphone-applelocation.com
 floodprincipal.com
 fluct.jp
 fmi-finder.tk
+fmi-mails-icloud.com
 fmi-service.cf
 fmi.services
 fmimaps-apple.com
@@ -1196,6 +1218,9 @@ https443.org
 hubapi.com
 hubs.ly
 hucksterbot.ru
+i-myetherwallet.com
+i-myetherwallet.info
+i-myetherwallet.tech
 iappleid-regist.com
 ib-ibi.com
 ibasvuru-ziraatbank.com
@@ -1203,6 +1228,7 @@ icl0ud-iphone.com
 icl0ud-locked-detail.com
 iclo0ud-locked-details.com
 icloud-2018.com
+icloud-aid.cn
 icloud-anc-apple.com
 icloud-apple-idios.com
 icloud-apple-info.com
@@ -1274,6 +1300,7 @@ id-unlock-account.com
 id-verifylockedaccount.com
 idappleconfirmaccount.com
 idcloudapp-scrapple.com
+identity-acces-unlocked-disab1e-secure.com
 idevicemap-location.com
 idmsa-login-recovery.com
 idmswebauth-login.com
@@ -1330,6 +1357,7 @@ instagram61.com
 instagramaccountsecurity.online
 instagramim.xyz
 instagramtakipciservis.com
+instagramverifiedbadges.com
 instanthq.com
 int-halkbankasi.com
 inte-authorization0102.com
@@ -1363,6 +1391,7 @@ invoice-appidreceivefraud.com
 ios-accountslocked.org
 ios104-iphoneid.com
 ios12-icloudid.com
+iosa-icloudweb.info
 iownyour.biz
 iownyour.org
 ip-appleid.com
@@ -1540,10 +1569,12 @@ lostverify-apple.com
 loudloss.com
 lowerdocieu.us
 lp3tdqle.com
+lphone-local.com
 ltunes.cloud
 ltunescancelationpayment.com
 lumpyleaf.com
 lytics.io
+m-facebook-com.xyz
 macdanielo.hopto.org
 macfantsy.com
 macinstallerinfo.com
@@ -1551,11 +1582,13 @@ macresourcescdn.com
 mail-authorization.pro
 mail-service-costumeraccount.com
 mail-service-redirect.com
+mailaccountlogin.online
 mailservice-apple.com
 manage-accountidinvoice-verification.info
 manage-accountpayment-resolutioncenter.com
 manage-accounts-id.com
 manage-accounts-informations.com
+manage-accounts-setting.com
 manage-appleid-info.com
 manage-appleid.com
 manage-informationverif.com
@@ -1571,6 +1604,7 @@ management-purchaseaccount-appstoreapple-verification.store
 managenetflxspymentresolv.com
 managepurchaseinaccount-service.com
 manager-support-account-security.com
+manages-purchaseapp-service.com
 manageupdate-accountidunlock.info
 manageupdate-accountunlock.info
 mancortz.info
@@ -1579,6 +1613,7 @@ mandatetovalidate.xyz
 mangement-purchaseappleid-investigation.store
 manzorro.duckdns.org
 map-localisation.me
+maps-findmyiphone.online
 mariopuzo.ddns.net
 markowen.duckdns.org
 markscot.ddns.net
@@ -1685,6 +1720,8 @@ myddns.com
 mydepositsfunds-online.com
 myebayaccess.com
 myetherwalleit.info
+myetherwallet-co.com
+myetherwalletb.com
 myetherwalletsjoin.com
 myetrherwallert.com
 myfraudtransactionaccount.center
@@ -1739,6 +1776,7 @@ needvalidationtogolive.xyz
 netflix-domain.com
 netflix-mob.com
 netflix-offre.net
+netflixbrasil.website
 netflixcolombia.net
 netflixsclientservicrs-managepaymentsubscribers.com
 networkdocweb.us
@@ -1777,6 +1815,7 @@ ns3.name
 nssp.com
 nullstack.co
 nvewpvnid.info
+o-payments.website
 obi234.ddns.net
 obi333.ddns.net
 obilosgini.ddns.net
@@ -1792,6 +1831,7 @@ onion.dog
 onion.rip
 online-check.org
 online-hsbcgoodwill.com
+online-us-account.com
 online1.mywire.org
 onlineaccesshsbcvveb.com
 onlinepaymennt.com
@@ -1960,6 +2000,7 @@ r00tshit.ddns.net
 r00tziby.ddns.net
 rapiddomainbuilder.com
 rastreador-apple.com
+rastrear-lphone-id.com
 rationalyze.com
 rbcliveverifications.com
 rbcroyalbank-security.com
@@ -1982,6 +2023,7 @@ recovery-center-access.com
 recovery-confirmation.com
 recovery-yourpaypallimit.com
 recoveryaccount-pages.com
+recoverymyaccountsecure-webappid.com
 recoverypasword.com
 recycloped.com
 redbear1.xyz
@@ -1995,6 +2037,7 @@ redswan1.xyz
 redwolf1.xyz
 ref1352d.com
 refuespayment.com
+refund-dvla-gov-uk.online
 refund-etransfer-1.com
 refund-form.com
 refund-payment-service.com
@@ -2028,6 +2071,7 @@ resolve-helpclient.com
 resolve-serivices.com
 resolve-your-account.online
 resolveaccount-client.com
+resolveaccountid-verification.com
 resolveapp-logino.com
 resolved-account-webapps.com
 resolved-refunds.com
@@ -2071,6 +2115,7 @@ safegraph.com
 safekey-verificationrequaires.com
 safepaypal.com
 salemove.com
+samsungplymouth.com
 santander-app.com
 santander-clientes.com
 santander-contas.online
@@ -2092,6 +2137,7 @@ scrappcloud-idapple.com
 scrubsky.com
 scrubswim.com
 scureee-paypall.com
+scuremail.com
 searchlinks.com
 searchmyiphone.com
 sec2tunnel.co.uk
@@ -2389,6 +2435,7 @@ support-data-account-verification.com
 support-data-update-verification.com
 support-data-verification-update.com
 support-help-ilcloud.info
+support-id-local.com
 support-ip.com
 support-limited-control.com
 support-loginactivity.com
@@ -2471,6 +2518,7 @@ trackjs.com
 trafficjunky.com
 trafficninjas.co
 transaction-payment07.com
+transaction-secure5.com
 tremorhub.com
 trickip.net
 trickip.org
@@ -2558,6 +2606,7 @@ updatedata-user.info
 updateinformation-itunes.com
 updatepolicedverif1id.net
 updatepolicyinfo-system.net
+updater09.su
 updatermation.fyi
 updates-accounts-scrts77814.com
 updates-privacy.com
@@ -2570,6 +2619,7 @@ ups-webaps.net
 urgentauthrequire.xyz
 urgentauthrequired.xyz
 urldelivery.com
+usbktransact.com
 uscert.top
 user-summary-account.com
 useraccountverifications-appleid.com
