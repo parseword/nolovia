@@ -6,7 +6,8 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-15 07:00:30
+# Generated at 2018-03-15 11:43:39
+0-day.us
 01interac-etransfer-ca.com
 0pe.kr
 1323.dvrcam.info
