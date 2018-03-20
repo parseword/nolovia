@@ -6,10 +6,12 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-15 11:43:39
+# Generated at 2018-03-20 17:10:59
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
+1-myetherwallet.com
+1-myetherwallet.info
 1323.dvrcam.info
 1329.mypsx.net
 1330.ddnsking.com
@@ -95,6 +97,8 @@ account-icloud-locked-informationpage731553579966.com
 account-icloud-verification.info
 account-icloudverification.info
 account-identity-verify.com
+account-joined.online
+account-joins.online
 account-locked-access.com
 account-locked-activity.com
 account-login-icloud-service.com
@@ -118,6 +122,8 @@ account-verifizieren.xyz
 accountcenter.cloud
 accountcheckout.net
 accountid-unusualactivity-verification.info
+accountjoined.email
+accountjoins.org
 accountlimited-securegeneral.com
 accountlocked.engineer
 accountproblems.bid
@@ -130,6 +136,7 @@ accounts-authentication.info
 accounts-giogle.info
 accounts-googie.site
 accounts-id.com
+accounts-joined.online
 accounts-limiteds.com
 accounts-mypaypal.com
 accounts-oulook365.com
@@ -183,6 +190,7 @@ adsbtrack.com
 adsbtrk.com
 adservices.brandcdn.com
 adstanding.com
+adwordls-account.site
 adwords-login.com
 adwords-online.org
 afftrack.com
@@ -515,6 +523,7 @@ asiatravelagency.ddns.net
 asksummaryaccount.com
 asorock.mooo.com
 assd-webapps.com
+assist-service.info
 associated-account-purchase.com
 attention-required-error-found.xyz
 attention-required.xyz
@@ -551,6 +560,7 @@ beamkite.com
 beautifulelephant1.xyz
 bebi.com
 bedtellect.com
+beget.tech
 beijingvampires.com
 benx234.ddns.net
 beoplr66bxcgs.net
@@ -591,6 +601,7 @@ bills-access9980723124-barokahin.com
 bin-updateservice.org
 binanct.com
 bitcoin-transaction-accelerator.website
+bitreex.com
 bittellect.com
 bizible.com
 blackcat1.xyz
@@ -599,6 +610,7 @@ blackpanda1.xyz
 blackpeacock1.xyz
 blast.ddns.net
 blockedlogin-info.com
+bludomain7.net
 blueconic.com
 bluegorilla1.xyz
 bm-verification.com
@@ -762,6 +774,7 @@ com-i05.com
 com-icloudid-secure.org
 com-identity.tech
 com-infrs.com
+com-ios.com
 com-j4v.com
 com-locate.com
 com-locked-appleicloud.com
@@ -815,6 +828,7 @@ com-service.supply
 com-servicecenter-mpp-webbase.info
 com-servicecenter-mpp-webbase1.info
 com-servwork.info
+com-shop-login.com
 com-signin-getapt.ml
 com-signin-page.info
 com-statement-verify.net
@@ -825,6 +839,7 @@ com-sv.ga
 com-tdldiej256127ppk.com
 com-unlock.plus
 com-unlocked-account.com
+com-unlocked-checkpoint.com
 com-unlockedid778823.info
 com-updateaccountid.info
 com-updatelocked-id760123.info
@@ -885,6 +900,7 @@ controlx.ddns.net
 copperchickens.com
 copycarpenter.com
 copycopypayment.site
+copyofpaymentprove.site
 copyrightaccesscontrols.com
 costumer-account-update.com
 costumerservice.community
@@ -1199,6 +1215,7 @@ help-report-center.com
 help-service-center.com
 help-solution-limited.com
 help-suport.net
+help-you-in-confirmation.info
 hfc195b.com
 hg777hdorotosskot.info
 hilariouszinc.com
@@ -1214,6 +1231,7 @@ hscta.net
 hsforms.net
 hsstatic.net
 htl.bid
+https-localbitcoin.com
 https443.net
 https443.org
 hubapi.com
@@ -1248,6 +1266,7 @@ icloud-connect.com
 icloud-defense.com
 icloud-europe.com
 icloud-find-sms.com
+icloud-for.com
 icloud-help-unlocked.com
 icloud-iccd-id.com
 icloud-icicid-id.com
@@ -1260,12 +1279,14 @@ icloud-lock.xyz
 icloud-locked-access.com
 icloud-nct.top
 icloud-ns.com
+icloud-oes.com
 icloud-paymentsresolve-updateaccount.cloud
 icloud-paymentsresolve-updateaccountid.cloud
 icloud-resolving-help.com
 icloud-secure-apps.com
 icloud-securityinformations.com
 icloud-serviceaccountsuspended.com
+icloud-shouhou.com
 icloud-verfy.info
 icloud-view-location.com
 icloud113.com
@@ -1303,6 +1324,7 @@ idappleconfirmaccount.com
 idcloudapp-scrapple.com
 identity-acces-unlocked-disab1e-secure.com
 idevicemap-location.com
+idfwellsfargo.com
 idmsa-login-recovery.com
 idmswebauth-login.com
 idpaypal-datacenter-recovery.com
@@ -1422,6 +1444,7 @@ itunes-account-recover.com
 itunes-been.com
 itunes-billing-processor-disabled.com
 itunes-payment.com
+itunes-renewal-subscription.com
 itunes-store-buy-blocked.com
 itunesapple.org
 itunesapplenvoice.info
@@ -1498,6 +1521,7 @@ lifterpopup.com
 ligadx.com
 limat-is-account-me.com
 limetalk.com
+limiitaccount.email
 limitation-manage.com
 limited-policy.com
 limited-version.com
@@ -1701,6 +1725,7 @@ myaccount-verificatiion.com
 myaccount-verification-appleid-subcription.com
 myaccountapple.com
 myaccountissue.com
+myaccountjoined.org
 myaccountresolve-transactionrejected.com
 myaccounts-pyspl.com
 myaccoutnconfirmations.com
@@ -1722,6 +1747,7 @@ mydepositsfunds-online.com
 myebayaccess.com
 myetherwalleit.info
 myetherwallet-co.com
+myetherwallet.promo
 myetherwalletb.com
 myetherwalletsjoin.com
 myetrherwallert.com
@@ -1746,8 +1772,10 @@ mypressonline.com
 mysecondarydns.com
 mysecure-id-icloud.com
 myserviceaccount.net
+mysetherwalletz.com
 mytransaction-account-fraudprevention.center
 myuaccname-apple.info
+myuserlimit.org
 mywww.biz
 myz.info
 narusnex.info
@@ -1895,6 +1923,7 @@ paypal-accounts-updating.com
 paypal-billing.top
 paypal-cgi-bin.com
 paypal-clien.com
+paypal-com-confirmation.com
 paypal-com-gb-829374.com
 paypal-com-resolution-access-document-review-activity991.com
 paypal-com-resolution3829.com
@@ -1910,6 +1939,7 @@ paypal-resolve.website
 paypal-reviewsaccount.com
 paypal-secureverifycation.com
 paypal-security-account.com
+paypal-updateco.com
 paypalclient.com
 paypalcss.com
 paypaletransfer.com
@@ -2022,6 +2052,7 @@ recovery-accounts-paypal.com
 recovery-apps.net
 recovery-center-access.com
 recovery-confirmation.com
+recovery-youraccess.com
 recovery-yourpaypallimit.com
 recoveryaccount-pages.com
 recoverymyaccountsecure-webappid.com
@@ -2052,8 +2083,10 @@ register-account.online
 registerdata.info
 registered-customers.com
 relogin-euwee.com
+renewal-user.com
 reoveryy-accounts-info-id.com
 reportabuse-apple.com
+reportinstagram.com
 required-verification-change.com
 resecured-account-ueweaspx.com
 reserver-appleid.info
@@ -2097,6 +2130,7 @@ rewards-litecoin.win
 rfihub.com
 ridingduck.com
 rnyetherrwallet.com
+rnyetlherwallet.com
 robbieadanfo.ddns.net
 robinjmcca.ddns.net
 rolandcomputers.com
@@ -2162,6 +2196,7 @@ secure-verification-account-required.com
 secure-verification-account.com
 secure-verification-activity.com
 secure-verificationaccount-required.com
+secure-webapps-signin.com
 secureaccount-limitedverification.com
 secureapple-apple.com
 securebankofamerican.info
@@ -2169,6 +2204,7 @@ secured-account-locked.com
 secureeioginattmpt.com
 secureidupdateinformation.com
 secureloginsecure.online
+securepage-webapps.info
 secures-apple.com
 secures-intlrecovery.com
 secureservice-group.xyz
@@ -2342,6 +2378,7 @@ sms-info-apple.com
 snakesort.com
 snapchat-help.com
 snapchat-options.com
+snapchat-safe.com
 snapchet.net
 sneaklevel.com
 sneakystamp.com
@@ -2362,6 +2399,7 @@ source-updateacces-accountlocked.com
 source-updateacces-helpaccountlocked.com
 source-updateacces-servicelocked.com
 spectacularsnail.com
+spectrocoinbtc.com
 sphereup.com
 spillvacation.com
 spinasale.com
@@ -2371,6 +2409,7 @@ spots.im
 spotx.tv
 springserve.com
 sprinklr.com
+sqrve-online.net
 squeamishscarecrow.com
 squirly.info
 ssl-appleidverification.com
@@ -2415,6 +2454,7 @@ superficialsink.com
 suport-garena.com
 suport-lcloud.com
 suporte-find-iphone.com
+suportglogomail.com
 support-account-apple.com
 support-account-update-verification.com
 support-accounts.com
@@ -2501,7 +2541,11 @@ terms-service.com
 terribleturkey.com
 terworkingaccountapple-yourverifiedhanc.com
 thatmember.com
+theaccountjoined.org
+thelimitedaccount.org
 thescreenroomstore.com
+theuserlimit.org
+theuserlimite.org
 thirdrespect.com
 throattrees.com
 ticklishpanda1.xyz
@@ -2613,6 +2657,7 @@ updates-accounts-scrts77814.com
 updates-privacy.com
 updatesapple.com
 updatesuser.info
+updateswitzapple.com
 updateverification-service.com
 updating-information-service.com
 updatingservice.org
@@ -2624,9 +2669,11 @@ usbktransact.com
 uscert.top
 user-summary-account.com
 useraccountverifications-appleid.com
+userlimit.store
 userreplay.com
 userreplay.net
 users-accouna-update.com
+userslimited.org
 validate-to-get-access.xyz
 validate2explore.xyz
 validateconnection.xyz
@@ -2818,6 +2865,8 @@ webvalidationrequire.xyz
 webvalidationrequired.xyz
 weeb-icloud.top
 wehaveupdate-policypageserv.com
+wellsfargodp.com
+wellsfargoidc.com
 wf-jaserviceargo-01.com
 wha.la
 whereareyou.pro
@@ -2879,6 +2928,7 @@ xn--myetherallt-pl9elw.com
 xn--myetherwae-bl2ea19d.com
 xn--myetherwale-os8e5y.com
 xn--myetherwalet-49b.com
+xn--myethrwallet-seb.com
 xn--mytherwalet-3qb08c.com
 xn--mytherwalet-ms8e53d.com
 xn--mytherwalle-jb9ey9a.com
@@ -2912,6 +2962,7 @@ ygto.com
 ylx-4.com
 youdontcare.com
 your-account-unlock.com
+youraccess-recovery.com
 yourbestandupdatesafe.pw
 yourinformationupdate.com
 yourreliablesite4content.bid
