@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-20 17:10:59
+# Generated at 2018-03-22 13:51:41
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -2804,6 +2804,7 @@ wa-solutation-limited.com
 wallstsxer.hopto.org
 warraningalert.xyz
 wateryvan.com
+weatherfor.us
 web-halkbank.net
 web-id-securedinformation.com
 webaccess-limitedmyaccountz.com
