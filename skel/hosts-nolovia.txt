@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-22 13:51:41
+# Generated at 2018-03-23 18:14:32
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -19,6 +19,7 @@
 1332.bounceme.net
 1333.hopto.org
 1588-2040.co.kr
+18846846874646-verify.net
 1990.nflfan.org
 1dumb.com
 1e-transfer-interac.com
@@ -109,6 +110,7 @@ account-problem.info
 account-problems.info
 account-re.store
 account-recorveryhelps.com
+account-resolve-secure-verificationid.com
 account-restore-center.com
 account-secure.org
 account-serivce.com
@@ -213,6 +215,8 @@ amazonsse.com
 ambitiousagreement.com
 amellet.bit
 americanunfinished.com
+amex2018.com
+amex2019.com
 amexopesx.com
 analytics.blue
 analytics.tout.com
@@ -233,6 +237,7 @@ app-id-login.com
 app-id-service.com
 app-idresolvehelp.com
 app-securitypaymentaccountapp.com
+app-service-information.com
 app-updtscure.com
 app.link
 appboy.com
@@ -505,6 +510,7 @@ apps-icloud.org
 apps-limitedaccess.com
 apps-s3rver.com
 appsantander.mobi
+appserviceinformation.com
 appsflyer.com
 appstore-centers-i.cloud
 appstore-confirmation.com
@@ -596,12 +602,15 @@ bigsnake1.xyz
 biling-updateappl.com
 billing-appleverification.com
 billing-primary.info
+billingmembership-9.com
 billingupdate-logins.com
 bills-access9980723124-barokahin.com
 bin-updateservice.org
+binance-logins.net
 binanct.com
 bitcoin-transaction-accelerator.website
 bitreex.com
+bitrex.partners
 bittellect.com
 bizible.com
 blackcat1.xyz
@@ -1887,6 +1896,7 @@ owen6000.hopto.org
 p-w.kr
 page-account.info
 page-appleid-apple.com
+page-signin-access-webapps.com
 palletbush.hopto.org
 panini101.chickenkiller.com
 parafarmaciaabascal.com
@@ -2115,6 +2125,7 @@ resolving-account-verifycation.info
 restart-membership-netfilx.com
 restoreappleid-apple.com
 restrictedpagesapple.com
+resulotions-ppa.com
 retrowebdoc.us
 reunlock-services-accountapple.com
 reupload-security-update-uewe.com
@@ -2192,6 +2203,7 @@ secure-my-account.com
 secure-myaccount.online
 secure-myappie-purchase.com
 secure-myappleid.com
+secure-resolve-accountverificationid.com
 secure-verification-account-required.com
 secure-verification-account.com
 secure-verification-activity.com
@@ -2205,6 +2217,7 @@ secureeioginattmpt.com
 secureidupdateinformation.com
 secureloginsecure.online
 securepage-webapps.info
+securepaypaiautomatic.com
 secures-apple.com
 secures-intlrecovery.com
 secureservice-group.xyz
@@ -2859,6 +2872,7 @@ websevervaliidation.info
 websevervaliidation.xyz
 websevervaliidationneeded.info
 websevervaliidationneeded.xyz
+websignin-secure-payment-update.com
 webssl-apple.com
 webvalidation.xyz
 webvalidationneeded.xyz
