@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-27 20:02:45
+# Generated at 2018-03-29 09:54:45
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -223,6 +223,7 @@ analytics.tout.com
 andspurs.com
 angsrvr.com
 answerscloud.com
+antistrophebail.com
 antivirus-upgrade.com
 anxiousapples.com
 api-profit.com
@@ -701,6 +702,7 @@ chickensstation.com
 chiefcurrent.com
 chikazz.ddns.net
 childrenlawyer.win
+chillcardiac.com
 china-anc-apple.com
 china-app-appleid.com
 china-iphone-id.com
@@ -1216,6 +1218,7 @@ hajimusa.ddns.net
 halkcekilisiduyurular.com
 halkebank.com
 hapc.gdn
+happyisp.com
 hasbeenlimited-stoppedworking.com
 heavypanda1.xyz
 help-forgot-information.net
@@ -1656,6 +1659,7 @@ matchcows.com
 maximusstafastoriesticks.info
 mbolo2017.hopto.org
 me-look-update-now.com
+mediabreakaway
 medianewsonline.com
 mefound.com
 member-validation.info
