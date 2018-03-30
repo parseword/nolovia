@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-30 13:41:46
+# Generated at 2018-03-30 14:50:27
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -1169,6 +1169,7 @@ g-cloud.win
 ga87z2o.com
 ganti-nama-facebook.com
 ganzerri.me
+gapps.site
 gdocs.download
 get-confirmation.com
 get-login.com
@@ -1183,6 +1184,7 @@ giddycoat.com
 gigya.com
 ginzametrics.com
 give-me-coins.com
+gmail-accounts-m.com
 gmail-security-account.com
 gmail-service.online
 gmaile.org
@@ -1192,6 +1194,7 @@ goodjob88.ignorelist.com
 googlecloud.su
 googlemapsup.ddns.net
 googlz.blackfriday
+goooigle.com
 gorgeousground.com
 got-game.org
 gov-secure.co.uk
@@ -2170,6 +2173,7 @@ safe-activity-resume.com
 safe-i.cloud
 safegraph.com
 safekey-verificationrequaires.com
+safepassword.ru
 safepaypal.com
 salemove.com
 samsungplymouth.com
