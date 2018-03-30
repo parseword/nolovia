@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-03-29 09:54:45
+# Generated at 2018-03-29 21:35:50
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -1767,6 +1767,7 @@ myetrherwallert.com
 myfraudtransactionaccount.center
 myftp.info
 myftp.name
+mygoogle.eu
 mygtmn.com
 myicloud-apple-account-verify.com
 myicloud-id.com
