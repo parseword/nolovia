@@ -56,8 +56,12 @@ cloudmediacdn.com
 cody.services
 eruuludam.mn
 etacontent.com
+freecontent.bid
+freecontent.date
+freecontent.stream
 g-content.bid
 hallaert.online
+hashing.win
 host.d-ns.ga
 jquery-uim.download
 jquerystatistics.org
@@ -71,4 +75,5 @@ static-cnt.bid
 staticsfs.host
 statistic.date
 tulip18.com
+webassembly.stream
 xy.nullrefexcep.com
