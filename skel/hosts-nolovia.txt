@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-04-05 23:29:55
+# Generated at 2018-04-06 12:48:27
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -605,6 +605,7 @@ bigsnake1.xyz
 biling-updateappl.com
 billing-appleverification.com
 billing-primary.info
+billing-validate2.com
 billingmembership-9.com
 billingupdate-logins.com
 bills-access9980723124-barokahin.com
