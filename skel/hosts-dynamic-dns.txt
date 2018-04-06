@@ -17,6 +17,7 @@
 # to your personal-whitelist.txt file.
 
 3322.org
+anondns.net
 boxip.net
 ddns.net
 duckdns.org

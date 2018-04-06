@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-04-05 12:37:44
+# Generated at 2018-04-05 23:29:55
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -196,6 +196,7 @@ adstanding.com
 adwordls-account.site
 adwords-login.com
 adwords-online.org
+affiliates-spinit.com
 afftrack.com
 airconditionerreviews.com
 ak0gsh40.com
@@ -1106,6 +1107,7 @@ facebooksecurity.info
 faqserv.com
 faridaminmohamm.hopto.org
 fartit.com
+fasttrack-ignite.com
 fb-accountinformation.com
 fbkingsuk.s3.amazonaws.com
 fdsvtrwda.info
@@ -1478,6 +1480,7 @@ jetos.com
 jewelcheese.com
 jhomeland.ddns.net
 jkub.com
+joaffs.com
 johnevan227.ddns.net
 jp-appsy-account-lockedd.com
 jpar333.me
@@ -1491,6 +1494,7 @@ justdied.com
 justvalidate.xyz
 justvalidateit.xyz
 justyjohnxplodes.ddns.net
+kabooaffiliates.com
 kalooga.com
 karisimbi.net
 kaycee7.ddns.net
@@ -1507,6 +1511,7 @@ kro.kr
 kurtangle083.publicvm.com
 laappleservee.com
 lagos042.ddns.net
+larryaffiliates.com
 lashy.ddns.net
 lastbornk1.ddns.net
 lawpush.ddns.net
