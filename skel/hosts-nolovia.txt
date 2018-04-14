@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-04-12 12:23:33
+# Generated at 2018-04-14 15:36:49
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -185,6 +185,7 @@ adform.com
 adform.dk
 adform.net
 adingo.jp
+adlive.io
 admantx.com
 admin-apple.space
 adnegah.com
@@ -556,6 +557,7 @@ authrequired.xyz
 authresolveunauthorisedtransaction.com
 autoconfirm-refunds.com
 autocount.org
+autoid.com
 avocet.io
 awzbijw.com
 axclick.store
@@ -698,6 +700,7 @@ chase-logbank2.xyz
 chase-logbank3.xyz
 chase-logbank4.xyz
 chase-logbank5.xyz
+chatbeacon.io
 check-account-acceess.com
 check-account-acces.com
 check-account-now.com
@@ -1159,6 +1162,7 @@ follingerservicemabe.com
 fopflop.me
 foresee.com
 formalyzer.com
+formisimo.com
 forultimateandbest4upgradepc.download
 fraddation-pyments-acounting.com
 fraud-loginactivity.com
@@ -1182,6 +1186,7 @@ gdocs.download
 get-confirmation.com
 get-login.com
 get-verived-account.com
+getjaco.com
 getlytics.com
 getsitecontrol.com
 gettrials.com
@@ -1232,6 +1237,7 @@ halkebank.com
 hapc.gdn
 happyisp.com
 hasbeenlimited-stoppedworking.com
+heapanalytics.com
 heavypanda1.xyz
 help-facebook.com
 help-forgot-information.net
@@ -1398,6 +1404,7 @@ information-account-limited.org
 information-accountdb.com
 infotradelinks.ddns.net
 infoupdateppl.com
+inner-active.com
 innovid.com
 insta-signin.xyz
 instagram-checkout.com
@@ -1478,6 +1485,7 @@ itunesapple.org
 itunesapplenvoice.info
 iverifyaccount.info
 ivykiosk.com
+izooto.com
 j93557g.com
 jackboy7204.zapto.org
 jaybrizzy.gotdns.ch
@@ -1918,6 +1926,7 @@ onmypc.us
 opendingweb.us
 optimize-stats.voxmedia.com
 optincollect.com
+optinmonster.com
 organiccrap.com
 organicladybug1.xyz
 organiclion1.xyz
@@ -2435,6 +2444,8 @@ snapchat-safe.com
 snapchet.net
 sneaklevel.com
 sneakystamp.com
+snigelweb.com
+snigelweb.net
 softcode2017.hopto.org
 solutation-update.com
 solve-account-verificationss-acces.com
@@ -3029,6 +3040,7 @@ yourbestandupdatesafe.pw
 yourinformationupdate.com
 yourreliablesite4content.bid
 yourtrap.com
+yusp.com
 yxdown.cn
 zahlungs-verifikation.com
 zahlungsverifikation-abgleich.biz
