@@ -166,7 +166,7 @@ $serverLists[] = $sl;
 $sl = new ServerList('Disconnect Malvertising');
 $sl->setFilePath('./data/hosts-disconnect-malvertising.txt');
 $sl->setUri('https://disconnect.me/lists/malvertising');
-$sl->setMinimumExpectedBytes(65536);
+$sl->setMinimumExpectedBytes(32768);
 $sl->setValidationText('2o7.net');
 $serverLists[] = $sl;
 
