@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-04-18 18:20:42
+# Generated at 2018-04-20 09:25:42
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -1797,6 +1797,7 @@ myetherwallet.promo
 myetherwalletb.com
 myetherwalletsjoin.com
 myetrherwallert.com
+myfinance.com
 myfraudtransactionaccount.center
 myftp.info
 myftp.name
@@ -2593,6 +2594,7 @@ tangerine-webverifications.com
 tay-sun.ru
 tcpidapple-acntcloud.com
 td583.com
+tealium.com
 tealiumiq.com
 teamoluwa.ddns.net
 tech-supportcenter.us
