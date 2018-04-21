@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-04-20 14:08:01
+# Generated at 2018-04-21 12:07:40
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -1683,6 +1683,7 @@ mandatetovalidate.xyz
 mangement-purchaseappleid-investigation.store
 manzorro.duckdns.org
 map-localisation.me
+maps--icloud.com
 maps-findmyiphone.online
 mariopuzo.ddns.net
 markowen.duckdns.org
