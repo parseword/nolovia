@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-04-28 12:00:41
+# Generated at 2018-04-28 12:06:44
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -1256,16 +1256,6 @@ hitcpm.com
 hockeyapp.net
 home-secured-autentic-verifi-account.com
 home-update.net
-host mrycrypto.com
-host mycrypto.company
-host mycrypto.group
-host mycrypto.ink
-host mycrypto.ltd
-host mycrypto.promo
-host mycryrpto.com
-host myerypto.com
-host myrcrypto.com
-host nnycrypto.com
 hotjar.com
 hs-scripts.com
 hsappstatic.net
@@ -1752,6 +1742,7 @@ mrdarkddos.com
 mrface.com
 mropera12.no-ip.biz
 mrslove.com
+mrycrypto.com
 ms15hinet.publicvm.com
 mudrakgroup.in
 murdoog.com
@@ -1798,11 +1789,18 @@ myappleid-verifications.com
 myappleipone.org
 mybitcoinmastercard.com
 mycarddetailsverify.com
+mycrypto.company
+mycrypto.group
+mycrypto.ink
+mycrypto.ltd
+mycrypto.promo
+mycryrpto.com
 mycustomer-service.com
 mydad.info
 myddns.com
 mydepositsfunds-online.com
 myebayaccess.com
+myerypto.com
 myetherwalleit.info
 myetherwallet-co.com
 myetherwallet.promo
@@ -1829,6 +1827,7 @@ mypicture.info
 mypop3.net
 mypop3.org
 mypressonline.com
+myrcrypto.com
 mysecondarydns.com
 mysecure-id-icloud.com
 myserviceaccount.net
@@ -1886,6 +1885,7 @@ ninja-445.ddns.net
 ninjaoutreach.com
 ninstream.com
 ninth.biz
+nnycrypto.com
 nono198011.ddns.net
 nonomee2017.ddns.net
 notification-apple-service.com
