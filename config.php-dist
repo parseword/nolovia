@@ -18,7 +18,6 @@
  * This script fetches and makes use of server lists compiled by: 
  *
  * Disconnect at https://disconnect.me/
- * Jason Lam at http://www.networksec.org/grabbho/block.txt
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
  * Malware Domain List at https://www.malwaredomainlist.com/
@@ -112,11 +111,6 @@ $sl->setFilePath('./data/hosts-dynamic-dns.txt');
 $sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-dynamic-dns.txt');
 $serverLists[] = $sl;
 
-$sl = new ServerList('nolovia JavaScript Altcoin Miners');
-$sl->setFilePath('./data/hosts-altcoin-miners.txt');
-$sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-altcoin-miners.txt');
-$serverLists[] = $sl;
-
 $sl = new ServerList('nolovia Supplemental Bad Host Index');
 $sl->setFilePath('./data/hosts-nolovia.txt');
 $sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt');
@@ -199,28 +193,5 @@ $sl->setMinimumExpectedBytes(10240);
 $sl->setValidationText('0.0.0.0');
 $sl->setReplacePatterns(array('|^0.0.0.0(\s+)|m'));
 $serverLists[] = $sl;
-
-//Cybercrime Tracker bot/malware command and control server list.
-//Disabled by default for now because it contains many dead and defunct hosts.
-/*
-$sl = new ServerList('Cybercrime Tracker C&C');
-$sl->setFilePath('./data/hosts-cybercrime-tracker.txt');
-$sl->setUri('https://cybercrime-tracker.net/all.php');
-$sl->setMinimumExpectedBytes(10240);
-$sl->setValidationText('panel');
-$sl->setMatchAllPattern('|^([a-z][a-z0-9\.\-]+)/(.*?)$|mi');
-$serverLists[] = $sl;
-*/
-
-//networksec.org list
-//Appears to be either defunct or lacking updates as of January 2018
-/*
-$sl = new ServerList('networksec.org');
-$sl->setFilePath('./data/hosts-networksec.txt');
-$sl->setUri('http://www.networksec.org/grabbho/block.txt');
-$sl->setMinimumExpectedBytes(1024);
-$sl->setValidationText('badlist');
-$serverLists[] = $sl;
-*/
 
 unset($sl);
