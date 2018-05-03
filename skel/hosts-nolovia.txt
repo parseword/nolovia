@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-04-29 23:13:08
+# Generated at 2018-05-02 21:34:09
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -628,6 +628,7 @@ blackhills.ddns.net
 blackpanda1.xyz
 blackpeacock1.xyz
 blast.ddns.net
+blockchainz.ml
 blockedlogin-info.com
 bludomain7.net
 blueconic.com
