@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-05-02 21:34:09
+# Generated at 2018-05-03 21:57:52
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -103,6 +103,7 @@ account-joined.online
 account-joins.online
 account-locked-access.com
 account-locked-activity.com
+account-locked-serviceed.com
 account-login-icloud-service.com
 account-login.info
 account-notification.date
@@ -1206,6 +1207,7 @@ gmaile.org
 go2click.org
 golangwq.info
 goodjob88.ignorelist.com
+goodleaccounts.info
 googlecloud.su
 googlemapsup.ddns.net
 googlz.blackfriday
@@ -1340,6 +1342,7 @@ icloudireland.com
 icloudiservices.com
 icloudken.com
 icloudkeys.com
+icloudlp.xyz
 icloudmain.com
 icloudsite.com
 icloup-yuie.cn
@@ -1609,6 +1612,7 @@ login-limitedaccounts.com
 login-me-the-account.com
 login-myaccount-verify.com
 login-netflix.com
+login-new-usa.com
 login-rambler.ru
 login-reminderlimited.com
 login-resolveaccountlimited.com
@@ -1672,6 +1676,7 @@ management-accountappleid-purchaseverification.store
 management-dataicloud.info
 management-purchaseaccount-appstoreapple-verification.store
 managenetflxspymentresolv.com
+managepurchase120storesecure-verificationwebappsid.com
 managepurchaseinaccount-service.com
 manager-support-account-security.com
 manages-paymentsaccounts-supports.com
@@ -1689,6 +1694,7 @@ maps-findmyiphone.online
 mariopuzo.ddns.net
 markowen.duckdns.org
 markscot.ddns.net
+mastelefonia.com
 masttracker.com
 matchcows.com
 maximusstafastoriesticks.info
@@ -1777,6 +1783,7 @@ myaccountissue.com
 myaccountjoined.org
 myaccountresolve-transactionrejected.com
 myaccounts-pyspl.com
+myaccountsecure2store-verifywebappid.com
 myaccountupgrades.com
 myaccoutnconfirmations.com
 myadstats.com
@@ -1801,7 +1808,9 @@ mydad.info
 myddns.com
 mydepositsfunds-online.com
 myebayaccess.com
+myertrherwalletr.com
 myerypto.com
+myetherewallet.net
 myetherwalleit.info
 myetherwallet-co.com
 myetherwallet.promo
@@ -1865,6 +1874,7 @@ needvalidationtogolive.xyz
 netflix-domain.com
 netflix-mob.com
 netflix-offre.net
+netflix-report.com
 netflixbrasil.website
 netflixcolombia.net
 netflixsclientservicrs-managepaymentsubscribers.com
@@ -2020,6 +2030,7 @@ paypallssjembutsss.net
 paypl-direct-resolutioncenter.com
 paypol-securities.biz
 pcanywhere.net
+pdfdocusign.com
 peacepowder.com
 perfectmarket.com
 petwandey.us
@@ -2221,6 +2232,8 @@ rtbstandards.com
 rulerabbit.com
 safe-activity-resume.com
 safe-i.cloud
+safe-summary.com
+safefastverifyserviced.com
 safegraph.com
 safekey-verificationrequaires.com
 safepassword.ru
@@ -2481,6 +2494,7 @@ source-updateacces-helpaccountlocked.com
 source-updateacces-servicelocked.com
 spectacularsnail.com
 spectrocoinbtc.com
+speednames.com
 sphereup.com
 spillvacation.com
 spinasale.com
@@ -2591,6 +2605,7 @@ supportservicelimitedaccount-admin.net
 supportteam-verify.com
 supportweeklyadmin.com
 supporunlockedaccount.com
+suppotaccounthelplog.com
 suspciusignin.com
 suspended-facebook-temporarily.com
 suspicious-accountactivty.com
@@ -2662,6 +2677,8 @@ trustx.org
 tune.com
 twitteraccountverified.online
 twitterfeatures.com
+twitterredeirect.com
+twitterverifiedapplication.com
 uacexchange.us
 uappllee.com
 ucrenkyapi.com
@@ -2727,6 +2744,8 @@ update-paypaallimited.com
 update-personalaccount-icloud.com
 update-security-accounts.com
 update-signinactivity.com
+update-your-account-100747078478784309.com
+update-your-account-id1000037709.com
 updateaccounts-verifications.com
 updatebillinginformation-i.cloud
 updated-recovery-access.com
@@ -2792,6 +2811,7 @@ validationrequire.xyz
 validattion-mandatory.xyz
 validattionmandatory.xyz
 validitions-apple-account-service.com
+vericationservicetwitter.com
 verif-case-purchase-id-4581-752-495.com
 verif-case-purchase-id-96235-584-862.com
 verif-case-purchase-id-9632-542-892.com
@@ -2836,6 +2856,8 @@ verifiedaccounts.news
 verifiedaccounttwitter.com
 verifiedreview.online
 verifiedstatus.online
+verifiedtwittersignup.com
+verifiedtwittersignup.info
 verifjembutanaccount.com
 verifucationsontar.com
 verify-597d3b5730992b7c44.live
@@ -2869,6 +2891,7 @@ verifyaccounts-access.com
 verifyamzn.com
 verifyapplbill.com
 verifymyaccount-appleid.com
+verifyofficeemail.info
 verifytredf-mailoup.com
 verifyyouridentity.xyz
 verifìcation.com
