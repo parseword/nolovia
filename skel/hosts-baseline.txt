@@ -1,6 +1,6 @@
 ################################################################################
 # nolovia baseline blacklist file
-# Part of nolovia, <http://github.com/parseword/nolovia/>
+# Part of nolovia, <https://github.com/parseword/nolovia/>
 #
 # The following list is a periodic snapshot of all the other lists combined, 
 # plus additional hosts that have been blocked in the past. The primary purpose

@@ -1,6 +1,6 @@
 ################################################################################
 # nolovia dynamic DNS provider blacklist file
-# Part of nolovia, <http://github.com/parseword/nolovia/>
+# Part of nolovia, <https://github.com/parseword/nolovia/>
 #
 # The following domains provide dynamic DNS services. Dynamic DNS has valid and
 # legitimate uses, especially for people on unreliable internet connections. 
