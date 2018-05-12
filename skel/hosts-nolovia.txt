@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-05-11 23:54:08
+# Generated at 2018-05-12 18:19:02
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -676,6 +676,7 @@ cashiopeia-updates.com
 castrokolaz.top
 castup.net
 cavanic9.net
+cedato.com
 cenb.gdn
 center-cnt.info
 center-intl-suport.com
@@ -1175,6 +1176,7 @@ freeddns.com
 freetcp.com
 freewww.biz
 freewww.info
+freshmarketer.com
 ftp1.biz
 ftpserver.biz
 fullstory.com
@@ -2259,6 +2261,7 @@ savagtolldoc.us
 saysidewalk.com
 sc-applle-login.com
 scar231.zapto.org
+scarabresearch.com
 scarcestream.com
 scintillatingspace.com
 score-youraccount.info
@@ -2474,6 +2477,7 @@ smartadserver.com
 smartlook.com
 smlblinds.com
 sms-info-apple.com
+smyte.com
 snakesort.com
 snapchat-help.com
 snapchat-options.com
@@ -2525,6 +2529,7 @@ statusdelivery.com
 steamchristmas.com
 stepconfirm-limitation-eng-lang.com
 steptoverif.com
+stetic.com
 steve654321.ddns.net
 stolen-icloud.com
 stops-appid.com
@@ -2908,6 +2913,7 @@ vertification-applesinc.com
 vertification-number-account-setup.com
 vertifiication-account.com
 verygoodads.com
+vicomi.com
 vidazoo.com
 vilynx.com
 vipddos.com
@@ -2998,6 +3004,9 @@ winclicks.info
 window5.win
 windowsupdatesalert.ml
 wirecomic.com
+wixab-cloud.com
+wixab.com
+wixab.it
 wixsite.com
 wklimited.com
 wlespuld.me
