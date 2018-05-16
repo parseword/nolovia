@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-05-12 18:19:02
+# Generated at 2018-05-15 17:03:53
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -1111,6 +1111,7 @@ exmo.info
 exmo.tech
 exporttaipei.publicvm.com
 express4.dynns.com
+extad.info
 ezua.com
 f3322.org
 face-book.online
@@ -1125,6 +1126,7 @@ fartit.com
 fasttrack-ignite.com
 fb-accountinformation.com
 fbkingsuk.s3.amazonaws.com
+fbmusic.com
 fdsvtrwda.info
 feacebook-login.win
 fetch.duckdns.org
