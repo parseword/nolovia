@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-05-23 19:04:15
+# Generated at 2018-05-24 10:21:16
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -55,6 +55,7 @@ abruptroad.com
 abtasty.com
 ac-loptxt.com
 acc-verify.org
+accaunts-googlc.com
 accengage.com
 accesd-verifications.com
 access-account-appleid.com
@@ -160,6 +161,7 @@ accountsummary.website
 accountupdate-unusualactivity-policyagreement.info
 accountupdate-unusualactivity-verification.info
 accrenew-login492.com
+accuant-googlc.com
 accupdate.org
 aceptandverify.com
 acessocliente.net
