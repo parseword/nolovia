@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-05-20 21:24:34
+# Generated at 2018-05-23 19:04:15
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -1289,6 +1289,7 @@ i-myetherwallet.tech
 iappleid-regist.com
 ib-ibi.com
 ibasvuru-ziraatbank.com
+ibmoption.com
 icl0ud-iphone.com
 icl0ud-locked-detail.com
 iclo0ud-locked-details.com
@@ -2671,6 +2672,7 @@ timesink.com
 tinybear1.xyz
 tiqcdn.com
 toh.info
+toknowall.com
 tonychucks96.hopto.org
 tonystark001.publicvm.com
 tosecurecode-appleid.info
