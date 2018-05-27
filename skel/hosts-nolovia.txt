@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-05-24 10:21:16
+# Generated at 2018-05-27 11:58:48
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -150,6 +150,7 @@ accounts-oulook365.com
 accounts-problem.info
 accounts-problems.info
 accounts-snapchat.online
+accounts-verifications.com
 accounts-verify-paypal.com
 accountsauthentification.com
 accountservice-limited.org
@@ -207,6 +208,7 @@ advertnotices.com
 adwordls-account.site
 adwords-login.com
 adwords-online.org
+adwords-ppc.org
 affiliates-spinit.com
 afftrack.com
 airconditionerreviews.com
@@ -222,6 +224,7 @@ amarachi.hopto.org
 amazoapp.com
 amazoappreview.com
 amazon-awsummary.com
+amazon-deutschland-customer-service.info
 amazon-premiumsecu.com
 amazongifts.ddns.net
 amazonnapp.com
@@ -274,6 +277,8 @@ appie-id-chine.com
 appie-renew.com
 appieid-renew.com
 appieid.xyz
+appieite.top
+appieitu.top
 appierg-iphone.com
 appiesg-iphone.com
 appiexr-iphone.com
@@ -396,6 +401,7 @@ appleid-accountdisable.com
 appleid-accountt.com
 appleid-accountverify.com
 appleid-appile.com
+appleid-apple-confirmation.com
 appleid-apple-iclouds.com
 appleid-apple-logins.com
 appleid-apple-manage-account-info-webmail.com
@@ -643,9 +649,12 @@ blueconic.com
 bluegorilla1.xyz
 bm-verification.com
 bn-multired1.com
+boa-bankingupdate.online
 bodyclick.net
 bofa-accontcheck.com
+bofa-checkings.com
 bofa-review.com
+bofa-settings-log.com
 boilingbeetle.com
 bokletdoc.us
 bombing212.ddns.net
@@ -665,6 +674,7 @@ buscar-id-icloud.com
 buscar.cloud
 buscarmiphone.com
 bustbuy.com
+cad-secure-returns.top
 callibri.ru
 calmfoot.com
 cancel-paymentorderpaypal-check.com
@@ -766,6 +776,7 @@ clrstm.com
 code203.ddns.net
 codeonclick.com
 coin-service.com
+coinbaseverifier.com
 com-accept-security.info
 com-acces-issuer-case.com
 com-acces-scrts0612.com
@@ -807,6 +818,7 @@ com-identity.tech
 com-infrs.com
 com-ios.com
 com-j4v.com
+com-lastlocation.info
 com-locate.com
 com-locked-appleicloud.com
 com-locked.tech
@@ -914,6 +926,7 @@ confirmation-login.com
 confirmation-now.com
 confirmation-transaction.com
 confirmation-your-payment.com
+confirmed-info.biz
 confirmed-ngewe.com
 confirmtransaction.com
 confirmyourcontacts.com
@@ -1125,7 +1138,10 @@ facebomk.com
 facebook-check-point.com
 facebook-front.com
 facebook-suspend-account.com
+facebooki.xyz
 facebooksecurity.info
+facebooksexy.xyz
+facebooku.xyz
 faqserv.com
 faridaminmohamm.hopto.org
 fartit.com
@@ -1181,6 +1197,7 @@ forultimateandbest4upgradepc.download
 fraddation-pyments-acounting.com
 fraud-loginactivity.com
 freeddns.com
+freefacebook.xyz
 freetcp.com
 freewww.biz
 freewww.info
@@ -1425,15 +1442,20 @@ infoupdateppl.com
 inner-active.com
 innovid.com
 insta-signin.xyz
+instaaccount.xyz
+instagarm.net
 instagram-checkout.com
 instagram-log-user.com
 instagram-page.com
+instagram-team.xyz
 instagram61.com
 instagramaccountsecurity.online
 instagramim.xyz
 instagramtakipciservis.com
 instagramverifiedbadges.com
+instagrram.xyz
 instanthq.com
+instaverification.xyz
 int-halkbankasi.com
 inte-authorization0102.com
 intellibid.com
@@ -1485,6 +1507,7 @@ iphone-recuperar.com
 iphone-sivre.com
 iphone8basvuru.com
 iphoneid-icloud.com
+iphonerc.top
 ipichnaear.me
 ipichnaear22.me
 isaijra52elizgewigm.duckdns.org
@@ -1505,6 +1528,7 @@ itunesapplenvoice.info
 iverifyaccount.info
 ivykiosk.com
 izooto.com
+j-p-morgan-check-onli.com
 j93557g.com
 jackboy7204.zapto.org
 jaybrizzy.gotdns.ch
@@ -1651,6 +1675,7 @@ longmusic.com
 loopme.com
 lopsidedspoon.com
 losecanontop.us
+losiphone.top
 lost-iphone.info
 lostverify-apple.com
 loudloss.com
@@ -1751,6 +1776,7 @@ mookie1.com
 moomeeo.com
 moorexx.hopto.org
 mopub.com
+morganj-p-check-hlp.com
 morggy11.ddns.net
 mowfruit.com
 mp-app.info
@@ -1780,6 +1806,7 @@ my-icloudd-locked-details.com
 my-icnid-icloud.com
 my-incid-icloud.com
 my-iocid-icloud.com
+my-softbank-security.com
 my03.com
 myaccount-apple-service-security.com
 myaccount-appleid-identification.com
@@ -1787,6 +1814,7 @@ myaccount-instagram.com
 myaccount-ld.com
 myaccount-limited-update.online
 myaccount-rejectedpayment.center
+myaccount-safe.xyz
 myaccount-server.org
 myaccount-solved.com
 myaccount-summary-resolved.com
@@ -1883,6 +1911,7 @@ nativestandards.com
 nativka.ru
 navistone.com
 near-located.com
+necessary-service.info
 need-attention-error-detected.xyz
 need-attention.xyz
 need-to-validate.xyz
@@ -1946,6 +1975,7 @@ officialpage-appleid.com
 oluwahkudi.cf
 onedumb.com
 onesignal.com
+onevanillachecker.com
 oneyservics.com
 onion.dog
 onion.guide
@@ -1985,12 +2015,14 @@ p-w.kr
 page-account.info
 page-appleid-apple.com
 page-signin-access-webapps.com
+palaccountsubmit.com
 palletbush.hopto.org
 panini101.chickenkiller.com
 parafarmaciaabascal.com
 password-appleid.com
 pasword-recovery.com
 patronim.com
+paxful-logins.com
 payement-support-services.com
 payfone.com
 payles-service.com
@@ -2007,6 +2039,7 @@ payment-yandex.ru
 paymentaccount-verificationinformation.info
 paymentconfimrs.com
 paymentinformation-resolutioncenter.info
+paymentmethodss.com
 payments-account-payypal.co
 payments-refund.com
 paymentservice-payypll.com
@@ -2031,6 +2064,8 @@ paypal-comlog-acc-resolution9911.com
 paypal-free-balance.com
 paypal-getlogin.com
 paypal-hanzo.com
+paypal-infoupdate.xyz
+paypal-infoupdater.xyz
 paypal-limited.com
 paypal-limited.xyz
 paypal-resolve.website
@@ -2045,6 +2080,7 @@ paypalfullservice.com
 paypalhome.com
 paypallj.com
 paypallssjembutsss.net
+paypalsecurely.com
 paypl-direct-resolutioncenter.com
 paypol-securities.biz
 pcanywhere.net
@@ -2146,6 +2182,7 @@ rebelsubway.com
 receipt-verification.com
 receptiveink.com
 reconizerindentificationaccount.com
+recovers-account-disabeld-access.com
 recovery-access-secure.com
 recovery-account-system.com
 recovery-accountlogin.com
@@ -2310,6 +2347,7 @@ secureaccount-limitedverification.com
 secureapple-apple.com
 securebankofamerican.info
 secured-account-locked.com
+securedpaymentsonline.com
 secureeioginattmpt.com
 secureidupdateinformation.com
 secureloginsecure.online
@@ -2404,6 +2442,7 @@ services-appleidbill.com
 services-idappleverification.com
 services-limited.net
 services-verify-information.com
+servicesdone.top
 serviceseaser.com
 servicesolutionlimited-ppintl1-solution-home-index-html.com
 servicessupports.com
@@ -2487,16 +2526,19 @@ smartadserver.com
 smartlook.com
 smlblinds.com
 sms-info-apple.com
+sms-refunds.site
 smyte.com
 snakesort.com
 snapchat-help.com
 snapchat-options.com
 snapchat-safe.com
+snapchatconfirmed.com
 snapchet.net
 sneaklevel.com
 sneakystamp.com
 snigelweb.com
 snigelweb.net
+softbank-securitys.com
 softcode2017.hopto.org
 solutation-update.com
 solve-account-verificationss-acces.com
@@ -2594,6 +2636,7 @@ support-data-update-verification.com
 support-data-verification-update.com
 support-help-ilcloud.info
 support-id-local.com
+support-infomation-account-disable.com
 support-ip.com
 support-limited-control.com
 support-loginactivity.com
@@ -2861,6 +2904,7 @@ verification-section.net
 verification-securite.com
 verification-security-account-caseid.com
 verification-systems.net
+verification-up.com
 verification-your-account.com
 verificationaccount-websecureappid.com
 verificationaccount-websecuresappid.com
@@ -2968,6 +3012,7 @@ webapps-verification-nxcmna-i.cloud
 webapps-verificationmembers.com
 webappsc-cgi-access-service.com
 webappsecurityupdate.com
+webappsrequired-accrenew22125122.com
 webappss-security-bin-apple.com
 webdeclaration.xyz
 webdoctell.us
@@ -3003,6 +3048,7 @@ webvalidationrequire.xyz
 webvalidationrequired.xyz
 weeb-icloud.top
 wehaveupdate-policypageserv.com
+wellsfargo-config.xyz
 wellsfargodp.com
 wellsfargoidc.com
 wf-jaserviceargo-01.com
@@ -3057,6 +3103,7 @@ wwwwmobisantander.com
 x24hr.com
 xi-myetherwallet-12z.com
 xiti.com
+xml-appleid-onlineservice.com
 xn--bittrx-th8b.com
 xn--facebok-wx4c.com
 xn--facebok-y2c.com
@@ -3069,6 +3116,8 @@ xn--myetherallt-pl9elw.com
 xn--myetherwae-bl2ea19d.com
 xn--myetherwale-os8e5y.com
 xn--myetherwalet-49b.com
+xn--myetherwalt-0rb54c.com
+xn--myetherwllt-r7a44e.com
 xn--myethrwallet-seb.com
 xn--mytherwalet-3qb08c.com
 xn--mytherwalet-ms8e53d.com
