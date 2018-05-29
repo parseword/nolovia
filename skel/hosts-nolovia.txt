@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-05-27 11:58:48
+# Generated at 2018-05-29 12:22:42
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -129,6 +129,7 @@ account-verifizieren.xyz
 accountcenter.cloud
 accountcheckout.net
 accountid-unusualactivity-verification.info
+accountinfos.info
 accountjoined.email
 accountjoins.org
 accountlimited-securegeneral.com
@@ -155,6 +156,7 @@ accounts-verify-paypal.com
 accountsauthentification.com
 accountservice-limited.org
 accountservicenotification.com
+accountsinfos.com
 accountslock-confirm.com
 accountsnapchatverfiy.com
 accountsresolutioncenter.com
@@ -874,6 +876,7 @@ com-servwork.info
 com-shop-login.com
 com-signin-getapt.ml
 com-signin-page.info
+com-statement-update.info
 com-statement-verify.net
 com-steeaveenlasoeakiaa.info
 com-suporte.com
@@ -1453,6 +1456,7 @@ instagramaccountsecurity.online
 instagramim.xyz
 instagramtakipciservis.com
 instagramverifiedbadges.com
+instagraw.com
 instagrram.xyz
 instanthq.com
 instaverification.xyz
@@ -1709,6 +1713,7 @@ manage-myaccount.info
 manage-mypayment.com
 manage-supportservice.com
 managed-forgot-account.com
+manageidapple.com
 management-accountapple-purchaseappstore.store
 management-accountappleid-purchaseverification.store
 management-dataicloud.info
@@ -1854,11 +1859,13 @@ myebayaccess.com
 myertrherwalletr.com
 myerypto.com
 myetherewallet.net
+myetherewallet.top
 myetherwalleit.info
 myetherwallet-co.com
 myetherwallet.promo
 myetherwalletb.com
 myetherwalletsjoin.com
+myetheswallet.info
 myetrherwallert.com
 myfinance.com
 myfraudtransactionaccount.center
@@ -2562,6 +2569,7 @@ sphereup.com
 spillvacation.com
 spinasale.com
 spoonstory.win
+spot-usernotice.com
 spot.im
 spots.im
 spotx.tv
@@ -2926,6 +2934,7 @@ verifiedstatus.online
 verifiedtwittersignup.com
 verifiedtwittersignup.info
 verifjembutanaccount.com
+verifssl.com
 verifucationsontar.com
 verify-597d3b5730992b7c44.live
 verify-7898615c61fb40.live
