@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-01 23:53:50
+# Generated at 2018-06-02 20:45:32
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -578,6 +578,7 @@ avocet.io
 awzbijw.com
 axclick.store
 azadify.com
+bad-credit-cdn.com
 bad-reqest-344.ru
 balloontexture.com
 bancobb.online
@@ -751,6 +752,7 @@ citrix-online.xyz
 citrix-software.com
 cjpufffy.hopto.org
 claim-policyupdate.com
+classifieds2000.com
 clcktrk.com
 cleansite.biz
 cleansite.info
@@ -770,6 +772,7 @@ clientmediaserver.com
 clientspaymentservicers-nettflixdataresolvs.com
 clintareasinginservicelimtednpphome-indexhtml.com
 cliqz.com
+clmbtech.com
 cloud-checkyouraccount.com
 cloud-id-recover.com
 cloud-wp.org
@@ -944,6 +947,7 @@ contopaypal.info
 contribusource.com
 controlaccounticloud.com
 controlx.ddns.net
+cooleremail.com
 copperchickens.com
 copycarpenter.com
 copycopypayment.site
@@ -1015,6 +1019,7 @@ de-sichererlogin-kundencheckout.ru
 de-sicherermitglieder-checkout.ru
 de-sicherheit-check-true.info
 de-sicherheit-check-valid.info
+deals-discounts-codes.com
 decibelinsight.com
 decibelinsight.net
 decisiveducks.com
@@ -1038,6 +1043,7 @@ dionbeno.me
 direct-verified.com
 directnative.com
 directref-paymobility1.com
+directrev.com
 diretrak.com
 disputepayment-checked.com
 districtm.ca
@@ -1067,6 +1073,7 @@ domainpoints.com
 domainpower.com
 domainpower.net
 domainpowered.com
+domob.cn
 donaldroberts2014.duckdns.org
 dongabby.hopto.org
 donmark22.myddns.rocks
@@ -1078,6 +1085,7 @@ dragzebra.com
 dropped-clicks.com
 drossel.me
 dsmtp.com
+dt00.net
 dubaiexchange.dynu.net
 dumb1.com
 dunhillmild-payment07.com
@@ -1095,6 +1103,7 @@ e-1interac.com
 e-onlinegirisim.com
 e-transfer11-interac.com
 e1-interac.com
+economicoutlook.net
 edigitalsurvey.com
 edns.biz
 eesiiuroffde445.com
@@ -1105,6 +1114,7 @@ ellatrujillo.com
 email-g.com
 emailcostumers-limited.com
 emaile.org
+emv3.com
 emxdgt.com
 en-verify.com
 eng-servicesonlineactivity.com
@@ -1152,6 +1162,7 @@ fasttrack-ignite.com
 fb-accountinformation.com
 fbkingsuk.s3.amazonaws.com
 fbmusic.com
+fc2.com
 fdsvtrwda.info
 feacebook-login.win
 fetch.duckdns.org
@@ -1214,9 +1225,11 @@ fuzzyflavor.com
 g-cloud.pro
 g-cloud.win
 ga87z2o.com
+gammae.com
 ganti-nama-facebook.com
 ganzerri.me
 gapps.site
+gcion.com
 gdocs.download
 get-confirmation.com
 get-login.com
@@ -1256,6 +1269,11 @@ greetzebra.com
 greyinstrument.com
 group-secureservice.xyz
 groupvaluate.com
+grt01.com
+grt02.com
+grt03.com
+grt04.com
+grt05.com
 gsx2newapple.com
 guardedgovernor.com
 guerritor.info
@@ -1573,6 +1591,7 @@ klantenservice-inlogin.pro
 korea-tax.info
 krnwhyvq.info
 kro.kr
+ku6.com
 kurtangle083.publicvm.com
 laappleservee.com
 lagos042.ddns.net
@@ -1606,6 +1625,7 @@ licious-webupdatepolicy.com
 lifeupdate.design
 lifterpopup.com
 ligadx.com
+ligatus.com
 limat-is-account-me.com
 limetalk.com
 limiitaccount.email
@@ -1760,6 +1780,7 @@ metrica.yandex.com
 mfacebook.net
 mhoblysantanderbr.com
 mickyjakey.blogsyte.com
+microad.jp
 mixedreading.com
 mixpo.com
 mms.al.com
@@ -1783,6 +1804,7 @@ moorexx.hopto.org
 mopub.com
 morganj-p-check-hlp.com
 morggy11.ddns.net
+motigo.com
 mowfruit.com
 mp-app.info
 mp-tracker.com
@@ -2015,6 +2037,7 @@ organicpanda1.xyz
 otzo.com
 ourhobby.com
 ourjra52fullexchgm.duckdns.org
+outster.com
 ovalpigs.com
 ovnwislxf.info
 owen6000.hopto.org
@@ -2104,6 +2127,7 @@ photographpan.com
 pietexture.com
 pingma.qq.com
 pjizzy.hopto.org
+planet49.com
 pmi5media.com
 police-pypal.com
 policy-activityaccount.com
@@ -2111,6 +2135,7 @@ policypage-updatestoppedworking.com
 polyicloudfinder.com
 ponystudent.win
 pool0852.hopto.org
+pop6.com
 popmyads.com
 popularenlineaservicios.com
 port.sec.miui.com
@@ -2178,6 +2203,7 @@ rastrear-lphone-id.com
 rationalyze.com
 rbcliveverifications.com
 rbcroyalbank-security.com
+rbnt.org
 rcbconlineupdate.com
 rcyclmnr.com
 rcyclmnrhgntry.com
@@ -2211,6 +2237,7 @@ redirect-report.com
 redmouse1.xyz
 redpeacock1.xyz
 redswan1.xyz
+redtram.com
 redwolf1.xyz
 ref1352d.com
 refuespayment.com
@@ -2277,6 +2304,7 @@ reviewservicelimitedaccountsrv.com
 rewards-litecoin.win
 rfihub.com
 ridingduck.com
+rmgserving.com
 rnyetherrwallet.com
 rnyetlherwallet.com
 robbieadanfo.ddns.net
@@ -2679,6 +2707,7 @@ supportteam-verify.com
 supportweeklyadmin.com
 supporunlockedaccount.com
 suppotaccounthelplog.com
+surf-town.net
 suspciusignin.com
 suspended-facebook-temporarily.com
 suspicious-accountactivty.com
@@ -2694,6 +2723,7 @@ systemverification-apple.com
 talentino.ddns.net
 tangerine-webverifications.com
 tay-sun.ru
+tbn.ru
 tcpidapple-acntcloud.com
 td583.com
 tealium.com
@@ -2715,6 +2745,7 @@ thatmember.com
 theaccountjoined.org
 thelimitedaccount.org
 thescreenroomstore.com
+thesearchagency.net
 theuserlimit.org
 theuserlimite.org
 thirdrespect.com
@@ -2748,6 +2779,7 @@ truckstomatoes.com
 trustkemi.duckdns.org
 trustmordor.pw
 trustx.org
+tudou.com
 tune.com
 twitteraccountverified.online
 twitterfeatures.com
@@ -2756,6 +2788,7 @@ twitterverifiedapplication.com
 uacexchange.us
 uappllee.com
 ucrenkyapi.com
+uimserv.net
 uk-netfilx-membership.com
 uk-paypal.net
 ultraflawlesspop.com
@@ -2886,6 +2919,7 @@ validationrequire.xyz
 validattion-mandatory.xyz
 validattionmandatory.xyz
 validitions-apple-account-service.com
+veeseo.com
 vericationservicetwitter.com
 verif-case-purchase-id-4581-752-495.com
 verif-case-purchase-id-96235-584-862.com
@@ -2980,6 +3014,7 @@ vertifiication-account.com
 verygoodads.com
 vicomi.com
 vidazoo.com
+videostrip.com
 vilynx.com
 vipddos.com
 virgintldgame.com
