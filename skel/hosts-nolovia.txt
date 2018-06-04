@@ -6,18 +6,20 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-02 20:45:32
+# Generated at 2018-06-04 14:33:57
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
 1-myetherwallet.com
 1-myetherwallet.info
+11nux.com
 1323.dvrcam.info
 1329.mypsx.net
 1330.ddnsking.com
 1331.ddnsking.com
 1332.bounceme.net
 1333.hopto.org
+140fire.com
 1588-2040.co.kr
 18846846874646-verify.net
 1990.nflfan.org
@@ -31,6 +33,7 @@
 1xgo.xyz
 2016today.duckdns.org
 2112.bounceme.net
+24counter.com
 25u.com
 2bq.xyz
 2waky.com
@@ -214,6 +217,7 @@ adwords-ppc.org
 affiliates-spinit.com
 afftrack.com
 airconditionerreviews.com
+ak-facebook.com
 ak0gsh40.com
 albacross.com
 alienware-pc.loginto.me
@@ -528,6 +532,7 @@ appls-access-limited.com
 applsaccount-information.net
 applycredit-paypal.com
 appresolution.info
+appround.biz
 apps-account-information.com
 apps-account33.com
 apps-icloud.org
@@ -575,6 +580,7 @@ autoconfirm-refunds.com
 autocount.org
 autoid.com
 avocet.io
+avroom.biz
 awzbijw.com
 axclick.store
 azadify.com
@@ -763,6 +769,7 @@ clicknetwork.com
 clickredirection.com
 clicksgear.com
 clicktale.com
+clicktracking.biz
 clicktrackopt.com
 clickzs.com
 client-accountbilling.com
@@ -1997,6 +2004,7 @@ obi333.ddns.net
 obilosgini.ddns.net
 oclasrv.com
 ocry.com
+offeradvertising.biz
 office365information.space
 office365ow.com
 officebrighty.ddns.net
@@ -2763,6 +2771,7 @@ tosecurecode-appleid.info
 toythieves.com
 tracedesire.com
 trackjs.com
+trafficfactory.biz
 trafficjunky.com
 trafficninjas.co
 transaction-payment07.com
