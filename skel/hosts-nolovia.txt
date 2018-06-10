@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-04 14:33:57
+# Generated at 2018-06-10 15:41:25
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -111,6 +111,7 @@ account-locked-activity.com
 account-locked-serviceed.com
 account-login-icloud-service.com
 account-login.info
+account-logined.org
 account-notification.date
 account-onhold.org
 account-problem.info
@@ -118,6 +119,7 @@ account-problems.info
 account-re.store
 account-recorveryhelps.com
 account-refunds-center.com
+account-requirement.com
 account-resolve-secure-verificationid.com
 account-restore-center.com
 account-secure.org
@@ -127,6 +129,8 @@ account-service-information.com
 account-short.com
 account-update-login.com
 account-user-notice-reminder.com
+account-verfied.online
+account-verfied.org
 account-verification-agreement.info
 account-verifizieren.xyz
 accountcenter.cloud
@@ -144,6 +148,8 @@ accountreview-netflix.com
 accounts-activiity.com
 accounts-appeal.info
 accounts-authentication.info
+accounts-craigslist-log.org
+accounts-craigslist-message.org
 accounts-giogle.info
 accounts-googie.site
 accounts-id.com
@@ -175,6 +181,7 @@ acessomovel.mobi
 acessoonlinedocliente.com
 acmetoy.com
 acount-customer.info
+acount-id.com
 acount-reviiews.com
 acount-update-limited.com
 acounts-appleid.com
@@ -502,6 +509,7 @@ applenar.com
 applenz.com
 appleprovide.com
 applers-id.com
+apples-helper.com
 apples-ids-clouds.com
 applesecure.info
 applesecuremyaccount.com
@@ -651,6 +659,7 @@ blackhills.ddns.net
 blackpanda1.xyz
 blackpeacock1.xyz
 blast.ddns.net
+blockchain-verifeid.info
 blockchainz.ml
 blockedlogin-info.com
 bludomain7.net
@@ -662,6 +671,7 @@ boa-bankingupdate.online
 bodyclick.net
 bofa-accontcheck.com
 bofa-checkings.com
+bofa-linkchecking-onlineteam.com
 bofa-review.com
 bofa-settings-log.com
 boilingbeetle.com
@@ -729,6 +739,7 @@ chase-logbank2.xyz
 chase-logbank3.xyz
 chase-logbank4.xyz
 chase-logbank5.xyz
+chase-unlockid.com
 chatbeacon.io
 check-account-acceess.com
 check-account-acces.com
@@ -1030,6 +1041,7 @@ deals-discounts-codes.com
 decibelinsight.com
 decibelinsight.net
 decisiveducks.com
+deep.bi
 dehaizegroup35.hopto.org
 delightdriving.com
 deliverymodo.com
@@ -1240,6 +1252,7 @@ gcion.com
 gdocs.download
 get-confirmation.com
 get-login.com
+get-refund1.com
 get-verived-account.com
 getjaco.com
 getlytics.com
@@ -1303,6 +1316,7 @@ heavypanda1.xyz
 help-facebook.com
 help-forgot-information.net
 help-forgot-information.org
+help-lnstagramsupport.com
 help-report-center.com
 help-service-center.com
 help-solution-limited.com
@@ -1361,10 +1375,12 @@ icloud-defense.com
 icloud-europe.com
 icloud-find-sms.com
 icloud-for.com
+icloud-gotiphone.com
 icloud-help-unlocked.com
 icloud-iccd-id.com
 icloud-icicid-id.com
 icloud-id.xyz
+icloud-ifgaiphone.com
 icloud-ios-find.com
 icloud-iosv.com
 icloud-iphoneld.com
@@ -1406,12 +1422,14 @@ icloudsite.com
 icloup-yuie.cn
 icluodx.info
 icq-apples.com
+id-acount.com
 id-apple-suporte.com
 id-apple.info
 id-applelocked.com
 id-applerecovery.com
 id-clientupdate.com
 id-confirmation.systems
+id-locked.com
 id-suspensionintlgetaccount.com
 id-unlock-account.com
 id-verifylockedaccount.com
@@ -1426,6 +1444,7 @@ idpaypal-datacenter-recovery.com
 idservice-verify.com
 iforgot-account.info
 iforgot-accounts.info
+iforgot-br.com
 iforgot-iphone-ios.top
 iforgot-notification-reactive.com
 iforgot-service.com
@@ -1675,6 +1694,7 @@ login-checkaccountid.com
 login-com.xyz
 login-confirmaccountlocked.com
 login-icloudservicecenter.com
+login-infos.com
 login-ivpple.com
 login-limitedaccounts.com
 login-me-the-account.com
@@ -1738,6 +1758,7 @@ manage-informationverif.com
 manage-limitation.com
 manage-myaccount.info
 manage-mypayment.com
+manage-orderaccount-appstore.com
 manage-supportservice.com
 managed-forgot-account.com
 manageidapple.com
@@ -1749,6 +1770,7 @@ managenetflxspymentresolv.com
 managepurchase120storesecure-verificationwebappsid.com
 managepurchaseinaccount-service.com
 manager-support-account-security.com
+manages-orderaccount-appstore.com
 manages-paymentsaccounts-supports.com
 manages-purchaseapp-service.com
 manageupdate-accountidunlock.info
@@ -1887,15 +1909,27 @@ mydepositsfunds-online.com
 myebayaccess.com
 myertrherwalletr.com
 myerypto.com
+myethehearwallet.com
+myetheherwallet.com
+myetherawallet.info
 myetherewallet.net
 myetherewallet.top
+myethervellet.com
+myetherwalie.com
 myetherwalleit.info
+myetherwalles.org
 myetherwallet-co.com
+myetherwallet.gifts
 myetherwallet.promo
 myetherwalletb.com
 myetherwalletsjoin.com
+myetherwället.org
 myetheswallet.info
+myethewalle.com
+myethewallel.com
+myetnerwalletr.com
 myetrherwallert.com
+myettherwallett.trade
 myfinance.com
 myfraudtransactionaccount.center
 myftp.info
@@ -1925,6 +1959,8 @@ mytransaction-account-fraudprevention.center
 myuaccname-apple.info
 myuserlimit.org
 mywww.biz
+myyethearwallet.com
+myyetherrwallet.com
 myz.info
 narusnex.info
 natimatica.com
@@ -1953,6 +1989,7 @@ need-attention.xyz
 need-to-validate.xyz
 needtovalidate.xyz
 needvalidationtogolive.xyz
+netfilx-failed-membership.com
 netflix-domain.com
 netflix-mob.com
 netflix-offre.net
@@ -2038,6 +2075,7 @@ opendingweb.us
 optimize-stats.voxmedia.com
 optincollect.com
 optinmonster.com
+orderconfirmation-appleshops.com
 organiccrap.com
 organicladybug1.xyz
 organiclion1.xyz
@@ -2060,6 +2098,7 @@ parafarmaciaabascal.com
 password-appleid.com
 pasword-recovery.com
 patronim.com
+pavpal-me.com
 paxful-logins.com
 payement-support-services.com
 payfone.com
@@ -2118,9 +2157,13 @@ paypalfullservice.com
 paypalhome.com
 paypallj.com
 paypallssjembutsss.net
+paypalme-checking.com
 paypalsecurely.com
+paypinfo.com
+paypintlscr.com
 paypl-direct-resolutioncenter.com
 paypol-securities.biz
+paypupdate.com
 pcanywhere.net
 pdfdocusign.com
 peacepowder.com
@@ -2242,6 +2285,7 @@ redduck1.xyz
 redirect-confirmation.com
 redirect-domainservice.com
 redirect-report.com
+redirect-to-yourcaccount.com
 redmouse1.xyz
 redpeacock1.xyz
 redswan1.xyz
@@ -2328,6 +2372,7 @@ rtbcoverage.com
 rtbengine.com
 rtbstandards.com
 rulerabbit.com
+s-msg-myetherwallet.com
 safe-activity-resume.com
 safe-i.cloud
 safe-summary.com
@@ -2454,6 +2499,7 @@ service-information-updated.com
 service-information-webapps.com
 service-informations.net
 service-paypail.net
+service-paypel-login-new.com
 service-ppl-safe.com
 service-refunds.net
 service-salsa.com
@@ -2471,6 +2517,7 @@ serviceapple-newcontact.com
 serviceapple-secureidserver.com
 servicearea-account-appid.com
 servicecenteraccountlimiteds.com
+serviced-verify-lockeds-accounts.com
 servicefraudwebappssecurr-youraccount.com
 serviceinformation.org
 servicemyaccount-service.com
@@ -2557,6 +2604,7 @@ silvertiger1.xyz
 simplisticnose.com
 sinceresofa.com
 sinslave.damnitjim.xyz
+site2scureinfo.com
 sixth.biz
 skrilln.net
 slimcutmedia.com
@@ -2570,6 +2618,7 @@ smartlook.com
 smlblinds.com
 sms-info-apple.com
 sms-refunds.site
+smssmobilityservices.com
 smyte.com
 snakesort.com
 snapchat-help.com
@@ -2712,6 +2761,7 @@ supports.ltd
 supportserviceaccount-limiteds.net
 supportservicelimitedaccount-admin.net
 supportteam-verify.com
+supportverifieed.com
 supportweeklyadmin.com
 supporunlockedaccount.com
 suppotaccounthelplog.com
@@ -2862,6 +2912,7 @@ update-security-accounts.com
 update-signinactivity.com
 update-your-account-100747078478784309.com
 update-your-account-id1000037709.com
+update-your-payment.org
 updateaccounts-verifications.com
 updatebillinginformation-i.cloud
 updated-recovery-access.com
@@ -2929,6 +2980,7 @@ validattion-mandatory.xyz
 validattionmandatory.xyz
 validitions-apple-account-service.com
 veeseo.com
+vehicle-tax-refunds.org
 vericationservicetwitter.com
 verif-case-purchase-id-4581-752-495.com
 verif-case-purchase-id-96235-584-862.com
@@ -2947,6 +2999,7 @@ verification-appid.online
 verification-auth.com
 verification-center-restore.com
 verification-cl.com
+verification-clients.net
 verification-confirm.net
 verification-locked-account.com
 verification-members.com
@@ -2963,6 +3016,7 @@ verificationaccount-websecuresappid.com
 verificationaccountlocked-checked.com
 verificationicloudsactivity-signin-id.com
 verificationlogin09.com
+verifications-clients.net
 verifications-data.com
 verifications-members.com
 verified-accountemailacces.com
@@ -3045,6 +3099,7 @@ webaccess-limitedmyaccountz.com
 webaccess-limitedmyaccountz.info
 webapps-account.com
 webapps-app-scur.com
+webapps-checking.com
 webapps-configureaccount.com
 webapps-loginscure.com
 webapps-verification-acemna.com
@@ -3129,6 +3184,7 @@ wpconnect.org
 wpserve.org
 wqiwjwwgyz.science
 wusecureaccountsworld.com
+wvw-payipal.com
 ww3-appleid-store.com
 www-appleid-notify.com
 www-desjardins-com.com
@@ -3165,6 +3221,7 @@ xn--faceook-pm3c.com
 xn--iclod-nva.com
 xn--iclou-9ya.com
 xn--iclud-i9a.com
+xn--myeterwallet-o0b.com
 xn--myeterwallt-cm8e02e.com
 xn--myetherallt-pl9elw.com
 xn--myetherwae-bl2ea19d.com
