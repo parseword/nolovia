@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-10 15:41:25
+# Generated at 2018-06-13 18:13:30
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -47,6 +47,7 @@
 4pu.com
 5apple.online
 6ldu6qa.com
+7n86.com
 82o9v830.com
 ACHYNE.PUBLICVM.COM
 a4.tl
@@ -986,6 +987,7 @@ crownclam.com
 crypto-loot.com
 cryptotab.net
 cs6hm.com
+cuberoot.co
 cuentas-seguravsptr-activysinformacion.com
 culturalconvergencemedia.com
 curtaincows.com
