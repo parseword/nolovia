@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-13 18:13:30
+# Generated at 2018-06-18 19:30:31
 0-day.us
 01interac-etransfer-ca.com
 0pe.kr
@@ -2169,6 +2169,7 @@ paypupdate.com
 pcanywhere.net
 pdfdocusign.com
 peacepowder.com
+percalabia.com
 perfectmarket.com
 petwandey.us
 pharhmonk1.hopto.org
@@ -2938,6 +2939,7 @@ ups-webaps.net
 urgentauthrequire.xyz
 urgentauthrequired.xyz
 urldelivery.com
+urnachay.com
 usbktransact.com
 uscert.top
 user-summary-account.com
