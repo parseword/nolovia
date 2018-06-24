@@ -6,9 +6,10 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-22 22:39:13
+# Generated at 2018-06-23 19:40:14
 0-day.us
 01interac-etransfer-ca.com
+0879dbbeb31e0c83d.com
 0pe.kr
 1-myetherwallet.com
 1-myetherwallet.info
@@ -189,6 +190,7 @@ acounts-appleid.com
 activation-account-procced.com
 activation-icloud.com
 active-your-pp.com
+active8ads.com
 activedocelog.us
 activities-report.com
 activity-accountid.com
@@ -197,25 +199,36 @@ actuallysheep.com
 ad2up.com
 ad2upapp.com
 ad4screen.com
+adclickservice.com
 additionarl.bid
 additionarl.racing
+adentifi.com
+adexchangedirect.com
 adform.com
 adform.dk
 adform.net
+adglare.com
+adglare.net
+adhitz.com
 adingo.jp
+adinplay.com
+adjux.com
 adlive.io
 admantx.com
 admin-apple.space
 adnegah.com
 adnegah.ir
 adnegah.net
+adnium.com
 adotmob.com
+adpixo.com
 ads-twitter.com
 adsafeprotected.com
 adsbtrack.com
 adsbtrk.com
 adservices.brandcdn.com
 adstanding.com
+adtrackdirect.com
 advertmention.com
 advertnotices.com
 adwordls-account.site
@@ -588,6 +601,7 @@ authresolveunauthorisedtransaction.com
 autoconfirm-refunds.com
 autocount.org
 autoid.com
+automoc.net
 avocet.io
 avroom.biz
 awzbijw.com
@@ -634,6 +648,7 @@ bidtheorem.com
 bidtillect.com
 bigbird1.xyz
 bigcat1.xyz
+bigdataexchange.com
 bigduck1.xyz
 bigfish1.xyz
 biglion1.xyz
@@ -775,9 +790,11 @@ clcktrk.com
 cleansite.biz
 cleansite.info
 cleansite.us
+click-cpa.net
 clickability.com
 clickhoptk.com
 clicknetwork.com
+clickperformance.net
 clickredirection.com
 clicksgear.com
 clicktale.com
@@ -1331,6 +1348,7 @@ helplimit.net
 hfc195b.com
 hg777hdorotosskot.info
 hilariouszinc.com
+hilltopads.com
 hitcpm.com
 hockeyapp.net
 home-secured-autentic-verifi-account.com
@@ -2195,6 +2213,7 @@ pool0852.hopto.org
 pop6.com
 popmyads.com
 popularenlineaservicios.com
+popxxx.net
 port.sec.miui.com
 port25.biz
 possibleboats.com
@@ -2942,6 +2961,7 @@ upgraderservices.cf
 ups-webaps.net
 urgentauthrequire.xyz
 urgentauthrequired.xyz
+urlads.net
 urldelivery.com
 urnachay.com
 usbktransact.com
