@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-23 19:40:14
+# Generated at 2018-06-24 14:44:55
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -1078,6 +1078,7 @@ detufrgybyapple.com
 dev.null.vg
 dhcp.biz
 differentdesk.com
+dimorphism.stream
 dionbeno.me
 direct-verified.com
 directnative.com
