@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-24 20:53:37
+# Generated at 2018-06-25 12:01:39
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -2845,6 +2845,7 @@ theaccountjoined.org
 thelimitedaccount.org
 thescreenroomstore.com
 thesearchagency.net
+thesportscenter.club
 theuserlimit.org
 theuserlimite.org
 thirdrespect.com
