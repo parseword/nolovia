@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-24 19:17:56
+# Generated at 2018-06-24 20:53:37
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -237,6 +237,7 @@ adwords-online.org
 adwords-ppc.org
 affiliates-spinit.com
 afftrack.com
+aggregateiq.com
 airconditionerreviews.com
 ak-facebook.com
 ak0gsh40.com
@@ -621,6 +622,7 @@ beamkite.com
 beautifulelephant1.xyz
 bebi.com
 bedtellect.com
+begemotventures.com
 beget.tech
 beijingvampires.com
 benx234.ddns.net
@@ -712,6 +714,8 @@ bustbuy.com
 cad-secure-returns.top
 callibri.ru
 calmfoot.com
+cambridgeanalytica.net
+cambridgeanalytica.org
 cancel-paymentorderpaypal-check.com
 canceledpayment.com
 cancelitationebaytransaction.com
@@ -812,6 +816,7 @@ clmbtech.com
 cloud-checkyouraccount.com
 cloud-id-recover.com
 cloud-wp.org
+cloudcommerce.com
 cloudflare.solutions
 clrstm.com
 code203.ddns.net
@@ -1039,6 +1044,7 @@ data-validmember.info
 databerries.com
 datacenter-customer.com
 datacreated-updates.info
+datapropria.com
 datasecure-member.info
 dataupdate-service.info
 datawrkz.com
@@ -1271,6 +1277,7 @@ ganzerri.me
 gapps.site
 gcion.com
 gdocs.download
+genus.ai
 get-confirmation.com
 get-login.com
 get-refund1.com
@@ -2119,6 +2126,7 @@ palaccountsubmit.com
 palletbush.hopto.org
 panini101.chickenkiller.com
 parafarmaciaabascal.com
+parscale.com
 password-appleid.com
 pasword-recovery.com
 patronim.com
@@ -2196,6 +2204,9 @@ perfectmarket.com
 petwandey.us
 pharhmonk1.hopto.org
 phererol12.ddns.net
+philometrics.com
+philometrics.net
+philometrics.org
 phone2347.ddns.net
 phonebillsrefund.com
 phonefix.guru
@@ -2425,6 +2436,8 @@ scar231.zapto.org
 scarabresearch.com
 scarcestream.com
 scintillatingspace.com
+sclgroup.cc
+sclinsight.com
 score-youraccount.info
 scotia-online-banking.com
 scotiabankdelperu.com
@@ -3112,6 +3125,7 @@ vilynx.com
 vipddos.com
 virgintldgame.com
 visasecureverification.info
+vizsense.com
 vizvaz.com
 vodafone-verificatie.com
 voicevegetable.com
@@ -3193,6 +3207,7 @@ wellsfargoidc.com
 wf-jaserviceargo-01.com
 wha.la
 whereareyou.pro
+whitecanvasgroup.com
 whitekoala1.xyz
 wikaba.com
 wikaba.org
