@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-06-26 15:44:29
+# Generated at 2018-06-29 17:21:22
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -222,32 +222,41 @@ adnegah.net
 adnium.com
 adotmob.com
 adpixo.com
+adplan-ds.com
 ads-twitter.com
 adsafeprotected.com
+adsame.com
 adsbtrack.com
 adsbtrk.com
 adservices.brandcdn.com
 adstanding.com
+adtdp.com
 adtrackdirect.com
 advertmention.com
 advertnotices.com
+advidi.com
 adwordls-account.site
 adwords-login.com
 adwords-online.org
 adwords-ppc.org
 affiliates-spinit.com
 afftrack.com
+afftrck.com
 aggregateiq.com
 airconditionerreviews.com
 ak-facebook.com
 ak0gsh40.com
+aladdin-iulius.com
 albacross.com
+alcmpn.com
+algovid.com
 alienware-pc.loginto.me
 alienware.ddns.net
 all-ransomware.info
 alluorine.info
 almostmy.com
 already-apple.com
+altitude-arena.com
 amarachi.hopto.org
 amazoapp.com
 amazoappreview.com
@@ -269,6 +278,7 @@ andspurs.com
 angsrvr.com
 answerscloud.com
 antistrophebail.com
+antivirus-scanner.com
 antivirus-upgrade.com
 anxiousapples.com
 api-profit.com
@@ -585,6 +595,7 @@ assist-service.info
 associated-account-purchase.com
 attention-required-error-found.xyz
 attention-required.xyz
+audienceamplify.com
 aunth-undisable-verification.info
 auth-login-verif-online.com
 authenticate-updates.com
@@ -617,6 +628,7 @@ banksampahbaginda.com
 barometric.com
 baskettexture.com
 bawdybeast.com
+bcnmonetize.com
 beamincrease.com
 beamkite.com
 beautifulelephant1.xyz
@@ -700,6 +712,7 @@ boredcrown.com
 bosshugss.me
 brainpad.co.jp
 brassrule.com
+bravo-dog.com
 braze.com
 brightfunnel.com
 broadboundary.com
@@ -729,6 +742,7 @@ cartolarepresentacoes.com.br
 cashiopeia-updates.com
 castrokolaz.top
 castup.net
+cato-felix.com
 cavanic9.net
 cedato.com
 cenb.gdn
@@ -1150,6 +1164,7 @@ e-1interac.com
 e-onlinegirisim.com
 e-transfer11-interac.com
 e1-interac.com
+echo-cat.com
 economicoutlook.net
 edigitalsurvey.com
 edns.biz
@@ -1272,6 +1287,7 @@ fuzzyflavor.com
 g-cloud.pro
 g-cloud.win
 ga87z2o.com
+gall-tarquin.com
 gammae.com
 ganti-nama-facebook.com
 ganzerri.me
@@ -1500,6 +1516,7 @@ incrediblesugar.com
 incsupports.com
 indexapps-summary.info
 indexexchange.com
+india-abc.com
 indominestuff33.hopto.org
 ineed-location.com
 infinitads.com
@@ -2131,6 +2148,7 @@ parscale.com
 password-appleid.com
 pasword-recovery.com
 patronim.com
+paula-secundinus.com
 pavpal-me.com
 paxful-logins.com
 payement-support-services.com
@@ -2282,6 +2300,8 @@ qhigh.com
 qpoe.com
 quaintcan.com
 quantummetric.com
+quebec-bin.com
+quebec-lea.com
 quickintertac-paymentrewards.com
 quicksandear.com
 r00tshit.ddns.net
@@ -2604,6 +2624,7 @@ sicherheits-abgleich.biz
 sicherheits-abgleich.com
 sicherheits-abgleich.org
 sidney212.ddns.net
+sierra-boa.com
 sign-fmicloud.com
 sign-in-account-apple-lockeds.com
 sign-in-accounts.com
