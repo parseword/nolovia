@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-07-02 21:29:26
+# Generated at 2018-07-03 06:51:50
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -283,6 +283,7 @@ antivirus-upgrade.com
 anxiousapples.com
 api-profit.com
 api.e-toys.cn
+api.userstyles.org
 apk-bancodobrasil.com
 app-bancobrasil.com
 app-bancodobrasil.com
