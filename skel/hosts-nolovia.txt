@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-07-03 06:51:50
+# Generated at 2018-07-04 11:30:41
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -635,6 +635,7 @@ beamkite.com
 beautifulelephant1.xyz
 bebi.com
 bedtellect.com
+beemray.com
 begemotventures.com
 beget.tech
 beijingvampires.com
