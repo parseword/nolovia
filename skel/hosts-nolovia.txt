@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-07-05 09:51:59
+# Generated at 2018-07-05 18:34:21
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -51,6 +51,7 @@
 7n86.com
 82o9v830.com
 ACHYNE.PUBLICVM.COM
+Rvfrm2008.com
 a4.tl
 abandonedclover.com
 ablsrv.net
@@ -240,6 +241,21 @@ adwords-login.com
 adwords-online.org
 adwords-ppc.org
 affiliates-spinit.com
+affrh2011.com
+affrh2012.com
+affrh2013.com
+affrh2014.com
+affrh2015.com
+affrh2016.com
+affrh2017.com
+affrh2018.com
+affrh2019.com
+affrh2020.com
+affrh2021.com
+affrh2022.com
+affrh2023.com
+affrh2024.com
+affrh2025.com
 afftrack.com
 afftrck.com
 aggregateiq.com
@@ -828,6 +844,34 @@ clientmediaserver.com
 clientspaymentservicers-nettflixdataresolvs.com
 clintareasinginservicelimtednpphome-indexhtml.com
 cliqz.com
+clk1002.com
+clk1003.com
+clk1004.com
+clk1005.com
+clk1006.com
+clk1007.com
+clk1008.com
+clk1009.com
+clk1010.com
+clk1011.com
+clk1012.com
+clk1013.com
+clk1014.com
+clk1015.com
+clk1016.com
+clk1017.com
+clk1018.com
+clk1019.com
+clk1020.com
+clkcln.com
+clkfeed1002.com
+clkfeed1003.com
+clkfeed1004.com
+clkfeed1005.com
+clkfeed1006.com
+clkfeed1008.com
+clkfeed1009.com
+clklab.com
 clmbtech.com
 cloud-checkyouraccount.com
 cloud-id-recover.com
@@ -1182,6 +1226,8 @@ emv3.com
 emxdgt.com
 en-verify.com
 eng-servicesonlineactivity.com
+engageads.com
+engageads.xml.ak-is.net
 eni-procurement.info
 enmask.com
 enterworldofupgradingall.club
@@ -1272,10 +1318,12 @@ foresee.com
 formalyzer.com
 formisimo.com
 forultimateandbest4upgradepc.download
+forwrdnow.com
 fraddation-pyments-acounting.com
 fraud-loginactivity.com
 freeddns.com
 freefacebook.xyz
+freehelpline.info
 freetcp.com
 freewww.biz
 freewww.info
@@ -1584,6 +1632,7 @@ intrinsicplatform.com
 intrinsicrtb.com
 intrinsicteam.com
 intrinzic.com
+intvide1.com
 invoice-appidreceivefraud.com
 ios-accountslocked.org
 ios104-iphoneid.com
@@ -1946,6 +1995,7 @@ myapple-locked-account-resolve-service-webrecovery.com
 myapple-verification-identification.com
 myappleid-verifications.com
 myappleipone.org
+mybestmv.com
 mybitcoinmastercard.com
 mycarddetailsverify.com
 mycrypto.company
@@ -2284,6 +2334,7 @@ printscreens.info
 priv-my-autoservice.com
 privacyaccountlimited.com
 profitrumour.com
+proofpark.com
 protect-account-suspended.com
 protect-account-update.net
 protect-appleid.com
@@ -2321,6 +2372,15 @@ rbnt.org
 rcbconlineupdate.com
 rcyclmnr.com
 rcyclmnrhgntry.com
+rdsa2011.com
+rdsa2012.com
+rdsa2013.com
+rdsa2014.com
+rdsa2015.com
+rdsa2016.com
+rdsa2017.com
+rdsa2018.com
+rdsa2019.com
 readgoldfish.com
 realshieldlinked.com
 reason-locked-id1.info
@@ -2410,6 +2470,7 @@ reunlock-services-accountapple.com
 reupload-security-update-uewe.com
 revalidatelicence.xyz
 revealmobile.com
+revenuehits.com
 revenuepervisit.com
 reversebaglanti.com
 revieu-account.space
@@ -2435,6 +2496,17 @@ rtbcoverage.com
 rtbengine.com
 rtbstandards.com
 rulerabbit.com
+runtnc.net
+rvfrm2002.com
+rvfrm2003.com
+rvfrm2004.com
+rvfrm2005.com
+rvfrm2006.com
+rvfrm2007.com
+rvfrm2008.com
+rvfrm2009.com
+rvfrm2010.com
+rvfrm2011.com
 s-msg-myetherwallet.com
 safe-activity-resume.com
 safe-i.cloud
@@ -2730,6 +2802,7 @@ sprinklr.com
 sqrve-online.net
 squeamishscarecrow.com
 squirly.info
+srv4pub.com
 ssl-appleidverification.com
 ssl443.org
 sslnewupdatess2017.com
