@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-07-05 19:34:51
+# Generated at 2018-07-06 16:44:06
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -289,6 +289,7 @@ amex2018.com
 amex2019.com
 amexopesx.com
 analytics-google.net
+analytics.anvato.net
 analytics.blue
 analytics.tout.com
 andspurs.com
@@ -2310,6 +2311,7 @@ phonefix.guru
 photographpan.com
 pietexture.com
 pingma.qq.com
+pixel.archive.is
 pjizzy.hopto.org
 planet49.com
 pmi5media.com
