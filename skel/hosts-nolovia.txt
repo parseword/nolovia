@@ -6,8 +6,9 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-07-06 19:56:50
+# Generated at 2018-07-07 14:38:58
 0-day.us
+000webhostapp.com
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
 0pe.kr
@@ -272,6 +273,7 @@ all-ransomware.info
 alluorine.info
 almostmy.com
 already-apple.com
+altervista.org
 altitude-arena.com
 amarachi.hopto.org
 amazoapp.com
@@ -1660,6 +1662,7 @@ iosa-icloudweb.info
 iownyour.biz
 iownyour.org
 ip-appleid.com
+ip-info.ff.avast.com
 ip.taobao.com
 ipcypral-revused.com
 iphone-app.top
@@ -2071,6 +2074,7 @@ myicloud-apple-account-verify.com
 myicloud-id.com
 myid-iphone.net
 myitunes-ar.com
+myjino.ru
 mylftv.com
 mymom.info
 mynativeplatform.com
@@ -2555,6 +2559,7 @@ santanderct.com
 santanderma.net
 santanderms.net
 santanderrs.net
+saqibsiddiqui.com
 saspreview.com
 savagtolldoc.us
 saysidewalk.com
