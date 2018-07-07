@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-07-06 16:44:06
+# Generated at 2018-07-06 19:56:50
 0-day.us
 01interac-etransfer-ca.com
 0879dbbeb31e0c83d.com
@@ -1363,6 +1363,8 @@ getjaco.com
 getlytics.com
 getsitecontrol.com
 gettrials.com
+ghostery-collector-115893389.us-east-1.elb.amazonaws.com
+ghostery-collector.ghostery.com
 ghostmoney1.hopto.org
 ghostmoney2.ddns.net
 ghostmoney3.dnsdojo.com
@@ -1563,6 +1565,7 @@ iforgot-iphone-ios.top
 iforgot-notification-reactive.com
 iforgot-service.com
 iforgott-apple.com
+ifydnun.com
 igcc-suporte.com
 ihelp-accounserviceonline-login.com
 ihelp-intunlcked-tunes-bin-id.com
