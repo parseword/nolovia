@@ -21,6 +21,7 @@ anondns.net
 boxip.net
 ddns.net
 duckdns.org
+for-our.info
 free.fr
 eu.org
 hopto.org
