@@ -42,8 +42,10 @@ if (!file_exists('./config.php')) {
 }
 //Warn if the distribution config is newer than the local one
 if ((int) @filemtime('./config.php') < filemtime('./config.php-dist')) {
-    console_message('NOTICE: php.config-dist is newer than your config.php. '
-        . 'Please check for new settings to ensure proper operation.');
+    console_message('NOTICE: php.config-dist is newer than your config.php.');
+    console_message('NOTICE: Please check for new settings to ensure proper operation.');
+    console_message('NOTICE: You can view the most recent configuration changes at:');
+    console_message('NOTICE: https://github.com/parseword/nolovia/commits/master/config.php-dist');
 }
 require_once('./config.php');
 
