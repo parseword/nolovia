@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-07-14 10:57:59
+# Generated at 2018-07-14 21:54:30
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1797,6 +1797,7 @@ limitgdawe.com
 limitted-account.com
 limpingline.com
 linknetwork.com
+linkslot.ru
 linodepower.com
 lisasmithpypl.com
 lizardslaugh.com
@@ -2648,6 +2649,7 @@ selfmademan2.ddns.net
 sellclassics.com
 sendsmtp.com
 sentry.io
+seo-fast.ru
 seoconsultants.org
 separatesilver.com
 serach-icloud.com
@@ -3361,6 +3363,7 @@ wixsite.com
 wklimited.com
 wlespuld.me
 wlespulsd1.me
+wmrfast.com
 wongchin11.ddns.net
 workstation-spartan.ddns.net
 wowaskopoq.top
