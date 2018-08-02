@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-07-18 18:55:51
+# Generated at 2018-08-01 23:02:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -183,6 +183,7 @@ aceptandverify.com
 acessocliente.net
 acessomovel.mobi
 acessoonlinedocliente.com
+acity-lawfirm.com
 acmetoy.com
 acount-customer.info
 acount-id.com
@@ -291,12 +292,14 @@ americanunfinished.com
 amex2018.com
 amex2019.com
 amexopesx.com
+amhs.club
 analytics-google.net
 analytics.anvato.net
 analytics.blue
 analytics.tout.com
 andspurs.com
 angsrvr.com
+anselbakery.com
 answerscloud.com
 antistrophebail.com
 antivirus-scanner.com
@@ -605,6 +608,7 @@ appstore-unlockservice.com
 appstores-icloud.com
 apptunes-appleid.info
 aprode.bit
+apvo.club
 ar-micuentaapple.com
 argyresthia.com
 artwell8.hopto.org
@@ -650,6 +654,7 @@ banksampahbaginda.com
 barometric.com
 baskettexture.com
 bawdybeast.com
+bcleaningservice.com
 bcnmonetize.com
 beamincrease.com
 beamkite.com
@@ -702,6 +707,7 @@ bills-access9980723124-barokahin.com
 bin-updateservice.org
 binance-logins.net
 binanct.com
+bipovnerlvd.com
 bitcoin-transaction-accelerator.website
 bitreex.com
 bitrex.partners
@@ -715,11 +721,14 @@ blast.ddns.net
 blockchain-verifeid.info
 blockchainz.ml
 blockedlogin-info.com
+blopsadmvdrl.com
+blopsdmvdrl.com
 bludomain7.net
 blueconic.com
 bluegorilla1.xyz
 bm-verification.com
 bn-multired1.com
+bnrnboerxce.com
 boa-bankingupdate.online
 bodyclick.net
 bofa-accontcheck.com
@@ -747,6 +756,7 @@ buscar-id-icloud.com
 buscar.cloud
 buscarmiphone.com
 bustbuy.com
+bwuk.club
 cad-secure-returns.top
 callibri.ru
 calmfoot.com
@@ -767,6 +777,8 @@ castrokolaz.top
 castup.net
 cato-felix.com
 cavanic9.net
+cdn-googleapi.com
+cdn-googleservice.com
 cedato.com
 cenb.gdn
 center-cnt.info
@@ -798,6 +810,7 @@ chase-logbank4.xyz
 chase-logbank5.xyz
 chase-unlockid.com
 chatbeacon.io
+chatterbuzz-media.com
 check-account-acceess.com
 check-account-acces.com
 check-account-now.com
@@ -825,6 +838,7 @@ citrix-online.com
 citrix-online.xyz
 citrix-software.com
 cjpufffy.hopto.org
+cjsanandreas.com
 claim-policyupdate.com
 classifieds2000.com
 clcktrk.com
@@ -1149,6 +1163,7 @@ details-resolution-access.com
 details-update-resolutions.com
 detufrgybyapple.com
 dev.null.vg
+dewifal.com
 dhcp.biz
 differentdesk.com
 digi-cert.org
@@ -1199,6 +1214,7 @@ dragzebra.com
 dropped-clicks.com
 drossel.me
 dsmtp.com
+dsud.com
 dt00.net
 dubaiexchange.dynu.net
 dumb1.com
@@ -1245,6 +1261,7 @@ error-detected-need-attention.xyz
 error-detected.com
 es-webapps.com
 esmtp.biz
+essentialetimes.com
 essztednsbk.ddns.net
 et-etransfer-interact-trusted.com
 et-interac-etransfer-payment.com
@@ -1307,7 +1324,11 @@ findni-iphone.net
 findyouriphones.com
 firm-intl.com
 firsatziraatdesizinlle.com
+firsthotelgroup.com
+firstprolvdrec.com
 firststep-login.com
+fisrdteditionps.com
+fisrteditionps.com
 fisrtinlogin.com
 fkksjobnn43.org
 flavordecision.com
@@ -1358,6 +1379,7 @@ ganzerri.me
 gapps.site
 gcion.com
 gdocs.download
+ge-stion.com
 genus.ai
 get-confirmation.com
 get-login.com
@@ -1382,6 +1404,7 @@ gmail-service.online
 gmaile.org
 go2click.org
 golangwq.info
+goldman-travel.com
 goodjob88.ignorelist.com
 goodleaccounts.info
 googlecloud.su
@@ -1444,6 +1467,8 @@ hitcpm.com
 hockeyapp.net
 home-secured-autentic-verifi-account.com
 home-update.net
+hoplessinple.com
+hoplessinples.com
 hostingcloud.accountant
 hostingcloud.bid
 hostingcloud.date
@@ -1689,6 +1714,7 @@ issue-access.com
 istomembersproduct.com
 itemdb.com
 itsaol.com
+itstravel-ekb.ru
 itumobig.ddns.net
 itunes-account-recover.com
 itunes-been.com
@@ -1705,6 +1731,7 @@ j-p-morgan-check-onli.com
 j93557g.com
 jackboy7204.zapto.org
 jaybrizzy.gotdns.ch
+jblz.net
 jbpreshandes5gm1906.duckdns.org
 jdocfrez.us
 jeffe231.ddns.net
@@ -1716,6 +1743,7 @@ jhomeland.ddns.net
 jkub.com
 joaffs.com
 johnevan227.ddns.net
+josephevinchi.com
 jp-appsy-account-lockedd.com
 jpar333.me
 jqcdn.download
@@ -1734,7 +1762,9 @@ jshosting.win
 jsoktin.sytes.net
 jump4geo.com
 jungleheart.com
+just-easy-travel.com
 justdied.com
+juste-travel.com
 justvalidate.xyz
 justvalidateit.xyz
 justyjohnxplodes.ddns.net
@@ -1748,6 +1778,8 @@ kenxx.ddns.net
 ketdocwel.us
 kingdon.dynu.net
 kinoprofi.hhos.ru
+kiprovol.com
+kjke.pw
 klantenservice-inlogin.pro
 korea-tax.info
 krnwhyvq.info
@@ -1945,7 +1977,9 @@ metric.makemytrip.com
 metrica.yandex.com
 mfacebook.net
 mhoblysantanderbr.com
+michigan-construction.com
 mickyjakey.blogsyte.com
+micro-earth.com
 microad.jp
 mixedreading.com
 mixpo.com
@@ -1964,8 +1998,10 @@ mocdoctest.us
 money-lnteractfunds.com
 moneyghost.ddns.net
 moneyhome.biz
+moneyma-r.com
 mookie1.com
 moomeeo.com
+moopisndvdvr.com
 moorexx.hopto.org
 mopub.com
 morganj-p-check-hlp.com
@@ -2122,6 +2158,7 @@ nativestandards.com
 nativka.ru
 navistone.com
 near-located.com
+neartsay.com
 necessary-service.info
 need-attention-error-detected.xyz
 need-attention.xyz
@@ -2144,6 +2181,7 @@ newpayment-mynetflix.com
 news-mitteilung.online
 newsfacebook24h.com
 newsmaxfeednetwork.com
+newuniquesolutions.com
 nexage.com
 next-verifty-account.com
 ngkciwmnq.info
@@ -2171,6 +2209,7 @@ ns1.name
 ns2.name
 ns3.name
 nssp.com
+ntlw.net
 ntvk1.ru
 nullstack.co
 nvewpvnid.info
@@ -2215,6 +2254,7 @@ optimize-stats.voxmedia.com
 optincollect.com
 optinmonster.com
 orderconfirmation-appleshops.com
+orfn.com
 organiccrap.com
 organicladybug1.xyz
 organiclion1.xyz
@@ -2234,6 +2274,7 @@ palaccountsubmit.com
 palletbush.hopto.org
 panini101.chickenkiller.com
 parafarmaciaabascal.com
+park-travels.com
 parscale.com
 password-appleid.com
 pasword-recovery.com
@@ -2322,10 +2363,13 @@ phonebillsrefund.com
 phonefix.guru
 photographpan.com
 pietexture.com
+pinewood-financial.com
 pingma.qq.com
 pixel.archive.is
 pjizzy.hopto.org
+pjpi.com
 planet49.com
+plusmarketingagency.com
 pmi5media.com
 police-pypal.com
 policy-activityaccount.com
@@ -2379,6 +2423,7 @@ protect-account-suspended.com
 protect-account-update.net
 protect-appleid.com
 provideplant.com
+provnkfexxw.com
 proxydns.com
 ps-webapps.com
 pub2srv.com
@@ -2517,6 +2562,7 @@ revieu-account.space
 review-dispute-payment.com
 reviewaccountlogin.com
 reviewservicelimitedaccountsrv.com
+revital-travel.com
 rewards-litecoin.win
 rfihub.com
 ridingduck.com
@@ -2547,6 +2593,7 @@ rvfrm2008.com
 rvfrm2009.com
 rvfrm2010.com
 rvfrm2011.com
+rzzc.pw
 s-msg-myetherwallet.com
 safe-activity-resume.com
 safe-i.cloud
@@ -2782,6 +2829,8 @@ signinsecured-paypal-comaccs-payverify29038-resolution9910.com
 signinwebappsresolvehight.info
 sill.no-ip.biz
 silvertiger1.xyz
+simpelkocsn.com
+simplewovmde.com
 simplisticnose.com
 sinceresofa.com
 sinslave.damnitjim.xyz
@@ -3010,6 +3059,7 @@ trafficjunky.com
 trafficninjas.co
 transaction-payment07.com
 transaction-secure5.com
+treasury-government.com
 tremorhub.com
 trickip.net
 trickip.org
@@ -3019,6 +3069,8 @@ tritetongue.com
 trkn.us
 trollitrancessions.net
 truckstomatoes.com
+true-deals.com
+trustbankinc.com
 trustkemi.duckdns.org
 trustmordor.pw
 trustx.org
@@ -3124,6 +3176,7 @@ urldelivery.com
 urnachay.com
 usbktransact.com
 uscert.top
+usdepartmentofrevenue.com
 user-summary-account.com
 useraccountverifications-appleid.com
 userlimit.store
@@ -3272,6 +3325,7 @@ vizsense.com
 vizvaz.com
 vodafone-verificatie.com
 voicevegetable.com
+voievnenibrinw.com
 volume-login-key-349388231231291.ru
 vpptechnologies.com
 vyperps.no-ip.biz
@@ -3342,6 +3396,7 @@ webvalidation.xyz
 webvalidationneeded.xyz
 webvalidationrequire.xyz
 webvalidationrequired.xyz
+wedogreatpurchases.com
 weeb-icloud.top
 wehaveupdate-policypageserv.com
 wellsfargo-config.xyz
@@ -3366,6 +3421,7 @@ wklimited.com
 wlespuld.me
 wlespulsd1.me
 wmrfast.com
+wnzg.us
 wongchin11.ddns.net
 workstation-spartan.ddns.net
 wowaskopoq.top
@@ -3479,6 +3535,7 @@ ziraatbank26.com
 ziraatbanklahizmetler.com
 ziraatbankyeniinternetsubemiz.com
 ziraatintbankasi.com
+zrst.com
 zyns.com
 zz.am
 zzux.com
