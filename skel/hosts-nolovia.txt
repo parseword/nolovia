@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-08-06 14:23:29
+# Generated at 2018-08-06 15:20:50
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1153,6 +1153,7 @@ deep.bi
 dehaizegroup35.hopto.org
 delightdriving.com
 deliverymodo.com
+delta-search.com
 denizbank-esube.com
 denizibankasi.com
 departapp.com
@@ -1842,6 +1843,7 @@ lnterac-funds.com
 lnterac-secure.org
 lnteract-rewards.com
 loading-apple.com
+loadingpages.info
 localiser-icloud.info
 localize-icloud.com
 localytics.com
@@ -3048,6 +3050,7 @@ thirdrespect.com
 throattrees.com
 ticklishpanda1.xyz
 tidytrail.com
+tika-search.com
 timesink.com
 tinybear1.xyz
 tiqcdn.com
