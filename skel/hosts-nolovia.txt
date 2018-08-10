@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-08-09 19:41:42
+# Generated at 2018-08-10 12:56:46
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3103,6 +3103,8 @@ unauthorize-account-signin.com
 unblocked-account.com
 unblocked-account.net
 unblocker.bounceme.net
+unbounce.com
+unbouncepages.com
 unexpect-login.com
 universalcookie.com
 unknowjbireestagm.duckdns.org
