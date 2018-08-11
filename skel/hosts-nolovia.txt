@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-08-10 12:56:46
+# Generated at 2018-08-11 13:31:03
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1420,6 +1420,7 @@ goooigle.com
 goquc.com
 gorgeousground.com
 got-game.org
+gotoip55.com
 gov-secure.co.uk
 govsecure.co.uk
 gr8domain.biz
