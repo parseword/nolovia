@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-08-11 13:31:03
+# Generated at 2018-08-12 15:13:54
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2424,6 +2424,7 @@ prestoris.com
 prevent-limitation.com
 prfdesk.pro
 prince.hackermind.info
+printertender.be
 printscreens.info
 priv-my-autoservice.com
 privacyaccountlimited.com
