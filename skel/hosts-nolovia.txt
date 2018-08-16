@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-08-15 12:41:30
+# Generated at 2018-08-15 20:50:19
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1061,6 +1061,7 @@ confirmtransaction.com
 confirmyourcontacts.com
 confrimation-account.com
 confrimation-limited.com
+connectad.io
 consciouscabbage.com
 contact-securemyaccount.com
 contact-verify-center.com
@@ -1446,6 +1447,7 @@ guvencingiller.com
 gw1001099.chickenkiller.com
 gw1001099.duckdns.org
 gypsypy.duckdns.org
+h-bid.com
 h552terriddows.com
 h78xb.pw
 hajimusa.ddns.net
