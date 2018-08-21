@@ -26,7 +26,7 @@
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * Spammer Slapper at http://spammerslapper.com/
  * Vetyt Yhonay at https://github.com/Yhonay/antipopads/
- * ZeroDot1 at https://zerodot1.github.io/CoinBlockerLists/
+ * ZeroDot1 at https://zerodot1.gitlab.io/CoinBlockerListsWeb/
  */
 
 require_once('./model/ResolverConfiguration.php');
@@ -190,7 +190,7 @@ $serverLists[] = $sl;
 
 $sl = new ServerList('CoinBlockerList from ZeroDot1');
 $sl->setFilePath('./data/hosts-coinblocker.txt');
-$sl->setUri('https://raw.githubusercontent.com/ZeroDot1/CoinBlockerLists/master/list.txt');
+$sl->setUri('https://gitlab.com/ZeroDot1/CoinBlockerLists/raw/master/list.txt');
 $sl->setMinimumExpectedBytes(2048);
 $sl->setValidationText('bitcoin');
 $serverLists[] = $sl;
