@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-08-22 16:46:55
+# Generated at 2018-08-25 18:50:23
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3195,6 +3195,7 @@ urldelivery.com
 urnachay.com
 usbktransact.com
 uscert.top
+uscourtsgov.com
 usdepartmentofrevenue.com
 user-summary-account.com
 useraccountverifications-appleid.com
