@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-08-25 18:50:23
+# Generated at 2018-09-02 18:26:38
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1071,6 +1071,7 @@ contopaypal.info
 contribusource.com
 controlaccounticloud.com
 controlx.ddns.net
+convertro.com
 cooleremail.com
 copperchickens.com
 copycarpenter.com
@@ -1154,6 +1155,7 @@ decibelinsight.com
 decibelinsight.net
 decisiveducks.com
 deep.bi
+deepintent.com
 dehaizegroup35.hopto.org
 delightdriving.com
 deliverymodo.com
@@ -1691,6 +1693,7 @@ intrinsicrtb.com
 intrinsicteam.com
 intrinzic.com
 intvide1.com
+invibes.com
 invoice-appidreceivefraud.com
 ios-accountslocked.org
 ios104-iphoneid.com
@@ -2241,6 +2244,7 @@ onedumb.com
 onesignal.com
 onevanillachecker.com
 oneyservics.com
+onfocus.io
 onion.dog
 onion.guide
 onion.link
@@ -3093,6 +3097,7 @@ trustmordor.pw
 trustx.org
 tudou.com
 tune.com
+tvsquared.com
 twitteraccountverified.online
 twitterfeatures.com
 twitterredeirect.com
@@ -3350,6 +3355,7 @@ volume-login-key-349388231231291.ru
 vpptechnologies.com
 vyperps.no-ip.biz
 wa-solutation-limited.com
+walkme.com
 wallstsxer.hopto.org
 warraningalert.xyz
 wateryvan.com
@@ -3475,6 +3481,7 @@ wwwacessocooopnore.com
 wwwcrediplanacesso.com
 wwwhost.biz
 wwwwmobisantander.com
+wywy.com
 x24hr.com
 xi-myetherwallet-12z.com
 xiti.com
