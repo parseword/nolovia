@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-02 18:26:38
+# Generated at 2018-09-03 19:49:43
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -920,6 +920,7 @@ com-actions-id.info
 com-appleid-apple-service-client.com
 com-appleid.com
 com-appleinc.com
+com-appletracker.com
 com-appsdoi.net
 com-appsdoi.org
 com-aspx1808.com
