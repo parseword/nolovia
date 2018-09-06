@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-03 19:49:43
+# Generated at 2018-09-06 18:25:44
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1216,6 +1216,7 @@ donaldroberts2014.duckdns.org
 dongabby.hopto.org
 donmark22.myddns.rocks
 donsea.hopto.org
+dontneedcoffee.gq
 doomnooaxc.top
 doubleverify.com
 doubtfulrainstorm.com
@@ -1312,6 +1313,7 @@ feacebook-login.win
 fetch.duckdns.org
 fidzup.com
 filmcoffee.win
+finalcountdown.gq
 find-7.info
 find-iphone-app-apple.com
 find-iphone-inc.com
@@ -1801,6 +1803,7 @@ kro.kr
 ku6.com
 kurtangle083.publicvm.com
 laappleservee.com
+ladcbteihg.gq
 lagos042.ddns.net
 larryaffiliates.com
 lashy.ddns.net
@@ -2152,6 +2155,7 @@ mywww.biz
 myyethearwallet.com
 myyetherrwallet.com
 myz.info
+naosecgomosec.gq
 narusnex.info
 natimatica.com
 nativein-ad.com
