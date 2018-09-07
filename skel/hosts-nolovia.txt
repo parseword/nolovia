@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-06 18:25:44
+# Generated at 2018-09-06 21:05:23
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -23,6 +23,7 @@
 1333.hopto.org
 140fire.com
 1588-2040.co.kr
+15gifts.com
 18846846874646-verify.net
 1990.nflfan.org
 1dumb.com
@@ -199,10 +200,13 @@ activities-report.com
 activity-accountid.com
 activityloginpurchase.com
 actuallysheep.com
+acxiomapac.com
 ad2up.com
 ad2upapp.com
 ad4screen.com
+adapex.io
 adclickservice.com
+addefend.com
 additionarl.bid
 additionarl.racing
 adentifi.com
@@ -226,7 +230,9 @@ adnium.com
 adotmob.com
 adpixo.com
 adplan-ds.com
+adrizer.com
 ads-twitter.com
+ads.simonandschuster.com
 adsafeprotected.com
 adsame.com
 adsbtrack.com
@@ -666,6 +672,7 @@ beemray.com
 begemotventures.com
 beget.tech
 beijingvampires.com
+bemitho.com
 benx234.ddns.net
 beoplr66bxcgs.net
 bestsecuritysearch.com
@@ -1064,6 +1071,7 @@ confrimation-account.com
 confrimation-limited.com
 connectad.io
 consciouscabbage.com
+consensu.org
 contact-securemyaccount.com
 contact-verify-center.com
 contactcostumer-service.com
@@ -1073,6 +1081,7 @@ contribusource.com
 controlaccounticloud.com
 controlx.ddns.net
 convertro.com
+cookielaw.org
 cooleremail.com
 copperchickens.com
 copycarpenter.com
@@ -1344,6 +1353,7 @@ fisrdteditionps.com
 fisrteditionps.com
 fisrtinlogin.com
 fkksjobnn43.org
+flask.nextdoor.com
 flavordecision.com
 flndmyiphone-applelocation.com
 floodprincipal.com
@@ -1462,6 +1472,7 @@ halkebank.com
 hapc.gdn
 happyisp.com
 hasbeenlimited-stoppedworking.com
+healte.de
 heapanalytics.com
 heavypanda1.xyz
 help-facebook.com
@@ -2245,6 +2256,7 @@ officebrighty.ddns.net
 officialpage-appleid.com
 oluwahkudi.cf
 onaudience.com
+onecount.net
 onedumb.com
 onesignal.com
 onevanillachecker.com
@@ -2922,6 +2934,7 @@ ssl443.org
 sslnewupdatess2017.com
 sso-billingservice-webapps.com
 starreviews.com
+stat.media
 statement-account-limitation.info
 statements-icloudappleid.com
 stati.in
@@ -3021,6 +3034,7 @@ supportweeklyadmin.com
 supporunlockedaccount.com
 suppotaccounthelplog.com
 surf-town.net
+survata.com
 suspciusignin.com
 suspended-facebook-temporarily.com
 suspicious-accountactivty.com
@@ -3079,6 +3093,7 @@ tonystark001.publicvm.com
 tosecurecode-appleid.info
 toythieves.com
 tracedesire.com
+tracking.nextdoor.com
 trackjs.com
 trafficfactory.biz
 trafficjunky.com
