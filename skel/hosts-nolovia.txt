@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-06 21:05:23
+# Generated at 2018-09-10 17:13:01
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1292,6 +1292,7 @@ etr-mobile-lnterac.com
 etr-mobile1.com
 etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
+evidon.com
 exclusivebrass.com
 exmo.info
 exmo.tech
@@ -1634,6 +1635,7 @@ impact-ad.jp
 importantappleupdate.com
 importloggm.duckdns.org
 improvedigital.com
+inbenta.com
 inc-id-appleid.com
 inc-paymentauthorized.com
 incrediblesugar.com
