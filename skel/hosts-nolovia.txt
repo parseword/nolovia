@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-10 17:13:01
+# Generated at 2018-09-11 13:59:30
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1320,6 +1320,7 @@ fbmusic.com
 fc2.com
 fdsvtrwda.info
 feacebook-login.win
+feedify.net
 fetch.duckdns.org
 fidzup.com
 filmcoffee.win
