@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-11 13:59:30
+# Generated at 2018-09-14 15:06:44
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1081,6 +1081,7 @@ contribusource.com
 controlaccounticloud.com
 controlx.ddns.net
 convertro.com
+cookiebot.com
 cookielaw.org
 cooleremail.com
 copperchickens.com
