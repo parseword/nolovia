@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-14 15:06:44
+# Generated at 2018-09-17 13:47:58
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3507,6 +3507,7 @@ wwwhost.biz
 wwwwmobisantander.com
 wywy.com
 x24hr.com
+xcacherdie.stream
 xi-myetherwallet-12z.com
 xiti.com
 xml-appleid-onlineservice.com
