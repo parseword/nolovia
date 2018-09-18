@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-17 13:47:58
+# Generated at 2018-09-18 18:05:55
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2932,6 +2932,7 @@ sprinklr.com
 sqrve-online.net
 squeamishscarecrow.com
 squirly.info
+srcip.com
 srv4pub.com
 ssl-appleidverification.com
 ssl443.org
