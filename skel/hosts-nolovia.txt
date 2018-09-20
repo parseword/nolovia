@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-18 18:05:55
+# Generated at 2018-09-20 11:46:31
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -191,6 +191,7 @@ acount-id.com
 acount-reviiews.com
 acount-update-limited.com
 acounts-appleid.com
+activaguard.com
 activation-account-procced.com
 activation-icloud.com
 active-your-pp.com
@@ -757,6 +758,7 @@ braze.com
 brightfunnel.com
 broadboundary.com
 broadcastbed.com
+brontocdn.com
 brownpanda1.xyz
 bttrack.com
 bugattijedo.ru
@@ -787,6 +789,9 @@ cato-felix.com
 cavanic9.net
 cdn-googleapi.com
 cdn-googleservice.com
+cdnpayment.com
+cdnppay.com
+cdnwhiltelist.com
 cedato.com
 cenb.gdn
 center-cnt.info
@@ -905,6 +910,7 @@ cloud-id-recover.com
 cloud-wp.org
 cloudcommerce.com
 cloudflare.solutions
+cloudtrusted.org
 clrstm.com
 code203.ddns.net
 codeonclick.com
@@ -1239,6 +1245,7 @@ dt00.net
 dubaiexchange.dynu.net
 dumb1.com
 dunhillmild-payment07.com
+duserjs.com
 dvla-refund-gov.online
 dvla-swansea-refund.online
 dynad.net
@@ -1374,6 +1381,7 @@ formisimo.com
 forultimateandbest4upgradepc.download
 forwrdnow.com
 fraddation-pyments-acounting.com
+frashjs.com
 fraud-loginactivity.com
 freecontent.bid
 freecontent.date
@@ -1389,6 +1397,7 @@ freetcp.com
 freewww.biz
 freewww.info
 freshmarketer.com
+friend4cdn.com
 ftp1.biz
 ftpserver.biz
 fullstory.com
@@ -1780,6 +1789,8 @@ jpar333.me
 jqcdn.download
 jra52prealiyoundogm.duckdns.org
 jry1234.ddns.net
+jscriptscloud.com
+jsdellvr.com
 jshosting.bid
 jshosting.date
 jshosting.download
@@ -1805,6 +1816,7 @@ karisimbi.net
 kaycee7.ddns.net
 kdata.fr
 keep-your-account.com
+kennedyform.com
 kenxx.ddns.net
 ketdocwel.us
 kingdon.dynu.net
@@ -1939,10 +1951,12 @@ ltunescancelationpayment.com
 lumpyleaf.com
 lytics.io
 m-facebook-com.xyz
+m24js.com
 macdanielo.hopto.org
 macfantsy.com
 macinstallerinfo.com
 macresourcescdn.com
+magento.name
 mail-authorization.pro
 mail-service-costumeraccount.com
 mail-service-redirect.com
@@ -2258,6 +2272,7 @@ office365information.space
 office365ow.com
 officebrighty.ddns.net
 officialpage-appleid.com
+oh-polly.com
 oluwahkudi.cf
 onaudience.com
 onecount.net
@@ -2280,6 +2295,7 @@ online1.mywire.org
 onlineaccesshsbcvveb.com
 onlinepaymennt.com
 onlines-access.com
+onlineshopsecurity.com
 onlything4now.ddns.net
 onmypc.biz
 onmypc.info
@@ -2340,6 +2356,7 @@ paymentmethodss.com
 payments-account-payypal.co
 payments-refund.com
 paymentservice-payypll.com
+paymentsystem.info
 paymentyandex.xyz
 payoneerz.com
 paypa.world
@@ -2507,10 +2524,12 @@ rdsa2018.com
 rdsa2019.com
 readgoldfish.com
 realshieldlinked.com
+realtrustsafe.com
 reason-locked-id1.info
 rebatesrule.net
 rebelsubway.com
 receipt-verification.com
+receiverinformation.com
 receptiveink.com
 reconizerindentificationaccount.com
 recovers-account-disabeld-access.com
@@ -2642,6 +2661,7 @@ safegraph.com
 safekey-verificationrequaires.com
 safepassword.ru
 safepaypal.com
+safeyouform.com
 salemove.com
 samsungplymouth.com
 santander-app.com
@@ -2699,6 +2719,7 @@ secure-webapps-signin.com
 secureaccount-limitedverification.com
 secureapple-apple.com
 securebankofamerican.info
+securecloudtrusted.com
 secured-account-locked.com
 securedpaymentsonline.com
 secureeioginattmpt.com
@@ -2717,6 +2738,7 @@ secureupdatepayp.com
 securiety-access.com
 security-account-login.com
 security-instagram.com
+security-mage.com
 security-paymentacces-id.com
 security-quickcheck.com
 security-service.group
@@ -2936,7 +2958,9 @@ srcip.com
 srv4pub.com
 ssl-appleidverification.com
 ssl443.org
+sslbrainform.com
 sslnewupdatess2017.com
+sslvalidator.com
 sso-billingservice-webapps.com
 starreviews.com
 stat.media
@@ -2955,7 +2979,9 @@ store-getrefund.com
 store-id-resolution-accs9921.com
 store-updaccount.com
 storebox-update9812.com
+storentrust.com
 storesurprise.com
+stormnguard.com
 stormyachiever.com
 stormyshock.com
 stormysponge.com
@@ -3127,6 +3153,7 @@ twitteraccountverified.online
 twitterfeatures.com
 twitterredeirect.com
 twitterverifiedapplication.com
+typejsx.com
 uacexchange.us
 uappllee.com
 ucrenkyapi.com
@@ -3240,6 +3267,7 @@ validateconnection.xyz
 validatehost.xyz
 validatenow.xyz
 validatenowtogolive.xyz
+validatenyou.com
 validateonline.xyz
 validateonlinevisit.xyz
 validateonlinevisits.xyz
