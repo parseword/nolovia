@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-09-25 10:34:26
+# Generated at 2018-10-01 16:55:42
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -222,6 +222,7 @@ adhitz.com
 adingo.jp
 adinplay.com
 adjux.com
+adlightning.com
 adlive.io
 admantx.com
 admin-apple.space
