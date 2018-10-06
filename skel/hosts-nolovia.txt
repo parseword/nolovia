@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-10-01 16:55:42
+# Generated at 2018-10-05 22:13:17
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3138,6 +3138,7 @@ source-payments.com
 source-updateacces-accountlocked.com
 source-updateacces-helpaccountlocked.com
 source-updateacces-servicelocked.com
+sovrn.com
 specjs.com
 spectacularsnail.com
 spectrocoinbtc.com
