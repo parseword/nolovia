@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-10-05 22:13:17
+# Generated at 2018-10-10 15:05:38
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1799,6 +1799,7 @@ internalvaporgroup.com
 internet-bankofamerica.com
 internetmessagebox.xyz
 internetmessageboxneedvalidation.xyz
+interserver-coupons.com
 interweb-billing9.com
 intl-appidmiaccsrvidess.com
 intl-appidservmiaccsrvids.com
