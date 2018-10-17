@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-10-10 15:05:38
+# Generated at 2018-10-17 10:36:07
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2585,6 +2585,7 @@ pdfdocusign.com
 peacepowder.com
 percalabia.com
 perfectmarket.com
+perkele.ovh
 perviousgamechange.com
 petwandey.us
 pharhmonk1.hopto.org
