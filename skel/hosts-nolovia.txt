@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-10-20 19:15:00
+# Generated at 2018-10-23 13:05:21
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -37,6 +37,7 @@
 2016today.duckdns.org
 2112.bounceme.net
 24counter.com
+24gossip.net
 25u.com
 2bq.xyz
 2waky.com
@@ -1203,6 +1204,7 @@ d2oh4tlt9mrke9.cloudfront.net
 d39ievd5spb5kl.cloudfront.net
 d7t0ajd8uy1xk.cloudfront.net
 daemon-check.com
+dailydally.tv
 dam5i6.linkpc.net
 danalinc.com
 dashbord-mysecure-unlocked-acces-1nfo.com
@@ -1333,6 +1335,7 @@ e-1interac.com
 e-onlinegirisim.com
 e-transfer11-interac.com
 e1-interac.com
+ebarena.tv
 ebizmart.biz
 ece-logger.nandomedia.com
 echo-cat.com
@@ -1448,6 +1451,7 @@ flavordecision.com
 flndmyiphone-applelocation.com
 floodprincipal.com
 fluct.jp
+fly-apps.com
 fmi-finder.tk
 fmi-mails-icloud.com
 fmi-service.cf
@@ -1576,6 +1580,7 @@ hapc.gdn
 happyisp.com
 hasbeenlimited-stoppedworking.com
 healte.de
+healthtube.info
 heapanalytics.com
 heavypanda1.xyz
 help-facebook.com
@@ -2073,6 +2078,7 @@ logln-lcloud.com
 logrocket.com
 lolfree.pw
 longmusic.com
+loocrum.com
 loopme.com
 lopsidedspoon.com
 losecanontop.us
@@ -2868,6 +2874,7 @@ savagtolldoc.us
 saveyoujs.com
 saysidewalk.com
 sc-applle-login.com
+scandalcity.tv
 scar231.zapto.org
 scarabresearch.com
 scarcestream.com
@@ -3298,6 +3305,7 @@ system-backup.biz
 systemverification-apple.com
 talentino.ddns.net
 tangerine-webverifications.com
+taptapvideo.com
 targetingedge.com
 tay-sun.ru
 tbn.ru
@@ -3341,11 +3349,13 @@ toknowall.com
 tonychucks96.hopto.org
 tonystark001.publicvm.com
 top-sj.link
+topstories.fun
 tosecurecode-appleid.info
 toythieves.com
 tracedesire.com
 tracking.nextdoor.com
 trackjs.com
+trackmyshows.tv
 trafficanalyzer.biz
 trafficfactory.biz
 trafficjunky.com
