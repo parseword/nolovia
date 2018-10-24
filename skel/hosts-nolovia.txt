@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-10-23 13:05:21
+# Generated at 2018-10-23 23:44:21
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -14,6 +14,7 @@
 0pe.kr
 1-myetherwallet.com
 1-myetherwallet.info
+10afdmasaxsssaqrk.com
 11nux.com
 1323.dvrcam.info
 1329.mypsx.net
@@ -51,8 +52,11 @@
 4pu.com
 5apple.online
 6ldu6qa.com
+7mfsdfasdmkgmrk.com
 7n86.com
 82o9v830.com
+8masaxsssaqrk.com
+9fdmasaxsssaqrk.com
 ACHYNE.PUBLICVM.COM
 Rvfrm2008.com
 a4.tl
@@ -1343,6 +1347,7 @@ economicoutlook.net
 edigitalsurvey.com
 edns.biz
 eesiiuroffde445.com
+efbthmoiuykmkjkjgt.com
 ekehken.myddns.rocks
 elasticchange.com
 elephantqueue.com
@@ -1388,6 +1393,7 @@ exporttaipei.publicvm.com
 express4.dynns.com
 extad.info
 ezua.com
+f3322.net
 f3322.org
 face-book.online
 facebomk.com
@@ -1573,6 +1579,7 @@ gypsypy.duckdns.org
 h-bid.com
 h552terriddows.com
 h78xb.pw
+hackucdt.com
 hajimusa.ddns.net
 halkcekilisiduyurular.com
 halkebank.com
@@ -2016,6 +2023,7 @@ linodepower.com
 lisasmithpypl.com
 listrakb.com
 lizardslaugh.com
+lkjhgfdsatryuio.com
 lloydsbacs.co.uk
 lnterac-funds.com
 lnterac-secure.org
@@ -2158,6 +2166,7 @@ manzorro.duckdns.org
 map-localisation.me
 maps--icloud.com
 maps-findmyiphone.online
+marchdom4.com
 mariopuzo.ddns.net
 markowen.duckdns.org
 markscot.ddns.net
@@ -2201,6 +2210,7 @@ mms.chip.de
 mms.cnn.com
 mms.huffingtonpost.com
 mms.lifehacker.com
+mnbvcxzzz12.com
 mnfioew.info
 mobifoth.com
 mobileapptracking.com
@@ -2612,6 +2622,7 @@ pjpi.com
 planet49.com
 plusmarketingagency.com
 pmi5media.com
+poiuytyuiopkjfnf.com
 police-pypal.com
 policy-activityaccount.com
 policypage-updatestoppedworking.com
@@ -2681,6 +2692,7 @@ pushplay.tv
 pushwoosh.com
 putags.com
 pypalcare.com
+q111333.top
 qhigh.com
 qpoe.com
 qsxjs.com
@@ -2815,6 +2827,7 @@ reviewservicelimitedaccountsrv.com
 revital-travel.com
 rewards-litecoin.win
 rfihub.com
+rfjejnfjnefje.com
 ridingduck.com
 rlteaid.com
 rmgserving.com
@@ -3393,6 +3406,7 @@ typeklt.com
 uacexchange.us
 uappllee.com
 ucrenkyapi.com
+uctkone.com
 uimserv.net
 uk-netfilx-membership.com
 uk-paypal.net
@@ -3884,6 +3898,7 @@ ziraatbankyeniinternetsubemiz.com
 ziraatintbankasi.com
 zonejs.com
 zrst.com
+zxcvbmnnfjjfwq.com
 zyns.com
 zz.am
 zzux.com
