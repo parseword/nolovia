@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-10-30 14:14:58
+# Generated at 2018-11-05 11:55:51
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -15,6 +15,7 @@
 1-myetherwallet.com
 1-myetherwallet.info
 10afdmasaxsssaqrk.com
+10wp.org
 11nux.com
 1323.dvrcam.info
 1329.mypsx.net
@@ -40,24 +41,35 @@
 24counter.com
 24gossip.net
 25u.com
+29wp.org
 2bq.xyz
 2waky.com
 2znp09oa.com
 3-a.net
 33across.com
+34wp.org
+35wp.org
 37kddsserrt.xyz
+3vwp.org
 4dq.com
 4jnzhl0d0.com
 4mydomain.com
 4pu.com
+57wp.org
 5apple.online
+61wp.org
 6ldu6qa.com
+75wp.org
 7mfsdfasdmkgmrk.com
 7n86.com
+7owp.org
 82o9v830.com
 8masaxsssaqrk.com
 9fdmasaxsssaqrk.com
+9iwp.org
 ACHYNE.PUBLICVM.COM
+I0wp.org
+I3wp.org
 Rvfrm2008.com
 a4.tl
 aaxads.com
@@ -1719,6 +1731,9 @@ i-myetherwallet.info
 i-myetherwallet.tech
 i-signin.us
 i-signins.us
+i1wp.org
+i2wp.org
+i7wp.org
 iappleid-regist.com
 ib-ibi.com
 ibasvuru-ziraatbank.com
@@ -2024,6 +2039,7 @@ iverifyaccount.info
 ivykiosk.com
 izooto.com
 j-p-morgan-check-onli.com
+j3wp.org
 j93557g.com
 jackboy7204.zapto.org
 javascloud.com
@@ -4009,6 +4025,7 @@ wwwwmobisantander.com
 wywy.com
 x-magesecurity.com
 x24hr.com
+x5wp.org
 xcacherdie.stream
 xi-myetherwallet-12z.com
 xiti.com
