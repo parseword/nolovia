@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-11-06 12:36:14
+# Generated at 2018-11-07 15:35:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3486,6 +3486,7 @@ support-us-appllie-information.com
 support-verification-id.com
 supportaccount-updateinformations.com
 supporteid-icloud.com
+supporthelpline.us
 supporti-cloud.com
 supportidapple-accountsupport.com
 supportlimitedaccount-services.com
