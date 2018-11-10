@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-11-07 15:42:31
+# Generated at 2018-11-09 19:24:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1324,6 +1324,7 @@ dev.null.vg
 device-trace.us
 devie-location.review
 dewifal.com
+dgs2749y980f1.cloudfront.net
 dhcp.biz
 differentdesk.com
 digi-cert.org
@@ -3978,6 +3979,7 @@ wikaba.org
 winclicks.info
 window5.win
 windowsupdatesalert.ml
+winfreesupport.club
 wirecomic.com
 wixab-cloud.com
 wixab.com
