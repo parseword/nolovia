@@ -17,6 +17,7 @@
  * 
  * This script fetches and makes use of server lists compiled by: 
  *
+ * Willem de Groot at https://github.com/gwillem/magento-malware-scanner
  * Disconnect at https://disconnect.me/
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
@@ -201,6 +202,13 @@ $sl->setUri('https://raw.githubusercontent.com/Yhonay/antipopads/master/hosts');
 $sl->setMinimumExpectedBytes(10240);
 $sl->setValidationText('0.0.0.0');
 $sl->setReplacePatterns(array('|^0.0.0.0(\s+)|m'));
+$serverLists[] = $sl;
+
+$sl = new ServerList('Magento Malware List from gwillem');
+$sl->setFilePath('./data/hosts-magento-malware.txt');
+$sl->setUri('https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt');
+$sl->setMinimumExpectedBytes(1024);
+$sl->setValidationText('mage');
 $serverLists[] = $sl;
 
 unset($sl);
