@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-11-11 22:57:01
+# Generated at 2018-11-13 13:20:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2652,6 +2652,7 @@ oklahomjs.com
 oluwahkudi.cf
 onaudience.com
 onecount.net
+onedrive.one
 onedumb.com
 onesignal.com
 onevanillachecker.com
@@ -3327,6 +3328,7 @@ smallduck1.xyz
 smallpanda1.xyz
 smartadserver.com
 smartlook.com
+smetrics.foxnews.com
 smlblinds.com
 sms-apple-find.com
 sms-info-apple.com
