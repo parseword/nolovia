@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-11-19 16:17:01
+# Generated at 2018-11-20 14:01:46
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -825,6 +825,7 @@ boilingbeetle.com
 bokletdoc.us
 bombing212.ddns.net
 bomira.ddns.net
+bootstrap-js.com
 bootstrapjs.com
 boredcrown.com
 bosshugss.me
@@ -1577,6 +1578,7 @@ fuzzyflavor.com
 g-analytics.com
 g-cloud.pro
 g-cloud.win
+g-statistic.com
 ga87z2o.com
 gaei.tk
 gall-tarquin.com
@@ -2672,6 +2674,7 @@ online-hsbcgoodwill.com
 online-us-account.com
 online1.mywire.org
 onlineaccesshsbcvveb.com
+onlineclouds.cloud
 onlinepaymennt.com
 onlines-access.com
 onlineshopsecurity.com
