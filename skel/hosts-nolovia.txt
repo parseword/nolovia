@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-11-20 14:01:46
+# Generated at 2018-11-23 13:47:42
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1322,6 +1322,7 @@ detailaccount.info
 details-resolution-access.com
 details-update-resolutions.com
 detufrgybyapple.com
+dev-6638ef5b-a31a-4093-9c0d.pantheonsite.io
 dev.null.vg
 device-trace.us
 devie-location.review
