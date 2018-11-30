@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-11-27 15:57:19
+# Generated at 2018-11-30 12:11:27
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1626,6 +1626,7 @@ goodjob88.ignorelist.com
 goodleaccounts.info
 googiecloud.com
 googieservlce.com
+google-analytics.is
 googlecloud.su
 googlemapsup.ddns.net
 googleprotectionshop.com
@@ -2073,6 +2074,7 @@ jquery-cdn.top
 jquery-cloud.net
 jquery-cloud.org
 jquery-code.su
+jquery-js.com
 jquery-libs.su
 jquery-min.su
 jquery-validation.org
