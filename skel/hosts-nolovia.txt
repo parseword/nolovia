@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-11-30 12:11:27
+# Generated at 2018-12-08 18:12:38
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2316,6 +2316,7 @@ mail-service-costumeraccount.com
 mail-service-redirect.com
 mailaccountlogin.online
 mailservice-apple.com
+mainlink.cool
 mainnine.stream
 manage-accountidinvoice-verification.info
 manage-accountpayment-resolutioncenter.com
