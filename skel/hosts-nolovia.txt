@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-12-08 18:12:38
+# Generated at 2018-12-12 22:44:24
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -838,6 +838,7 @@ braintreepaumenls.com
 braintreepauments.com
 braintreepaymenls.com
 bralntree.com
+brandmetrics.com
 brassrule.com
 bravo-dog.com
 braze.com
@@ -1210,6 +1211,8 @@ contact-securemyaccount.com
 contact-verify-center.com
 contactcostumer-service.com
 contentprogrammatic.com
+context.ly
+contextly.com
 contopaypal.info
 contribusource.com
 controlaccounticloud.com
@@ -1955,6 +1958,7 @@ instagraw.com
 instagrram.xyz
 instanthq.com
 instaverification.xyz
+insticator.com
 int-halkbankasi.com
 inte-authorization0102.com
 intellibid.com
