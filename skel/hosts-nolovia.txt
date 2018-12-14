@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-12-12 22:44:24
+# Generated at 2018-12-13 19:47:12
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1207,6 +1207,7 @@ connectad.io
 connectbootstrap.com
 consciouscabbage.com
 consensu.org
+consumertrack.com
 contact-securemyaccount.com
 contact-verify-center.com
 contactcostumer-service.com
@@ -1623,6 +1624,7 @@ gmail-security-account.com
 gmail-service.online
 gmaile.org
 go2click.org
+gobankingrates.com
 golangwq.info
 goldman-travel.com
 goodjob88.ignorelist.com
