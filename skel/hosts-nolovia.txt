@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-12-18 15:24:13
+# Generated at 2018-12-21 11:22:18
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2841,6 +2841,7 @@ popxxx.net
 port.sec.miui.com
 port25.biz
 possibleboats.com
+powerlinks.com
 powerrballi.top
 powopibobu3.com
 poypal-team-online.com
