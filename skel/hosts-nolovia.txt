@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-12-21 11:22:18
+# Generated at 2018-12-23 17:30:32
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -28,6 +28,7 @@
 15gifts.com
 18846846874646-verify.net
 1990.nflfan.org
+1dmp.co
 1dumb.com
 1e-transfer-interac.com
 1etransfer--sent.com
@@ -40,6 +41,7 @@
 2112.bounceme.net
 24counter.com
 24gossip.net
+254a.com
 25u.com
 29wp.org
 2bq.xyz
@@ -50,6 +52,7 @@
 34wp.org
 35wp.org
 37kddsserrt.xyz
+37x.com
 3vwp.org
 4dq.com
 4jnzhl0d0.com
@@ -71,6 +74,7 @@ ACHYNE.PUBLICVM.COM
 I0wp.org
 I3wp.org
 Rvfrm2008.com
+a3cloud.net
 a4.tl
 aaxads.com
 aaxdetect.com
@@ -237,12 +241,15 @@ adform.dk
 adform.net
 adglare.com
 adglare.net
+adgrx.com
+adhigh.net
 adhitz.com
 adingo.jp
 adinplay.com
 adjux.com
 adlightning.com
 adlive.io
+admanmedia.com
 admantx.com
 admin-apple.space
 adnegah.com
@@ -262,6 +269,7 @@ adsbtrk.com
 adservices.brandcdn.com
 adstanding.com
 adtdp.com
+adtechium.com
 adthink.com
 adtrackdirect.com
 advertmention.com
@@ -273,6 +281,7 @@ adwordls-account.site
 adwords-login.com
 adwords-online.org
 adwords-ppc.org
+adxcore.com
 affiliates-spinit.com
 affrh2011.com
 affrh2012.com
@@ -679,6 +688,7 @@ aprode.bit
 apvo.club
 ar-micuentaapple.com
 argyresthia.com
+arrivalist.com
 artwell8.hopto.org
 asderman.no-ip.org
 asiatravelagency.ddns.net
@@ -692,6 +702,7 @@ assist-service.info
 associated-account-purchase.com
 attention-required-error-found.xyz
 attention-required.xyz
+attribution.report
 audienceamplify.com
 aunth-undisable-verification.info
 auth-ilog.com
@@ -750,12 +761,15 @@ benx234.ddns.net
 beoplr66bxcgs.net
 bestsecuritysearch.com
 betsransfercomunications.org
+betweendigital.com
+bfmio.com
 bidcollect.com
 bidellect.com
 bidfluence.com
 bidgear.com
 bidintrinsic.com
 bidr.io
+bidsimulator.com
 bidstream.com
 bidswitch.net
 bidtelect.com
@@ -768,6 +782,7 @@ bidtellectapi.com
 bidtellectcdn.com
 bidtellectexchange.com
 bidtellectual.com
+bidtheatre.com
 bidtheorem.com
 bidtillect.com
 bigbird1.xyz
@@ -795,11 +810,14 @@ bitreex.com
 bitrex.partners
 bittellect.com
 bizible.com
+bksn.se
 blackcat1.xyz
 blackhills.ddns.net
 blackpanda1.xyz
 blackpeacock1.xyz
 blast.ddns.net
+blis.com
+blismedia.com
 blockchain-verifeid.info
 blockchainz.ml
 blockedlogin-info.com
@@ -813,6 +831,7 @@ bm24.biz
 bm24.info
 bm24.org
 bn-multired1.com
+bnmla.com
 bnrnboerxce.com
 boa-bankingupdate.online
 bodyclick.net
@@ -838,6 +857,7 @@ braintreepaumenls.com
 braintreepauments.com
 braintreepaymenls.com
 bralntree.com
+brand-display.com
 brandmetrics.com
 brassrule.com
 bravo-dog.com
@@ -850,13 +870,16 @@ broadcastbed.com
 brontocdn.com
 brownpanda1.xyz
 bttrack.com
+bucksense.com
 bugattijedo.ru
+bumlam.com
 buscar-id-icloud.com
 buscar.cloud
 buscarmiphone.com
 busnguard.com
 bustbuy.com
 bwuk.club
+c3tag.com
 cad-secure-returns.top
 callibri.ru
 calmfoot.com
@@ -878,6 +901,7 @@ castrokolaz.top
 castup.net
 cato-felix.com
 cavanic9.net
+cbarsrv.com
 ccvalidate.com
 cdn-googleapi.com
 cdn-googleservice.com
@@ -892,6 +916,7 @@ cdnppay.com
 cdnrfv.com
 cdnscriptx.com
 cdnwhiltelist.com
+cdnwidget.com
 cedato.com
 cellubiue.com
 cellublue.info
@@ -965,7 +990,9 @@ cleansite.info
 cleansite.us
 click-cpa.net
 clickability.com
+clickferret.com
 clickhoptk.com
+clickmuvr.com
 clicknetwork.com
 clickperformance.net
 clickredirection.com
@@ -979,6 +1006,7 @@ client-accountremove.com
 client-servicezones.com
 clientmediaserver.com
 clientspaymentservicers-nettflixdataresolvs.com
+cliipa.com
 clintareasinginservicelimtednpphome-indexhtml.com
 cliqz.com
 clk1002.com
@@ -1021,6 +1049,8 @@ cloudcommerce.com
 cloudflare.solutions
 cloudtrusted.org
 clrstm.com
+cmbestsrv.com
+cmcore.com
 cmytuok.top
 code203.ddns.net
 codeonclick.com
@@ -1205,6 +1235,7 @@ confrimation-account.com
 confrimation-limited.com
 connectad.io
 connectbootstrap.com
+connexity.net
 consciouscabbage.com
 consensu.org
 consumertrack.com
@@ -1244,6 +1275,7 @@ crtteo.com
 crypto-loot.com
 cryptotab.net
 cs6hm.com
+cssrvsync.com
 cuberoot.co
 cuentas-seguravsptr-activysinformacion.com
 cuev.in
@@ -1264,6 +1296,7 @@ customerservice-appleid.com
 customerservice-resolveaccount.com
 customingupdate-informationwebscrintlintl.com
 cutecushion.com
+cwkuki.com
 cxense.com
 cybervalidationneeded.xyz
 czusecureupdates.com
@@ -1348,7 +1381,9 @@ directvaporus.com
 directvaprr.com
 diretrak.com
 disputepayment-checked.com
+distiltag.com
 districtm.ca
+districtm.io
 districtm.net
 dk4ywix.com
 dmaxjs.com
@@ -1416,6 +1451,7 @@ e-transfer11-interac.com
 e1-interac.com
 earnoninfo.com
 ebarena.tv
+ebdr3.com
 ebizmart.biz
 ece-logger.nandomedia.com
 echo-cat.com
@@ -1446,6 +1482,7 @@ enterworldofupgradingall.club
 epac.to
 epayment-billing.com
 epaypal-comacess-resolve-resolution9191.com
+erne.co
 error-detected-need-attention.xyz
 error-detected.com
 es-find.net
@@ -1466,9 +1503,13 @@ evidon.com
 exclusivebrass.com
 exmo.info
 exmo.tech
+expn.digital
 exporttaipei.publicvm.com
+exposebox.com
 express4.dynns.com
 extad.info
+extend.tv
+extremereach.io
 ezua.com
 f3322.net
 f3322.org
@@ -1496,6 +1537,7 @@ fdsvtrwda.info
 feacebook-login.win
 feedify.net
 fetch.duckdns.org
+fg8dgt.com
 fidzup.com
 filmcoffee.win
 finalcountdown.gq
@@ -1585,11 +1627,13 @@ g-analytics.com
 g-cloud.pro
 g-cloud.win
 g-statistic.com
+g2crowd.com
 ga87z2o.com
 gaei.tk
 gall-tarquin.com
 gamacdn.com
 gammae.com
+gamoshi.io
 ganalytlcs.com
 ganti-nama-facebook.com
 ganzerri.me
@@ -1602,8 +1646,10 @@ get-confirmation.com
 get-login.com
 get-refund1.com
 get-verived-account.com
+getintent.com
 getjaco.com
 getlytics.com
+getpaidlikeus.com
 getsitecontrol.com
 gettrials.com
 ghostery-collector-115893389.us-east-1.elb.amazonaws.com
@@ -1619,6 +1665,7 @@ gitformage.com
 gitformlife.com
 gitmage.com
 give-me-coins.com
+glotgrx.com
 gmail-accounts-m.com
 gmail-security-account.com
 gmail-service.online
@@ -1724,6 +1771,7 @@ https443.org
 hubapi.com
 hubs.ly
 hucksterbot.ru
+hybrid.ai
 i-app.us
 i-ilog.com
 i-location.net
@@ -1964,6 +2012,7 @@ insticator.com
 int-halkbankasi.com
 inte-authorization0102.com
 intellibid.com
+intentiq.com
 interac-e1.com
 interac-refund-transfercanada.com
 interac.world
@@ -2023,6 +2072,7 @@ iphoneid-icloud.com
 iphonerc.top
 ipichnaear.me
 ipichnaear22.me
+ipredictive.com
 irsinvoice.com
 isaijra52elizgewigm.duckdns.org
 isasecret.com
@@ -2125,6 +2175,7 @@ jungleheart.com
 just-easy-travel.com
 justdied.com
 juste-travel.com
+justpremium.com
 justvalidate.xyz
 justvalidateit.xyz
 justyjohnxplodes.ddns.net
@@ -2146,6 +2197,8 @@ klantenservice-inlogin.pro
 korea-tax.info
 krnwhyvq.info
 kro.kr
+krux.com
+krxd.net
 ku6.com
 kurtangle083.publicvm.com
 laappleservee.com
@@ -2177,6 +2230,7 @@ lflinkup.net
 lflinkup.org
 lforgot-lcloud-help.com
 lforgot-myid.info
+licasd.com
 licious-webupdatepolicy.com
 lifeupdate.design
 lifterpopup.com
@@ -2190,6 +2244,7 @@ limited-policy.com
 limited-version.com
 limitedaccresolve-help-service-bin.com
 limitedpurchased.com
+limitedtimepromo.com
 limitgdawe.com
 limitted-account.com
 limpingline.com
@@ -2378,10 +2433,12 @@ maximusstafastoriesticks.info
 mbolo2017.hopto.org
 mbr-targeting.com
 mdelivry.com
+mdhv.io
 me-look-update-now.com
 mediabreakaway
 medianewsonline.com
 mediarithmics.com
+mediawallahscript.com
 mefound.com
 member-validation.info
 memberdetail-data.info
@@ -2393,6 +2450,7 @@ messagenovice.com
 metric.makemytrip.com
 metrica.yandex.com
 mfacebook.net
+mfadsrvr.com
 mhoblysantanderbr.com
 michigan-construction.com
 mickyjakey.blogsyte.com
@@ -2413,6 +2471,7 @@ mnbvcxzzz12.com
 mnfioew.info
 mobifoth.com
 mobile-found.com
+mobileadtrading.com
 mobileapptracking.com
 mobiledevsafety.com
 mobileinterac-pointpayrewards.com
@@ -2446,6 +2505,7 @@ mrcapable01.publicvm.com
 mrdarkddos.com
 mrface.com
 mropera12.no-ip.biz
+mrpdata.net
 mrslove.com
 mrycrypto.com
 ms15hinet.publicvm.com
@@ -2453,6 +2513,7 @@ msecurely.com
 mudrakgroup.in
 murdoog.com
 must-update-uewe.com
+mxptint.net
 my-account-profilepypal-reactivated.info
 my-appleiid.org
 my-applelocate.com
@@ -2566,11 +2627,14 @@ mysetherwalletz.com
 mytransaction-account-fraudprevention.center
 myuaccname-apple.info
 myuserlimit.org
+myvisualiq.net
 mywww.biz
 myyethearwallet.com
 myyetherrwallet.com
 myz.info
+n.rich
 naosecgomosec.gq
+narrative.io
 narusnex.info
 natimatica.com
 nativein-ad.com
@@ -2590,6 +2654,7 @@ nativepowered.org
 nativesolutionsplatform.com
 nativestandards.com
 nativka.ru
+navdmp.com
 navistone.com
 near-located.com
 neartsay.com
@@ -2629,6 +2694,7 @@ ninja-445.ddns.net
 ninjaoutreach.com
 ninstream.com
 ninth.biz
+ninthdecimal.com
 nnycrypto.com
 nono198011.ddns.net
 nonomee2017.ddns.net
@@ -2636,6 +2702,7 @@ notification-apple-service.com
 notifications-service.ga
 notificationupdates.com
 npm.hacktask.net
+nrich.ai
 ns01.biz
 ns01.info
 ns01.us
@@ -2805,6 +2872,7 @@ pcanywhere.net
 pdfdocusign.com
 peacepowder.com
 percalabia.com
+perf-serving.com
 perfectmarket.com
 perkele.ovh
 perviousgamechange.com
@@ -2825,6 +2893,7 @@ pixel.archive.is
 pjizzy.hopto.org
 pjpi.com
 planet49.com
+playground.xyz
 plusmarketingagency.com
 pmi5media.com
 poiuytyuiopkjfnf.com
@@ -2879,6 +2948,7 @@ privacyaccountlimited.com
 privacyform.com
 privatejs.com
 privatixjs.com
+pro-market.net
 profitrumour.com
 proofpark.com
 protect-account-suspended.com
@@ -2888,6 +2958,7 @@ provideplant.com
 provnkfexxw.com
 proxydns.com
 ps-webapps.com
+pswec.com
 pub2srv.com
 puchex.site
 pumpmywallet.com
@@ -3015,6 +3086,7 @@ resolved-refunds.com
 resolveissue-i.cloud
 resolver-case-pp-003-523-398-858.com
 resolving-account-verifycation.info
+reson8.com
 resselerratings.com
 restart-membership-netfilx.com
 restoreappleid-apple.com
@@ -3033,10 +3105,13 @@ review-dispute-payment.com
 reviewaccountlogin.com
 reviewservicelimitedaccountsrv.com
 revital-travel.com
+revjet.com
 rewards-litecoin.win
+rezync.com
 rfihub.com
 rfjejnfjnefje.com
 ridingduck.com
+rkdms.com
 rlteaid.com
 rmgserving.com
 rnyetherrwallet.com
@@ -3053,6 +3128,8 @@ rtbcatalyst.com
 rtbcoverage.com
 rtbengine.com
 rtbstandards.com
+rtclx.com
+rtxplatform.com
 rulerabbit.com
 runtnc.net
 rvfrm2002.com
@@ -3068,6 +3145,9 @@ rvfrm2011.com
 rzzc.pw
 s-msg-myetherwallet.com
 s3-us-west.com
+s3xified.com
+sabio.us
+sabiomobile.com
 safe-activity-resume.com
 safe-i.cloud
 safe-summary.com
@@ -3181,9 +3261,11 @@ securiy-accsess-center.com
 secury-checkout.com
 seguridadonline-icloud.com
 sek-tc.com
+selectmedia.asia
 selfmademan.ddns.net
 selfmademan2.ddns.net
 sellclassics.com
+semasio.net
 sendsmtp.com
 sentry.io
 seo-fast.ru
@@ -3270,6 +3352,7 @@ shelterstraw.com
 shittu09.hopto.org
 shiveringsail.com
 shockingswing.com
+shoofle.tv
 shop-analytics.net
 shortcm.li
 sicherheit-bezahlung.xyz
@@ -3333,6 +3416,7 @@ simplewovmde.com
 simplisticnose.com
 sinceresofa.com
 sinslave.damnitjim.xyz
+site-tracking.com
 site2scureinfo.com
 sitescout.com
 sixth.biz
@@ -3394,8 +3478,10 @@ spoonstory.win
 sportys.store
 spot-usernotice.com
 spot.im
+spotim.market
 spots.im
 spotx.tv
+spoutable.com
 springserve.com
 sprinklr.com
 sqrve-online.net
@@ -3441,6 +3527,7 @@ stormnguard.com
 stormyachiever.com
 stormyshock.com
 stormysponge.com
+storygize.net
 straightnest.com
 stringengines.com
 strivesidewalk.com
@@ -3580,6 +3667,7 @@ theuserlimit.org
 theuserlimite.org
 thirdrespect.com
 throattrees.com
+thrtle.com
 ticklishpanda1.xyz
 tidytrail.com
 tika-search.com
@@ -3618,6 +3706,7 @@ trollitrancessions.net
 truckstomatoes.com
 true-deals.com
 truefree.pw
+truoptik.com
 trustbankinc.com
 trustd.biz
 trustkemi.duckdns.org
@@ -3896,13 +3985,17 @@ vilynx.com
 vipddos.com
 virgintldgame.com
 visasecureverification.info
+visto1.net
+visualdna.com
 vizsense.com
 vizvaz.com
 vmaxjs.com
+vmg.host
 vodafone-verificatie.com
 voicevegetable.com
 voievnenibrinw.com
 volume-login-key-349388231231291.ru
+volvelle.tech
 vpptechnologies.com
 vuserjs.com
 vvvvvv-apple.com
@@ -3910,6 +4003,7 @@ vvvvvv-icloud.com
 vwvw-apple.com
 vwvw-icloud.com
 vyperps.no-ip.biz
+w55c.net
 wa-solutation-limited.com
 walkme.com
 wallstsxer.hopto.org
@@ -4105,6 +4199,8 @@ xxuz.com
 xxxy.biz
 xxxy.info
 xydoclike.us
+y-medialink.com
+yabidos.com
 yadangz.ddns.net
 yamoo.com.ng
 ybkxsm.com
@@ -4114,6 +4210,7 @@ yellowmeercat1.xyz
 ygto.com
 yieldlab.com
 yieldlab.de
+yieldoptimizer.com
 ylx-4.com
 youdontcare.com
 youpayme.info
@@ -4131,7 +4228,10 @@ zallmytextmessagescipq1.info
 zapplestore.com
 zbwp6ghm.com
 zdockappleid.com
+zemanta.com
+zeotap.com
 zertweekdoc.us
+zetazync.com
 zipcodeterm.com
 ziraat-bankasl.com
 ziraat-internetisube.com
@@ -4146,5 +4246,6 @@ zoobashop.com
 zrst.com
 zxcvbmnnfjjfwq.com
 zyns.com
+zypmedia.com
 zz.am
 zzux.com
