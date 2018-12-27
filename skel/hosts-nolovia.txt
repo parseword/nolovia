@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-12-23 17:30:32
+# Generated at 2018-12-26 23:45:58
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1510,6 +1510,8 @@ express4.dynns.com
 extad.info
 extend.tv
 extremereach.io
+ezoic.com
+ezoic.net
 ezua.com
 f3322.net
 f3322.org
