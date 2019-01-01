@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-01 10:45:01
+# Generated at 2019-01-01 10:59:04
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -208,6 +208,9 @@ aceptandverify.com
 acessocliente.net
 acessomovel.mobi
 acessoonlinedocliente.com
+acestream.me
+acestream.net
+acestream.org
 acity-lawfirm.com
 acmetoy.com
 acount-customer.info
@@ -2891,6 +2894,7 @@ phonebillsrefund.com
 phonefix.guru
 photographpan.com
 pietexture.com
+pilaff-up.ru
 pinewood-financial.com
 pingma.qq.com
 pixel.archive.is
