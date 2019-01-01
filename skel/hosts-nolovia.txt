@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-01 10:59:04
+# Generated at 2019-01-01 11:46:13
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -229,6 +229,7 @@ activity-accountid.com
 activityloginpurchase.com
 actuallysheep.com
 acxiomapac.com
+ad-goi.com
 ad2up.com
 ad2upapp.com
 ad4screen.com
@@ -245,6 +246,7 @@ adform.net
 adglare.com
 adglare.net
 adgrx.com
+adhealers.com
 adhigh.net
 adhitz.com
 adingo.jp
@@ -1246,6 +1248,7 @@ consumertrack.com
 contact-securemyaccount.com
 contact-verify-center.com
 contactcostumer-service.com
+content-recommendation.net
 contentprogrammatic.com
 context.ly
 contextly.com
@@ -1732,6 +1735,7 @@ halkebank.com
 hapc.gdn
 happyisp.com
 hasbeenlimited-stoppedworking.com
+hd-plugins.com
 healte.de
 healthtube.info
 heapanalytics.com
@@ -2013,6 +2017,7 @@ instagramtakipciservis.com
 instagramverifiedbadges.com
 instagraw.com
 instagrram.xyz
+installads.net
 instanthq.com
 instaverification.xyz
 insticator.com
@@ -2976,6 +2981,7 @@ purplecat1.xyz
 pushplay.tv
 pushwoosh.com
 putags.com
+pwrads.net
 pypalcare.com
 q111333.top
 qhigh.com
@@ -3700,6 +3706,7 @@ trafficanalyzer.biz
 trafficfactory.biz
 trafficjunky.com
 trafficninjas.co
+trafficpoizon.com
 transaction-payment07.com
 transaction-secure5.com
 traskedlink.com
