@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2018-12-26 23:45:58
+# Generated at 2019-01-01 10:45:01
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -355,6 +355,7 @@ api.e-toys.cn
 api.userstyles.org
 apismanagers.com
 apissystem.com
+apiurl.org
 apk-bancodobrasil.com
 apl.report
 app-bancobrasil.com
@@ -1744,6 +1745,7 @@ help-you-in-confirmation.info
 helplimit.net
 hfc195b.com
 hg777hdorotosskot.info
+higedev.cool
 hilariouszinc.com
 hilltopads.com
 hipstarclub.com
@@ -3668,6 +3670,7 @@ thesportscenter.club
 theuserlimit.org
 theuserlimite.org
 thirdrespect.com
+thisadsfor.us
 throattrees.com
 thrtle.com
 ticklishpanda1.xyz
