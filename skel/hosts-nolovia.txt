@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-01 11:46:13
+# Generated at 2019-01-02 15:25:03
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1193,6 +1193,7 @@ com-updates.org
 com-user-account-apple.com
 com-user-client-itunz.com
 com-verfiy.today
+com-verif-id.app
 com-verification-account-signin.info
 com-verificationclient.com
 com-verify.show
@@ -1387,6 +1388,7 @@ directvaporonline.com
 directvaporus.com
 directvaprr.com
 diretrak.com
+disable-id-apple.com
 disputepayment-checked.com
 distiltag.com
 districtm.ca
@@ -3015,6 +3017,7 @@ rdsa2016.com
 rdsa2017.com
 rdsa2018.com
 rdsa2019.com
+re-verify-id-apple.com
 readgoldfish.com
 realshieldlinked.com
 realtrustsafe.com
@@ -3113,6 +3116,7 @@ revalidatelicence.xyz
 revealmobile.com
 revenuehits.com
 revenuepervisit.com
+reverify-id-apple.com
 reversebaglanti.com
 revieu-account.space
 review-dispute-payment.com
@@ -3587,6 +3591,7 @@ support-data-account-verification.com
 support-data-update-verification.com
 support-data-verification-update.com
 support-help-ilcloud.info
+support-id-icloud.com
 support-id-local.com
 support-infomation-account-disable.com
 support-ip.com
@@ -3747,6 +3752,7 @@ uk-lcloud.com
 uk-netfilx-membership.com
 uk-paypal.net
 ultraflawlesspop.com
+un-verify-id-apple.com
 unauthorize-account-signin.com
 unblocked-account.com
 unblocked-account.net
@@ -3785,6 +3791,7 @@ unusualaccess-checkinglogin.com
 unusualaccess-icloudid.com
 unusuallyaccount-unlocked-notificationupdate.com
 unusualtitle.com
+unverify-id-apple.com
 uorineall.info
 update-access-recovery.com
 update-account-information.info
@@ -3806,6 +3813,7 @@ update-id-webapps.com
 update-idaccount-clouds.com
 update-idaccount-icloud.com
 update-information-payment-appleid-service.com
+update-ld-apple.com
 update-paypaallimited.com
 update-personalaccount-icloud.com
 update-security-accounts.com
