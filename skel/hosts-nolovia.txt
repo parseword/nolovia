@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-02 15:25:03
+# Generated at 2019-01-03 07:00:47
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4241,6 +4241,7 @@ youpayme.info
 your-account-unlock.com
 youraccess-recovery.com
 yourbestandupdatesafe.pw
+yourfreepdfconverternow.com
 yourinformationupdate.com
 yourreliablesite4content.bid
 yourtrap.com
