@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-03 07:00:47
+# Generated at 2019-01-05 14:34:09
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -385,6 +385,7 @@ app-signs.us
 app-updtscure.com
 app.link
 appboy.com
+appdynamics.com
 appid-apple-yun.com
 appid-caseiilkezelgayssd123123.com
 appid-casekelzeiilguysada09123.com
@@ -1676,6 +1677,10 @@ gitformage.com
 gitformlife.com
 gitmage.com
 give-me-coins.com
+glassbox.aircanada.ca
+glassboxcdn.com
+glassboxcloud.com
+glassboxdigital.com
 glotgrx.com
 gmail-accounts-m.com
 gmail-security-account.com
@@ -2964,6 +2969,7 @@ privacyform.com
 privatejs.com
 privatixjs.com
 pro-market.net
+prod.report.nacustomerexperience.citi.com
 profitrumour.com
 proofpark.com
 protect-account-suspended.com
