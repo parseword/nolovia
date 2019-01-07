@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-06 22:48:43
+# Generated at 2019-01-06 23:12:06
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1655,6 +1655,7 @@ gdocs.download
 ge-stion.com
 genus.ai
 get-confirmation.com
+get-free-gitf.com
 get-login.com
 get-refund1.com
 get-verived-account.com
