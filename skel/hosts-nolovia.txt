@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-06 23:12:06
+# Generated at 2019-01-08 11:22:17
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1061,6 +1061,7 @@ cmcore.com
 cmytuok.top
 code203.ddns.net
 codeonclick.com
+coderoute.ma
 codesmagento.com
 coin-service.com
 coinbaseverifier.com
@@ -1765,6 +1766,7 @@ hilariouszinc.com
 hilltopads.com
 hipstarclub.com
 hitcpm.com
+hizaxytv.com
 hockeyapp.net
 home-secured-autentic-verifi-account.com
 home-update.net
@@ -2496,6 +2498,7 @@ mobileapptracking.com
 mobiledevsafety.com
 mobileinterac-pointpayrewards.com
 mobility-refunds.com
+mobistartapp.com
 mocdoctest.us
 mod-js.su
 mod-sj.link
@@ -3284,6 +3287,7 @@ securitypaypal.com
 securitypoint.ddns.net
 securiy-accsess-center.com
 secury-checkout.com
+seepano.com
 seguridadonline-icloud.com
 sek-tc.com
 selectmedia.asia
