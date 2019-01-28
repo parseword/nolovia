@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-08 11:22:17
+# Generated at 2019-01-27 20:08:10
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -230,6 +230,7 @@ activityloginpurchase.com
 actuallysheep.com
 acxiomapac.com
 ad-goi.com
+ad-pixel.com
 ad2up.com
 ad2upapp.com
 ad4screen.com
@@ -766,6 +767,7 @@ beijingvampires.com
 bemitho.com
 benx234.ddns.net
 beoplr66bxcgs.net
+bestadbid.com
 bestsecuritysearch.com
 betsransfercomunications.org
 betweendigital.com
@@ -851,6 +853,7 @@ boilingbeetle.com
 bokletdoc.us
 bombing212.ddns.net
 bomira.ddns.net
+booe.pro
 bootstrap-js.com
 bootstrapjs.com
 boredcrown.com
@@ -1410,6 +1413,7 @@ dnso.ddns.net
 dnsrd.com
 dobellonline.com
 docksalmon.com
+doconcretegreatliteflash.icu
 docscloud.download
 docscloud.win
 docstart.su
@@ -1581,6 +1585,7 @@ findni-iphone.net
 findyouriphones.com
 firm-intl.com
 firsatziraatdesizinlle.com
+firstfetchflash.club
 firsthotelgroup.com
 firstinstallmac.club
 firstprolvdrec.com
@@ -1615,6 +1620,7 @@ forwrdnow.com
 fraddation-pyments-acounting.com
 frashjs.com
 fraud-loginactivity.com
+freecalculation.com
 freecontent.bid
 freecontent.date
 freecontent.faith
@@ -2516,6 +2522,7 @@ moorexx.hopto.org
 mopub.com
 morganj-p-check-hlp.com
 morggy11.ddns.net
+morningflashsee.club
 motigo.com
 mowfruit.com
 mp-app.info
@@ -2700,6 +2707,7 @@ networkdocweb.us
 new-feedback-apple-information-by-administrator.com
 new-loginservice.com
 new-verificationdevelopeer.com
+newadvancetypeliteflash.services
 neweggstats.com
 newpayment-mynetflix.com
 newrellc.com
@@ -3850,6 +3858,7 @@ updateswitzapple.com
 updateverification-service.com
 updating-information-service.com
 updatingservice.org
+upgradebestfinishtheclicks.icu
 upgraderservices.cf
 ups-webaps.net
 upsu.tk
@@ -4012,6 +4021,7 @@ vertification-applesinc.com
 vertification-number-account-setup.com
 vertifiication-account.com
 verygoodads.com
+veryield-malyst.com
 vicomi.com
 vidazoo.com
 videostrip.com
@@ -4133,6 +4143,7 @@ wikaba.org
 win-free-prize.com
 winclicks.info
 window5.win
+windowinstalldealaflash.icu
 windowsupdatesalert.ml
 winfreesupport.club
 wirecomic.com
