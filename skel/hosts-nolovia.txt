@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-27 20:08:10
+# Generated at 2019-01-28 14:17:44
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -699,6 +699,7 @@ argyresthia.com
 arrivalist.com
 artwell8.hopto.org
 asderman.no-ip.org
+ashleyrnadison.com
 asiatravelagency.ddns.net
 asksummaryaccount.com
 asorock.mooo.com
@@ -3060,6 +3061,7 @@ recoveryaccount-pages.com
 recoverymyaccountsecure-webappid.com
 recoverypasword.com
 recycloped.com
+red123.ru
 redbear1.xyz
 redditview.com
 redduck1.xyz
