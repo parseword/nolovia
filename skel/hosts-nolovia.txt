@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-28 19:32:55
+# Generated at 2019-01-28 20:30:21
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3189,6 +3189,7 @@ s3-us-west.com
 s3xified.com
 sabio.us
 sabiomobile.com
+sack.world
 safe-activity-resume.com
 safe-i.cloud
 safe-summary.com
