@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-01-28 14:17:44
+# Generated at 2019-01-28 19:32:55
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -693,6 +693,7 @@ appstore-unlockservice.com
 appstores-icloud.com
 apptunes-appleid.info
 aprode.bit
+aps.amazon.com
 apvo.club
 ar-micuentaapple.com
 argyresthia.com
@@ -1275,6 +1276,7 @@ copyofpaymentprove.site
 copyrightaccesscontrols.com
 costumer-account-update.com
 costumerservice.community
+coxmt.com
 cpm10.com
 craigslist-verification.com
 crawlclocks.com
@@ -3148,6 +3150,7 @@ rewards-litecoin.win
 rezync.com
 rfihub.com
 rfjejnfjnefje.com
+rhythmone.com
 ridingduck.com
 rkdms.com
 rlteaid.com
@@ -3688,6 +3691,7 @@ techhome-js.github.io
 teemo.co
 teknosurf.com
 teknosurf2.com
+telaria.com
 telegram-verification.com
 telemetry.mozilla.org
 tellapart.com
