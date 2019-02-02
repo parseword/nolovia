@@ -209,7 +209,7 @@ debug('Deduplicating hosts');
 $hosts = array_unique(array_map('strtolower', $hosts));
 debug('Scrubbed host list contains ' . count($hosts) . ' entries');
 
-//Build a list of domains we're blocking entirely (entire zone/all subdomains)
+//Build a list of domains we're blocking fully (entire zone/all subdomains)
 debug('Building list of fully-blocked domains');
 $domains = array();
 foreach ($hosts as $host) {
@@ -218,14 +218,29 @@ foreach ($hosts as $host) {
     }
     $dots = substr_count($host, '.');
     if ($dots == 1) {
-        $domains[] = $host;
+        //$domains is multidimensional, keyed off the first character of the domain
+        $firstCharacter = substr($host, 0, 1);
+        if (!isset($domains[$firstCharacter])) {
+            $domains[$firstCharacter] = [];
+        }
+        $domains[$firstCharacter][] = $host;
     }
     //Special cases: .co.uk, .com.au, etc. have 3 "parts" in their domain
     else if ($dots == 2 && preg_match(REGEX_MULTIPART_TLD, $host)) {
-        $domains[] = $host;
+        //$domains is multidimensional, keyed off the first character of the domain
+        $firstCharacter = substr($host, 0, 1);
+        if (!isset($domains[$firstCharacter])) {
+            $domains[$firstCharacter] = [];
+        }
+        $domains[$firstCharacter][] = $host;
     }
 }
-debug('Fully-blocked domain list contains ' . count($domains) . ' entries');
+//Make a flattened copy of the multidimensional $domains array
+$fullyBlockedDomains = array();
+foreach (array_keys($domains) as $key) {
+    $fullyBlockedDomains = array_merge($fullyBlockedDomains, $domains[$key]);
+}
+debug('Fully-blocked domain list contains ' . count($fullyBlockedDomains) . ' entries');
 
 //Build our list of blocked hosts. It should include
 // 1. All domains being blocked in full
@@ -233,7 +248,8 @@ debug('Fully-blocked domain list contains ' . count($domains) . ' entries');
 //e.g. if we're blocking the entirety of doubleclick.net, we can disregard
 //enumerating ad1.doubleclick.net and ad2.doubleclick.net. 
 debug('Building final blocklist');
-$blockedHosts = $domains;
+$blockedHosts = $fullyBlockedDomains;
+
 foreach ($hosts as $host) {
     if (in_array($host, $whitelist)) {
         continue;
@@ -261,7 +277,11 @@ foreach ($hosts as $host) {
             //Increment the number of hosts we've found for this domain
             if (isset($DEBUG['domainCount'][$domain])) { $DEBUG['domainCount'][$domain]++; } else { $DEBUG['domainCount'][$domain] = 1; }
         }
-        if (in_array($domain, $domains) || in_array($domain, $whitelist)) {
+        
+        //$domains is multidimensional, keyed off the first character of the domain
+        $firstCharacter = substr($domain, 0, 1);
+        if (in_array($domain, $domains[$firstCharacter]) || in_array($domain, $whitelist)) {
+            //This host is either already blocked by a full-domain block, or is whitelisted
             continue;
         }
         $blockedHosts[] = $host;
@@ -269,7 +289,7 @@ foreach ($hosts as $host) {
 }
 debug('Final blocklist contains ' . count($blockedHosts) . ' entries');
 
-unset($hosts);
+unset($hosts, $domains);
 sort($blockedHosts);
 
 //Write the resolver config files
@@ -350,7 +370,7 @@ if (DEBUG && $DEBUG['printDomainCount']) {
     asort($DEBUG['domainCount']);
     foreach(array_keys($DEBUG['domainCount']) as $key) {
         //If we already block this domain fully, or it only has one host, ignore it
-        if (in_array($key, $domains) || $DEBUG['domainCount'][$key] == 1)
+        if (in_array($key, $fullyBlockedDomains) || $DEBUG['domainCount'][$key] == 1)
             unset($DEBUG['domainCount'][$key]);
     }
     var_dump($DEBUG['domainCount']);
