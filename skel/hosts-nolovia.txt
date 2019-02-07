@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-02-01 18:12:14
+# Generated at 2019-02-07 12:00:37
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2323,6 +2323,7 @@ jquery-js.com
 jquery-libs.su
 jquery-min.su
 jquery-validation.org
+jquerylivecdn.com
 jra52prealiyoundogm.duckdns.org
 jry1234.ddns.net
 js-abuse.link
