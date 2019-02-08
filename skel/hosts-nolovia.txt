@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-02-07 12:00:37
+# Generated at 2019-02-07 18:16:30
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3760,6 +3760,10 @@ sphereup.com
 spillero.com
 spillvacation.com
 spinasale.com
+splin-body.site
+splin-body1.site
+splin-upd.site
+splin-upd1.site
 spoonstory.win
 sportys.store
 spot-usernotice.com
@@ -3990,6 +3994,10 @@ tonychucks96.hopto.org
 tonystark001.publicvm.com
 top-sj.link
 topstories.fun
+torent-updates.ddns.net
+torrent-stel.space
+torrent-supd.space
+torrent-updates.ddns.net
 tosecurecode-appleid.info
 totalmediasolutions.com
 toythieves.com
