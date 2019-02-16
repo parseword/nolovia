@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-02-07 18:16:30
+# Generated at 2019-02-15 20:31:09
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1892,6 +1892,7 @@ hackucdt.com
 hajimusa.ddns.net
 halkcekilisiduyurular.com
 halkebank.com
+hantinlethemsed.info
 hapc.gdn
 happyisp.com
 harethrough.com
@@ -2363,6 +2364,7 @@ jspoi.com
 juicenectar.com
 jump4geo.com
 jungleheart.com
+jungloconding.info
 just-easy-travel.com
 justdied.com
 juste-travel.com
@@ -3404,6 +3406,7 @@ rtclx.com
 rtk.io
 rtxplatform.com
 rulerabbit.com
+runmewivel.com
 runtnc.net
 rvfrm2002.com
 rvfrm2003.com
@@ -3958,6 +3961,7 @@ telegram-verification.com
 telemetry.mozilla.org
 tellapart.com
 temporaryhold-webappssvcs.com
+terdiparcalpe.info
 termid-paypal.com
 termlifelearned.us
 terms-service.com
