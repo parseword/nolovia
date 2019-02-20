@@ -153,11 +153,9 @@ foreach ($serverLists as $sl) {
     }
 
     /* Remove extra text (e.g. 127.0.0.1) from server entries */
-    if (count($sl->getReplacePatterns()) > 0) {
-        foreach ($sl->getReplacePatterns() as $pattern) {
-            debug('Replacing pattern: ' . $pattern);
-            $data = preg_replace($pattern, '', $data);
-        }
+    foreach ($sl->getReplacePatterns() as $pattern) {
+        debug('Replacing pattern: ' . $pattern);
+        $data = preg_replace($pattern, '', $data);
     }
 
     /* If finding servers in the list requires matching a pattern, do it now */
