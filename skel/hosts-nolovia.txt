@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-02-21 21:29:22
+# Generated at 2019-02-26 14:06:15
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2154,6 +2154,7 @@ google-analytics.is
 googlecloud.su
 googlemapsup.ddns.net
 googleprotectionshop.com
+googletagmanager.eu
 googlitagmanager.com
 googlz.blackfriday
 goooigle.com
@@ -4143,6 +4144,7 @@ serivice-limiited-account.com
 serivice-limited-account.com
 servebom.com
 server-account.com
+serversoftwarebase.com
 servespring.com
 serveuser.com
 serveusers.com
@@ -4328,6 +4330,7 @@ snapchat-options.com
 snapchat-safe.com
 snapchatconfirmed.com
 snapchet.net
+snaphyteplieldup.xyz
 sneaklevel.com
 sneakystamp.com
 snigelweb.com
@@ -4625,6 +4628,7 @@ tkekbn5sfk.com
 tkhg70uymg.com
 toh.info
 toknowall.com
+tolmets.info
 tonychucks96.hopto.org
 tonystark001.publicvm.com
 top-sj.link
