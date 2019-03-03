@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-02 21:34:10
+# Generated at 2019-03-03 14:05:39
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1003,6 +1003,7 @@ b42rracj.com
 b6roqgi.com
 b84pharkhv.com
 b8y4ddrvap.com
+babyboomboomads.com
 bad-credit-cdn.com
 bad-reqest-344.ru
 balloontexture.com
@@ -1611,6 +1612,7 @@ criticalalert.xyz
 criticalwarraningalert.xyz
 critictruck.com
 crownclam.com
+crptentry.com
 crtteo.com
 crypto-loot.com
 cryptotab.net
@@ -2114,6 +2116,9 @@ getpaidlikeus.com
 getpolymorph.com
 getsitecontrol.com
 gettrials.com
+gexperiments1.com
+gexperiments2.com
+gexperiments3.com
 gfbnr.com
 gfgixev3d4.com
 ghostery-collector-115893389.us-east-1.elb.amazonaws.com
@@ -2186,6 +2191,7 @@ grt02.com
 grt03.com
 grt04.com
 grt05.com
+gstaticadssl.l.google.com
 gsx2newapple.com
 gtagaffilate.com
 guardedgovernor.com
@@ -2554,6 +2560,7 @@ instanthq.com
 instaverification.xyz
 insticator.com
 int-halkbankasi.com
+intangibleconcordant.com
 intango.com
 inte-authorization0102.com
 intellibid.com
@@ -3409,6 +3416,7 @@ nullstack.co
 nuviad.com
 nvewpvnid.info
 nwcqntzx5i.com
+nyetm2mkch.com
 nykoa.in
 o-payments.website
 o1mmijc4ki.com
@@ -3596,6 +3604,7 @@ pcanywhere.net
 pdfdocusign.com
 peacepowder.com
 percalabia.com
+perf-html.io
 perf-serving.com
 perfectmarket.com
 perkele.ovh
@@ -3651,6 +3660,7 @@ port.sec.miui.com
 port25.biz
 positivemobile.com
 possibleboats.com
+postback.info
 powerinbox.com
 powerlinks.com
 powerrballi.top
@@ -3716,6 +3726,7 @@ pumpmywallet.com
 puqqpjywka.com
 purchase-activity.com
 purchase-updates.com
+purple6401.com
 purplecat1.xyz
 pushplay.tv
 pushwoosh.com
@@ -4615,6 +4626,7 @@ thiksikr.com
 thirdpresence.com
 thirdrespect.com
 thisadsfor.us
+thismetric.com
 thrive.plus
 throattrees.com
 thrtle.com
@@ -5148,6 +5160,7 @@ win-free-prize.com
 winclicks.info
 window5.win
 windowinstalldealaflash.icu
+windowmentaria.com
 windowsupdatesalert.ml
 winfreesupport.club
 wirecomic.com
