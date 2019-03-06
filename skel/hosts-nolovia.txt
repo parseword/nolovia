@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-03 15:31:29
+# Generated at 2019-03-05 22:42:26
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1298,6 +1298,7 @@ claim-policyupdate.com
 class2deal.com
 classifieds2000.com
 clcktrk.com
+clean.gg
 cleanads.net
 cleanmedia.net
 cleansite.biz
@@ -3712,6 +3713,7 @@ prod.report.nacustomerexperience.citi.com
 profitrumour.com
 proofpark.com
 propelmedia.com
+proper.io
 protect-account-suspended.com
 protect-account-update.net
 protect-appleid.com
