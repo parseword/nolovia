@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-07 06:44:11
+# Generated at 2019-03-19 16:30:20
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2992,6 +2992,7 @@ lxpx813cta.com
 lytics.io
 lzpv4rsmat.com
 m-facebook-com.xyz
+m2.ai
 m24js.com
 m3bnqqqw.com
 m9in5.top
@@ -4192,6 +4193,7 @@ service-paypel-login-new.com
 service-ppl-safe.com
 service-refunds.net
 service-salsa.com
+service-secure-usbank.com
 service-security-center.com
 service-sfr-client.info
 service-solution-account.info
