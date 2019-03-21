@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-19 16:30:20
+# Generated at 2019-03-20 20:50:12
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2288,6 +2288,7 @@ hscta.net
 hsforms.net
 hsstatic.net
 htl.bid
+htlbid.com
 https-localbitcoin.com
 https443.net
 https443.org
