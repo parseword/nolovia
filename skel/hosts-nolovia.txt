@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-20 20:50:12
+# Generated at 2019-03-22 13:20:02
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -549,6 +549,7 @@ alienware.ddns.net
 all-ransomware.info
 alluorine.info
 almostmy.com
+alooma.com
 already-apple.com
 altervista.org
 altitude-arena.com
@@ -1164,6 +1165,7 @@ btvhdscr.com
 bucksense.com
 bugattijedo.ru
 bumlam.com
+burnside.dtcn.com
 buscar-id-icloud.com
 buscar.cloud
 buscarmiphone.com
@@ -1229,6 +1231,7 @@ center-cnt.info
 center-intl-suport.com
 centionbreased.info
 ceros.com
+cfigroup.com
 cfqpxzx.com
 cfts1tifqr.com
 cgi-appleverification.com
@@ -1295,6 +1298,8 @@ cjvj6jqxpf.com
 ckk69drbro.com
 cl0udfiare.com
 claim-policyupdate.com
+clarium.global.ssl.fastly.net
+clarium.io
 class2deal.com
 classifieds2000.com
 clcktrk.com
@@ -1534,6 +1539,8 @@ compress.to
 compte-idapple.com
 conceau.co
 concernrain.com
+concert.io
+concertads-configs.vox-cdn.com
 coneptor.qarallax.com
 configloginsecure.com
 configmage.com
@@ -1805,6 +1812,7 @@ dsmtp.com
 dsud.com
 dt00.net
 dt2xr6g2i5.com
+dualstack.collector-nginx-1035376720.us-east-1.elb.amazonaws.com
 dubaiexchange.dynu.net
 dumb1.com
 dunhillmild-payment07.com
@@ -2041,6 +2049,7 @@ fmip-icloud.com
 fmlpmails-icloud.com
 fodlkf9d1p.com
 follingerservicemabe.com
+fomo.com
 fopflop.me
 forcetraff.ru
 foresee.com
@@ -3338,6 +3347,7 @@ nativestandards.com
 nativka.ru
 navdmp.com
 navistone.com
+nbcuas-tracker.us-east-1.elasticbeanstalk.com
 near-located.com
 neartsay.com
 necessary-service.info
@@ -3497,6 +3507,8 @@ optimize-stats.voxmedia.com
 optimizly.info
 optincollect.com
 optinmonster.com
+optmnstr.awesomemotive.netdna-cdn.com
+optmnstr.com
 orderconfirmation-appleshops.com
 orealjs.com
 orfn.com
@@ -3642,6 +3654,7 @@ pixfuture.com
 piximedia.com
 pjizzy.hopto.org
 pjpi.com
+placewise.com
 planet49.com
 platform.io
 playground.xyz
@@ -4152,6 +4165,8 @@ seedtag.com
 seepano.com
 seguridadonline-icloud.com
 sek-tc.com
+sele.co
+selectablemedia.com
 selectmedia.asia
 selfmademan.ddns.net
 selfmademan2.ddns.net
@@ -4167,6 +4182,8 @@ serivice-limiited-account.com
 serivice-limited-account.com
 servebom.com
 server-account.com
+serverbid-sync.nyc3.cdn.digitaloceanspaces.com
+serverbid.com
 serversoftwarebase.com
 servespring.com
 serveuser.com
@@ -4425,6 +4442,7 @@ sslvalidator.com
 sso-billingservice-webapps.com
 ssphwy.com
 ssraju3n.com
+stack-sonar.com
 stackadapt.com
 starreviews.com
 stat-sj.link
@@ -4435,6 +4453,7 @@ statements-icloudappleid.com
 statesales.info
 stati.in
 statistic-info.me
+stats.heyoya.com
 statsdot.eu
 statusdelivery.com
 steamchristmas.com
@@ -4478,6 +4497,7 @@ summary-report.com
 summary-resolutioncenter.com
 summarybilling-srvcs.online
 summaryunrecognizedinfo.com
+summerhamster.com
 sumologic.com
 sunmedia.tv
 superficialsink.com
@@ -4670,6 +4690,7 @@ tport9.com
 tqff3qkzsq.com
 trace-device.us
 tracedesire.com
+tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracking.marketing
 tracking.nextdoor.com
 trackjs.com
@@ -4841,6 +4862,7 @@ upgraderservices.cf
 ups-webaps.net
 upsu.tk
 uqie4nzy.com
+urbanairship.com
 urechar.com
 urgentauthrequire.xyz
 urgentauthrequired.xyz
@@ -5126,6 +5148,7 @@ webmail-icloud.com
 webmail-update.com
 webmediadeclaration.xyz
 webmediavalidation.xyz
+webmon.cfigroup.netdna-cdn.com
 weborama.fr
 weborama.net
 webresoved-service.com
