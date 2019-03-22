@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-22 13:20:02
+# Generated at 2019-03-22 15:54:47
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -456,6 +456,7 @@ adplan-ds.com
 adplayer.pro
 adpone.com
 adpressi.com
+adpxl.co
 adqy6rzwcs.com
 adrizer.com
 adro.io
@@ -1309,6 +1310,7 @@ cleanmedia.net
 cleansite.biz
 cleansite.info
 cleansite.us
+clearbit.com
 clearpier.com
 cli.bz
 click-cpa.net
@@ -2050,6 +2052,7 @@ fmlpmails-icloud.com
 fodlkf9d1p.com
 follingerservicemabe.com
 fomo.com
+fomo.ghost.io
 fopflop.me
 forcetraff.ru
 foresee.com
@@ -3194,6 +3197,7 @@ msecurely.com
 mtvp05j.com
 mtzenhigqg.com
 mudrakgroup.in
+multiview.com
 muqson0kgr.com
 murdoog.com
 must-update-uewe.com
@@ -4256,6 +4260,7 @@ severvaliidation.xyz
 severvaliidationrequired.xyz
 sexidude.com
 sexxxy.biz
+sf14g.com
 sf2ej57.com
 sfzhd.top
 shadoweye1.ddns.net
@@ -4752,6 +4757,7 @@ u8vysb7s2v.com
 u9oxdnxk8b.com
 uacexchange.us
 uappllee.com
+ubembed.com
 ucfunnel.com
 ucrenkyapi.com
 uctkone.com
@@ -4874,6 +4880,7 @@ usbktransact.com
 uscert.top
 uscourtsgov.com
 usdepartmentofrevenue.com
+usefomo.com
 user-summary-account.com
 useraccountverifications-appleid.com
 userinfos.com
@@ -5070,6 +5077,7 @@ vmg.host
 vneffwecka.com
 vnldaly8r5.com
 vnrherdsxr.com
+vntsm.com
 vnw2gd68pb.com
 vodafone-verificatie.com
 voicevegetable.com
@@ -5188,6 +5196,7 @@ whereareyou.pro
 whitecanvasgroup.com
 whitekoala1.xyz
 whitelistjs.com
+whoisvisiting.com
 whs82908.com
 wideorbit.com
 wikaba.com
