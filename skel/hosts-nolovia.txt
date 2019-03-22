@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-22 15:54:47
+# Generated at 2019-03-22 16:28:51
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -167,6 +167,7 @@
 6l1twlw9fy.com
 6ldu6qa.com
 6ped2nd3yp.com
+6sc.co
 6u4dxh2f14.com
 6v0dgrcr6q.com
 6wxduscd9p.com
@@ -4636,6 +4637,7 @@ tellapart.com
 temporaryhold-webappssvcs.com
 terdiparcalpe.info
 termid-paypal.com
+terminus.services
 termlifelearned.us
 terms-service.com
 terraviewbeat.com
@@ -4712,6 +4714,8 @@ trckk.com
 treasury-government.com
 tremor.com
 tremorhub.com
+tribl.io
+triblio.com
 trickip.net
 trickip.org
 trickycelery.com
