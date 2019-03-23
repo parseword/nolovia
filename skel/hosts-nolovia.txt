@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-22 23:50:16
+# Generated at 2019-03-23 10:56:51
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -530,6 +530,7 @@ afftrck.com
 afterscripts.com
 agencyorquidea.com
 aggregateiq.com
+agreensdistra.info
 ah8asl94hs.com
 ahwrin88tl.com
 aidaigry.com
@@ -3311,6 +3312,7 @@ mynativeplatform.com
 mynetav.net
 mynetav.org
 mynumber.org
+myornamenti.com
 mypicture.info
 mypop3.net
 mypop3.org
@@ -3924,6 +3926,7 @@ rekmob.com
 relabe.com
 relogin-euwee.com
 renewal-user.com
+rensovetors.info
 reoveryy-accounts-info-id.com
 report-us-apple.pro
 report-us-appleid.com
@@ -4035,6 +4038,7 @@ rvfrm2011.com
 rvnc72k.com
 rzekbhnk.top
 rzzc.pw
+s-adobeanalytics.vice.com
 s-msg-myetherwallet.com
 s20dh7e9dh.com
 s24hc8xzag.com
@@ -4647,6 +4651,7 @@ terraviewbeat.com
 terraviewfly.com
 terraviewnow.com
 terribleturkey.com
+tertronrethed.info
 terworkingaccountapple-yourverifiedhanc.com
 tf16jdhnnc.com
 tfa5e.top
@@ -4685,6 +4690,7 @@ tkhg70uymg.com
 toh.info
 toknowall.com
 tolmets.info
+tonsterandhantan.info
 tonychucks96.hopto.org
 tonystark001.publicvm.com
 top-sj.link
