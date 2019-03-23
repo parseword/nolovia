@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-22 16:28:51
+# Generated at 2019-03-22 23:50:16
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -575,6 +575,7 @@ amex2018.com
 amex2019.com
 amexopesx.com
 amhs.club
+amp-error-reporting.appspot.com
 ampugi334f.com
 analiticoscdn.com
 analytics-google.net
@@ -1166,6 +1167,7 @@ bttrack.com
 btvhdscr.com
 bucksense.com
 bugattijedo.ru
+bugsnag.com
 bumlam.com
 burnside.dtcn.com
 buscar-id-icloud.com
@@ -3040,6 +3042,7 @@ mail-authorization.pro
 mail-service-costumeraccount.com
 mail-service-redirect.com
 mailaccountlogin.online
+mailmunch.co
 mailservice-apple.com
 mainlink.cool
 mainnine.stream
@@ -4741,6 +4744,7 @@ tu42het22n.com
 tudou.com
 tune.com
 turf.digital
+turtl.co
 tuvvpas.com
 tvsquared.com
 twiago.com
