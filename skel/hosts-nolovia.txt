@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-24 16:16:54
+# Generated at 2019-03-24 16:28:43
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1138,6 +1138,7 @@ bootstrap-js.com
 bootstrapjs.com
 boredcrown.com
 bosshugss.me
+bouncyproperty.com
 bprise.com
 bqiovml.com
 brainpad.co.jp
@@ -3094,6 +3095,7 @@ maps-connect.services
 maps-findmyiphone.online
 marchdom4.com
 mariopuzo.ddns.net
+marketingautomation.services
 markowen.duckdns.org
 markscot.ddns.net
 mars.media
