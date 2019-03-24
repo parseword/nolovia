@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-23 10:56:51
+# Generated at 2019-03-23 19:44:22
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -583,6 +583,7 @@ analytics-google.net
 analytics.anvato.net
 analytics.blue
 analytics.tout.com
+and.co.uk
 andbeyond.media
 andspurs.com
 angsrvr.com
@@ -3539,6 +3540,7 @@ ovalpigs.com
 ovnwislxf.info
 owen6000.hopto.org
 oyi9f1kbaj.com
+p-n.io
 p-w.kr
 p5genexs.com
 p78lld1s.top
@@ -3736,6 +3738,7 @@ proads.space
 proclivitysystems.com
 prod.report.nacustomerexperience.citi.com
 profitrumour.com
+profusesupport.com
 proofpark.com
 propelmedia.com
 proper.io
@@ -5409,6 +5412,7 @@ z6vmw.top
 zaeyaeph.com
 zahlungs-verifikation.com
 zahlungsverifikation-abgleich.biz
+zaius.com
 zallmytextmessagescipq1.info
 zapplestore.com
 zbs9uwl4xy.com
