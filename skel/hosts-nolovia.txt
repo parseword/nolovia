@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-24 13:25:59
+# Generated at 2019-03-24 16:16:54
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1156,6 +1156,7 @@ bravo-dog.com
 braze.com
 brazersd.top
 brdlplgvdq.com
+breakfastboat.com
 bridge.industries
 brightfunnel.com
 brightmountainmedia.com
@@ -5418,6 +5419,7 @@ zahlungsverifikation-abgleich.biz
 zaius.com
 zallmytextmessagescipq1.info
 zapplestore.com
+zarget.com
 zbs9uwl4xy.com
 zbwp6ghm.com
 zd2i6k4qi1.com
