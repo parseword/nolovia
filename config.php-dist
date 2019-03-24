@@ -18,7 +18,6 @@
  *
  * This script fetches and makes use of server lists compiled by:
  *
- * Willem de Groot at https://github.com/gwillem/magento-malware-scanner
  * Disconnect at https://disconnect.me/
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
@@ -26,8 +25,10 @@
  * Dan Pollock at http://someonewhocares.org/hosts/
  * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
+ * smed79 at https://github.com/Ultimate-Hosts-Blacklist/smed79_getadmiral.com
  * Spammer Slapper at http://spammerslapper.com/
  * Vetyt Yhonay at https://github.com/Yhonay/antipopads/
+ * Willem de Groot at https://github.com/gwillem/magento-malware-scanner
  * ZeroDot1 at https://zerodot1.gitlab.io/CoinBlockerListsWeb/
  */
 
@@ -210,6 +211,14 @@ $sl->setFilePath('./data/hosts-magento-malware.txt');
 $sl->setUri('https://raw.githubusercontent.com/gwillem/magento-malware-scanner/master/rules/burner-domains.txt');
 $sl->setMinimumExpectedBytes(1024);
 $sl->setValidationText('mage');
+$serverLists[] = $sl;
+
+$sl = new ServerList('GetAdmiral Anti-Adblock List from smed79');
+$sl->setFilePath('./data/hosts-admiral-antiadblock.txt');
+$sl->setUri('https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/smed79_getadmiral.com/master/output/hosts/ACTIVE/hosts');
+$sl->setMinimumExpectedBytes(1024);
+$sl->setValidationText('0.0.0.0');
+$sl->setReplacePatterns(array('|^0.0.0.0(\s+)|m'));
 $serverLists[] = $sl;
 
 unset($sl);

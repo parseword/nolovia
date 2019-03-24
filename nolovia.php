@@ -19,16 +19,17 @@
  * This script fetches and makes use of server lists compiled by:
  *
  * Disconnect at https://disconnect.me/
- * Jason Lam at http://www.networksec.org/grabbho/block.txt
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
  * Malware Domain List at https://www.malwaredomainlist.com/
  * Dan Pollock at http://someonewhocares.org/hosts/
  * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
+ * smed79 at https://github.com/Ultimate-Hosts-Blacklist/smed79_getadmiral.com
  * Spammer Slapper at http://spammerslapper.com/
  * Vetyt Yhonay at https://github.com/Yhonay/antipopads/
- * ZeroDot1 at https://zerodot1.github.io/CoinBlockerLists/
+ * Willem de Groot at https://github.com/gwillem/magento-malware-scanner
+ * ZeroDot1 at https://zerodot1.gitlab.io/CoinBlockerListsWeb/
  */
 
 $timeStart = microtime(true);
