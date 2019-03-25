@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-24 16:28:43
+# Generated at 2019-03-24 19:50:07
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -440,6 +440,7 @@ adjux.com
 adleave.com
 adlightning.com
 adlive.io
+adlmerge.com
 admanmedia.com
 admantx.com
 admaru.com
@@ -967,6 +968,7 @@ aubhiple2.com
 aud3g.com
 audienceamplify.com
 audienciad.com
+audtd.com
 auiviilbp2.com
 aunth-undisable-verification.info
 aurbidpos.com
@@ -1632,6 +1634,7 @@ crownclam.com
 crptentry.com
 crtteo.com
 crypto-loot.com
+cryptoadsmanager.com
 cryptotab.net
 cs6hm.com
 cssrvsync.com
@@ -1746,6 +1749,7 @@ dh2xbuwg.com
 dhcp.biz
 differentdesk.com
 digi-cert.org
+digitaltarget.ru
 dimorphism.stream
 dionbeno.me
 direct-verified.com
@@ -2189,6 +2193,7 @@ googletagmanager.eu
 googlitagmanager.com
 googlz.blackfriday
 goooigle.com
+gooqletagmanager.com
 goquc.com
 gorgeousground.com
 got-game.org
@@ -2461,6 +2466,7 @@ id-sign.us
 id-suspensionintlgetaccount.com
 id-unlock-account.com
 id-verifylockedaccount.com
+id-visitors.com
 idappleconfirmaccount.com
 idch9s8d.com
 idcloudapp-scrapple.com
@@ -3094,6 +3100,7 @@ maps-app.us
 maps-connect.services
 maps-findmyiphone.online
 marchdom4.com
+marfeel.com
 mariopuzo.ddns.net
 marketingautomation.services
 markowen.duckdns.org
