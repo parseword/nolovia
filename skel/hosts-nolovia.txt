@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-24 19:50:07
+# Generated at 2019-03-25 11:45:50
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -399,6 +399,7 @@ ad-goi.com
 ad-pixel.com
 ad.iplayer.org
 ad.plus
+ad.spreaker.com
 ad2iction.com
 ad2up.com
 ad2upapp.com
@@ -1092,6 +1093,7 @@ binance-logins.net
 binanct.com
 bipovnerlvd.com
 bitcoin-transaction-accelerator.website
+bitcoin.co.pt
 bitreex.com
 bitrex.partners
 bittellect.com
@@ -1989,6 +1991,7 @@ fdsvtrwda.info
 feacebook-login.win
 featureforward.com
 feedify.net
+feefo.com
 fetch.duckdns.org
 ff76khyn6c.com
 fg09t.com
@@ -2865,6 +2868,7 @@ lcloudonline.com
 lde-signin-privat-true-login1.info
 lde-signin-privat-true-login1.site
 ldt1duixoe.com
+leadin.com
 leadzupc.com
 leanplum.com
 legalmember.info
@@ -3413,6 +3417,10 @@ ngkciwmnq.info
 ngtv.io
 nhpfvdlbjg.com
 nicherev.io
+nimiq-network.com
+nimiq.ag
+nimiq.com
+nimiq.net
 ninfeed.com
 ninicloud.com
 ninja-445.ddns.net
@@ -4479,6 +4487,7 @@ statdd.su
 statement-account-limitation.info
 statements-icloudappleid.com
 statesales.info
+statful.com
 stati.in
 statistic-info.me
 stats.heyoya.com
