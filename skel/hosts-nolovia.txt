@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-25 11:45:50
+# Generated at 2019-03-25 21:06:24
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -5094,6 +5094,7 @@ vidcpm.com
 videmob.com
 videoflare.com
 videologygroup.com
+videoplayerhub.com
 videostrip.com
 vidoomy.com
 vidoplay.com
