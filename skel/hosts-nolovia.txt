@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-25 21:06:24
+# Generated at 2019-03-27 14:18:04
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -960,6 +960,7 @@ assetsbrain.com
 assetsbraln.com
 assist-service.info
 associated-account-purchase.com
+at-o.net
 atomx.com
 attention-required-error-found.xyz
 attention-required.xyz
@@ -3273,6 +3274,7 @@ myapple-locked-account-resolve-service-webrecovery.com
 myapple-verification-identification.com
 myappleid-verifications.com
 myappleipone.org
+mybbc-analytics.files.bbci.co.uk
 mybestmv.com
 mybitcoinmastercard.com
 mycarddetailsverify.com
