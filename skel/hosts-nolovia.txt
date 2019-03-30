@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-29 12:14:19
+# Generated at 2019-03-30 10:27:24
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1394,6 +1394,7 @@ cloudtrusted.org
 clrstm.com
 cmbestsrv.com
 cmcore.com
+cmp.network-n.com
 cmytuok.top
 code203.ddns.net
 codeonclick.com
@@ -1895,6 +1896,7 @@ ellatrujillo.com
 email-g.com
 emailcostumers-limited.com
 emaile.org
+emltrk.com
 emv3.com
 emxdgt.com
 en-verify.com
@@ -3165,6 +3167,7 @@ mixedreading.com
 mixpo.com
 mjs24.com
 mka8vaj2ru.com
+mktossl.com
 mms.al.com
 mms.chip.de
 mms.cnn.com
