@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-31 13:39:34
+# Generated at 2019-03-31 14:58:52
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -5425,6 +5425,7 @@ ygto.com
 yieldbird.com
 yieldlab.com
 yieldlab.de
+yieldlove.com
 yieldoptimizer.com
 yim3eyv5.top
 yjchiakozj.com
