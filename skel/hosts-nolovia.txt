@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-31 11:02:19
+# Generated at 2019-03-31 13:39:34
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1945,6 +1945,7 @@ etr-mobile-lnterac.com
 etr-mobile1.com
 etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
+evenirpage.tk
 evidon.com
 exceptionless.io
 exclusivebrass.com
@@ -2151,6 +2152,8 @@ get-verived-account.com
 getintent.com
 getjaco.com
 getlytics.com
+getmyconfigplease.com
+getmyfreetraffic.com
 getpaidlikeus.com
 getpolymorph.com
 getsitecontrol.com
@@ -2862,6 +2865,7 @@ lagos042.ddns.net
 larryaffiliates.com
 lashy.ddns.net
 lastbornk1.ddns.net
+lastdaysonlines.com
 lavaspa.ru
 lawpush.ddns.net
 lazycat1.xyz
@@ -3417,6 +3421,7 @@ newadvancetypeliteflash.services
 newcustomads.com
 neweggstats.com
 newpayment-mynetflix.com
+newpush.support
 newrellc.com
 news-mitteilung.online
 newsfacebook24h.com
@@ -3937,6 +3942,7 @@ redirect-to-yourcaccount.com
 redmouse1.xyz
 redpeacock1.xyz
 redpineapplemedia.com
+redrentalservice.com
 redswan1.xyz
 redtram.com
 redwolf1.xyz
@@ -4301,6 +4307,8 @@ servlet-appleidverification.com
 sescure-icloud.com
 seskeu3zk7.com
 sessioncam.com
+setforconfigplease.com
+setforspecialdomain.com
 severvaliidation.xyz
 severvaliidationrequired.xyz
 sexidude.com
@@ -4435,6 +4443,7 @@ solve-account-verificationss-acces.com
 solve-accounts-verifications-info.com
 solve-your-account.net
 solve-your-important-account.net
+somelandingpage.com
 somoaudience.com
 songs.linkpc.net
 sonobi.com
@@ -4515,6 +4524,7 @@ steptoverif.com
 stetic.com
 steve654321.ddns.net
 stolen-icloud.com
+stopenumarationsz.com
 stops-appid.com
 store-getrefund.com
 store-id-resolution-accs9921.com
@@ -4529,6 +4539,7 @@ stormysponge.com
 storygize.com
 storygize.net
 straightnest.com
+strangefullthiggngs.com
 streamrail.com
 streamrail.net
 stringengines.com
@@ -4697,6 +4708,7 @@ tfx1jtisbb.com
 thatmember.com
 theaccountjoined.org
 theagency.com
+thebiggestfavoritemake.com
 thebrave.io
 thelimitedaccount.org
 themediagrid.com
@@ -5095,6 +5107,7 @@ vertification-applesinc.com
 vertification-number-account-setup.com
 vertifiication-account.com
 vertoz.com
+verybeatifulpear.com
 verygoodads.com
 veryield-malyst.com
 veuhub.com
