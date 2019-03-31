@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-30 20:37:20
+# Generated at 2019-03-31 11:02:19
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -588,6 +588,7 @@ analytics.anvato.net
 analytics.blue
 analytics.dvidshub.net
 analytics.tout.com
+analytics.wolfgangs.com
 and.co.uk
 andbeyond.media
 andspurs.com
