@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-03-31 14:58:52
+# Generated at 2019-03-31 19:26:28
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -495,6 +495,7 @@ advandmedia.com
 advangelists.com
 adversal.com
 advertica.ae
+advertisers-openx.com
 advertmention.com
 advertnotices.com
 advertzing.com
@@ -1795,6 +1796,7 @@ dnsapp.info
 dnset.com
 dnso.ddns.net
 dnsrd.com
+dnter.net
 dobellonline.com
 dochase.com
 docksalmon.com
@@ -2795,7 +2797,9 @@ jsoktin.sytes.net
 jspoi.com
 jua05myfbe.com
 juicenectar.com
+jump-time.com
 jump4geo.com
+jumptime.com
 jungleheart.com
 jungloconding.info
 just-easy-travel.com
@@ -2902,6 +2906,8 @@ licious-webupdatepolicy.com
 lie4anyone.com
 lifestreet.com
 lifeupdate.design
+lift-for-mobile.com
+liftdna.net
 lifterpopup.com
 ligadx.com
 ligatus.com
@@ -3151,11 +3157,13 @@ memberdetail-data.info
 memevideoad.com
 memozilla.org
 mercycoin.org
+mesoquant.org
 messageaccount.com
 messagenovice.com
 metric.makemytrip.com
 metrica.yandex.com
 meuzxiejun.com
+mezzobit.com
 mfacebook.net
 mfadsrvr.com
 mg6ikpbhco.com
@@ -3364,6 +3372,7 @@ mywww.biz
 myyethearwallet.com
 myyetherrwallet.com
 myz.info
+mzbcdn.com
 mzol7lbm.com
 mzyfkfj.com
 n.rich
@@ -3549,7 +3558,12 @@ onmypc.net
 onmypc.org
 onmypc.us
 ooq5z.com
+openads.com
 opendingweb.us
+openx.jp
+openxadexchange.com
+openxenterprise.com
+openxenterprise.net
 optad360.com
 optimatic.com
 optimize-stats.voxmedia.com
@@ -3701,6 +3715,7 @@ pilotx.tv
 pinewood-financial.com
 pingma.qq.com
 pixel.archive.is
+pixeldefender.com
 pixfuture.com
 piximedia.com
 pjizzy.hopto.org
@@ -4236,6 +4251,8 @@ serach-icloud.com
 serivice-limiited-account.com
 serivice-limited-account.com
 servebom.com
+servedbyopenx.net
+servedbyopenx.org
 server-account.com
 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 serverbid.com
@@ -4792,6 +4809,7 @@ truefree.pw
 truoptik.com
 trustbankinc.com
 trustd.biz
+trusteddatainterchange.com
 trustkemi.duckdns.org
 trustmordor.pw
 trustx.org
