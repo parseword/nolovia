@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-01 14:15:22
+# Generated at 2019-04-01 23:17:57
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -466,6 +466,7 @@ adrizer.com
 adro.io
 adrock.tv
 adrolx.com
+adrs.me
 ads-twitter.com
 ads.simonandschuster.com
 ads4pics.com
@@ -1238,6 +1239,7 @@ cdngoogle.com
 cdnmage.com
 cdnpayment.com
 cdnppay.com
+cdnpps.us
 cdnrfv.com
 cdnscriptx.com
 cdnwhiltelist.com
@@ -1384,6 +1386,7 @@ clkfeed1008.com
 clkfeed1009.com
 clklab.com
 clmbtech.com
+cloffext.com
 close2seven.com
 cloud-checkyouraccount.com
 cloud-id-recover.com
@@ -1592,6 +1595,7 @@ confrimation-limited.com
 connectad.io
 connectbootstrap.com
 connectignite.com
+connectionstrenth.com
 connexity.net
 consciouscabbage.com
 consensu.org
@@ -2002,6 +2006,7 @@ fdsvtrwda.info
 feacebook-login.win
 featureforward.com
 feedify.net
+feedvertizus.com
 feefo.com
 fetch.duckdns.org
 ff76khyn6c.com
@@ -2158,6 +2163,7 @@ getmyconfigplease.com
 getmyfreetraffic.com
 getpaidlikeus.com
 getpolymorph.com
+getsearchgo.com
 getsitecontrol.com
 gettrials.com
 gexperiments1.com
@@ -2265,6 +2271,7 @@ hackucdt.com
 hajimusa.ddns.net
 halkcekilisiduyurular.com
 halkebank.com
+hanstrackr.com
 hantinlethemsed.info
 hapc.gdn
 happyisp.com
@@ -2885,6 +2892,7 @@ lcloudonline.com
 lde-signin-privat-true-login1.info
 lde-signin-privat-true-login1.site
 ldt1duixoe.com
+leadgen-cbslnk.cnet.com
 leadin.com
 leadzupc.com
 leanplum.com
@@ -3413,6 +3421,7 @@ needvalidationtogolive.xyz
 nej7wwpp1u.com
 nepalhtml.com
 neqbzz4p.top
+nesmotrinamenya.ru
 netfilx-failed-membership.com
 netflix-domain.com
 netflix-mob.com
@@ -4569,6 +4578,7 @@ subscriptions-apple.com
 succeedscene.com
 sucuri-cloud.com
 sucuri-js.com
+sugabit.net
 sulvo.co
 sulvo.com
 sumary-repoerteraccount.com
@@ -4742,6 +4752,7 @@ thirdpresence.com
 thirdrespect.com
 thisadsfor.us
 thismetric.com
+thrillingos.herokuapp.com
 thrive.plus
 throattrees.com
 thrtle.com
@@ -5171,6 +5182,7 @@ voievnenibrinw.com
 volume-login-key-349388231231291.ru
 voluum.com
 volvelle.tech
+votetoda.com
 vpjzrzcqrc.com
 vpptechnologies.com
 vqc6fyl3.com
