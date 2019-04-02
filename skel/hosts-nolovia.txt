@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-01 23:17:57
+# Generated at 2019-04-02 18:54:56
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -165,6 +165,7 @@
 6jvt2.top
 6kauqbszb9.com
 6kr4ccy1.com
+6kup12tgxx.com
 6l1twlw9fy.com
 6ldu6qa.com
 6ped2nd3yp.com
@@ -556,6 +557,8 @@ algovid.com
 alienware-pc.loginto.me
 alienware.ddns.net
 all-ransomware.info
+allmygreatlife.com
+allornamenti.com
 alluorine.info
 almostmy.com
 alooma.com
@@ -1113,6 +1116,7 @@ blackhills.ddns.net
 blackpanda1.xyz
 blackpeacock1.xyz
 blast.ddns.net
+bleeper.io
 bliink.io
 blis.com
 blismedia.com
@@ -1318,6 +1322,7 @@ cjsanandreas.com
 cjvj6jqxpf.com
 ckk69drbro.com
 cl0udfiare.com
+cl96rwprue.com
 claim-policyupdate.com
 clarium.global.ssl.fastly.net
 clarium.io
@@ -1346,6 +1351,7 @@ clickperformance.net
 clickredirection.com
 clicksgear.com
 clicktale.com
+clickterra.net
 clicktracking.biz
 clicktrackopt.com
 clickzs.com
@@ -1632,6 +1638,7 @@ coxmt.com
 cp9t71b6ip.com
 cpactions.com
 cpm10.com
+cpm20.com
 cpmpop.com
 cqyirsc.com
 craigslist-verification.com
@@ -1689,6 +1696,7 @@ d2c7xlmseob604.cloudfront.net
 d2ergeh3ul.com
 d2oh4tlt9mrke9.cloudfront.net
 d39ievd5spb5kl.cloudfront.net
+d4q8zgf756.com
 d7t0ajd8uy1xk.cloudfront.net
 d7vjqf37fh.com
 d9e2m9e83l.com
@@ -1760,6 +1768,7 @@ df8li6at9c.com
 dgaytd37.com
 dgs2749y980f1.cloudfront.net
 dh2xbuwg.com
+dh956.com
 dhcp.biz
 differentdesk.com
 digi-cert.org
@@ -1869,6 +1878,7 @@ e5a87pq.com
 e5omau19i7.com
 e6cfmdmo81.com
 e7is2u38.top
+e9geolgzk6.com
 e9kv7bhnzt.com
 eadv.it
 eaqxjz6bra.com
@@ -1921,6 +1931,7 @@ enjws5329l.com
 enl.duckdns.org
 enloe6qtkd.com
 enmask.com
+enoughts.info
 enterworldofupgradingall.club
 eo62cocntx.com
 epac.to
@@ -2028,6 +2039,7 @@ find-location.us
 find-locations.us
 find-logindata.info
 find-lost-apple-devices.com
+find-my-great-life.com
 find-my-iphone-us.com
 findi-apple-icloud.com
 findidevice.net
@@ -2298,12 +2310,15 @@ hfc195b.com
 hfllrf6lwh.com
 hg777hdorotosskot.info
 hg8cdp9g2m.com
+hg8dc7bm.com
 hghm4u7b61.com
 hgub2polye.com
 hibids5.com
 hicpm10.com
+hicpm5.com
 hiekeegi.com
 higedev.cool
+highcpms.com
 hilariouszinc.com
 hilltopads.com
 hipstarclub.com
@@ -2745,11 +2760,13 @@ jeremizo888.ddns.net
 jetlore.com
 jetos.com
 jewelcheese.com
+jf71qh5v14.com
 jhomeland.ddns.net
 jjmdavj.com
 jkub.com
 joaffs.com
 johnevan227.ddns.net
+jolic2.com
 josephevinchi.com
 jp-appsy-account-lockedd.com
 jpar333.me
@@ -2909,8 +2926,10 @@ lgnqyr3yg6.com
 lh5lg.top
 lh7e9xjy5x.com
 lhqojeofvo.com
+librato-collector.genius.com
 licasd.com
 licious-webupdatepolicy.com
+lie2anyone.com
 lie4anyone.com
 lifestreet.com
 lifeupdate.design
@@ -2941,6 +2960,7 @@ liqwid.solutions
 lisasmithpypl.com
 listrakb.com
 liveburst.com
+livesegmentservice.com
 lizardslaugh.com
 ljja3ef63g.com
 lkjhgfdsatryuio.com
@@ -3349,6 +3369,7 @@ myfinance.com
 myfraudtransactionaccount.center
 myftp.info
 myftp.name
+mygoodlives.com
 mygoogle.eu
 mygtmn.com
 myicloud-apple-account-verify.com
@@ -3375,6 +3396,7 @@ mysetherwalletz.com
 mytransaction-account-fraudprevention.center
 myuaccname-apple.info
 myuserlimit.org
+myusersoffer.com
 myvisualiq.net
 mywww.biz
 myyethearwallet.com
@@ -3437,15 +3459,34 @@ new-loginservice.com
 new-verificationdevelopeer.com
 newadsclicks.com
 newadvancetypeliteflash.services
+newaprads.com
+newaugads.com
 newcustomads.com
+newdecads.com
 neweggstats.com
+newfebads.com
+newfriads.com
+newjanads.com
+newjulads.com
+newjunads.com
+newmarads.com
+newmonads.com
+newnovads.com
+newoctads.com
 newpayment-mynetflix.com
 newpush.support
 newrellc.com
 news-mitteilung.online
+newsatads.com
+newsepads.com
 newsfacebook24h.com
 newsmaxfeednetwork.com
+newsunads.com
+newthuads.com
+newtueads.com
 newuniquesolutions.com
+newwedads.com
+newyearads.com
 nexage.com
 next-verifty-account.com
 nextmillennium.io
@@ -3590,6 +3631,7 @@ organicladybug1.xyz
 organiclion1.xyz
 organicpanda1.xyz
 oribi.io
+ornament-i.com
 orquideassp.com
 osny2p7a0k.com
 otm-r.com
@@ -3693,6 +3735,7 @@ paypl-direct-resolutioncenter.com
 paypol-securities.biz
 paypupdate.com
 pbackpixel.com
+pbterra.com
 pcanywhere.net
 pdfdocusign.com
 peacepowder.com
@@ -3819,6 +3862,7 @@ pub2srv.com
 publir.com
 pubnx.com
 puchex.site
+puhtml.com
 pujj652hkm.com
 pumpmywallet.com
 puqqpjywka.com
@@ -3877,6 +3921,7 @@ q8eqh.top
 q8ntfhfngm.com
 q8ux4fscc7.com
 qaykb.com
+qfdn3gyfbs.com
 qhigh.com
 qiheptnm80.com
 qjjto.com
@@ -4474,6 +4519,7 @@ somelandingpage.com
 somoaudience.com
 songs.linkpc.net
 sonobi.com
+sophang8.com
 soporte-appid.com
 soporteicloud.com
 sorafef.me
@@ -4685,6 +4731,7 @@ systemverification-apple.com
 t1d8ee13pf.com
 t2f9pn3m7w.com
 t7479e4d.com
+tag.brandcdn.com
 tagdeliver.com
 tagon.co
 talentino.ddns.net
@@ -4724,6 +4771,8 @@ termid-paypal.com
 terminus.services
 termlifelearned.us
 terms-service.com
+terraads.net
+terraclicks.com
 terraviewbeat.com
 terraviewfly.com
 terraviewnow.com
@@ -4756,6 +4805,7 @@ thrillingos.herokuapp.com
 thrive.plus
 throattrees.com
 thrtle.com
+ths9j89.com
 thxczhfzad.com
 ticklishpanda1.xyz
 tidytrail.com
@@ -5534,6 +5584,7 @@ zu4l167j77.com
 zvhuevqkmv.com
 zxcvbmnnfjjfwq.com
 zxwiejfbyr.com
+zy16eoat1w.com
 zyns.com
 zypmedia.com
 zz.am
