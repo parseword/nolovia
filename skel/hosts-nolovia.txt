@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-02 18:54:56
+# Generated at 2019-04-03 11:30:38
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3211,6 +3211,8 @@ mixpo.com
 mjs24.com
 mka8vaj2ru.com
 mktossl.com
+ml-api.io
+ml-attr.com
 mms.al.com
 mms.chip.de
 mms.cnn.com
@@ -3909,6 +3911,8 @@ pwrads.net
 pwufxar8.top
 px1alsry.com
 pxladb.club
+pxlsrv.net
+pxltgr.com
 py5iqkj9ny.com
 pypalcare.com
 pyq6n.com
@@ -5240,6 +5244,7 @@ vrtcal.com
 vuble.tv
 vukhhjzd.com
 vuserjs.com
+vuukle-analytics.appspot.com
 vvpcdke43x.com
 vvvvvv-apple.com
 vvvvvv-icloud.com
