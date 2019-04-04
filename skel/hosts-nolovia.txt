@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-03 11:30:38
+# Generated at 2019-04-04 10:41:49
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1625,6 +1625,7 @@ controlx.ddns.net
 convertro.com
 cookiebot.com
 cookielaw.org
+cookiepro.com
 cooleremail.com
 copperchickens.com
 copycarpenter.com
@@ -2266,6 +2267,7 @@ guo1x952bi.com
 guvencingiller.com
 gw1001099.chickenkiller.com
 gw1001099.duckdns.org
+gweini.com
 gwudu.com
 gypsypy.duckdns.org
 gz06x5tqlj.com
@@ -2346,6 +2348,7 @@ hp7cjr78.com
 hqzjz7fncd.com
 hrj91nuwzu.com
 hs-scripts.com
+hsadspixel.net
 hsappstatic.net
 hsbcuksecure.com
 hscta.net
@@ -2938,6 +2941,7 @@ liftdna.net
 lifterpopup.com
 ligadx.com
 ligatus.com
+lightstep.com
 limat-is-account-me.com
 limetalk.com
 limiitaccount.email
@@ -3002,6 +3006,7 @@ log-direct.edge.quora.com
 log-ins.us
 log-sign.us
 log.quora.com
+loggingapi.spingo.com
 loghaomedoc.us
 login-acces-verified-account-intl.com
 login-acces-verify-account-intl.com
