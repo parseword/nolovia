@@ -15747,7 +15747,6 @@ feedback.search.microsoft.com
 feedback.windows.com
 feedbackcensus.com
 feedbackresearch.com
-feedblitz.com
 feedjit.com
 feeds.global-intermedia.com
 feeds.logicbuy.com
@@ -19681,7 +19680,6 @@ industry-deals.com
 industrybrains.com
 industryclick.com
 indusven.com
-indystar.com
 inebriatesqmwpaz.download
 inedo.com
 ineed-location.com
