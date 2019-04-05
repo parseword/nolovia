@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-04 10:41:49
+# Generated at 2019-04-05 12:16:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -977,6 +977,7 @@ attentiveads.com
 attribution.report
 aubhiple2.com
 aud3g.com
+audience.newscgp.com
 audienceamplify.com
 audienciad.com
 audtd.com
@@ -3775,6 +3776,7 @@ pilotx.tv
 pinewood-financial.com
 pingma.qq.com
 pixel.archive.is
+pixel.newscgp.com
 pixeldefender.com
 pixfuture.com
 piximedia.com
@@ -4743,6 +4745,7 @@ t7479e4d.com
 tag.brandcdn.com
 tagdeliver.com
 tagon.co
+tags.newscgp.com
 talentino.ddns.net
 talk2none.com
 talk4anyone.com
