@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-05 20:28:00
+# Generated at 2019-04-06 11:43:26
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4766,6 +4766,7 @@ tckjttdn.top
 tcpidapple-acntcloud.com
 tczzzlwpss.com
 td583.com
+tdhzc1.com
 tds-link-acb.name
 teads.com
 tealium.com
