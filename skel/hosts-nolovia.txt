@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-07 10:20:13
+# Generated at 2019-04-08 19:34:02
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3582,6 +3582,7 @@ oklahomjs.com
 olfkptkfop.com
 oluwahkudi.cf
 omnijay.com
+omnitagjs.com
 oms.eu
 omzdy.top
 onaudience.com
