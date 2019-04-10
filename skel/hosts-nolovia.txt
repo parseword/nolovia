@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-09 18:59:34
+# Generated at 2019-04-09 22:35:11
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3970,6 +3970,9 @@ r4nwdude.com
 r66at6sf.com
 r8mxl.top
 r8oyegintx.com
+rahasn.akamake.net
+rahasn.homewealth.biz
+rahasn.webhop.org
 ransomware.bit
 rapiddomainbuilder.com
 rastreador-apple.com
