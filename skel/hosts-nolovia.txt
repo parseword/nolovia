@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-09 22:35:11
+# Generated at 2019-04-10 10:42:26
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3781,6 +3781,7 @@ pilaff-up.ru
 pilotx.tv
 pinewood-financial.com
 pingma.qq.com
+pixel-a.basis.net
 pixel.archive.is
 pixel.newscgp.com
 pixeldefender.com
