@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-12 12:19:38
+# Generated at 2019-04-13 22:36:31
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -639,6 +639,7 @@ app-updtscure.com
 app.link
 app.tv
 appboy.com
+appboycdn.com
 appdynamics.com
 appid-apple-yun.com
 appid-caseiilkezelgayssd123123.com
@@ -1238,6 +1239,7 @@ cd-cont.com
 cdn-googleapi.com
 cdn-googleservice.com
 cdn-js.link
+cdn.sift.com
 cdnassels.com
 cdnbronto.com
 cdnbronto.info
@@ -2030,6 +2032,8 @@ fhmty1lty9.com
 fidelity-media.com
 fidzup.com
 fiechaev.com
+fieldtest.cc
+fieldtest.la
 filmcoffee.win
 finalcountdown.gq
 find-7.info
@@ -2172,6 +2176,7 @@ get-free-gitf.com
 get-login.com
 get-refund1.com
 get-verived-account.com
+getambassador.com
 getintent.com
 getjaco.com
 getlytics.com
@@ -2310,6 +2315,7 @@ help-solution-limited.com
 help-suport.net
 help-you-in-confirmation.info
 helplimit.net
+hexagon-analytics.com
 hf18yg8q.com
 hfc195b.com
 hfllrf6lwh.com
@@ -4876,6 +4882,7 @@ trafficninjas.co
 trafficpoizon.com
 transaction-payment07.com
 transaction-secure5.com
+traq.li
 traskedlink.com
 trckk.com
 treasury-government.com
@@ -5288,6 +5295,7 @@ warraningalert.xyz
 wateryvan.com
 wdaxvjr9dc.com
 weatherfor.us
+web-analytics.engagio.com
 web-halkbank.net
 web-id-securedinformation.com
 web-info.me
