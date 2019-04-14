@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-13 22:36:31
+# Generated at 2019-04-14 15:15:26
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3428,6 +3428,7 @@ nanovisor.io
 naosecgomosec.gq
 narrative.io
 narusnex.info
+nastylist-instatop50.me
 natimatica.com
 nativein-ad.com
 nativein-feed.com
@@ -3667,6 +3668,7 @@ owen6000.hopto.org
 oyi9f1kbaj.com
 p-n.io
 p-w.kr
+p.nfltags.com
 p5genexs.com
 p78lld1s.top
 p9oqu.com
