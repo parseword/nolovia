@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-14 19:34:48
+# Generated at 2019-04-16 11:09:13
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2593,6 +2593,8 @@ inc-paymentauthorized.com
 inc-sign.top
 inc-signin.top
 inc-views.com
+include-modal.com
+includemodal.com
 increaserev.com
 incrediblesugar.com
 incsupports.com
@@ -3898,6 +3900,7 @@ purchase-activity.com
 purchase-updates.com
 purple6401.com
 purplecat1.xyz
+pushpad.xyz
 pushplay.tv
 pushwoosh.com
 pussl10.com
@@ -4968,6 +4971,7 @@ unbouncepages.com
 undef2trust.com
 under2given.com
 undergiveto54.com
+unequalbrake.com
 unexpect-login.com
 unitytrustcapital.com
 universalcookie.com
