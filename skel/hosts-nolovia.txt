@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-16 11:09:13
+# Generated at 2019-04-16 17:38:37
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2230,6 +2230,7 @@ goodleaccounts.info
 googiecloud.com
 googieservlce.com
 google-analytics.is
+googleads.github.io
 googlecloud.su
 googlemapsup.ddns.net
 googleprotectionshop.com
@@ -2569,6 +2570,7 @@ im2ss2ss.top
 imonomy.com
 impact-ad.jp
 impactify.io
+impactradius-event.com
 importantappleupdate.com
 importloggm.duckdns.org
 improvedigital.com
@@ -3830,6 +3832,7 @@ port25.biz
 positivemobile.com
 possibleboats.com
 postback.info
+powerad.ai
 powerinbox.com
 powerlinks.com
 powerrballi.top
