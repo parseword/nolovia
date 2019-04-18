@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-16 23:31:14
+# Generated at 2019-04-17 19:21:31
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2414,6 +2414,7 @@ iappleid-regist.com
 ib-ibi.com
 ib1oyteqqn.com
 ibasvuru-ziraatbank.com
+ibclick.stream
 ibillboard.com
 ibmoption.com
 iciould.services
@@ -3515,6 +3516,7 @@ nexage.com
 next-verifty-account.com
 nextmillennium.io
 nfkd2ug8d9.com
+ngageics.com
 ngkciwmnq.info
 ngtv.io
 nhpfvdlbjg.com
