@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-17 19:21:31
+# Generated at 2019-04-20 13:08:57
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2398,6 +2398,7 @@ i-myetherwallet.info
 i-myetherwallet.tech
 i-signin.us
 i-signins.us
+i.ubm-us.net
 i027m.top
 i0s26ol9.com
 i1wp.org
@@ -3505,6 +3506,7 @@ news-mitteilung.online
 newsatads.com
 newsepads.com
 newsfacebook24h.com
+newsharecounts.com
 newsmaxfeednetwork.com
 newsunads.com
 newthuads.com
