@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-20 13:08:57
+# Generated at 2019-04-21 11:10:46
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4508,6 +4508,7 @@ silvalliant.info
 silvertiger1.xyz
 simpelkocsn.com
 simpiehuman.com
+simpleanalytics.io
 simplewovmde.com
 simplisticnose.com
 sinceresofa.com
