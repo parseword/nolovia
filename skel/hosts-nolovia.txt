@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-21 11:10:46
+# Generated at 2019-04-22 10:16:50
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1421,6 +1421,7 @@ coin-service.com
 coinbaseverifier.com
 coinsandtokens.io
 coinzilla.com
+coinzillatag.com
 collectiveuk.com
 collector.github.com
 collector.githubapp.com
