@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-25 12:24:27
+# Generated at 2019-04-25 13:26:29
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -464,6 +464,7 @@ adnegah.com
 adnegah.ir
 adnegah.net
 adnium.com
+adoning-unducted.com
 adotmob.com
 adovr.com
 adpixo.com
@@ -528,6 +529,7 @@ aethiopiensidamo.de
 afcwyxnwl0.com
 affiliates-spinit.com
 affle.com
+afflow.btadsmedia.com
 affrh2011.com
 affrh2012.com
 affrh2013.com
@@ -596,6 +598,7 @@ ambientdigitalgroup.com
 ambiguousquilt.com
 ambitiousagreement.com
 amellet.bit
+aments-doments.com
 americanunfinished.com
 amex2018.com
 amex2019.com
@@ -615,12 +618,14 @@ andbeyond.media
 andspurs.com
 angsrvr.com
 angular.club
+anight-alingine.com
 aniview.com
 anselbakery.com
 answerscloud.com
 antistrophebail.com
 antivirus-scanner.com
 antivirus-upgrade.com
+antrively-enland.com
 antsprogrammatic.com
 anxiousapples.com
 anyclip-media.com
@@ -995,9 +1000,11 @@ assist-service.info
 associated-account-purchase.com
 at-o.net
 atomx.com
+atorget-ozonaming.com
 attention-required-error-found.xyz
 attention-required.xyz
 attentiveads.com
+attesent-aments.com
 attractiveafternoon.com
 attribution.report
 aubhiple2.com
@@ -1140,6 +1147,7 @@ bin-updateservice.org
 binance-logins.net
 binanct.com
 bipovnerlvd.com
+birect-nammer.com
 bitcoin-transaction-accelerator.website
 bitcoin.co.pt
 bitreex.com
@@ -1152,6 +1160,7 @@ blackcat1.xyz
 blackhills.ddns.net
 blackpanda1.xyz
 blackpeacock1.xyz
+blaiwards-amentlook.com
 blast.ddns.net
 bleeper.io
 bliink.io
@@ -1263,6 +1272,7 @@ cambridgeanalytica.org
 cancel-paymentorderpaypal-check.com
 canceledpayment.com
 cancelitationebaytransaction.com
+candent-namsung.com
 capablecows.com
 captainbicycle.com
 carajoin.me
@@ -1276,9 +1286,11 @@ carlos88.ddns.net
 carlosluize88.zapto.org
 carscannon.com
 cartolarepresentacoes.com.br
+cartself-amoneorem.com
 cashiopeia-updates.com
 castrokolaz.top
 castup.net
+cathilton-utions.com
 cato-felix.com
 cavanic9.net
 cavixo.com
@@ -1321,6 +1333,7 @@ cgi-webscr-billing-account.com
 cgnl.io
 cguggrstf-managssapplicationsss-lockedpurchases-sevicesss.com
 chairscrack.com
+chanelets-aurning.com
 change-recovery-access.com
 changeip.name
 changeip.net
@@ -1370,7 +1383,9 @@ chriswork999.ddns.net
 chuksthedon.duckdns.org
 cibconline-verifications.com
 cignal.io
+cintrol-prence.com
 citigroups-onlinebk.com
+citines-boutlet.com
 citrix-online.com
 citrix-online.xyz
 citrix-software.com
@@ -1465,6 +1480,7 @@ cloud-wp.org
 cloudcommerce.com
 cloudflare.solutions
 cloudtrusted.org
+clowsulin-detplier.com
 clrstm.com
 cmbestsrv.com
 cmcore.com
@@ -1632,6 +1648,7 @@ completecabbage.com
 complextoad.com
 compress.to
 compte-idapple.com
+conample-essures.com
 conceau.co
 concernedcondition.com
 concernrain.com
@@ -1664,6 +1681,7 @@ confirmtransaction.com
 confirmyourcontacts.com
 confrimation-account.com
 confrimation-limited.com
+congue-leacuse.com
 connectad.io
 connectbootstrap.com
 connectignite.com
@@ -1674,6 +1692,7 @@ consciouschairs.com
 consensu.org
 conso.la
 console.cmcm.com
+consubber-thownsive.com
 consumable.com
 consumertrack.com
 contact-securemyaccount.com
@@ -1684,6 +1703,7 @@ contentignite.com
 contentprogrammatic.com
 context.ly
 contextly.com
+continary-stranks.com
 contopaypal.info
 contribusource.com
 controlaccounticloud.com
@@ -1694,6 +1714,7 @@ cookiebot.com
 cookielaw.org
 cookiepro.com
 cooleremail.com
+coolkshop-scrences.com
 coordinatedcub.com
 copperchickens.com
 copycarpenter.com
@@ -1757,6 +1778,7 @@ cvqgnkeqme.com
 cwkuki.com
 cxense.com
 cybervalidationneeded.xyz
+cyclinted-metrence.com
 czusecureupdates.com
 d0k4.pw
 d0p21g2fep.com
@@ -1815,6 +1837,7 @@ de-sicherheit-check-valid.info
 deadpantruck.com
 deals-discounts-codes.com
 debonairway.com
+debrium-surbara.com
 decibelinsight.com
 decibelinsight.net
 decisivedrawer.com
@@ -1826,6 +1849,7 @@ deesktops.info
 defectivesun.com
 dehaizegroup35.hopto.org
 delegatediscussion.com
+delence-trapril.com
 delightdriving.com
 deliverymodo.com
 delta-search.com
@@ -2202,6 +2226,7 @@ flndmyiphone-applelocation.com
 floodprincipal.com
 floweryoperation.com
 fluct.jp
+fludies-coaticted.com
 fly-apps.com
 fm6dz864.top
 fmi-finder.tk
@@ -2322,6 +2347,7 @@ ghostmoney1.hopto.org
 ghostmoney2.ddns.net
 ghostmoney3.dnsdojo.com
 giddycoat.com
+gifinate-loggage.com
 gifts-cards.review
 gigya.com
 ginzametrics.com
@@ -2745,6 +2771,7 @@ includemodal.com
 increaserev.com
 incrediblesugar.com
 incsupports.com
+indation-beller.com
 indexapps-summary.info
 indexexchange.com
 india-abc.com
@@ -2907,6 +2934,7 @@ itunesapplenvoice.info
 iverifyaccount.info
 ividence.com
 ivykiosk.com
+iwanttodeliver.com
 ixeq490u20.com
 izooto.com
 j-p-morgan-check-onli.com
@@ -3353,6 +3381,7 @@ masttracker.com
 matchcows.com
 maxijs.com
 maximusstafastoriesticks.info
+mayserve-magestor.com
 mbcjufwxg9.com
 mbolo2017.hopto.org
 mbr-targeting.com
@@ -3392,6 +3421,7 @@ michigan-construction.com
 mickyjakey.blogsyte.com
 micro-earth.com
 microad.jp
+mighting-minese.com
 militaryverse.com
 minifyscripts.com
 minormeeting.com
@@ -3828,6 +3858,7 @@ openxadexchange.com
 openxenterprise.com
 openxenterprise.net
 operationkettle.com
+operval-kensions.com
 optad360.com
 optimallimit.com
 optimatic.com
@@ -4055,6 +4086,7 @@ ppmon.com
 practicetoothpaste.com
 prebid.org
 predep.com
+prenteams-junter.com
 presetrabbits.com
 presjra52opdoxgm.duckdns.org
 prestoris.com
@@ -4374,6 +4406,7 @@ rmgserving.com
 rnyetherrwallet.com
 rnyetlherwallet.com
 robbieadanfo.ddns.net
+robbiques-chividers.com
 robinjmcca.ddns.net
 rolandcomputers.com
 ronesio.xyz
@@ -4486,6 +4519,7 @@ sdreif.com
 searchlinks.com
 searchmulty.com
 searchmyiphone.com
+seational-docanded.com
 sec2tunnel.co.uk
 secmail-bofa.com
 secretivecub.com
@@ -4573,6 +4607,7 @@ sentry.io
 seo-fast.ru
 seoconsultants.org
 separatesilver.com
+seprough-galivised.com
 serach-icloud.com
 serivice-limiited-account.com
 serivice-limited-account.com
@@ -4666,6 +4701,7 @@ shakesuggestion.com
 shakytaste.com
 shallowschool.com
 shallowsmile.com
+shaminate-vantake.com
 sharetrough.com
 sharppatch.com
 shelljs.com
@@ -4928,6 +4964,7 @@ structurerod.com
 structuresofa.com
 studentworkbook.pw
 stupendoussleet.com
+stusing-cracieved.com
 sube-hizmeti.org
 subscriptions-apple.com
 subwaybookreview.com
@@ -5073,6 +5110,7 @@ tczzzlwpss.com
 td583.com
 tdhzc1.com
 tds-link-acb.name
+tds-server-us.app
 teads.com
 tealium.com
 tealiumiq.com
@@ -5171,10 +5209,12 @@ tqff3qkzsq.com
 trace-device.us
 tracedesire.com
 track.bizjournals.com
+track.volo-mobile.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.metricool.com
 tracking.marketing
 tracking.nextdoor.com
+trackingapp.info
 trackjs.com
 trackmyshows.tv
 trafficanalyzer.biz
@@ -5201,6 +5241,7 @@ trioninteractive.com
 triplelift.com
 tritetongue.com
 tritondigital.com
+trk750.com
 trkn.us
 trollitrancessions.net
 truckstomatoes.com
@@ -5353,6 +5394,7 @@ updateswitzapple.com
 updateverification-service.com
 updating-information-service.com
 updatingservice.org
+upgers-armine.com
 upgradebestfinishtheclicks.icu
 upgraderservices.cf
 ups-webaps.net
@@ -5562,6 +5604,7 @@ vinfdv6b4j.com
 vipddos.com
 virgintldgame.com
 viriepak.com
+virlemon-sitypes.com
 visasecureverification.info
 visto1.net
 visualdna.com
