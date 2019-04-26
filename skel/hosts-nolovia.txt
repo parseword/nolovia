@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-26 13:03:51
+# Generated at 2019-04-26 18:12:10
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2383,6 +2383,7 @@ googiecloud.com
 googieservlce.com
 google-analytics.is
 googleads.github.io
+googleadsl.com
 googlecloud.su
 googlemapsup.ddns.net
 googleprotectionshop.com
