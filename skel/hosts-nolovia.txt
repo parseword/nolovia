@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-25 13:26:29
+# Generated at 2019-04-26 13:03:51
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1107,6 +1107,7 @@ bhcumsc.com
 bidcollect.com
 biddr.io
 bidellect.com
+bidfilter.com
 bidfluence.com
 bidgear.com
 bidintrinsic.com
@@ -3085,6 +3086,7 @@ kurtangle083.publicvm.com
 kwnq4hg2n9.com
 kzws02uffs.com
 l4oecosq.com
+l6b587txj1.com
 l7r0sgc0.top
 l7wfu866ki.com
 l7xye.top
@@ -3892,6 +3894,7 @@ ovnwislxf.info
 owen6000.hopto.org
 owlsr.us
 oyi9f1kbaj.com
+ozonestsscareer.info
 p-n.io
 p-w.kr
 p.nfltags.com
@@ -5156,6 +5159,7 @@ thebiggestfavoritemake.com
 thebrave.io
 thelimitedaccount.org
 themediagrid.com
+thesandonesof.info
 thescreenroomstore.com
 thesearchagency.net
 thesportscenter.club
