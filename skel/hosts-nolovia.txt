@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-26 18:12:10
+# Generated at 2019-04-28 20:56:57
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -27,6 +27,7 @@
 0sywjs4r1x.com
 1-myetherwallet.com
 1-myetherwallet.info
+106hk.com
 10afdmasaxsssaqrk.com
 10wp.org
 11hrcnll.com
@@ -43,6 +44,7 @@
 157ita684j.com
 1588-2040.co.kr
 15gifts.com
+16yp1ji92a.com
 172ipkuobc.com
 18846846874646-verify.net
 1990.nflfan.org
@@ -1048,6 +1050,7 @@ axclick.store
 axiomaticalley.com
 axmstw8mkn.com
 ayads.co
+ayc0zsm69431gfebd.xyz
 aysnmnzu4u.com
 azadify.com
 azj57rjy.com
@@ -1187,6 +1190,7 @@ bmsusqt94u.com
 bn-multired1.com
 bnmla.com
 bnrnboerxce.com
+bnsjb1ab1e.com
 boa-bankingupdate.online
 bodyclick.net
 bofa-accontcheck.com
@@ -2300,6 +2304,7 @@ g1xgeb82nj.com
 g22rbb7.com
 g27zkdvsxl.com
 g2crowd.com
+g2insights-cdn.azureedge.net
 g2tt3n5jch.com
 g4p1gtll.com
 g6zkzy0g2g.com
@@ -2369,6 +2374,7 @@ gmail-accounts-m.com
 gmail-security-account.com
 gmail-service.online
 gmaile.org
+gmidkz5tgm.com
 go2click.org
 gobankingrates.com
 gobrowsi.com
@@ -3170,6 +3176,7 @@ liqwid.com
 liqwid.solutions
 lisasmithpypl.com
 listrakb.com
+listrakbi.com
 liveburst.com
 livesegmentservice.com
 livetracker.voa.pangea-cms.com
@@ -3662,6 +3669,7 @@ nativka.ru
 navdmp.com
 navistone.com
 nbcuas-tracker.us-east-1.elasticbeanstalk.com
+ncjkedu.com
 near-located.com
 neartsay.com
 necessary-service.info
@@ -4111,6 +4119,7 @@ pro-market.net
 proads.space
 proclivitysystems.com
 prod.report.nacustomerexperience.citi.com
+products.apps.co.me
 profitrumour.com
 profusesupport.com
 proofpark.com
@@ -4808,6 +4817,7 @@ sloi1.com
 slripe.com
 sm534z1jpx.com
 smallbutterfly1.xyz
+smalldealsupportappclicks.top
 smallduck1.xyz
 smallpanda1.xyz
 smartadserver.com
@@ -5936,6 +5946,7 @@ yourreliablesite4content.bid
 yourtrap.com
 ypqy3sgq.com
 yqs6r2hp4j.com
+yr9n47004g.com
 yrxrbha.com
 ys3e965d.top
 ysz6cn9w6x.com
