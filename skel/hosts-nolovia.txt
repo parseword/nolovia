@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-04-28 20:56:57
+# Generated at 2019-04-29 22:35:24
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -622,6 +622,7 @@ angsrvr.com
 angular.club
 anight-alingine.com
 aniview.com
+anon-stats.eff.org
 anselbakery.com
 answerscloud.com
 antistrophebail.com
@@ -1082,6 +1083,7 @@ bcleaningservice.com
 bcnmonetize.com
 bcwdv5bsxi.com
 be4anywhere.com
+beacon.walmart.com
 beamincrease.com
 beamkite.com
 beautifulelephant1.xyz
