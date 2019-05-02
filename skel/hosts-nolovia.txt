@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-01 18:35:40
+# Generated at 2019-05-02 10:47:57
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4445,6 +4445,7 @@ rtk.io
 rtxplatform.com
 ru858am70x.com
 rulerabbit.com
+rum.conde.io
 run2anywhere.com
 runmewivel.com
 runtnc.net
