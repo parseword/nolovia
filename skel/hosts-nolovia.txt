@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-02 10:47:57
+# Generated at 2019-05-03 16:51:42
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -66,6 +66,7 @@
 1x96klcdpn.com
 1xgo.xyz
 2016today.duckdns.org
+206ads.com
 2112.bounceme.net
 24counter.com
 24gossip.net
@@ -5357,6 +5358,7 @@ unlockeds-account.com
 unlockeds-accounts.com
 unlocking-icloud.com
 untidyquestion.com
+untsorce.cool
 unusual-activity-account-i.cloud
 unusual-latransaction.com
 unusualaccess-checkinglogin.com
