@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-03 16:51:42
+# Generated at 2019-05-03 17:16:42
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1003,6 +1003,7 @@ assetsbraln.com
 assist-service.info
 associated-account-purchase.com
 at-o.net
+atmrum.net
 atomx.com
 atorget-ozonaming.com
 attention-required-error-found.xyz
@@ -2253,6 +2254,7 @@ fodlkf9d1p.com
 follingerservicemabe.com
 fomo.com
 fomo.ghost.io
+footprintdns.com
 fopflop.me
 forcetraff.ru
 foresee.com
