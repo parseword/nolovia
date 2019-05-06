@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-03 17:16:42
+# Generated at 2019-05-06 12:16:17
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2439,6 +2439,7 @@ gtagaffilate.com
 guardedgovernor.com
 guardedschool.com
 gubuh.com
+guce.engadget.com
 guerritor.info
 guitarbelieve.com
 gumgum.com
@@ -2523,6 +2524,7 @@ honeygoldfish.com
 hoo1luha.com
 hoplessinple.com
 hoplessinples.com
+hostedprebid.com
 hostingcloud.accountant
 hostingcloud.bid
 hostingcloud.date
@@ -5747,6 +5749,7 @@ webvalidation.xyz
 webvalidationneeded.xyz
 webvalidationrequire.xyz
 webvalidationrequired.xyz
+webvisor.org
 wedirectmedia.com
 wedogreatpurchases.com
 weeb-icloud.top
