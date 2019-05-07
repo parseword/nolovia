@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-06 12:16:17
+# Generated at 2019-05-07 11:39:57
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1789,6 +1789,7 @@ cxense.com
 cybervalidationneeded.xyz
 cyclinted-metrence.com
 czusecureupdates.com
+czx5eyk0exbhwp43ya.biz
 d0k4.pw
 d0p21g2fep.com
 d0ubletraffic.com
