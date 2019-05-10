@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-09 21:19:02
+# Generated at 2019-05-10 16:13:16
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3453,6 +3453,7 @@ mka8vaj2ru.com
 mktossl.com
 ml-api.io
 ml-attr.com
+mm-syringe.com
 mms.al.com
 mms.chip.de
 mms.cnn.com
@@ -3870,6 +3871,7 @@ onmypc.info
 onmypc.net
 onmypc.org
 onmypc.us
+oo-syringe.com
 ooq5z.com
 openads.com
 opendingweb.us
@@ -5171,6 +5173,7 @@ terribleturkey.com
 tertronrethed.info
 terworkingaccountapple-yourverifiedhanc.com
 teschenite.com
+test-adsafeprotected.com
 tf16jdhnnc.com
 tfa5e.top
 tfx1jtisbb.com
