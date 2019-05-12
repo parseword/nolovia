@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-10 16:13:16
+# Generated at 2019-05-12 00:01:22
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -981,6 +981,7 @@ apvo.club
 aquaticowl.com
 ar-micuentaapple.com
 ar1nvz5.com
+aralego.com
 archswimming.com
 area51-ts.com
 argyresthia.com
@@ -4948,6 +4949,7 @@ statements-icloudappleid.com
 statesales.info
 statful.com
 stati.in
+static-mon.yandex.net
 statistic-info.me
 stats.heyoya.com
 stats.rbl.ms
@@ -5642,6 +5644,7 @@ vizsense.com
 vizvaz.com
 vmaxjs.com
 vmg.host
+vmg.nyc
 vneffwecka.com
 vnldaly8r5.com
 vnrherdsxr.com
