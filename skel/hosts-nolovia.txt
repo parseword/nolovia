@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-13 12:16:37
+# Generated at 2019-05-13 12:53:41
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4253,6 +4253,7 @@ quoashei.com
 qvjql3e.com
 qwertize.com
 qy1bx9an4j.com
+r00ts.online
 r00tshit.ddns.net
 r00tziby.ddns.net
 r2b2.cz
