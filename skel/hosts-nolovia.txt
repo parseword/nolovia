@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-12 20:58:32
+# Generated at 2019-05-13 12:16:37
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1172,6 +1172,7 @@ blackpanda1.xyz
 blackpeacock1.xyz
 blaiwards-amentlook.com
 blast.ddns.net
+blazeapi.com
 bleeper.io
 bliink.io
 blis.com
@@ -1864,6 +1865,7 @@ dehaizegroup35.hopto.org
 delegatediscussion.com
 delence-trapril.com
 delightdriving.com
+deliversuper.com
 deliverymodo.com
 delta-search.com
 demand.supply
@@ -2969,6 +2971,7 @@ jarvisdigital.io
 javascloud.com
 javascripts-system.com
 jaybrizzy.gotdns.ch
+jazzedcdn.com
 jblz.net
 jbpreshandes5gm1906.duckdns.org
 jdocfrez.us
@@ -3295,6 +3298,7 @@ loudlunch.com
 lowerdocieu.us
 lp3tdqle.com
 lphone-local.com
+lqw.me
 ltunes.cloud
 ltunescancelationpayment.com
 luckstarclub.com
@@ -4243,6 +4247,7 @@ quebec-lea.com
 quickintertac-paymentrewards.com
 quicksandear.com
 quietknowledge.com
+quikcdn.com
 quizzicalzephyr.com
 quoashei.com
 qvjql3e.com
@@ -4816,6 +4821,7 @@ sinslave.damnitjim.xyz
 site-tracking.com
 site2scureinfo.com
 sitescout.com
+sitespeeds.com
 sixscissors.com
 sixth.biz
 sizesidewalk.com
