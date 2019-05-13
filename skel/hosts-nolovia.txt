@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-12 00:01:22
+# Generated at 2019-05-12 20:58:32
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -637,6 +637,7 @@ apathetictheory.com
 api-profit.com
 api.e-toys.cn
 api.userstyles.org
+api.whizzco.com
 apismanagers.com
 apissystem.com
 apiurl.org
@@ -4014,6 +4015,7 @@ paypupdate.com
 pbackpixel.com
 pbterra.com
 pcanywhere.net
+pcrl.co
 pdfdocusign.com
 peacepowder.com
 percalabia.com
