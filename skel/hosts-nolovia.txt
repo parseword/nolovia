@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-13 12:53:41
+# Generated at 2019-05-13 13:40:29
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2108,6 +2108,7 @@ etr-mobile-lnterac.com
 etr-mobile1.com
 etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
+etreflased.info
 evenirpage.tk
 evidon.com
 exceptionless.io
@@ -2386,6 +2387,7 @@ gmail-security-account.com
 gmail-service.online
 gmaile.org
 gmidkz5tgm.com
+gnpge.com
 go2click.org
 gobankingrates.com
 gobrowsi.com
@@ -2518,6 +2520,7 @@ historicalrequest.com
 hitcpm.com
 hiug862dj0.com
 hizaxytv.com
+hloginnow.net
 hm732.com
 hmv9mvx5.top
 hnnp4ixxkl.com
@@ -4209,6 +4212,7 @@ pwrads.net
 pwufxar8.top
 px1alsry.com
 pxladb.club
+pxlgnpgecom-a.akamaihd.net
 pxlsrv.net
 pxltgr.com
 py5iqkj9ny.com
@@ -4358,6 +4362,7 @@ reignn.com
 reiseeget.com
 rekmob.com
 relabe.com
+relandssymphoking.info
 relogin-euwee.com
 renewal-user.com
 rensovetors.info
@@ -4728,6 +4733,7 @@ sexidude.com
 sexxxy.biz
 sf14g.com
 sf2ej57.com
+sfvwe.com
 sfzhd.top
 shadoweye1.ddns.net
 shaexowi.com
@@ -5805,6 +5811,7 @@ wixab.com
 wixab.it
 wixsite.com
 wizardsbd.com
+wjs.wurflcloud.com
 wklimited.com
 wlespuld.me
 wlespulsd1.me
