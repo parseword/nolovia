@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-17 16:55:09
+# Generated at 2019-05-19 00:00:38
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1314,6 +1314,7 @@ cavanic9.net
 cavixo.com
 caxvm62zyz.com
 cbarsrv.com
+ccmbg.com
 ccumhss.com
 ccvalidate.com
 cd-cont.com
