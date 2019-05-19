@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-19 00:00:38
+# Generated at 2019-05-19 15:14:39
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1342,6 +1342,7 @@ center-cnt.info
 center-intl-suport.com
 centionbreased.info
 ceros.com
+cfgcpyqx40di.changeip.com
 cfigroup.com
 cfqpxzx.com
 cfts1tifqr.com
@@ -2118,6 +2119,7 @@ etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 etreflased.info
 evenirpage.tk
+eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
 exceptionless.io
 exclusivebrass.com
@@ -5272,6 +5274,7 @@ tqff3qkzsq.com
 trace-device.us
 tracedesire.com
 track.bizjournals.com
+track.thesaurus.com
 track.volo-mobile.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.metricool.com
