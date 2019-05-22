@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-19 15:14:39
+# Generated at 2019-05-21 21:15:50
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2903,6 +2903,7 @@ invitesugar.com
 invoice-appidreceivefraud.com
 ioawyjf4bh.com
 iocnkrbgic.com
+iocnt.net
 ios-accountslocked.org
 ios104-iphoneid.com
 ios12-icloudid.com
@@ -4146,6 +4147,7 @@ previouspotato.com
 prfdesk.pro
 prince.hackermind.info
 printertender.be
+printio-geo.appspot.com
 printscreens.info
 priv-my-autoservice.com
 privacyaccountlimited.com
