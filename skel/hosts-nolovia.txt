@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-23 14:50:11
+# Generated at 2019-05-24 10:36:38
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -249,6 +249,7 @@ aaucwbe.com
 aax.media
 aaxads.com
 aaxdetect.com
+ab1n.net
 abackchain.com
 abandonedaction.com
 abandonedclover.com
