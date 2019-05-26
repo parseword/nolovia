@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-25 17:40:36
+# Generated at 2019-05-26 16:57:42
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -15,15 +15,18 @@
 0879dbbeb31e0c83d.com
 0a0qetx8et.com
 0azx1.com
+0byv9mgbn0.com
 0eijh8996i.com
 0f81i8zmcp.com
 0gctp5ht.top
 0h6djpk8fn.com
 0j7z9aw6.top
 0n55f9zgy7.com
+0naa190101.mobi
 0pe.kr
 0pyn37dv3m.com
 0ql3xxre2h.com
+0sntp7dnrr.com
 0sywjs4r1x.com
 1-myetherwallet.com
 1-myetherwallet.info
@@ -49,6 +52,7 @@
 18846846874646-verify.net
 1990.nflfan.org
 19bk5lo5q2.com
+1c309erm.top
 1dmp.co
 1dumb.com
 1e-transfer-interac.com
@@ -65,6 +69,7 @@
 1wvw2jgkca.com
 1x96klcdpn.com
 1xgo.xyz
+1zv9jakhux.com
 2016today.duckdns.org
 206ads.com
 2112.bounceme.net
@@ -130,6 +135,7 @@
 4f2sm1y1ss.com
 4ij4g22t67.com
 4jnzhl0d0.com
+4l7wg5kf3z.com
 4mydomain.com
 4o64flb.com
 4ojwnsgub2.com
@@ -163,10 +169,12 @@
 61wp.org
 65mjvw6i1z.com
 65u0tvf9l4.com
+65vk1fba34.com
 65xps.com
 6d79qh7j.com
 6dbac32rsl.com
 6f2tjr26.top
+6fct2uu3vw.com
 6jvt2.top
 6kauqbszb9.com
 6kr4ccy1.com
@@ -176,6 +184,7 @@
 6ped2nd3yp.com
 6sc.co
 6u4dxh2f14.com
+6uwehz1xp4.com
 6v0dgrcr6q.com
 6wxduscd9p.com
 6zw2rcfd.com
@@ -198,6 +207,7 @@
 7svuq83t90.com
 7vxlfstt.top
 7wkfzsj7ss.com
+7xc4n.com
 81p5b.top
 82o9v830.com
 86a6b542l7.com
@@ -221,6 +231,7 @@
 9526s7bwd0.com
 95p5qep4aq.com
 96n5r5va.top
+98bf9h8jbg.com
 993es3uxpz.com
 99hucfypkq.com
 9amq5z4y1y.com
@@ -240,6 +251,7 @@ ACHYNE.PUBLICVM.COM
 I0wp.org
 I3wp.org
 Rvfrm2008.com
+Sd5DoOzRy8.com
 a3cloud.net
 a4.tl
 a63t9o1azf.com
@@ -585,7 +597,9 @@ algovid.com
 alienware-pc.loginto.me
 alienware.ddns.net
 all-ransomware.info
+allmygreatestlife.com
 allmygreatlife.com
+allmyverygreatlife.com
 allornamenti.com
 alluorine.info
 almostmy.com
@@ -1170,6 +1184,7 @@ bin-updateservice.org
 binance-logins.net
 binanct.com
 bipovnerlvd.com
+biqle.ru
 birect-nammer.com
 bitcoin-transaction-accelerator.website
 bitcoin.co.pt
@@ -1260,6 +1275,7 @@ broadcastbed.com
 broaddoor.com
 brontocdn.com
 brownpanda1.xyz
+browsers.support
 bsbrxl7znz.com
 btez8.xyz
 bttrack.com
@@ -1420,6 +1436,7 @@ citrix-online.xyz
 citrix-software.com
 citwinery.com
 citywiners.com
+cjl58f3agc.com
 cjpufffy.hopto.org
 cjsanandreas.com
 cjvj6jqxpf.com
@@ -1900,6 +1917,7 @@ department-gov.com
 dere879.me
 derraaa11.me
 desbloqueioicloud.com
+descargas2020.com
 desertedbreath.com
 desertedrat.com
 dessertcount.com
@@ -1918,6 +1936,7 @@ dewifal.com
 dexessee.com
 df8li6at9c.com
 dgaytd37.com
+dghgutalvz.com
 dgs2749y980f1.cloudfront.net
 dh2xbuwg.com
 dh956.com
@@ -2058,6 +2077,7 @@ ece-logger.nandomedia.com
 echo-cat.com
 economicoutlook.net
 economicpizzas.com
+ecpms.net
 ed9wkbpy.com
 edigitalsurvey.com
 edns.biz
@@ -2791,6 +2811,7 @@ ilog-in.us
 ilog-ins.us
 ilxhsgd.com
 im2ss2ss.top
+imgadult.com
 immensehoney.com
 imonomy.com
 impact-ad.jp
@@ -3510,6 +3531,7 @@ mms.huffingtonpost.com
 mms.lifehacker.com
 mnbvcxzzz12.com
 mnfioew.info
+mnoa6ez1eq.com
 mobifoth.com
 mobile-found.com
 mobileadtrading.com
@@ -3544,6 +3566,7 @@ morggy11.ddns.net
 morningflashsee.club
 motigo.com
 motionspots.com
+movcpm.com
 mowfruit.com
 mp-app.info
 mp-tracker.com
@@ -3771,6 +3794,7 @@ newjanads.com
 newjulads.com
 newjunads.com
 newmarads.com
+newmayads.com
 newmonads.com
 newnovads.com
 newoctads.com
@@ -4069,6 +4093,7 @@ pbackpixel.com
 pbterra.com
 pcanywhere.net
 pcrl.co
+pctnew.com
 pdfdocusign.com
 peacepowder.com
 pegloang.com
@@ -4109,6 +4134,7 @@ pixel.app.returnpath.net
 pixel.archive.is
 pixel.newscgp.com
 pixeldefender.com
+pixelsrvdmn.com
 pixfuture.com
 piximedia.com
 pjizzy.hopto.org
@@ -4220,6 +4246,7 @@ purchase-activity.com
 purchase-updates.com
 purple6401.com
 purplecat1.xyz
+push-notifications.top
 pushpad.xyz
 pushplay.tv
 pushwoosh.com
@@ -5241,6 +5268,7 @@ termlifelearned.us
 terms-service.com
 terraads.net
 terraclicks.com
+terravast.com
 terraviewbeat.com
 terraviewfly.com
 terraviewnow.com
@@ -5324,6 +5352,7 @@ trackingapp.info
 trackjs.com
 trackmyshows.tv
 trafficanalyzer.biz
+trafficbroker.xyz
 trafficfactory.biz
 trafficjunky.com
 trafficninjas.co
@@ -5365,6 +5394,7 @@ trustx.org
 ttoc8ok.com
 tu42het22n.com
 tudou.com
+tumejortorrent.com
 tune.com
 turf.digital
 turtl.co
@@ -5706,6 +5736,7 @@ videoplayerhub.com
 videostrip.com
 vidoomy.com
 vidoplay.com
+vidsdelivery.com
 vidssp.com
 vidstart.com
 view-location.top
@@ -5949,6 +5980,7 @@ xbzwwsagli.com
 xcacherdie.stream
 xendiz.com
 xev2o.com
+xghfi97mk6.com
 xgrwjbui.top
 xi-myetherwallet-12z.com
 xilfqkxezy.com
