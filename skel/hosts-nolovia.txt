@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-05-28 21:52:01
+# Generated at 2019-06-01 17:32:13
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -595,6 +595,7 @@ albacross.com
 alcmpn.com
 alfadart.com
 alfcdn.com
+algolia.net
 algovid.com
 alienware-pc.loginto.me
 alienware.ddns.net
@@ -5356,6 +5357,7 @@ tracking.nextdoor.com
 trackingapp.info
 trackjs.com
 trackmyshows.tv
+trackonomics.net
 trafficanalyzer.biz
 trafficbroker.xyz
 trafficfactory.biz
