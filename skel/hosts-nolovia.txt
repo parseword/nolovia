@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-01 17:32:13
+# Generated at 2019-06-03 11:27:46
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -6008,6 +6008,7 @@ xn--bokchain-18a20d.com
 xn--btfnex-p9ac.com
 xn--btforex-rfb.com
 xn--bttrex-3va.com
+xn--clouflare-y3d.com
 xn--cm-fka.review
 xn--denibank-63b.com
 xn--ehterdeta-wd6d.com
