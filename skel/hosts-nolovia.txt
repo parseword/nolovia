@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-03 11:27:46
+# Generated at 2019-06-04 22:58:50
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3049,6 +3049,13 @@ jetos.com
 jewelcheese.com
 jf71qh5v14.com
 jhomeland.ddns.net
+jisusaiche-475487.c.cdn77.org
+jisusaiche-componentrysolut.netdna-ssl.com
+jisusaiche.biz
+jisusaiche.com
+jisusaiche.com.wtxcdn.com
+jisusaiche.global.ssl.fastly.net
+jisusaiche.secure.footprint.net
 jjmdavj.com
 jkub.com
 joaffs.com
@@ -3298,6 +3305,7 @@ lockedappsecurity.net
 lockedmyacc-appleid.info
 lockerdome.com
 locktdguw9.com
+loders.club
 log-direct.edge.quora.com
 log-ins.us
 log-sign.us
@@ -3914,6 +3922,7 @@ oicssiq.com
 oklahomjs.com
 olfkptkfop.com
 oluwahkudi.cf
+olytics.omeda.com
 omnijay.com
 omniscientspark.com
 omnitagjs.com
@@ -3972,6 +3981,7 @@ optincollect.com
 optinmonster.com
 optmnstr.awesomemotive.netdna-cdn.com
 optmnstr.com
+oqs.omeda.com
 orderconfirmation-appleshops.com
 orealjs.com
 orfn.com
@@ -4556,6 +4566,8 @@ rtxplatform.com
 ru858am70x.com
 rulerabbit.com
 rum.conde.io
+rum.dynapis.com
+rum.dynapis.info
 run2anywhere.com
 runmewivel.com
 runtnc.net
@@ -4923,6 +4935,7 @@ sixth.biz
 sizesidewalk.com
 sj-mod.link
 sj-syst.link
+sjremetrics.java.com
 skrilln.net
 sleepcartoon.com
 slimcut.com
@@ -5056,6 +5069,7 @@ statful.com
 stati.in
 static-mon.yandex.net
 statistic-info.me
+stats.datawrapper.de
 stats.heyoya.com
 stats.rbl.ms
 statsdot.eu
@@ -5383,6 +5397,7 @@ trioninteractive.com
 triplelift.com
 tritetongue.com
 tritondigital.com
+trk.email.dynect.net
 trk750.com
 trkn.us
 trollitrancessions.net
@@ -5617,6 +5632,7 @@ validatorcc.com
 validattion-mandatory.xyz
 validattionmandatory.xyz
 validitions-apple-account-service.com
+valthyra.com
 vanfireworks.com
 vaxaqngzs3.com
 vdbhe7ti.com
