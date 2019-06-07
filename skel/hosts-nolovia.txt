@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-04 22:58:50
+# Generated at 2019-06-06 22:41:21
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2346,6 +2346,7 @@ freewheel.com
 freewheel.tv
 freewww.biz
 freewww.info
+freshaddress.biz
 freshchat.com
 freshmarketer.com
 friend4cdn.com
@@ -3484,6 +3485,7 @@ masttracker.com
 matchcows.com
 maxijs.com
 maximusstafastoriesticks.info
+maxymiser.net
 mayserve-magestor.com
 mbcjufwxg9.com
 mbolo2017.hopto.org
