@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-07 13:30:21
+# Generated at 2019-06-08 20:04:29
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1183,6 +1183,7 @@ billing-validate2.com
 billingmembership-9.com
 billingupdate-logins.com
 bills-access9980723124-barokahin.com
+bilsyndication.com
 bin-updateservice.org
 binance-logins.net
 binanct.com
@@ -2414,6 +2415,7 @@ gettrials.com
 gexperiments1.com
 gexperiments2.com
 gexperiments3.com
+gexperiments4.com
 gfbnr.com
 gfgixev3d4.com
 ghostery-collector-115893389.us-east-1.elb.amazonaws.com
@@ -3547,6 +3549,7 @@ mms.cnn.com
 mms.huffingtonpost.com
 mms.lifehacker.com
 mnbvcxzzz12.com
+mnd-track-backend.herokuapp.com
 mnfioew.info
 mnoa6ez1eq.com
 mobifoth.com
