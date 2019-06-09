@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-09 16:45:47
+# Generated at 2019-06-09 17:17:52
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -690,6 +690,7 @@ app-securitypaymentaccountapp.com
 app-service-information.com
 app-signs.us
 app-updtscure.com
+app-us1.com
 app.link
 app.tv
 appboy.com
@@ -4748,6 +4749,7 @@ selfmademan.ddns.net
 selfmademan2.ddns.net
 sellclassics.com
 semasio.net
+sendpulse.com
 sendsmtp.com
 sentry.io
 seo-fast.ru
