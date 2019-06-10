@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-10 12:17:48
+# Generated at 2019-06-10 18:17:39
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -544,6 +544,7 @@ adwords-login.com
 adwords-online.org
 adwords-ppc.org
 adxcore.com
+adxtracking.com
 adzumi.com
 aeckcjy.com
 aerserv.com
@@ -1439,6 +1440,7 @@ citines-boutlet.com
 citrix-online.com
 citrix-online.xyz
 citrix-software.com
+citrusad.net
 citwinery.com
 citywiners.com
 cjl58f3agc.com
@@ -5375,6 +5377,7 @@ track.thesaurus.com
 track.volo-mobile.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.metricool.com
+tracking.landroverusa.com
 tracking.marketing
 tracking.nextdoor.com
 trackingapp.info
@@ -5831,6 +5834,7 @@ wateryvan.com
 wdaxvjr9dc.com
 weatherfor.us
 web-analytics.engagio.com
+web-frontend-dot-sc-analytics.appspot.com
 web-halkbank.net
 web-id-securedinformation.com
 web-info.me
