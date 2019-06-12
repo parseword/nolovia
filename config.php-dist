@@ -18,6 +18,7 @@
  *
  * This script fetches and makes use of server lists compiled by:
  *
+ * Paul Butler at https://ssl.bblck.me/
  * Disconnect at https://disconnect.me/
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malwarebytes at https://hosts-file.net/?s=Download
@@ -219,6 +220,13 @@ $sl->setUri('https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/smed79_g
 $sl->setMinimumExpectedBytes(1024);
 $sl->setValidationText('0.0.0.0');
 $sl->setReplacePatterns(array('|^0.0.0.0(\s+)|m'));
+$serverLists[] = $sl;
+
+$sl = new ServerList('BarbBlocker from paulgb');
+$sl->setFilePath('./data/hosts-barbblocker.txt');
+$sl->setUri('https://ssl.bblck.me/blacklists/domain-list.txt');
+$sl->setMinimumExpectedBytes(1024);
+$sl->setValidationText('functionalclam');
 $serverLists[] = $sl;
 
 unset($sl);
