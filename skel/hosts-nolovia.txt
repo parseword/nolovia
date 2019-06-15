@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-12 15:14:01
+# Generated at 2019-06-15 12:34:34
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1139,6 +1139,7 @@ bestadbid.com
 bestboundary.com
 bestsecuritysearch.com
 betsransfercomunications.org
+bettermetrics.co
 betweendigital.com
 bewilderedblade.com
 bfmio.com
@@ -1747,6 +1748,7 @@ consensu.org
 conso.la
 console.cmcm.com
 consoupow.com
+consting-hancessor.com
 constintptr.com
 consubber-thownsive.com
 consumable.com
@@ -3123,6 +3125,7 @@ jua05myfbe.com
 juicenectar.com
 jump-time.com
 jump4geo.com
+jumpetiter.info
 jumptime.com
 jungleheart.com
 jungloconding.info
@@ -3861,6 +3864,7 @@ ninthdecimal.com
 nitropay.com
 nlwy0.com
 nnycrypto.com
+nofejectontrab.info
 noiselessplough.com
 nondescriptcrowd.com
 nondescriptsmile.com
@@ -4663,6 +4667,7 @@ scrubswim.com
 scureee-paypall.com
 scuremail.com
 sd5doozry8.com
+sdasasyydd.com
 sddos.xyz
 sdreif.com
 searchlinks.com
@@ -5065,12 +5070,14 @@ sslvalidator.com
 sso-billingservice-webapps.com
 ssphwy.com
 ssraju3n.com
+sstats.kroger.com
 stack-sonar.com
 stackadapt.com
 stakingscrew.com
 stakingslope.com
 standingnest.com
 starreviews.com
+stat-rock.com
 stat-sj.link
 stat.media
 statdd.su
@@ -5347,6 +5354,7 @@ ticklishpanda1.xyz
 tidytrail.com
 tika-search.com
 timesink.com
+tinpiecessful.info
 tinybear1.xyz
 tiqcdn.com
 tj9pcnb2ws.com
