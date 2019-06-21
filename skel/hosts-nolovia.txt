@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-15 12:34:34
+# Generated at 2019-06-21 11:22:27
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -640,6 +640,7 @@ analytics-google.net
 analytics.anvato.net
 analytics.blue
 analytics.dvidshub.net
+analytics.inform.com
 analytics.newscred.com
 analytics.tout.com
 analytics.wolfgangs.com
@@ -2118,6 +2119,7 @@ emltrk.com
 emv3.com
 emxdgt.com
 en-verify.com
+en25.com
 encoderform.com
 encouragingwilderness.com
 encrypterforms.com
@@ -4556,6 +4558,7 @@ rnyetlherwallet.com
 robbieadanfo.ddns.net
 robbiques-chividers.com
 robinjmcca.ddns.net
+roistat.com
 rolandcomputers.com
 ronesio.xyz
 ronytazz2121.ddns.net
@@ -4972,6 +4975,7 @@ smartlook.com
 smartplugin.youbora.com
 smartstream.tv
 smashsurprise.com
+smetrics.corus.ca
 smetrics.foxnews.com
 smilingwaves.com
 smlblinds.com
@@ -5341,6 +5345,7 @@ thirdpresence.com
 thirdrespect.com
 thirstytwig.com
 thisadsfor.us
+thisiswaldo.com
 thismetric.com
 threechurch.com
 thrillingos.herokuapp.com
