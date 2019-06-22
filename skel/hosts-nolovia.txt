@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-21 11:22:27
+# Generated at 2019-06-22 14:37:09
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3635,6 +3635,7 @@ my-icnid-icloud.com
 my-incid-icloud.com
 my-infos.com
 my-iocid-icloud.com
+my-kzn.com
 my-softbank-security.com
 my03.com
 my6sense.com
@@ -4162,6 +4163,7 @@ pingma.qq.com
 piquantpigs.com
 pixel-a.basis.net
 pixel.app.returnpath.net
+pixel.archive.fo
 pixel.archive.is
 pixel.newscgp.com
 pixeldefender.com
