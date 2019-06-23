@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-22 23:59:10
+# Generated at 2019-06-23 14:21:20
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4411,6 +4411,7 @@ readingopera.com
 readymoon.com
 realcenter-mobileapps.com
 realshieldlinked.com
+realtorpage.io
 realtrustsafe.com
 realvu.com
 reason-locked-id1.info
@@ -5930,6 +5931,7 @@ webvisor.org
 wedirectmedia.com
 wedogreatpurchases.com
 weeb-icloud.top
+wehaa.net
 wehaveupdate-policypageserv.com
 wellmadefrog.com
 wellsfargo-config.xyz
