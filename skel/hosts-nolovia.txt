@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-22 14:37:09
+# Generated at 2019-06-22 23:59:10
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4025,6 +4025,7 @@ owen6000.hopto.org
 owlsr.us
 oyi9f1kbaj.com
 ozonestsscareer.info
+ozpr.net
 p-n.io
 p-w.kr
 p.nfltags.com
@@ -5327,6 +5328,7 @@ tf16jdhnnc.com
 tfa5e.top
 tfx1jtisbb.com
 thatmember.com
+the-ozone-project.com
 theaccountjoined.org
 theagency.com
 thebiggestfavoritemake.com
@@ -5367,6 +5369,7 @@ tiqcdn.com
 tj9pcnb2ws.com
 tkekbn5sfk.com
 tkhg70uymg.com
+tm-awx.com
 toecircle.com
 toh.info
 toknowall.com
@@ -6158,6 +6161,7 @@ yadangz.ddns.net
 yahthahm.com
 yamoo.com.ng
 ybkxsm.com
+ybp.yahoo.com
 ye185hcamw.com
 yealnk.com
 yellowbird1.xyz
