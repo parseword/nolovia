@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-23 14:21:20
+# Generated at 2019-06-24 13:11:29
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -639,7 +639,9 @@ analiticoscdn.com
 analytics-google.net
 analytics.anvato.net
 analytics.blue
+analytics.dnnapi.com
 analytics.dvidshub.net
+analytics.getshogun.com
 analytics.inform.com
 analytics.newscred.com
 analytics.tout.com
@@ -1090,6 +1092,7 @@ ayc0zsm69431gfebd.xyz
 aysnmnzu4u.com
 azadify.com
 azj57rjy.com
+b0e8.com
 b1wb3fjea1.com
 b2c.com
 b3z29k1uxb.com
@@ -1115,6 +1118,7 @@ batbuilding.com
 baways.com
 bawdybeast.com
 bbypass.pw
+bc0a.com
 bcleaningservice.com
 bcnmonetize.com
 bcwdv5bsxi.com
@@ -4166,6 +4170,7 @@ pixel-a.basis.net
 pixel.app.returnpath.net
 pixel.archive.fo
 pixel.archive.is
+pixel.getshogun.com
 pixel.newscgp.com
 pixeldefender.com
 pixelsrvdmn.com
@@ -4423,6 +4428,7 @@ receptiveink.com
 receptivereaction.com
 recommender.scarabresearch.com
 reconizerindentificationaccount.com
+recovermycart.com
 recovers-account-disabeld-access.com
 recovery-access-secure.com
 recovery-account-system.com
