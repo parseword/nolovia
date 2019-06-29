@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-25 23:16:18
+# Generated at 2019-06-29 13:12:43
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3204,6 +3204,7 @@ l9kfxu1c5x.com
 laappleservee.com
 ladcbteihg.gq
 lagos042.ddns.net
+lamtrigger.com
 larryaffiliates.com
 lashy.ddns.net
 lastbornk1.ddns.net
@@ -3280,6 +3281,7 @@ liqwid.solutions
 lisasmithpypl.com
 listrakb.com
 listrakbi.com
+listtraceast.cloudapp.net
 liveburst.com
 livesegmentservice.com
 livetracker.voa.pangea-cms.com
@@ -4353,6 +4355,7 @@ qmkr7isp3o.com
 qnageoh3ns.com
 qpc3hunbn2.com
 qpoe.com
+qsstats.com
 qsxjs.com
 qth7n6akcr.com
 quacksquirrel.com
@@ -5259,10 +5262,12 @@ swimslope.com
 swiss-underupdate.com
 switchconcepts.com
 swordgoose.com
+sysduo.com
 syst-sj.link
 system-account-verification.com
 system-backup.biz
 systemverification-apple.com
+sysune.com
 t1d8ee13pf.com
 t2f9pn3m7w.com
 t7479e4d.com
