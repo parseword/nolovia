@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-29 13:12:43
+# Generated at 2019-06-30 21:09:38
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -5285,6 +5285,7 @@ tangerine-webverifications.com
 tangibleteam.com
 tappx.com
 taptapvideo.com
+targeting.perso.aws.arc.pub
 targetingedge.com
 tastefulsongs.com
 tavertotsand.info
@@ -5404,6 +5405,7 @@ tport9.com
 tqff3qkzsq.com
 trace-device.us
 tracedesire.com
+track.beyondmenu.com
 track.bizjournals.com
 track.thesaurus.com
 track.volo-mobile.com
