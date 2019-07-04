@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-06-30 21:09:38
+# Generated at 2019-07-04 11:38:32
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -638,6 +638,7 @@ ampugi334f.com
 analiticoscdn.com
 analytics-google.net
 analytics.anvato.net
+analytics.audioeye.com
 analytics.blue
 analytics.dnnapi.com
 analytics.dvidshub.net
@@ -1122,8 +1123,10 @@ bc0a.com
 bcleaningservice.com
 bcnmonetize.com
 bcwdv5bsxi.com
+bdg-analytics.appspot.com
 be4anywhere.com
 beacon.aimtell.com
+beacon.riskified.com
 beacon.walmart.com
 beamincrease.com
 beamkite.com
@@ -2783,6 +2786,7 @@ id-suspensionintlgetaccount.com
 id-unlock-account.com
 id-verifylockedaccount.com
 id-visitors.com
+id5-sync.com
 idappleconfirmaccount.com
 idch9s8d.com
 idcloudapp-scrapple.com
