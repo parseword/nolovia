@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-07-04 11:38:32
+# Generated at 2019-07-08 12:05:14
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2308,6 +2308,7 @@ flavordecision.com
 flimsycircle.com
 fljozww19f.com
 flndmyiphone-applelocation.com
+flocdn.com
 floodprincipal.com
 floweryoperation.com
 fluct.jp
@@ -2338,6 +2339,7 @@ formisimo.com
 forultimateandbest4upgradepc.download
 forwrdnow.com
 fourarithmetic.com
+foxpush.com
 fqvkntefmd.com
 fraddation-pyments-acounting.com
 frailoffer.com
@@ -2905,6 +2907,7 @@ innity.com
 innocentwax.com
 innovid.com
 inquisitiveinvention.com
+inspcloud.com
 insta-signin.xyz
 instaaccount.xyz
 instagarm.net
@@ -4237,6 +4240,7 @@ ppl-checker-for-family.com
 ppleid-lockedid.com
 ppmon.com
 practicetoothpaste.com
+prd-collector-anon.playbuzz.com
 prebid.org
 predep.com
 prenteams-junter.com
@@ -5270,6 +5274,7 @@ sysduo.com
 syst-sj.link
 system-account-verification.com
 system-backup.biz
+system1.company
 systemverification-apple.com
 sysune.com
 t1d8ee13pf.com
