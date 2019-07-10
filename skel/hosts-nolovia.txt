@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-07-08 12:05:14
+# Generated at 2019-07-10 14:25:11
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2456,6 +2456,7 @@ glassboxcdn.com
 glassboxcloud.com
 glassboxdigital.com
 gld35wndkn.com
+glogger.stuff.com
 glossysense.com
 glotgrx.com
 gmail-accounts-m.com
@@ -2602,6 +2603,7 @@ hm732.com
 hmv9mvx5.top
 hnnp4ixxkl.com
 hockeyapp.net
+hognoob.se
 hollowshake.com
 home-secured-autentic-verifi-account.com
 home-update.net
