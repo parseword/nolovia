@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-07-12 22:37:51
+# Generated at 2019-07-15 18:49:40
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -523,6 +523,8 @@ adtechium.com
 adtelligent.com
 adthink.com
 adtng.com
+adtrack.calls.net
+adtrack.voicestar.com
 adtrackdirect.com
 adtrue.com
 advalue.com.vn
@@ -640,6 +642,7 @@ amp-error-reporting.appspot.com
 ampugi334f.com
 analiticoscdn.com
 analytics-google.net
+analytics-static.ugc.bazaarvoice.com
 analytics.anvato.net
 analytics.audioeye.com
 analytics.blue
@@ -3172,6 +3175,7 @@ k77hof1z7k.com
 ka04b.com
 kabooaffiliates.com
 kalooga.com
+kampyle.com
 karisimbi.net
 kaycee7.ddns.net
 kbx1sth37s.com
@@ -3345,6 +3349,7 @@ log-direct.edge.quora.com
 log-ins.us
 log-sign.us
 log.quora.com
+logger.unsplash.com
 loggingapi.spingo.com
 loghaomedoc.us
 login-acces-verified-account-intl.com
@@ -4804,6 +4809,7 @@ seprough-galivised.com
 serach-icloud.com
 serivice-limiited-account.com
 serivice-limited-account.com
+serped.net
 servebom.com
 servedbyopenx.net
 servedbyopenx.org
@@ -4981,6 +4987,7 @@ sinceresofa.com
 sincerespy.com
 sinslave.damnitjim.xyz
 site-tracking.com
+site24x7rum.com
 site2scureinfo.com
 sitescout.com
 sitespeeds.com
