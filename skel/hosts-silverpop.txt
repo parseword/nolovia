@@ -1,9 +1,9 @@
 ################################################################################
-# nolovia IBM Silverpop Marketing blacklist file
+# nolovia Acoustic/Silverpop Marketing blacklist file
 # Part of nolovia, <https://github.com/parseword/nolovia/>
 #
-# The following domains are used by an IBM marketing and analytics subsidiary
-# known as Silverpop. These domains are often linked to via advertising emails,
+# The following domains are used by Silverpop, a marketing and analytics product
+# offered by Acoustic. These domains are often linked to via advertising emails,
 # or load tracking JavaScript on some websites. If you find yourself having
 # trouble, you may want to disable this list in the config.php file.
 #

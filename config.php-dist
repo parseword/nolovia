@@ -105,7 +105,7 @@ $sl->setFilePath('./data/hosts-government-malware.txt');
 $sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-government-malware.txt');
 $serverLists[] = $sl;
 
-$sl = new ServerList('nolovia IBM Silverpop Marketing');
+$sl = new ServerList('nolovia Acoustic/Silverpop Marketing');
 $sl->setFilePath('./data/hosts-silverpop.txt');
 $sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-silverpop.txt');
 $serverLists[] = $sl;
