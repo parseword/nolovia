@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-07-17 15:35:55
+# Generated at 2019-07-23 12:08:32
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1537,6 +1537,7 @@ clkfeed1008.com
 clkfeed1009.com
 clklab.com
 clmbtech.com
+clnwve.com
 cloffext.com
 cloisteredhydrant.com
 close2seven.com
@@ -3776,6 +3777,7 @@ mytransaction-account-fraudprevention.center
 myuaccname-apple.info
 myuserlimit.org
 myusersoffer.com
+myvisitors.se
 myvisualiq.net
 mywww.biz
 myyethearwallet.com
@@ -4355,6 +4357,7 @@ pwrads.net
 pwufxar8.top
 px1alsry.com
 pxladb.club
+pxlclnvwe-a.akamaihd.net
 pxlgnpgecom-a.akamaihd.net
 pxlsrv.net
 pxltgr.com
