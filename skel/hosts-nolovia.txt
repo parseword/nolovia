@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-07-23 12:08:32
+# Generated at 2019-07-28 12:19:00
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -5674,6 +5674,7 @@ uxbewzrfyp.com
 uxxr80jwng.com
 uymkdz9s.com
 v3rjvtt.com
+va-endpoint.com
 vadideo.com
 validate-to-get-access.xyz
 validate2explore.xyz
@@ -5852,6 +5853,7 @@ virgintldgame.com
 viriepak.com
 virlemon-sitypes.com
 visasecureverification.info
+visitor-analytics.io
 visitor-track.com
 visto1.net
 visualdna.com
