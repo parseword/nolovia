@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-07-28 12:19:00
+# Generated at 2019-07-30 21:32:12
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1162,6 +1162,8 @@ bfmio.com
 bg6s0.com
 bgsh.io
 bhcumsc.com
+bidbarrel.cbsnews.com
+bidbarrel.cbsnews.com.edgekey.net
 bidcollect.com
 biddr.io
 bidellect.com
@@ -1369,6 +1371,7 @@ cd-cont.com
 cdn-googleapi.com
 cdn-googleservice.com
 cdn-js.link
+cdn.firstpromoter.com
 cdn.sift.com
 cdnassels.com
 cdnbronto.com
@@ -2423,6 +2426,7 @@ gdocs.download
 ge-stion.com
 genesismedia.com
 genus.ai
+geoedge.be
 geoip.alm.com
 gestyy.com
 get-confirmation.com
@@ -4201,6 +4205,7 @@ pixel.archive.fo
 pixel.archive.is
 pixel.getshogun.com
 pixel.newscgp.com
+pixel.patch.com
 pixeldefender.com
 pixelsrvdmn.com
 pixfuture.com
