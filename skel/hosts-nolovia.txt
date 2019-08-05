@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-08-03 13:04:16
+# Generated at 2019-08-05 16:27:50
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1024,6 +1024,7 @@ ar-micuentaapple.com
 ar1nvz5.com
 aralego.com
 archswimming.com
+ardp.hldns.ru
 area51-ts.com
 argyresthia.com
 ariseboundary.com
