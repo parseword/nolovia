@@ -26,7 +26,7 @@
  * Dan Pollock at http://someonewhocares.org/hosts/
  * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
- * smed79 at https://github.com/Ultimate-Hosts-Blacklist/smed79_getadmiral.com
+ * smed79 at https://github.com/smed79/blacklist/
  * Spammer Slapper at http://spammerslapper.com/
  * Vetyt Yhonay at https://github.com/Yhonay/antipopads/
  * Willem de Groot at https://github.com/gwillem/magento-malware-scanner
@@ -216,9 +216,9 @@ $serverLists[] = $sl;
 
 $sl = new ServerList('GetAdmiral Anti-Adblock List from smed79');
 $sl->setFilePath('./data/hosts-admiral-antiadblock.txt');
-$sl->setUri('https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/smed79_getadmiral.com/master/output/hosts/ACTIVE/hosts');
+$sl->setUri('https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt');
 $sl->setMinimumExpectedBytes(1024);
-$sl->setValidationText('0.0.0.0');
+$sl->setValidationText('Admiral HOSTS list');
 $sl->setReplacePatterns(array('|^0.0.0.0(\s+)|m'));
 $serverLists[] = $sl;
 
