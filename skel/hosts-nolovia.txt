@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-08-15 20:02:47
+# Generated at 2019-08-17 21:17:47
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2307,6 +2307,7 @@ findmyph0ne.com
 findni-iphone.net
 findyouriphones.com
 fingahvf.top
+firebaselogging.googleapis.com
 firm-intl.com
 firsatziraatdesizinlle.com
 firstfetchflash.club
@@ -6292,6 +6293,7 @@ zemanta.com
 zeotap.com
 zertweekdoc.us
 zetazync.com
+zg-api.com
 zha6ivnktt.com
 zhtlvag.com
 zidedge.com
