@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-08-17 21:17:47
+# Generated at 2019-08-20 15:51:27
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -413,6 +413,7 @@ acount-reviiews.com
 acount-update-limited.com
 acounts-appleid.com
 acridtwist.com
+acstat.com
 activaguard.com
 activation-account-procced.com
 activation-icloud.com
@@ -656,6 +657,7 @@ analytics.inform.com
 analytics.newscred.com
 analytics.tout.com
 analytics.wolfgangs.com
+analytics.worldtable.co
 and.co.uk
 andbeyond.media
 andspurs.com
@@ -4330,6 +4332,7 @@ purchase-updates.com
 purple6401.com
 purplecat1.xyz
 push-notifications.top
+push.world
 pushpad.xyz
 pushplay.tv
 pushwoosh.com
@@ -5145,6 +5148,7 @@ starreviews.com
 stat-rock.com
 stat-sj.link
 stat.media
+statad.ru
 statdd.su
 statement-account-limitation.info
 statements-icloudappleid.com
