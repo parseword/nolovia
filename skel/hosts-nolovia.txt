@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-08-20 15:51:27
+# Generated at 2019-08-24 12:10:50
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -144,6 +144,7 @@
 4roxllpf6f.com
 4ukqzi8d7l.com
 4v9wp.com
+5155352.com
 51nlno7cgy.com
 550b3ikb9j.com
 565an8qpws.com
@@ -5016,6 +5017,7 @@ sixth.biz
 sizesidewalk.com
 sj-mod.link
 sj-syst.link
+sjdhqk.live
 sjremetrics.java.com
 skrilln.net
 sleeknote.com
