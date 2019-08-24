@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-08-24 12:10:50
+# Generated at 2019-08-24 13:54:39
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4664,6 +4664,7 @@ rzekbhnk.top
 rzzc.pw
 s-adobeanalytics.vice.com
 s-msg-myetherwallet.com
+s2.reutersmedia.net
 s20dh7e9dh.com
 s24hc8xzag.com
 s2sterra.com
