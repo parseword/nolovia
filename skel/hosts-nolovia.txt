@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-08-26 19:00:00
+# Generated at 2019-08-27 16:17:16
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -446,6 +446,7 @@ adamatic.co
 adapex.io
 adaranth.com
 adaxis.media
+adblockrelief.com
 adclickservice.com
 adcrew.co
 addefend.com
@@ -4228,6 +4229,7 @@ pixel.app.returnpath.net
 pixel.archive.fo
 pixel.archive.is
 pixel.getshogun.com
+pixel.mintigo.com
 pixel.newscgp.com
 pixel.patch.com
 pixeldefender.com
