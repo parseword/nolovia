@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-08-24 13:54:39
+# Generated at 2019-08-26 19:00:00
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -307,6 +307,7 @@ accessc-itigroupb.com
 accessfidelitybn.com
 accessid-applestores.com
 accessinfoverification.com
+accesstrade.net
 accoount-resolve-center.net
 accou1nt-update-login.com
 accounsystemverificationppal.com
@@ -515,6 +516,7 @@ adsbtrk.com
 adscompass.com
 adservices.brandcdn.com
 adsfirstsun.com
+adshort.co
 adsolut.in
 adspruce.com
 adspsp.com
@@ -623,6 +625,7 @@ altervista.org
 altitude-arena.com
 altitudedigital.com
 alwqfajh.com
+amadagasca.com
 amarachi.hopto.org
 amasty.biz
 amazoapp.com
@@ -1101,6 +1104,7 @@ awzbijw.com
 axclick.store
 axiomaticalley.com
 axmstw8mkn.com
+ay.gy
 ayads.co
 ayc0zsm69431gfebd.xyz
 aysnmnzu4u.com
@@ -1167,6 +1171,7 @@ betweendigital.com
 bewilderedblade.com
 bfmio.com
 bg6s0.com
+bgrndi.com
 bgsh.io
 bhcumsc.com
 bidbarrel.cbsnews.com
@@ -1492,6 +1497,7 @@ cleansite.info
 cleansite.us
 clearbit.com
 clearcomb.com
+clearload.bid
 clearpier.com
 cli.bz
 click-cpa.net
@@ -1817,6 +1823,7 @@ cp9t71b6ip.com
 cpactions.com
 cpm10.com
 cpm20.com
+cpm4link.com
 cpmpop.com
 cqyirsc.com
 crabbychin.com
@@ -1866,6 +1873,7 @@ cwkuki.com
 cxense.com
 cybervalidationneeded.xyz
 cyclinted-metrence.com
+czechcash.com
 czusecureupdates.com
 czx5eyk0exbhwp43ya.biz
 d0k4.pw
@@ -2454,6 +2462,7 @@ getpaidlikeus.com
 getpolymorph.com
 getsearchgo.com
 getsitecontrol.com
+getsurl.com
 gettrials.com
 gexperiments1.com
 gexperiments2.com
@@ -2547,6 +2556,7 @@ grt05.com
 gstaticadssl.l.google.com
 gsx2newapple.com
 gtagaffilate.com
+guangzizai.com
 guardedgovernor.com
 guardedschool.com
 gubuh.com
@@ -2560,6 +2570,7 @@ gw1001099.chickenkiller.com
 gw1001099.duckdns.org
 gweini.com
 gwudu.com
+gynax.com
 gypsypy.duckdns.org
 gz06x5tqlj.com
 h-bid.com
@@ -3080,6 +3091,7 @@ j4a73n7v5k.com
 j93557g.com
 j9j6l.top
 jackboy7204.zapto.org
+jackettrain.com
 jadeitite.com
 jamexistence.com
 jarvisdigital.io
@@ -4233,6 +4245,7 @@ plusmarketingagency.com
 pm48j.top
 pmadx.com
 pmi5media.com
+pndelfast.com
 pocketmath.com
 poiuytyuiopkjfnf.com
 polarbear.freeddns.org
@@ -5040,6 +5053,7 @@ smartadserver.com
 smartlook.com
 smartplugin.youbora.com
 smartstream.tv
+smashseek.com
 smashsurprise.com
 smetrics.corus.ca
 smetrics.foxnews.com
