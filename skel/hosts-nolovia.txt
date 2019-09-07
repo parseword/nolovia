@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-09-01 16:28:12
+# Generated at 2019-09-07 12:43:42
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1055,6 +1055,7 @@ assetsbrain.com
 assetsbraln.com
 assist-service.info
 associated-account-purchase.com
+aswpsdkus.com
 at-o.net
 atmrum.net
 atomx.com
@@ -3794,6 +3795,7 @@ mynativeplatform.com
 mynetav.net
 mynetav.org
 mynumber.org
+myoffrz.io
 myornamenti.com
 mypicture.info
 mypop3.net
@@ -4083,6 +4085,7 @@ oupushee.com
 ouradse.com
 ourhobby.com
 ourjra52fullexchgm.duckdns.org
+outbrainimg.com
 outster.com
 ovalpigs.com
 ovnwislxf.info
