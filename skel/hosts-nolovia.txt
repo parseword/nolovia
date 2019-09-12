@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-09-08 15:52:45
+# Generated at 2019-09-11 23:47:44
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3298,6 +3298,7 @@ lh5lg.top
 lh7e9xjy5x.com
 lhqojeofvo.com
 librato-collector.genius.com
+libring.com
 licasd.com
 licious-webupdatepolicy.com
 lie2anyone.com
