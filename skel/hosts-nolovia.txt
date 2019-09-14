@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-09-11 23:47:44
+# Generated at 2019-09-13 18:57:28
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -548,6 +548,7 @@ advertzing.com
 advidi.com
 advinteo.com
 advocatecdn.com
+adwerx.com
 adwidecenter.com
 adwol.com
 adwordls-account.site
@@ -5311,6 +5312,7 @@ supportlimitedaccount-verification.org
 supportlimitedservice-accounts.net
 supportlimitedservicesacount-paypal.com
 supportlogin-costumers.com
+supportmetrics.apple.com
 supports.ltd
 supports.services
 supportserviceaccount-limiteds.net
