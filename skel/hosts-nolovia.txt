@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-09-13 18:57:28
+# Generated at 2019-09-14 15:00:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -521,6 +521,7 @@ adshort.co
 adsolut.in
 adspruce.com
 adspsp.com
+adspyglass.com
 adstanding.com
 adsterra.com
 adtags.pro
@@ -1522,6 +1523,7 @@ clicktrackopt.com
 clickzs.com
 client-accountbilling.com
 client-accountremove.com
+client-event-reporter.twitch.tv
 client-servicezones.com
 clientmediaserver.com
 clientspaymentservicers-nettflixdataresolvs.com
@@ -6245,6 +6247,7 @@ xts7fgss.com
 xu5ctufltn.com
 xv9xm6zxb8.com
 xvidmovies.in
+xxe2.com
 xxuz.com
 xxxy.biz
 xxxy.info
