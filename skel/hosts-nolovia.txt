@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-10-23 22:36:29
+# Generated at 2019-10-29 21:53:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -693,6 +693,7 @@ apissystem.com
 apiurl.org
 apk-bancodobrasil.com
 apl.report
+apomaya.tech
 app-bancobrasil.com
 app-bancodobrasil.com
 app-epicgamespplrefund.com
@@ -1031,6 +1032,7 @@ appvador.com
 aprode.bit
 aps.amazon.com
 apvo.club
+apxy.io
 aquaticowl.com
 ar-micuentaapple.com
 ar1nvz5.com
@@ -4014,6 +4016,7 @@ ohpoliy.com
 ohqj2ygd4h.com
 oicssiq.com
 oklahomjs.com
+olavygoxybyz.tk
 olfkptkfop.com
 oluwahkudi.cf
 olytics.omeda.com
@@ -4723,6 +4726,7 @@ safepassword.ru
 safepaypal.com
 safeprivatcy.com
 safeyouform.com
+sail-personalize.com
 sajari.com
 salemove.com
 samescripts.com
@@ -5454,6 +5458,7 @@ theuserlimit.org
 theuserlimite.org
 thiksikr.com
 thinkablerice.com
+thirdparty.bnc.lt
 thirdpresence.com
 thirdrespect.com
 thirstytwig.com
@@ -6301,6 +6306,7 @@ ynhhgr2zen.com
 ynxs.io
 yoc.com
 youbora.com
+youborafds01.com
 youdontcare.com
 youpayme.info
 your-account-unlock.com
