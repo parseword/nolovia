@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-10-29 21:53:48
+# Generated at 2019-11-02 20:45:18
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -665,6 +665,7 @@ analytics.newscred.com
 analytics.tout.com
 analytics.wolfgangs.com
 analytics.worldtable.co
+analytics.xcal.tv
 and.co.uk
 andbeyond.media
 andspurs.com
@@ -3598,6 +3599,7 @@ messageaccount.com
 messagenovice.com
 metric.makemytrip.com
 metrica.yandex.com
+metricscollector.lp.xcal.tv
 meuzxiejun.com
 mezzobit.com
 mfacebook.net
@@ -5108,6 +5110,7 @@ softcode2017.hopto.org
 solads.media
 solobay.ru
 solutation-update.com
+solutionshindsight.net
 solve-account-verificationss-acces.com
 solve-accounts-verifications-info.com
 solve-your-account.net
