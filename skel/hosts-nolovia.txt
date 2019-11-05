@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-11-02 20:45:18
+# Generated at 2019-11-04 21:55:36
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2169,6 +2169,7 @@ email-g.com
 emailcostumers-limited.com
 emaile.org
 emltrk.com
+emsecure.net
 emv3.com
 emxdgt.com
 en-verify.com
@@ -4441,6 +4442,7 @@ qmkr7isp3o.com
 qnageoh3ns.com
 qpc3hunbn2.com
 qpoe.com
+qrzlaatf.xyz
 qsstats.com
 qsxjs.com
 qth7n6akcr.com
@@ -4860,6 +4862,7 @@ selectmedia.asia
 selfmademan.ddns.net
 selfmademan2.ddns.net
 sellclassics.com
+selligent.com
 semasio.net
 sendpulse.com
 sendsmtp.com
@@ -5063,6 +5066,8 @@ sjremetrics.java.com
 skrilln.net
 sleeknote.com
 sleepcartoon.com
+slgnt.eu
+slgnt.us
 slimcut.com
 slimcut.media
 slimcutmedia.com
@@ -5132,6 +5137,7 @@ source-updateacces-accountlocked.com
 source-updateacces-helpaccountlocked.com
 source-updateacces-servicelocked.com
 sovrn.com
+sovrnlabs.net
 specjs.com
 spectacularsnail.com
 spectrocoinbtc.com
