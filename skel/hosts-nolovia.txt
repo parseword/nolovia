@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-11-04 21:55:36
+# Generated at 2019-11-15 12:14:40
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1049,6 +1049,7 @@ artwell8.hopto.org
 as07d698u9.com
 asadzntx.com
 asderman.no-ip.org
+asdjkljfjaowjfq.net
 ashleyrnadison.com
 asiatravelagency.ddns.net
 asksummaryaccount.com
