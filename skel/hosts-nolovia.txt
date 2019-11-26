@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-11-15 12:14:40
+# Generated at 2019-11-25 22:07:21
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -444,6 +444,7 @@ ad6media.fr
 adagio.io
 adamatic.co
 adapex.io
+adaptiveads.com
 adaranth.com
 adaxis.media
 adblockrelief.com
@@ -1475,6 +1476,7 @@ chocolateplatform.com
 choicepoint.com
 chriswork999.ddns.net
 chuksthedon.duckdns.org
+churnsignal.com
 cibconline-verifications.com
 cignal.io
 cintrol-prence.com
