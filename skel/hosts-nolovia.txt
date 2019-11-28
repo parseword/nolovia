@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-11-25 22:07:21
+# Generated at 2019-11-27 19:25:47
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -606,6 +606,7 @@ ak-facebook.com
 ak-is.net
 ak0gsh40.com
 akiyvjiy1z.com
+akstat.io
 alabamascripts.com
 aladdin-iulius.com
 albacross.com
