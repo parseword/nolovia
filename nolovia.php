@@ -23,7 +23,6 @@
  * Malwarebytes at https://hosts-file.net/?s=Download
  * Malware Domain List at https://www.malwaredomainlist.com/
  * Dan Pollock at http://someonewhocares.org/hosts/
- * Ransomware Tracker at https://ransomwaretracker.abuse.ch/blocklist/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
  * smed79 at https://github.com/Ultimate-Hosts-Blacklist/smed79_getadmiral.com
  * Spammer Slapper at http://spammerslapper.com/
