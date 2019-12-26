@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-11-28 21:40:20
+# Generated at 2019-12-25 20:05:17
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2143,6 +2143,7 @@ easyplatform.com
 eawp2ra7.top
 ebahpya.com
 ebarena.tv
+ebbp1.pro
 ebdr3.com
 ebizmart.biz
 ebo7v4tkuo.com
@@ -4748,6 +4749,7 @@ safeprivatcy.com
 safeyouform.com
 sail-personalize.com
 sajari.com
+salaure.pro
 salemove.com
 samescripts.com
 samexsame.com
