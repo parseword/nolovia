@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-12-25 20:05:17
+# Generated at 2019-12-26 21:02:25
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1536,6 +1536,7 @@ clicktrackopt.com
 clickzs.com
 client-accountbilling.com
 client-accountremove.com
+client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
 client-servicezones.com
 clientmediaserver.com
@@ -4087,6 +4088,7 @@ openxenterprise.com
 openxenterprise.net
 operationkettle.com
 operval-kensions.com
+opoxv.com
 optad360.com
 optimallimit.com
 optimatic.com
@@ -4106,6 +4108,7 @@ organiclion1.xyz
 organicpanda1.xyz
 oribi.io
 oriel.io
+origin-analytics-prod.production.braintree-api.com
 ornament-i.com
 orquideassp.com
 osny2p7a0k.com
@@ -4455,6 +4458,7 @@ qkpcihpo16.com
 ql6401rkow.com
 qmkr7isp3o.com
 qnageoh3ns.com
+qoe-1.yottaa.net
 qpc3hunbn2.com
 qpoe.com
 qrzlaatf.xyz
@@ -5644,6 +5648,7 @@ unbounce.com
 unbouncepages.com
 undef2trust.com
 under2given.com
+underdog.media
 undergiveto54.com
 unequalbrake.com
 unexpect-login.com
