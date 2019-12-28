@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-12-26 21:02:25
+# Generated at 2019-12-28 15:31:27
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -606,6 +606,7 @@ ajjhtetv87.com
 ajkzd9h.com
 ak-facebook.com
 ak-is.net
+ak-is2.net
 ak0gsh40.com
 akiyvjiy1z.com
 akstat.io
@@ -1930,6 +1931,7 @@ data.bntech.io
 databerries.com
 datacenter-customer.com
 datacreated-updates.info
+datacygnal.io
 datadoghq-browser-agent.com
 datadoghq.com
 datanyze.com
@@ -3478,6 +3480,7 @@ lsd.systemten.org
 ltunes.cloud
 ltunescancelationpayment.com
 luckstarclub.com
+lucretius-ada.com
 lumpyleaf.com
 lvgvax82bp.com
 lw2ofgc2zo.com
@@ -4670,6 +4673,7 @@ ritzykey.com
 ritzysponge.com
 rkdms.com
 rkdtt0hez7.com
+rlcdn.com
 rllcll.com
 rlteaid.com
 rmgserving.com
@@ -4699,6 +4703,7 @@ rtbsape.com
 rtbstandards.com
 rtclx.com
 rtk.io
+rtpdn11.com
 rtxplatform.com
 ru858am70x.com
 rulerabbit.com
@@ -4891,6 +4896,7 @@ sendsmtp.com
 sentry.io
 seo-fast.ru
 seoconsultants.org
+seodollars.com
 separatesilver.com
 seprough-galivised.com
 serach-icloud.com
@@ -5064,6 +5070,7 @@ sillyscrew.com
 silvalliant.info
 silvertiger1.xyz
 similarsabine.com
+simonsignal.com
 simpelkocsn.com
 simpiehuman.com
 simpleanalytics.io
@@ -5418,6 +5425,7 @@ targeting.perso.aws.arc.pub
 targeting.tgam.arcpublishing.com
 targetingedge.com
 tastefulsongs.com
+tattle.api.osano.com
 tavertotsand.info
 tawdryson.com
 tay-sun.ru
@@ -5447,6 +5455,7 @@ teknosurf2.com
 telaria.com
 telegram-verification.com
 telemetrics.klaviyo.com
+telemetry.allrecipes.com
 telemetry.mozilla.org
 tellapart.com
 temporaryhold-webappssvcs.com
@@ -5663,6 +5672,7 @@ unlock-limited-account.com
 unlock-login-id-frozen.com
 unlock-myaccount-i.cloud
 unlock-payment-userid.com
+unlock-protocol.com
 unlock-step-verification.com
 unlocked-acccount-webapps.com
 unlocked-account-apps.com
@@ -5749,6 +5759,7 @@ urlads.net
 urldelivery.com
 urlife2all.com
 urnachay.com
+usageanalytics.coveo.com
 usbktransact.com
 uscert.top
 uscourtsgov.com
