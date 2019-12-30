@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-12-28 15:31:27
+# Generated at 2019-12-30 15:39:59
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1823,6 +1823,7 @@ controlaccounticloud.com
 controlmage.com
 controlx.ddns.net
 convertflow.co
+convertful.com
 convertro.com
 cookiebot.com
 cookielaw.org
@@ -4151,6 +4152,7 @@ panini101.chickenkiller.com
 paradoxfactor.com
 parafarmaciaabascal.com
 parchedangle.com
+pardot.com
 park-travels.com
 parscale.com
 parscalecloud.com
