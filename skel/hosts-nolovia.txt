@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-12-30 19:52:41
+# Generated at 2019-12-30 21:38:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -416,6 +416,7 @@ acount-id.com
 acount-reviiews.com
 acount-update-limited.com
 acounts-appleid.com
+acoustic.co
 acridtwist.com
 acstat.com
 activaguard.com
@@ -3088,6 +3089,7 @@ isasecret.com
 iservershost.com
 ishahguv.com
 isign-in.us
+ispot.tv
 issue-access.com
 istomembersproduct.com
 isupport-device.xyz
@@ -5445,6 +5447,7 @@ tdhzc1.com
 tds-link-acb.name
 tds-server-us.app
 teads.com
+tealeaf.ibmcloud.com
 tealium.com
 tealiumiq.com
 teamoluwa.ddns.net
@@ -6341,6 +6344,7 @@ yellowbird1.xyz
 yellowleopard1.xyz
 yellowmeercat1.xyz
 yeo1tfjz5f.com
+yext-pixel.com
 ygto.com
 yieldbird.com
 yieldlab.com
