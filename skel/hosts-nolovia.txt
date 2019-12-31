@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-12-30 15:39:59
+# Generated at 2019-12-30 19:52:41
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -514,6 +514,7 @@ ads-twitter.com
 ads.simonandschuster.com
 ads4pics.com
 adsafeprotected.com
+adsales.snidigital.com
 adsame.com
 adsbtrack.com
 adsbtrk.com
@@ -667,6 +668,7 @@ analytics.dvidshub.net
 analytics.getshogun.com
 analytics.inform.com
 analytics.newscred.com
+analytics.snidigital.com
 analytics.tout.com
 analytics.wolfgangs.com
 analytics.worldtable.co
@@ -1062,6 +1064,7 @@ aso1.net
 asorock.mooo.com
 assd-webapps.com
 assetmage.com
+assets.sni-dat.com
 assetsbrain.com
 assetsbraln.com
 assist-service.info
@@ -5551,6 +5554,7 @@ track.beyondmenu.com
 track.bizjournals.com
 track.thesaurus.com
 track.volo-mobile.com
+track.wayin.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.metricool.com
 tracking.aegpresents.com
