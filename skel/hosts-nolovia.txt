@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2019-12-30 21:38:48
+# Generated at 2020-01-14 14:40:41
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -669,6 +669,7 @@ analytics.dvidshub.net
 analytics.getshogun.com
 analytics.inform.com
 analytics.newscred.com
+analytics.nextopia.net
 analytics.snidigital.com
 analytics.tout.com
 analytics.wolfgangs.com
@@ -1869,6 +1870,7 @@ crtteo.com
 crtx.info
 crypto-loot.com
 cryptoadsmanager.com
+cryptonotepool.org.uk
 cryptotab.net
 cs6hm.com
 cssrvsync.com
@@ -3976,6 +3978,7 @@ nlwy0.com
 nnycrypto.com
 nofejectontrab.info
 noiselessplough.com
+nonameriky10.live
 nondescriptcrowd.com
 nondescriptsmile.com
 nondescriptstocking.com
