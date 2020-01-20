@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-19 15:24:12
+# Generated at 2020-01-20 13:23:18
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2651,6 +2651,7 @@ help-suport.net
 help-you-in-confirmation.info
 helplimit.net
 hexagon-analytics.com
+hextom.com
 hf18yg8q.com
 hfc195b.com
 hfllrf6lwh.com
@@ -3706,6 +3707,7 @@ mozgvya.com
 mp-app.info
 mp-tracker.com
 mparticle.com
+mpeasylink.com
 mpp-service.com
 mpuqvoa.com
 mrbasic.com
@@ -4113,6 +4115,7 @@ optinmonster.com
 optmnstr.awesomemotive.netdna-cdn.com
 optmnstr.com
 oqs.omeda.com
+oracleinfinity.io
 orderconfirmation-appleshops.com
 orealjs.com
 orfn.com
@@ -4406,6 +4409,7 @@ purple6401.com
 purplecat1.xyz
 push-notifications.top
 push.world
+pushowl.com
 pushpad.xyz
 pushplay.tv
 pushwoosh.com
@@ -4445,6 +4449,7 @@ pw8tq9wk.top
 pweaatek.com
 pwrads.net
 pwufxar8.top
+px-cloud.net
 px1alsry.com
 pxladb.club
 pxlclnvwe-a.akamaihd.net
@@ -4680,6 +4685,7 @@ rhythmone.com
 richaudience.com
 richstring.com
 ridingduck.com
+rightonin.com
 ringsrecord.com
 ritzykey.com
 ritzysponge.com
@@ -5410,6 +5416,7 @@ swimslope.com
 swiss-underupdate.com
 switchconcepts.com
 swordgoose.com
+sxygdmkway.com
 sysduo.com
 syst-sj.link
 system-account-verification.com
@@ -5565,10 +5572,12 @@ track.thesaurus.com
 track.volo-mobile.com
 track.wayin.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
+tracker.affirm.com
 tracker.metricool.com
 tracking.aegpresents.com
 tracking.landroverusa.com
 tracking.marketing
+tracking.nationalfamily.com
 tracking.news.trade-point.co.uk
 tracking.nextdoor.com
 trackingapp.info
@@ -6033,6 +6042,7 @@ waws-prod-bn1-027.vip.azurewebsites.windows.net
 wdaxvjr9dc.com
 weatherfor.us
 web-analytics.engagio.com
+web-analytics.smile.io
 web-frontend-dot-sc-analytics.appspot.com
 web-halkbank.net
 web-id-securedinformation.com
