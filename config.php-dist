@@ -1,8 +1,8 @@
 <?php
 
 /*
- * Copyright 2015-2019 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
- * <https://github.com/parseword/nolovia>
+ * Copyright 2015, 2020 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
+ * Repository: <https://github.com/parseword/nolovia>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  * you may not use this file except in compliance with the License.
@@ -61,17 +61,24 @@ define('REGEX_MULTIPART_TLD',
     '/\.(com?|org?|inc)\.(ar|au|bo|br|cc|cn|co|id|il|in|hk|jp|kr|kz|mx|nz|ph|pt|rs|tr|ua|uk|uy|vn|za)$/');
 
 //Should we send a non-blank User-Agent when fetching web resources?
-ini_set("user_agent", "Mozilla/5.0 (Windows NT 6.1; WOW64; rv:56.0) Gecko/20100101 Firefox/56.0");
+ini_set("user_agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0");
 
 //Set up the resolvers we're going to generate config files for
 $resolvers = array();
 
-//bind (enabled by default)
+//BIND style zone file (enabled by default)
 $r = new ResolverConfiguration('bind');
 $r->setEnabled(true);
 $r->setFilePath('./blackhole.conf');
 $r->setZoneDefinitionTemplate('zone "%HOST%" IN { type master; notify no; '
     . 'file "blackhole.zone"; allow-query { recursers; }; };');
+$resolvers[] = $r;
+
+//BIND style RPZ file (enabled by default)
+$r = new ResolverConfiguration('rpz');
+$r->setEnabled(true);
+$r->setFilePath('./blackhole.rpz');
+$r->setZoneDefinitionTemplate("%HOST% IN CNAME .\n*.%HOST% IN CNAME .");
 $resolvers[] = $r;
 
 //nsd (disabled by default)
