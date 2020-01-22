@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-20 13:23:18
+# Generated at 2020-01-21 23:05:28
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1074,6 +1074,7 @@ associated-account-purchase.com
 aswpsdkus.com
 at-o.net
 atmrum.net
+atoms.usatoday.com
 atomx.com
 atorget-ozonaming.com
 attention-required-error-found.xyz
@@ -2898,6 +2899,7 @@ ifydnun.com
 ig0nr8hhhb.com
 ig8al3mkou.com
 igcc-suporte.com
+igodigital.com
 ihelp-accounserviceonline-login.com
 ihelp-intunlcked-tunes-bin-id.com
 ihelp-unlckaccess-bin-id-home.com
