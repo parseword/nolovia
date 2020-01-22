@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-21 23:05:28
+# Generated at 2020-01-22 14:08:47
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -3691,6 +3691,7 @@ money-lnteractfunds.com
 moneyghost.ddns.net
 moneyhome.biz
 moneyma-r.com
+monitor.channel4.com
 mookie1.com
 moomeeo.com
 moopisndvdvr.com
@@ -4263,6 +4264,7 @@ perimeterx.net
 perkele.ovh
 perviousgamechange.com
 pesbqkopdm.com
+petametrics.com
 petiteumbrella.com
 petwandey.us
 pffw8mgd.com
