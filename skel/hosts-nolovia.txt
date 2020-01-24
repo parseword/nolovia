@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-23 18:13:36
+# Generated at 2020-01-24 16:40:57
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1168,6 +1168,7 @@ bea4.cnn.com
 beacon.aimtell.com
 beacon.dropbox.com
 beacon.riskified.com
+beacon.searchspring.io
 beacon.v.dropbox.com
 beacon.walmart.com
 beamincrease.com
@@ -2090,6 +2091,7 @@ domainpoints.com
 domainpower.com
 domainpower.net
 domainpowered.com
+domclickext.xyz
 domob.cn
 donaldroberts2014.duckdns.org
 dongabby.hopto.org
@@ -2540,6 +2542,7 @@ gmail-security-account.com
 gmail-service.online
 gmaile.org
 gmidkz5tgm.com
+gnar.grammarly.com
 gnpge.com
 go2click.org
 gobankingrates.com
@@ -4036,6 +4039,7 @@ o6ek91ag15.com
 o7coh5tlwb.com
 o8q80l1z.top
 oagwl3372h.com
+oao-js-tag.onemobile.yahoo.com
 obi234.ddns.net
 obi333.ddns.net
 obilosgini.ddns.net
@@ -4285,6 +4289,7 @@ phone2347.ddns.net
 phonebillsrefund.com
 phonefix.guru
 photographpan.com
+pi.pardot.com
 pietexture.com
 pilaff-up.ru
 pilotx.tv
@@ -4299,6 +4304,7 @@ pixel.getshogun.com
 pixel.mintigo.com
 pixel.newscgp.com
 pixel.patch.com
+pixel.rubiconproject.net.akadns.net
 pixeldefender.com
 pixelsrvdmn.com
 pixfuture.com
@@ -4377,6 +4383,7 @@ printio-geo.appspot.com
 printscreens.info
 priv-my-autoservice.com
 privacyaccountlimited.com
+privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privacyform.com
 privatejs.com
 privatixjs.com
@@ -4519,6 +4526,7 @@ r4nwdude.com
 r66at6sf.com
 r8mxl.top
 r8oyegintx.com
+radarsubmissions.apple.com
 rahasn.akamake.net
 rahasn.homewealth.biz
 rahasn.webhop.org
@@ -6198,6 +6206,8 @@ www-appleid-notify.com
 www-desjardins-com.com
 www-ebay-dispute-payment.com
 www-ebay-dispute.com
+www-google-analytics.l.google.com
+www-googletagmanager.l.google.com
 www-icloud-support.info
 www-icloud.live
 www-icloud.net
