@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-22 14:08:47
+# Generated at 2020-01-23 18:13:36
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -672,6 +672,7 @@ analytics.newscred.com
 analytics.nextopia.net
 analytics.snidigital.com
 analytics.tout.com
+analytics.trovit.com
 analytics.wolfgangs.com
 analytics.worldtable.co
 analytics.xcal.tv
@@ -1074,6 +1075,7 @@ associated-account-purchase.com
 aswpsdkus.com
 at-o.net
 atmrum.net
+atoms.tennessean.com
 atoms.usatoday.com
 atomx.com
 atorget-ozonaming.com
@@ -2481,6 +2483,7 @@ gdocs.download
 ge-stion.com
 genesismedia.com
 genus.ai
+geo-tracker.smadex.com
 geoedge.be
 geoip.alm.com
 gestyy.com
@@ -4616,6 +4619,7 @@ rekmob.com
 relabe.com
 relandssymphoking.info
 relogin-euwee.com
+remp.nv.ua
 renewal-user.com
 rensovetors.info
 reoveryy-accounts-info-id.com
@@ -5227,6 +5231,7 @@ squirly.info
 squirrelhands.com
 squren.com
 srcip.com
+srepdata.freep.com
 srv4pub.com
 ssiapawz.com
 ssl-appleidverification.com
@@ -5578,6 +5583,7 @@ track.wayin.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.affirm.com
 tracker.metricool.com
+tracker.smadex.com
 tracking.aegpresents.com
 tracking.landroverusa.com
 tracking.marketing
