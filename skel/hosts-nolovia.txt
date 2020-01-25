@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-24 16:40:57
+# Generated at 2020-01-25 16:07:10
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -2384,6 +2384,7 @@ flimsycircle.com
 fljozww19f.com
 flndmyiphone-applelocation.com
 flocdn.com
+flogextension.grammarly.io
 floodprincipal.com
 floweryoperation.com
 fluct.jp
@@ -4667,6 +4668,7 @@ resolving-account-verifycation.info
 reson8.com
 resonanceads.com
 resonantbrush.com
+responseiq.com
 resselerratings.com
 restart-membership-netfilx.com
 restoreappleid-apple.com
