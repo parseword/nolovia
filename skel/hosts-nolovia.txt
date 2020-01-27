@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-26 16:31:15
+# Generated at 2020-01-27 17:18:48
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1134,6 +1134,7 @@ aysnmnzu4u.com
 azadify.com
 azj57rjy.com
 b0e8.com
+b1js.com
 b1wb3fjea1.com
 b2c.com
 b3z29k1uxb.com
@@ -3650,6 +3651,7 @@ mhbdezpwdq.com
 mhoblysantanderbr.com
 michigan-construction.com
 mickyjakey.blogsyte.com
+micpn.com
 micro-earth.com
 microad.jp
 mighting-minese.com
@@ -3847,6 +3849,7 @@ myid-iphone.net
 myitunes-ar.com
 myjino.ru
 mylftv.com
+mymarketingreports.com
 mymediads.com
 mymom.info
 mynativeplatform.com
@@ -4499,6 +4502,7 @@ qoe-1.yottaa.net
 qpc3hunbn2.com
 qpoe.com
 qrzlaatf.xyz
+qsearch-a.akamaihd.net
 qsstats.com
 qsxjs.com
 qth7n6akcr.com
@@ -5748,6 +5752,7 @@ ucrenkyapi.com
 uctkone.com
 udriveme2.com
 udrivemyr54.com
+udxsva.com
 ufqfnecblo.com
 uh3ye6ux.com
 uie.data.cbc.ca
