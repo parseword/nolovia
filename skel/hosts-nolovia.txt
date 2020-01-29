@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-27 17:18:48
+# Generated at 2020-01-29 16:34:08
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1615,6 +1615,7 @@ coinbaseverifier.com
 coinsandtokens.io
 coinzilla.com
 coinzillatag.com
+collectandgather.com
 collectiveuk.com
 collector.github.com
 collector.githubapp.com
@@ -2413,6 +2414,7 @@ footprintdns.com
 fopflop.me
 forcetraff.ru
 foresee.com
+forester.a2z.com
 formalyzer.com
 formisimo.com
 forultimateandbest4upgradepc.download
@@ -2940,6 +2942,7 @@ impossibleexpansion.com
 improvedigital.com
 impulsehands.com
 inbenta.com
+inbound-analytics.pixlee.com
 inc-app.us
 inc-appleid.com
 inc-apps.us
@@ -2997,6 +3000,7 @@ innity.com
 innocentwax.com
 innovid.com
 inquisitiveinvention.com
+inside-graph.com
 inspcloud.com
 insta-signin.xyz
 instaaccount.xyz
@@ -4122,6 +4126,7 @@ operationkettle.com
 operval-kensions.com
 opoxv.com
 optad360.com
+optanon.blob.core.windows.net
 optimallimit.com
 optimatic.com
 optimize-stats.voxmedia.com
@@ -4429,6 +4434,7 @@ purple6401.com
 purplecat1.xyz
 push-notifications.top
 push.world
+pushnami.com
 pushowl.com
 pushpad.xyz
 pushplay.tv
@@ -4936,6 +4942,7 @@ selligent.com
 semasio.net
 sendpulse.com
 sendsmtp.com
+sentry-cdn.com
 sentry.io
 seo-fast.ru
 seoconsultants.org
@@ -5127,6 +5134,7 @@ sinslave.damnitjim.xyz
 site-tracking.com
 site24x7rum.com
 site2scureinfo.com
+sitelabweb.com
 sitescout.com
 sitespeeds.com
 sixscissors.com
@@ -5155,6 +5163,7 @@ smalldealsupportappclicks.top
 smallduck1.xyz
 smallpanda1.xyz
 smartadserver.com
+smarterhq.io
 smartlook.com
 smartplugin.youbora.com
 smartstream.tv
@@ -5666,6 +5675,7 @@ tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.affirm.com
 tracker.metricool.com
 tracker.smadex.com
+tracker.unbxdapi.com
 tracking.aegpresents.com
 tracking.landroverusa.com
 tracking.marketing
