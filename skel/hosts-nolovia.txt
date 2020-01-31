@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-29 16:34:08
+# Generated at 2020-01-31 15:55:32
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -419,6 +419,7 @@ acounts-appleid.com
 acoustic.co
 acridtwist.com
 acstat.com
+actionbutton.co
 activaguard.com
 activation-account-procced.com
 activation-icloud.com
@@ -1189,6 +1190,7 @@ benx234.ddns.net
 beoplr66bxcgs.net
 berush.com
 bestadbid.com
+bestazon.io
 bestboundary.com
 bestsecuritysearch.com
 betsransfercomunications.org
@@ -1340,8 +1342,10 @@ broaddoor.com
 brontocdn.com
 brownpanda1.xyz
 browsers.support
+brsrvr.com
 bsbrxl7znz.com
 btez8.xyz
+btstatic.com
 bttrack.com
 btvhdscr.com
 bucketbean.com
@@ -2482,6 +2486,7 @@ gammamaximum.com
 gammassp.com
 gamoshi.io
 ganalytlcs.com
+ganon.yahoo.com
 ganti-nama-facebook.com
 ganzerri.me
 gapps.site
@@ -2652,6 +2657,7 @@ headerbiddr.com
 healte.de
 healthtube.info
 heapanalytics.com
+heatmap.it
 heavypanda1.xyz
 help-facebook.com
 help-forgot-information.net
