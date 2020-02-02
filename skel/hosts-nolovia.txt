@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-01-31 15:55:32
+# Generated at 2020-02-01 18:25:08
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -674,6 +674,7 @@ analytics.nextopia.net
 analytics.snidigital.com
 analytics.tout.com
 analytics.trovit.com
+analytics.video.meredithcorp.io
 analytics.wolfgangs.com
 analytics.worldtable.co
 analytics.xcal.tv
@@ -1306,6 +1307,7 @@ bokletdoc.us
 bombing212.ddns.net
 bomira.ddns.net
 booe.pro
+boomtrain.com
 bootstrap-js.com
 bootstrapjs.com
 boredcrown.com
@@ -4276,6 +4278,7 @@ pcanywhere.net
 pcrl.co
 pctnew.com
 pdfdocusign.com
+pdmntn.com
 peacepowder.com
 pegloang.com
 pendo.io
