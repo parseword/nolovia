@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-01 18:25:08
+# Generated at 2020-02-03 12:56:41
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -5540,6 +5540,7 @@ tag.brandcdn.com
 tagdeliver.com
 tagon.co
 tags.newscgp.com
+tags.tiqcdn.com.edgekey.net
 talentedsteel.com
 talentino.ddns.net
 talk2none.com
@@ -5885,6 +5886,7 @@ upgers-armine.com
 upgradebestfinishtheclicks.icu
 upgraderservices.cf
 ups-webaps.net
+upscore.com
 upsu.tk
 uqie4nzy.com
 urbanairship.com
