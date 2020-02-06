@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-03 12:56:41
+# Generated at 2020-02-05 22:41:03
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -247,6 +247,7 @@
 9jogo.top
 9jwas.top
 9lhc3x6whk.com
+9mediaonline.com
 9purdfe9xg.com
 9utwbj08.top
 9ws3wutazo.com
@@ -409,6 +410,7 @@ acessoonlinedocliente.com
 acestream.me
 acestream.net
 acestream.org
+acidpigs.com
 acity-lawfirm.com
 acmetoy.com
 acount-customer.info
@@ -521,6 +523,7 @@ adsame.com
 adsbtrack.com
 adsbtrk.com
 adscompass.com
+adserver.video
 adservices.brandcdn.com
 adsfirstsun.com
 adshort.co
@@ -1850,6 +1853,7 @@ cookiepro.com
 cooleremail.com
 coolkshop-scrences.com
 coordinatedcub.com
+cootlogix.com
 copperchickens.com
 copycarpenter.com
 copycopypayment.site
@@ -4016,6 +4020,7 @@ nondescriptstocking.com
 nono198011.ddns.net
 nonomee2017.ddns.net
 noqukjy.com
+notifia.io
 notification-apple-service.com
 notifications-service.ga
 notificationupdates.com
@@ -4751,6 +4756,8 @@ royalbank-verification2.com
 rrtcfwmvhs.com
 rs-stripe.com
 rset-update.com
+rta2.metro.co.uk
+rtb-seller.com
 rtbcatalyst.com
 rtbcoverage.com
 rtbengine.com
@@ -5166,6 +5173,7 @@ slkdocsmember.website
 slkdocsofficemember.website
 sloi1.com
 slripe.com
+slyngshot.io
 sm534z1jpx.com
 smallbutterfly1.xyz
 smalldealsupportappclicks.top
@@ -5371,6 +5379,7 @@ statistic-info.me
 stats.datawrapper.de
 stats.heyoya.com
 stats.rbl.ms
+stats.zotabox.com
 statsdot.eu
 statusdelivery.com
 steadfastsound.com
@@ -5521,6 +5530,7 @@ svalkaw.su
 svchost.publicvm.com
 svf.duckdns.org
 svjat0rx99.com
+swa.metro.co.uk
 swimslope.com
 swiss-underupdate.com
 switchconcepts.com
@@ -5726,6 +5736,7 @@ trk750.com
 trkn.us
 trollitrancessions.net
 truckstomatoes.com
+truconversion.com
 true-deals.com
 true2file.com
 truefilen32.com
@@ -6113,6 +6124,7 @@ vkaofq64zz.com
 vmaxjs.com
 vmg.host
 vmg.nyc
+vmmpxl.com
 vneffwecka.com
 vnldaly8r5.com
 vnrherdsxr.com
@@ -6558,6 +6570,7 @@ zo7gihmry2.com
 zonejs.com
 zoobashop.com
 zoomd.com
+zotabox.com
 zrav2wkbrs.com
 zrst.com
 zu4l167j77.com
