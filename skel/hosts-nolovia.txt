@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-05 22:41:03
+# Generated at 2020-02-08 13:34:58
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -66,6 +66,7 @@
 1rx.io
 1suser.ddns.net
 1wkvvts8is.com
+1worldonline.com
 1wvw2jgkca.com
 1x96klcdpn.com
 1xgo.xyz
@@ -668,6 +669,7 @@ analytics-static.ugc.bazaarvoice.com
 analytics.anvato.net
 analytics.audioeye.com
 analytics.blue
+analytics.cincopa.com
 analytics.dnnapi.com
 analytics.dvidshub.net
 analytics.getshogun.com
@@ -1477,6 +1479,8 @@ chase-logbank4.xyz
 chase-logbank5.xyz
 chase-unlockid.com
 chatbeacon.io
+chatid.com
+chatra.io
 chatterbuzz-media.com
 check-account-acceess.com
 check-account-acces.com
@@ -2170,6 +2174,7 @@ earthquakescarf.com
 earthycopy.com
 easyplatform.com
 eawp2ra7.top
+ebaay.com
 ebahpya.com
 ebarena.tv
 ebbp1.pro
@@ -3514,10 +3519,12 @@ lowerdocieu.us
 lp3tdqle.com
 lphone-local.com
 lqw.me
+ls.chatid.com
 lsd.systemten.org
 ltunes.cloud
 ltunescancelationpayment.com
 luckstarclub.com
+luckyorange.net
 lucretius-ada.com
 lumpyleaf.com
 lvgvax82bp.com
@@ -4370,6 +4377,7 @@ powerinbox.com
 powerlinks.com
 powerrballi.top
 powopibobu3.com
+powr-counter.herokuapp.com
 poypal-team-online.com
 pozvonim.com
 ppintl-limited-account-service-solution-id8-v2.com
@@ -4407,6 +4415,7 @@ printertender.be
 printio-geo.appspot.com
 printscreens.info
 priv-my-autoservice.com
+privacy-center.org
 privacyaccountlimited.com
 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privacyform.com
@@ -5547,6 +5556,7 @@ t1d8ee13pf.com
 t2f9pn3m7w.com
 t7479e4d.com
 tag.brandcdn.com
+tag.getdrip.com
 tagdeliver.com
 tagon.co
 tags.newscgp.com
@@ -5658,6 +5668,7 @@ ticklishpanda1.xyz
 tidytrail.com
 tika-search.com
 timesink.com
+tinlads.southernliving.com
 tinpiecessful.info
 tinybear1.xyz
 tiqcdn.com
@@ -5702,6 +5713,7 @@ tracking.marketing
 tracking.nationalfamily.com
 tracking.news.trade-point.co.uk
 tracking.nextdoor.com
+tracking.socketlabs.com
 trackingapp.info
 trackjs.com
 trackmyshows.tv
