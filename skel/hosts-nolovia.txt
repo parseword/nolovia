@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-08 13:34:58
+# Generated at 2020-02-10 17:16:49
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -1535,6 +1535,7 @@ clcktrk.com
 clean.gg
 cleanads.net
 cleanmedia.net
+cleanrm.net
 cleansite.biz
 cleansite.info
 cleansite.us
@@ -2680,6 +2681,7 @@ help-solution-limited.com
 help-suport.net
 help-you-in-confirmation.info
 helplimit.net
+helpscout.net
 hexagon-analytics.com
 hextom.com
 hf18yg8q.com
@@ -3302,6 +3304,7 @@ klca5rlwdr.com
 knifeoctopus.com
 koo6myletj.com
 korea-tax.info
+korrelate.net
 krnwhyvq.info
 kro.kr
 krs1v2sl.com
