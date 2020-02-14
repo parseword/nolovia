@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-10 17:16:49
+# Generated at 2020-02-13 19:13:14
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -509,6 +509,7 @@ adplayer.pro
 adpone.com
 adpressi.com
 adpxl.co
+adquire.com
 adqy6rzwcs.com
 adrizer.com
 adro.io
@@ -676,6 +677,7 @@ analytics.getshogun.com
 analytics.inform.com
 analytics.newscred.com
 analytics.nextopia.net
+analytics.publitas.com
 analytics.snidigital.com
 analytics.tout.com
 analytics.trovit.com
@@ -2076,6 +2078,7 @@ dl6q95zf.top
 dlxrlc2ni2.com
 dlzm790g.com
 dmaxjs.com
+dmxleo.com
 dnckawxatc.com
 dnr51y6xj4.com
 dns-dns.com
@@ -3286,6 +3289,7 @@ kdata.fr
 kdc7f2ifcc.com
 keep-your-account.com
 kennedyform.com
+kenshoo.com
 kenxx.ddns.net
 keqi7dh3df.com
 kerumal.com
@@ -4733,6 +4737,7 @@ rewards-litecoin.win
 rexrtb.com
 rezync.com
 rfihub.com
+rfihub.net
 rfjejnfjnefje.com
 rgvqcsxqge.com
 rhnw4h506h.com
@@ -4850,6 +4855,7 @@ santanderms.net
 santanderrs.net
 saqibsiddiqui.com
 saspreview.com
+sat4ken.com
 saub27i3os.com
 savagtolldoc.us
 saveyoujs.com
@@ -5555,6 +5561,7 @@ system-backup.biz
 system1.company
 systemverification-apple.com
 sysune.com
+t.yesware.com
 t1d8ee13pf.com
 t2f9pn3m7w.com
 t7479e4d.com
@@ -5600,6 +5607,7 @@ teamoluwa.ddns.net
 tebo0o2xw4.com
 tech-supportcenter.us
 techhome-js.github.io
+technoratimedia.com
 tedioustooth.com
 teemo.co
 teenyvolcano.com
@@ -6120,6 +6128,7 @@ vidsdelivery.com
 vidssp.com
 vidstart.com
 view-location.top
+viewdeos.com
 viid.me
 vilynx.com
 vinfdv6b4j.com
