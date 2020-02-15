@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-13 19:13:14
+# Generated at 2020-02-15 16:23:05
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -4336,6 +4336,7 @@ pinewood-financial.com
 pingma.qq.com
 piquantpigs.com
 pixel-a.basis.net
+pixel-static.spotify.com
 pixel.app.returnpath.net
 pixel.archive.fo
 pixel.archive.is
@@ -4344,6 +4345,7 @@ pixel.mintigo.com
 pixel.newscgp.com
 pixel.patch.com
 pixel.rubiconproject.net.akadns.net
+pixel.spotify.com
 pixeldefender.com
 pixelsrvdmn.com
 pixfuture.com
@@ -5289,6 +5291,7 @@ snapchet.net
 snaphyteplieldup.xyz
 sneaklevel.com
 sneakystamp.com
+sni-dat.com
 snigelweb.com
 snigelweb.net
 soagitet.net
@@ -5720,6 +5723,7 @@ tracker.smadex.com
 tracker.unbxdapi.com
 tracking.aegpresents.com
 tracking.landroverusa.com
+tracking.magnetmail.net
 tracking.marketing
 tracking.nationalfamily.com
 tracking.news.trade-point.co.uk
