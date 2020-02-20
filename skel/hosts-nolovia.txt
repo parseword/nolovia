@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-15 16:23:05
+# Generated at 2020-02-20 16:36:20
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -700,6 +700,7 @@ antivirus-scanner.com
 antivirus-upgrade.com
 antrively-enland.com
 antsprogrammatic.com
+anura.io
 anxiousapples.com
 anyclip-media.com
 apathetictheory.com
@@ -1924,6 +1925,7 @@ cutecushion.com
 cuteturkey.com
 cvqgnkeqme.com
 cwkuki.com
+cws.conviva.com
 cxense.com
 cybervalidationneeded.xyz
 cyclinted-metrence.com
