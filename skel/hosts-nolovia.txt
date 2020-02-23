@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-20 16:36:20
+# Generated at 2020-02-22 18:46:01
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -548,6 +548,7 @@ adtrackdirect.com
 adtrue.com
 adv.mxmcdn.net
 advalue.com.vn
+advanced-web-analytics.com
 advandmedia.com
 advangelists.com
 adversal.com
@@ -610,6 +611,7 @@ aidaigry.com
 ailtumty.net
 airconditionerreviews.com
 aj1610.online
+aj2073.online
 ajjhtetv87.com
 ajkzd9h.com
 ak-facebook.com
@@ -1090,6 +1092,7 @@ atoms.usatoday.com
 atomx.com
 atorget-ozonaming.com
 atp.io
+atrack.avplayer.com
 attention-required-error-found.xyz
 attention-required.xyz
 attentiveads.com
@@ -1352,6 +1355,7 @@ broaddoor.com
 brontocdn.com
 brownpanda1.xyz
 browsers.support
+browsiprod.com
 brsrvr.com
 bsbrxl7znz.com
 btez8.xyz
@@ -1637,6 +1641,7 @@ collectiveuk.com
 collector.github.com
 collector.githubapp.com
 colossusssp.com
+colpirio.com
 com--signin.support
 com-accept-security.info
 com-acces-issuer-case.com
@@ -1852,6 +1857,7 @@ contribusource.com
 controlaccounticloud.com
 controlmage.com
 controlx.ddns.net
+convertexperiments.com
 convertflow.co
 convertful.com
 convertro.com
@@ -2054,6 +2060,7 @@ dialogtech.com
 differentdesk.com
 digi-cert.org
 digitaltarget.ru
+digitru.st
 dimorphism.stream
 dionbeno.me
 direct-verified.com
@@ -3453,6 +3460,7 @@ locked-page.com
 locked-verify.com
 lockedappsecurity.net
 lockedmyacc-appleid.info
+locker2.com
 lockerdome.com
 locktdguw9.com
 loders.club
@@ -5403,6 +5411,7 @@ stats.datawrapper.de
 stats.heyoya.com
 stats.rbl.ms
 stats.zotabox.com
+stats02.topix.com
 statsdot.eu
 statusdelivery.com
 steadfastsound.com
@@ -6151,6 +6160,7 @@ visx.net
 vizsense.com
 vizvaz.com
 vkaofq64zz.com
+vlitag.com
 vmaxjs.com
 vmg.host
 vmg.nyc
@@ -6196,6 +6206,7 @@ wateryvan.com
 waws-prod-bn1-027.cloudapp.net
 waws-prod-bn1-027.vip.azurewebsites.windows.net
 wdaxvjr9dc.com
+wdsvc.net
 weatherfor.us
 web-analytics.engagio.com
 web-analytics.smile.io
