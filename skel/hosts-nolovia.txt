@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-02-22 18:46:01
+# Generated at 2020-02-29 17:31:15
 0-day.us
 000webhostapp.com
 01interac-etransfer-ca.com
@@ -435,6 +435,7 @@ activityloginpurchase.com
 actuallysheep.com
 actuallysnake.com
 acxiomapac.com
+ad-back.net
 ad-generation.jp
 ad-goi.com
 ad-pixel.com
@@ -1180,6 +1181,7 @@ bcwdv5bsxi.com
 bdg-analytics.appspot.com
 be4anywhere.com
 bea4.cnn.com
+beacon-cdn.walmart.com.akadns.net
 beacon.aimtell.com
 beacon.dropbox.com
 beacon.riskified.com
@@ -1550,6 +1552,7 @@ clearbit.com
 clearcomb.com
 clearload.bid
 clearpier.com
+clearview.ai
 cli.bz
 click-cpa.net
 clickability.com
@@ -1576,6 +1579,7 @@ client-servicezones.com
 clientmediaserver.com
 clientspaymentservicers-nettflixdataresolvs.com
 cliipa.com
+clinch.co
 clintareasinginservicelimtednpphome-indexhtml.com
 cliqz.com
 clk1002.com
@@ -2569,6 +2573,7 @@ glassboxcdn.com
 glassboxcloud.com
 glassboxdigital.com
 gld35wndkn.com
+globalsiteanalytics.com
 glogger.stuff.com
 glossysense.com
 glotgrx.com
@@ -5233,6 +5238,7 @@ smetrics.cbc.ca
 smetrics.cdiscount.com
 smetrics.chrysler.com
 smetrics.cnn.com
+smetrics.comenity.net
 smetrics.consumerreports.org
 smetrics.corus.ca
 smetrics.costco.com
@@ -5287,6 +5293,7 @@ smetrics.washingtonpost.com
 smetrics.yellowbook.com
 smilingwaves.com
 smlblinds.com
+smpush.com
 sms-apple-find.com
 sms-info-apple.com
 sms-refunds.site
@@ -5305,6 +5312,7 @@ sni-dat.com
 snigelweb.com
 snigelweb.net
 soagitet.net
+soflopxl.com
 softbank-securitys.com
 softcode2017.hopto.org
 solads.media
@@ -5440,6 +5448,7 @@ stormysponge.com
 storygize.com
 storygize.net
 stoveseashore.com
+straffic.io
 straightnest.com
 straightschool.com
 strangefullthiggngs.com
