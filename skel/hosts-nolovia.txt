@@ -6,9 +6,10 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-03-10 12:20:06
+# Generated at 2020-03-12 22:19:02
 0-day.us
 000webhostapp.com
+00zasdf.pw
 01interac-etransfer-ca.com
 01jud3v55z.com
 05y2dxmr.top
@@ -273,6 +274,8 @@ abackchain.com
 abandonedaction.com
 abandonedclover.com
 abashedangle.com
+abbp1.com
+abbp1.pw
 ablsrv.net
 aboardlevel.com
 about-locked.com
@@ -531,6 +534,7 @@ adservices.brandcdn.com
 adsfirstsun.com
 adshort.co
 adsolut.in
+adspayformymortgage.win
 adspruce.com
 adspsp.com
 adspyglass.com
@@ -2963,6 +2967,7 @@ ilocation.us
 ilog-in.review
 ilog-in.us
 ilog-ins.us
+ilovejuju.be
 ilxhsgd.com
 im2ss2ss.top
 imgadult.com
