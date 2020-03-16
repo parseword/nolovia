@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-03-12 22:19:02
+# Generated at 2020-03-16 00:05:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1023,6 +1023,7 @@ appleverificationupdate.com
 applexr-iphone.com
 applezcl.com
 applezr-iphone.com
+applicationinsights.microsoft.com
 applicloud-ios.com
 applid-webapps-mycloud.com
 applid-webappsmyphoneicloudlockeddatabsesystemwrong.net
@@ -1425,11 +1426,13 @@ castrokolaz.top
 castup.net
 cathilton-utions.com
 cato-felix.com
+cau-breeziest-in.cloudapp.net
 cavanic9.net
 cavixo.com
 caxvm62zyz.com
 cbarsrv.com
 cbsileads.com
+cca-breeziest-in.cloudapp.net
 ccmbg.com
 ccumhss.com
 ccvalidate.com
@@ -1462,6 +1465,7 @@ ceros.com
 cfgcpyqx40di.changeip.com
 cfigroup.com
 cfqpxzx.com
+cfr-breeziest-in.cloudapp.net
 cfts1tifqr.com
 cgi-appleverification.com
 cgi-icloud.com
@@ -1523,6 +1527,7 @@ chuksthedon.duckdns.org
 churnsignal.com
 cibconline-verifications.com
 cignal.io
+cin-breeziest-in.cloudapp.net
 cintrol-prence.com
 citigroups-onlinebk.com
 citines-boutlet.com
@@ -1537,6 +1542,7 @@ cjpufffy.hopto.org
 cjsanandreas.com
 cjvj6jqxpf.com
 ckk69drbro.com
+cko-breeziest-in.cloudapp.net
 cl0udfiare.com
 cl96rwprue.com
 claim-policyupdate.com
@@ -1920,6 +1926,7 @@ cuev.in
 culturalconvergencemedia.com
 cumbersomecloud.com
 curtaincows.com
+cus-breeziest-in.cloudapp.net
 customer-account-confirm.com
 customer-accountacces.com
 customer-help-care-centre.com
@@ -1995,6 +2002,9 @@ db1.us
 db5.us
 dbbp1.pro
 dbmads.com
+dc.applicationinsights.microsoft.com
+dc.services.visualstudio.com
+dc.trafficmanager.net
 dd82dd.com
 ddns.info
 ddns.me.uk
@@ -2193,7 +2203,9 @@ eaqxjz6bra.com
 earnoninfo.com
 earthquakescarf.com
 earthycopy.com
+eas-breeziest-in.cloudapp.net
 easyplatform.com
+eau-breeziest-in.cloudapp.net
 eawp2ra7.top
 ebaay.com
 ebahpya.com
@@ -2220,6 +2232,7 @@ efbthmoiuykmkjkjgt.com
 efficaciouscactus.com
 ejdkqclkzq.com
 ejhrins16z.com
+ejp-breeziest-in.cloudapp.net
 ejurzsax.com
 ejyymghi.com
 ekehken.myddns.rocks
@@ -2255,6 +2268,7 @@ enjws5329l.com
 enl.duckdns.org
 enloe6qtkd.com
 enmask.com
+eno-breeziest-in.cloudapp.net
 enoughts.info
 enterworldofupgradingall.club
 enthusiasticdad.com
@@ -2290,6 +2304,9 @@ etr-mobile1.com
 etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 etreflased.info
+eus-breeziest-in.cloudapp.net
+eus02-breeziest-in.cloudapp.net
+eus2-breeziest-in.cloudapp.net
 evenirpage.tk
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
@@ -2522,6 +2539,7 @@ ganon.yahoo.com
 ganti-nama-facebook.com
 ganzerri.me
 gapps.site
+gate.hockeyapp.net
 gb0rd.com
 gcion.com
 gdocs.download
@@ -3934,6 +3952,7 @@ mzol7lbm.com
 mzyfkfj.com
 n.rich
 n1g459ky7y.com
+nae-breeziest-in.cloudapp.net
 nanovisor.io
 naosecgomosec.gq
 narrative.io
@@ -3986,6 +4005,7 @@ netflixcolombia.net
 netflixsclientservicrs-managepaymentsubscribers.com
 netmg-cdn.com
 networkdocweb.us
+neu-breeziest-in.cloudapp.net
 new-feedback-apple-information-by-administrator.com
 new-loginservice.com
 new-verificationdevelopeer.com
@@ -4077,8 +4097,10 @@ ns02.us
 ns1.name
 ns2.name
 ns3.name
+nsa-breeziest-in.cloudapp.net
 nskieoxdqe.com
 nssp.com
+nsw-breeziest-in.cloudapp.net
 ntlw.net
 ntvk1.ru
 nukqimllza.com
@@ -4883,6 +4905,7 @@ saub27i3os.com
 savagtolldoc.us
 saveyoujs.com
 saysidewalk.com
+sbr-breeziest-in.cloudapp.net
 sc-applle-login.com
 scandalcity.tv
 scar231.zapto.org
@@ -4905,10 +4928,13 @@ scrubsky.com
 scrubswim.com
 scureee-paypall.com
 scuremail.com
+scus-breeziest-in.cloudapp.net
+scus02-breeziest-in.cloudapp.net
 sd5doozry8.com
 sdasasyydd.com
 sddos.xyz
 sdreif.com
+sea-breeziest-in.cloudapp.net
 searchlinks.com
 searchmulty.com
 searchmyiphone.com
@@ -5478,6 +5504,7 @@ sucuri-js.com
 suddensidewalk.com
 sugabit.net
 sugarcurtain.com
+suk-breeziest-in.cloudapp.net
 sulkybutter.com
 sulvo.co
 sulvo.com
@@ -5600,6 +5627,7 @@ tagdeliver.com
 tagon.co
 tags.newscgp.com
 tags.tiqcdn.com.edgekey.net
+tagsrvcs.com
 talentedsteel.com
 talentino.ddns.net
 talk2none.com
@@ -6220,6 +6248,7 @@ waryfog.com
 wateryvan.com
 waws-prod-bn1-027.cloudapp.net
 waws-prod-bn1-027.vip.azurewebsites.windows.net
+wcge-breeziest-in.cloudapp.net
 wdaxvjr9dc.com
 wdsvc.net
 weatherfor.us
@@ -6308,6 +6337,8 @@ wellmadefrog.com
 wellsfargo-config.xyz
 wellsfargodp.com
 wellsfargoidc.com
+weu-breeziest-in.cloudapp.net
+weu02-breeziest-in.cloudapp.net
 wf-jaserviceargo-01.com
 wha.la
 wha8q7pevj.com
@@ -6360,6 +6391,8 @@ wpserve.org
 wqgdajjozr.com
 wqiwjwwgyz.science
 wryfinger.com
+wus2-breeziest-in.cloudapp.net
+wus22-breeziest-in.cloudapp.net
 wusecureaccountsworld.com
 wussucko.com
 wv76ecypi5.com
