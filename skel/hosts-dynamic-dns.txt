@@ -29,6 +29,8 @@ no-ip.biz
 no-ip.org
 now.sh
 rr.nu
+thruhere.net
 usa.cc
+webhop.me
 zapto.org
 ze.am
