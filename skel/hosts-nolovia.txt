@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-03-16 00:05:16
+# Generated at 2020-03-18 15:31:39
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -128,6 +128,7 @@
 42632zfylf.com
 43yagowe3y.com
 45eijvhgj2.com
+480app.com
 49cgvg0fx0.com
 49feqdpw.com
 49oa3o49b6.com
@@ -1066,6 +1067,7 @@ aquaticowl.com
 ar-micuentaapple.com
 ar1nvz5.com
 aralego.com
+arc.io
 archswimming.com
 ardp.hldns.ru
 area51-ts.com
@@ -1994,6 +1996,7 @@ datapropria.com
 dataq.stream
 datasecure-member.info
 datasphere.com
+datasteam.io
 dataupdate-service.info
 datawrkz.com
 davvid3948.ddns.net
@@ -2222,6 +2225,7 @@ economicoutlook.net
 economicpizzas.com
 ecpms.net
 ed9wkbpy.com
+edge-mcdn-beacon.secure.yahoo.com
 edigitalsurvey.com
 edns.biz
 edua29146y.com
@@ -2350,6 +2354,7 @@ familiarfloor.com
 famousquarter.com
 fanaticalfly.com
 fancybar.net
+fanplayr.com
 faqserv.com
 farethief.com
 faridaminmohamm.hopto.org
@@ -3320,6 +3325,7 @@ kabooaffiliates.com
 kalooga.com
 kampyle.com
 karisimbi.net
+kartratracking.com
 kaycee7.ddns.net
 kbx1sth37s.com
 kbzdxt.com
