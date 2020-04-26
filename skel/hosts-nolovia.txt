@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-03-18 15:31:39
+# Generated at 2020-04-26 00:05:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -674,6 +674,7 @@ amp-error-reporting.appspot.com
 ampugi334f.com
 analiticoscdn.com
 analytics-google.net
+analytics-sm.com
 analytics-static.ugc.bazaarvoice.com
 analytics.anvato.net
 analytics.audioeye.com
@@ -686,7 +687,9 @@ analytics.inform.com
 analytics.newscred.com
 analytics.nextopia.net
 analytics.publitas.com
+analytics.roboturk.co
 analytics.snidigital.com
+analytics.syndeca.com
 analytics.tout.com
 analytics.trovit.com
 analytics.video.meredithcorp.io
@@ -1435,10 +1438,12 @@ caxvm62zyz.com
 cbarsrv.com
 cbsileads.com
 cca-breeziest-in.cloudapp.net
+ccexperiments.oracleoutsourcing.com
 ccmbg.com
 ccumhss.com
 ccvalidate.com
 cd-cont.com
+cdn-analytics.syndeca.com
 cdn-googleapi.com
 cdn-googleservice.com
 cdn-js.link
@@ -2292,6 +2297,7 @@ es-webapps.com
 esmtp.biz
 essentialetimes.com
 essztednsbk.ddns.net
+estara.com
 et-etransfer-interact-trusted.com
 et-interac-etransfer-payment.com
 et-transfer1-interac1.com
@@ -2611,6 +2617,7 @@ gmaile.org
 gmidkz5tgm.com
 gnar.grammarly.com
 gnpge.com
+go.ro
 go2click.org
 gobankingrates.com
 gobrowsi.com
@@ -4115,6 +4122,7 @@ nuttyorganization.com
 nuviad.com
 nvewpvnid.info
 nwcqntzx5i.com
+nxakpj4ac8gkd53.info
 nyetm2mkch.com
 nykoa.in
 o-payments.website
@@ -4595,6 +4603,7 @@ qsxjs.com
 qth7n6akcr.com
 quacksquirrel.com
 quaintcan.com
+qualified.com
 qualitysocialtargeting.com
 quantum-advertising.com
 quantummetric.com
@@ -4807,6 +4816,7 @@ rlcdn.com
 rllcll.com
 rlteaid.com
 rmgserving.com
+rmtag.com
 rnengage.com
 rnyetherrwallet.com
 rnyetlherwallet.com
@@ -5271,6 +5281,7 @@ smetrics.avnet.com
 smetrics.babycenter.com
 smetrics.blackberry.com
 smetrics.boston.com
+smetrics.bostonglobe.com
 smetrics.capitalone.com
 smetrics.cbc.ca
 smetrics.cdiscount.com
@@ -5788,6 +5799,7 @@ tracking.marketing
 tracking.nationalfamily.com
 tracking.news.trade-point.co.uk
 tracking.nextdoor.com
+tracking.skyword.com
 tracking.socketlabs.com
 trackingapp.info
 trackjs.com
@@ -6648,6 +6660,7 @@ zhtlvag.com
 zidedge.com
 ziopemmjh3.com
 zipcodeterm.com
+zippyfrog.co
 ziraat-bankasl.com
 ziraat-internetisube.com
 ziraatbank-bireyselhizmetler.com
