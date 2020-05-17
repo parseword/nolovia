@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-04-26 00:05:55
+# Generated at 2020-05-16 12:41:31
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3678,6 +3678,7 @@ marchdom4.com
 marfeel.com
 mariopuzo.ddns.net
 markedcrayon.com
+markedmeasure.com
 markedpail.com
 marketingautomation.services
 marketjar.ca
@@ -4490,6 +4491,7 @@ privatixjs.com
 pro-market.net
 proads.space
 proclivitysystems.com
+prod-telemetry-us.tradingview.com
 prod.report.nacustomerexperience.citi.com
 products.apps.co.me
 profitrumour.com
@@ -5360,6 +5362,7 @@ sneakystamp.com
 sni-dat.com
 snigelweb.com
 snigelweb.net
+snowplow-pixel.tradingview.com
 soagitet.net
 soflopxl.com
 softbank-securitys.com
@@ -5693,6 +5696,7 @@ telegram-verification.com
 telemetrics.klaviyo.com
 telemetry.allrecipes.com
 telemetry.mozilla.org
+telemetry.tradingview.com
 tellapart.com
 temporaryhold-webappssvcs.com
 tendertest.com
