@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-05-16 12:41:31
+# Generated at 2020-05-17 16:17:47
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -29,6 +29,7 @@
 0ql3xxre2h.com
 0sntp7dnrr.com
 0sywjs4r1x.com
+1-cl0ud.com
 1-myetherwallet.com
 1-myetherwallet.info
 106hk.com
@@ -614,6 +615,7 @@ ah8asl94hs.com
 aheadday.com
 ahwrin88tl.com
 aidaigry.com
+aiea6gaza.com
 ailtumty.net
 airconditionerreviews.com
 aj1610.online
@@ -630,12 +632,16 @@ alabamascripts.com
 aladdin-iulius.com
 albacross.com
 alcmpn.com
+alda1mure.com
+alea6badb.com
 alfadart.com
 alfcdn.com
+alga9frog.com
 algolia.net
 algovid.com
 alienware-pc.loginto.me
 alienware.ddns.net
+aliveachiever.com
 all-ransomware.info
 allmygreatestlife.com
 allmygreatlife.com
@@ -670,6 +676,7 @@ amex2018.com
 amex2019.com
 amexopesx.com
 amhs.club
+amos5lynn.com
 amp-error-reporting.appspot.com
 ampugi334f.com
 analiticoscdn.com
@@ -1070,11 +1077,13 @@ aquaticowl.com
 ar-micuentaapple.com
 ar1nvz5.com
 aralego.com
+aran9midi.com
 arc.io
 archswimming.com
 ardp.hldns.ru
 area51-ts.com
 argyresthia.com
+arid5glop.com
 ariseboundary.com
 aromamirror.com
 arrivalist.com
@@ -1169,8 +1178,11 @@ b8y4ddrvap.com
 babyboomboomads.com
 bad-credit-cdn.com
 bad-reqest-344.ru
+badb5refl.com
 baipagid.com
+bait4role.com
 balancebreath.com
+bali6nora.com
 balloontexture.com
 bancobb.online
 bancomermexico2017.com
@@ -1210,6 +1222,7 @@ begemotventures.com
 beget.tech
 beijingvampires.com
 bemitho.com
+benn8bord.com
 benx234.ddns.net
 beoplr66bxcgs.net
 berush.com
@@ -1327,6 +1340,7 @@ bofa-settings-log.com
 boilingbeetle.com
 boilingumbrella.com
 bokletdoc.us
+bolt8snap.com
 bombing212.ddns.net
 bomira.ddns.net
 booe.pro
@@ -1357,7 +1371,9 @@ braze.com
 brazersd.top
 brdlplgvdq.com
 breakfastboat.com
+bred4tula.com
 bridge.industries
+brie5jiff.com
 brightfunnel.com
 brightmountainmedia.com
 brightroll.com
@@ -1379,6 +1395,7 @@ bucksense.com
 bugattijedo.ru
 bugsnag.com
 bumlam.com
+burn5tilt.com
 burnside.dtcn.com
 buscar-id-icloud.com
 buscar.cloud
@@ -1388,6 +1405,7 @@ busnguard.com
 bustbuy.com
 bustlinganimal.com
 butterburst.com
+bux1le001.com
 buysellads.net
 buzzoola.com
 bwuk.club
@@ -1399,6 +1417,7 @@ c3tag.com
 c52llumx.com
 caai83kh6p.com
 cad-secure-returns.top
+cage6west.com
 calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
@@ -1421,9 +1440,11 @@ caramella.life
 cardcenteramex.world
 cardlytics.com
 care-ph.reviews
+care5alea.com
 carlos88.ddns.net
 carlosluize88.zapto.org
 carscannon.com
+cart8draw.com
 cartolarepresentacoes.com.br
 cartself-amoneorem.com
 cashiopeia-updates.com
@@ -1434,6 +1455,7 @@ cato-felix.com
 cau-breeziest-in.cloudapp.net
 cavanic9.net
 cavixo.com
+cavy9soho.com
 caxvm62zyz.com
 cbarsrv.com
 cbsileads.com
@@ -1514,7 +1536,9 @@ check-active-acces.com
 check-idevice.online
 cheerfulrange.com
 cherrythread.com
+ches5sort.com
 chewcoat.com
+chic9usia.com
 chickensstation.com
 chiefcurrent.com
 chikazz.ddns.net
@@ -1526,6 +1550,7 @@ china-iphone-id.com
 china-iphone.top
 chinchickens.com
 chinsnakes.com
+chip2gift.com
 chk-update.com
 chocolateplatform.com
 choicepoint.com
@@ -1644,10 +1669,12 @@ cloudflare.solutions
 cloudtrusted.org
 clowsulin-detplier.com
 clrstm.com
+clue6load.com
 cmbestsrv.com
 cmcore.com
 cmp.network-n.com
 cmytuok.top
+coax7nice.com
 code203.ddns.net
 codeonclick.com
 coderoute.ma
@@ -1898,6 +1925,7 @@ cordlessmedia.com
 cosmosjackson.com
 costumer-account-update.com
 costumerservice.community
+coup7cold.com
 coxmt.com
 cp9t71b6ip.com
 cpactions.com
@@ -1927,6 +1955,7 @@ cryptonotepool.org.uk
 cryptotab.net
 cs6hm.com
 cssrvsync.com
+cuba7tilt.com
 cuberoot.co
 cuentas-seguravsptr-activysinformacion.com
 cuev.in
@@ -1980,6 +2009,7 @@ daemon-check.com
 dailydally.tv
 dam5i6.linkpc.net
 damdoor.com
+dana8herb.com
 danalinc.com
 dancemistake.com
 darriens.com
@@ -2006,6 +2036,7 @@ dataupdate-service.info
 datawrkz.com
 davvid3948.ddns.net
 dawmal.com
+dawn3host.com
 db1.us
 db5.us
 dbbp1.pro
@@ -2051,8 +2082,10 @@ deloton.com
 delta-search.com
 demand.supply
 denakop.com
+deng3rada.com
 denizbank-esube.com
 denizibankasi.com
+dens1raec.com
 departapp.com
 department-gov.com
 dere879.me
@@ -2082,6 +2115,7 @@ dgs2749y980f1.cloudfront.net
 dh2xbuwg.com
 dh956.com
 dhcp.biz
+dial4gwyn.com
 dialogtech.com
 differentdesk.com
 digi-cert.org
@@ -2142,6 +2176,7 @@ documentverify.verify
 docurnent.com
 docusgn.com
 doingtracks.duckdns.org
+doll9jiva.com
 dolohen.com
 domainpoints.com
 domainpower.com
@@ -2212,6 +2247,7 @@ earnoninfo.com
 earthquakescarf.com
 earthycopy.com
 eas-breeziest-in.cloudapp.net
+east2pony.com
 easyplatform.com
 eau-breeziest-in.cloudapp.net
 eawp2ra7.top
@@ -2256,6 +2292,7 @@ ellcurvth.com
 email-g.com
 emailcostumers-limited.com
 emaile.org
+emeu0circ.com
 emltrk.com
 emsecure.net
 emv3.com
@@ -2314,6 +2351,7 @@ etr-mobile1.com
 etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 etreflased.info
+etym6cero.com
 eus-breeziest-in.cloudapp.net
 eus02-breeziest-in.cloudapp.net
 eus2-breeziest-in.cloudapp.net
@@ -2345,6 +2383,7 @@ f2q1u44h4m.com
 f3322.net
 f3322.org
 f63m7w8n29.com
+f72e49a1-ef2c-44b8-8c7d-3e99e967044c.cloudapp.net
 face-book.online
 facebomk.com
 facebook-check-point.com
@@ -2382,8 +2421,11 @@ fc2.com
 fd7qz88ckd.com
 fdsvtrwda.info
 feacebook-login.win
+fear7calk.com
 featureforward.com
 feebleshock.com
+feed5baby.com
+feed5mown.com
 feedify.net
 feedvertizus.com
 feefo.com
@@ -2398,6 +2440,7 @@ fiechaev.com
 fieldtest.cc
 fieldtest.la
 figpii.com
+file3size.com
 filmcoffee.win
 finalcountdown.gq
 find-7.info
@@ -2454,6 +2497,7 @@ flndmyiphone-applelocation.com
 flocdn.com
 flogextension.grammarly.io
 floodprincipal.com
+flow8free.com
 floweryoperation.com
 fluct.jp
 fludies-coaticted.com
@@ -2513,6 +2557,7 @@ freshchat.com
 freshmarketer.com
 friend4cdn.com
 frightenedpotato.com
+frog9alea.com
 frontpage-stats.rbl.ms
 ftp1.biz
 ftpserver.biz
@@ -2541,6 +2586,7 @@ ga87z2o.com
 gaei.tk
 gall-tarquin.com
 gamacdn.com
+game9time.com
 gammae.com
 gammamaximum.com
 gammassp.com
@@ -2550,7 +2596,10 @@ ganon.yahoo.com
 ganti-nama-facebook.com
 ganzerri.me
 gapps.site
+gard4mass.com
+garm9yuma.com
 gate.hockeyapp.net
+gaza2lote.com
 gb0rd.com
 gcion.com
 gdocs.download
@@ -2591,6 +2640,7 @@ ghostmoney2.ddns.net
 ghostmoney3.dnsdojo.com
 giddycoat.com
 gifinate-loggage.com
+gift2pair.com
 gifts-cards.review
 gigya.com
 ginzametrics.com
@@ -2623,6 +2673,7 @@ gobankingrates.com
 gobrowsi.com
 golangwq.info
 goldman-travel.com
+golp4elik.com
 gondolagnome.com
 goo2anywhere.com
 goo4anywhere.com
@@ -2665,6 +2716,7 @@ gri98.com
 groundtruth.com
 group-secureservice.xyz
 groupvaluate.com
+grow1maid.com
 grt01.com
 grt02.com
 grt03.com
@@ -2700,11 +2752,15 @@ h78xb.pw
 h83zvgrg29.com
 h8bjfdcu.com
 h8vzwpv.com
+haag0some.com
 hablemosdecdt.com
 hackucdt.com
+haig7anax.com
 hajimusa.ddns.net
+half1hell.com
 halkcekilisiduyurular.com
 halkebank.com
+hall3hook.com
 hammerhearing.com
 handyfield.com
 hanstrackr.com
@@ -2713,13 +2769,18 @@ hapc.gdn
 happyisp.com
 hardtofindmilk.com
 harethrough.com
+harm6stop.com
 hasbeenlimited-stoppedworking.com
 haupsoti.net
+hazy4cant.com
 hd-plugins.com
+head3high.com
 headerbiddr.com
 healte.de
 healthtube.info
 heapanalytics.com
+hear8crew.com
+heat6have.com
 heatmap.it
 heavypanda1.xyz
 help-facebook.com
@@ -2733,6 +2794,8 @@ help-suport.net
 help-you-in-confirmation.info
 helplimit.net
 helpscout.net
+herb2warn.com
+herb7calk.com
 hexagon-analytics.com
 hextom.com
 hf18yg8q.com
@@ -2752,7 +2815,9 @@ highcpms.com
 highfalutinroom.com
 hilariouszinc.com
 hilltopads.com
+hims1nice.com
 hipstarclub.com
+hiss3lark.com
 historicalrequest.com
 hitcpm.com
 hiug862dj0.com
@@ -3174,6 +3239,7 @@ iprom.eu
 iprom.net
 iqcpm.com
 irgulzk8bi.com
+iron0walk.com
 ironsrc.com
 irsinvoice.com
 isaijra52elizgewigm.duckdns.org
@@ -3223,6 +3289,7 @@ jackettrain.com
 jadeitite.com
 jamexistence.com
 jarvisdigital.io
+jaup0lake.com
 javascloud.com
 javascripts-system.com
 jaybrizzy.gotdns.ch
@@ -3231,6 +3298,7 @@ jblz.net
 jbpreshandes5gm1906.duckdns.org
 jdocfrez.us
 jdzw3frs.com
+jebb8hurt.com
 jeffe231.ddns.net
 jeoyehkc7z.com
 jeremizo888.ddns.net
@@ -3249,9 +3317,11 @@ jisusaiche.secure.footprint.net
 jjmdavj.com
 jkub.com
 joaffs.com
+jody0sora.com
 johnevan227.ddns.net
 jolic2.com
 josephevinchi.com
+josh7cuba.com
 jp-appsy-account-lockedd.com
 jpar333.me
 jqcdn.download
@@ -3339,6 +3409,7 @@ kbzdxt.com
 kdata.fr
 kdc7f2ifcc.com
 keep-your-account.com
+keet1liod.com
 kennedyform.com
 kenshoo.com
 kenxx.ddns.net
@@ -3346,6 +3417,7 @@ keqi7dh3df.com
 kerumal.com
 ketdocwel.us
 kfqked6fgj.com
+kilo6alga.com
 kingdon.dynu.net
 kinoprofi.hhos.ru
 kip5j.com
@@ -3360,6 +3432,8 @@ knifeoctopus.com
 koo6myletj.com
 korea-tax.info
 korrelate.net
+kota3chat.com
+kpr2exp21.com
 krnwhyvq.info
 kro.kr
 krs1v2sl.com
@@ -3382,6 +3456,7 @@ l7wfu866ki.com
 l7xye.top
 l9kfxu1c5x.com
 laappleservee.com
+lack4skip.com
 ladcbteihg.gq
 lagos042.ddns.net
 lamtrigger.com
@@ -3389,10 +3464,13 @@ larryaffiliates.com
 lashy.ddns.net
 lastbornk1.ddns.net
 lastdaysonlines.com
+late6year.com
 laughablecopper.com
 laughcloth.com
 lavaspa.ru
+lave6loki.com
 lawpush.ddns.net
+lazy8krti.com
 lazycat1.xyz
 lazydog1.xyz
 lazyduck1.xyz
@@ -3411,6 +3489,7 @@ leadin.com
 leadzupc.com
 leanplum.com
 leaplunchroom.com
+left5lock.com
 legalmember.info
 lemonpi.io
 lettucelimit.com
@@ -3454,13 +3533,17 @@ limitgdawe.com
 limitted-account.com
 limons.duckdns.org
 limpingline.com
+line6agar.com
+link5view.com
 linknetwork.com
 linkslot.ru
 linodepower.com
+liod1ours.com
 liondigitalserving.com
 liqwid.com
 liqwid.solutions
 lisasmithpypl.com
+list1holp.com
 listrakb.com
 listrakbi.com
 listtraceast.cloudapp.net
@@ -3512,6 +3595,7 @@ log-sign.us
 log.outbrain.org
 log.outbrainimg.com
 log.quora.com
+logger.dailymotion.com
 logger.unsplash.com
 loggingapi.spingo.com
 loghaomedoc.us
@@ -3562,16 +3646,20 @@ logs-app.us
 logs-id.us
 logs-in.us
 logs-sign.us
+loki8lave.com
 lolfree.pw
 longinglettuce.com
 longmusic.com
 loocrum.com
+loom3otto.com
 loopme.com
+lope4refl.com
 lopsidedspoon.com
 losecanontop.us
 losiphone.top
 lost-iphone.info
 lostverify-apple.com
+lote1otto.com
 loudloss.com
 loudlunch.com
 lowerdocieu.us
@@ -3600,6 +3688,7 @@ m9in5.top
 macdanielo.hopto.org
 macfantsy.com
 macinstallerinfo.com
+mack7oyes.com
 macresourcescdn.com
 maddict.net
 madrivo.com
@@ -3633,6 +3722,9 @@ mailmunch.co
 mailservice-apple.com
 mainlink.cool
 mainnine.stream
+make6pain.com
+mali4blat.com
+malm1coax.com
 manage-accountidinvoice-verification.info
 manage-accountpayment-resolutioncenter.com
 manage-accounts-id.com
@@ -3676,6 +3768,7 @@ maps-connect.services
 maps-findmyiphone.online
 marchdom4.com
 marfeel.com
+mari4norm.com
 mariopuzo.ddns.net
 markedcrayon.com
 markedmeasure.com
@@ -3686,7 +3779,9 @@ marketjar.com
 markowen.duckdns.org
 markscot.ddns.net
 mars.media
+marx7loki.com
 maskforms.com
+mass1soma.com
 mass2.com
 mastelefonia.com
 masttracker.com
@@ -3724,6 +3819,7 @@ metric.makemytrip.com
 metrica.yandex.com
 metricscollector.lp.xcal.tv
 meuzxiejun.com
+mews2ruck.com
 mezzobit.com
 mfacebook.net
 mfadsrvr.com
@@ -3738,11 +3834,13 @@ micpn.com
 micro-earth.com
 microad.jp
 mighting-minese.com
+mile0tire.com
 militaryverse.com
 minifyscripts.com
 minormeeting.com
 minpays.com
 mipss.su
+misc1bulk.com
 mixadvert.com
 mixedreading.com
 mixpo.com
@@ -3776,6 +3874,7 @@ modifyeyes.com
 modulepush.com
 moevideo.com
 moldyicicle.com
+mon-com-01.com
 monarchads.com
 monenate.net
 monerate.net
@@ -3800,6 +3899,7 @@ motigo.com
 motionspots.com
 movcpm.com
 mowfruit.com
+mown5gaze.com
 mozgvya.com
 mp-app.info
 mp-tracker.com
@@ -3993,11 +4093,13 @@ nativka.ru
 naustoch.net
 navdmp.com
 navistone.com
+navy9gear.com
 nbcuas-tracker.us-east-1.elasticbeanstalk.com
 ncjkedu.com
 near-located.com
 neartsay.com
 necessary-service.info
+neck6bake.com
 need-attention-error-detected.xyz
 need-attention.xyz
 need-to-validate.xyz
@@ -4063,6 +4165,7 @@ ngageics.com
 ngkciwmnq.info
 ngtv.io
 nhpfvdlbjg.com
+nice3aiea.com
 nicherev.io
 nimiq-network.com
 nimiq.ag
@@ -4086,9 +4189,12 @@ nonameriky10.live
 nondescriptcrowd.com
 nondescriptsmile.com
 nondescriptstocking.com
+nong3bram.com
 nono198011.ddns.net
 nonomee2017.ddns.net
 noqukjy.com
+nora7nice.com
+norm0care.com
 notifia.io
 notification-apple-service.com
 notifications-service.ga
@@ -4124,6 +4230,7 @@ nuviad.com
 nvewpvnid.info
 nwcqntzx5i.com
 nxakpj4ac8gkd53.info
+nyctrl32.com
 nyetm2mkch.com
 nykoa.in
 o-payments.website
@@ -4138,6 +4245,7 @@ oao-js-tag.onemobile.yahoo.com
 obi234.ddns.net
 obi333.ddns.net
 obilosgini.ddns.net
+oboe3broo.com
 obscenesidewalk.com
 observantice.com
 ocaeliek.com
@@ -4154,6 +4262,7 @@ oh-polly.com
 ohpoliy.com
 ohqj2ygd4h.com
 oicssiq.com
+oita4bali.com
 oklahomjs.com
 olavygoxybyz.tk
 olfkptkfop.com
@@ -4237,12 +4346,14 @@ orquideassp.com
 osny2p7a0k.com
 otefauks.link
 otm-r.com
+otto5loki.com
 otzo.com
 oupe71eiun.com
 oupushee.com
 ouradse.com
 ourhobby.com
 ourjra52fullexchgm.duckdns.org
+ours3care.com
 outbrainimg.com
 outster.com
 ovalpigs.com
@@ -4261,6 +4372,7 @@ p9oqu.com
 page-account.info
 page-appleid-apple.com
 page-signin-access-webapps.com
+page1monk.com
 pages-signin.top
 pages-stats.rbl.ms
 paibopse.com
@@ -4278,6 +4390,7 @@ parscalecloud.com
 parsimoniouspolice.com
 password-appleid.com
 pasword-recovery.com
+path5wall.com
 patronim.com
 paula-secundinus.com
 pavpal-me.com
@@ -4356,7 +4469,10 @@ pcrl.co
 pctnew.com
 pdfdocusign.com
 pdmntn.com
+pdxor02.com
 peacepowder.com
+peak2poem.com
+peep1alea.com
 pegloang.com
 pendo.io
 percalabia.com
@@ -4365,6 +4481,7 @@ perf-html.io
 perf-serving.com
 perfectmarket.com
 perimeterx.net
+perk0mean.com
 perkele.ovh
 perviousgamechange.com
 pesbqkopdm.com
@@ -4393,6 +4510,7 @@ pilotx.tv
 pinewood-financial.com
 pingma.qq.com
 piquantpigs.com
+piwik.pro
 pixel-a.basis.net
 pixel-static.spotify.com
 pixel.app.returnpath.net
@@ -4415,6 +4533,7 @@ planet49.com
 platform.io
 playground.xyz
 playwire.com
+plug1luge.com
 plusmarketingagency.com
 pm48j.top
 pmadx.com
@@ -4429,6 +4548,7 @@ policypage-updatestoppedworking.com
 polyicloudfinder.com
 ponystudent.win
 pool0852.hopto.org
+poor5zero.com
 pop6.com
 popmyads.com
 popularenlineaservicios.com
@@ -4631,17 +4751,20 @@ r4nwdude.com
 r66at6sf.com
 r8mxl.top
 r8oyegintx.com
+raab3frog.com
 radarsubmissions.apple.com
 rahasn.akamake.net
 rahasn.homewealth.biz
 rahasn.webhop.org
 railwayrainstorm.com
+rals4alum.com
 ransomware.bit
 rapiddomainbuilder.com
 rapidkittens.com
 raresummer.com
 rastreador-apple.com
 rastrear-lphone-id.com
+rate2self.com
 rationalyze.com
 rbcliveverifications.com
 rbcroyalbank-security.com
@@ -4669,6 +4792,7 @@ realshieldlinked.com
 realtorpage.io
 realtrustsafe.com
 realvu.com
+rear9axis.com
 reason-locked-id1.info
 rebatesrule.net
 rebelsubway.com
@@ -4695,6 +4819,7 @@ recoverypasword.com
 recycloped.com
 red123.ru
 redbear1.xyz
+redd7liod.com
 redditview.com
 redduck1.xyz
 redirect-confirmation.com
@@ -4709,6 +4834,7 @@ redswan1.xyz
 redtram.com
 redwolf1.xyz
 ref1352d.com
+refl3alea.com
 reflectivereward.com
 refuespayment.com
 refund-dvla-gov-uk.online
@@ -4809,7 +4935,10 @@ richaudience.com
 richstring.com
 ridingduck.com
 rightonin.com
+rigi9bury.com
+rime8lope.com
 ringsrecord.com
+ripe8book.com
 ritzykey.com
 ritzysponge.com
 rkdms.com
@@ -4822,13 +4951,16 @@ rmtag.com
 rnengage.com
 rnyetherrwallet.com
 rnyetlherwallet.com
+roar9beer.com
 robbieadanfo.ddns.net
 robbiques-chividers.com
 robinjmcca.ddns.net
+rock5rice.com
 roistat.com
 rolandcomputers.com
 ronesio.xyz
 ronytazz2121.ddns.net
+rote8mino.com
 rotumal.com
 roughroll.com
 royal-submitverifcations.com
@@ -4858,6 +4990,7 @@ run2anywhere.com
 runmewivel.com
 runtnc.net
 rupn6r2g.com
+ruth8badb.com
 ruthlessrobin.com
 rvfrm2002.com
 rvfrm2003.com
@@ -4871,6 +5004,7 @@ rvfrm2010.com
 rvfrm2011.com
 rvnc72k.com
 rxthdr.com
+ryke4peep.com
 rzekbhnk.top
 rzzc.pw
 s-adobeanalytics.vice.com
@@ -4916,6 +5050,7 @@ santanderct.com
 santanderma.net
 santanderms.net
 santanderrs.net
+saon6harz.com
 saqibsiddiqui.com
 saspreview.com
 sat4ken.com
@@ -4925,6 +5060,7 @@ saveyoujs.com
 saysidewalk.com
 sbr-breeziest-in.cloudapp.net
 sc-applle-login.com
+scan6show.com
 scandalcity.tv
 scar231.zapto.org
 scarabresearch.com
@@ -5157,9 +5293,11 @@ shiek1ph.com
 shittu09.hopto.org
 shiveringsail.com
 shockingswing.com
+shoo5woop.com
 shoofle.tv
 shop-analytics.net
 shortcm.li
+shrfbdg004.com
 si1ef.com
 sicherheit-bezahlung.xyz
 sicherheit-sec.online
@@ -5246,10 +5384,13 @@ sj-syst.link
 sjdhqk.live
 sjremetrics.java.com
 skrilln.net
+skye6oner.com
 sleeknote.com
 sleepcartoon.com
 slgnt.eu
 slgnt.us
+slickstream.com
+slim2disc.com
 slimcut.com
 slimcut.media
 slimcutmedia.com
@@ -5363,6 +5504,7 @@ sni-dat.com
 snigelweb.com
 snigelweb.net
 snowplow-pixel.tradingview.com
+snta0034.com
 soagitet.net
 soflopxl.com
 softbank-securitys.com
@@ -5375,6 +5517,7 @@ solve-account-verificationss-acces.com
 solve-accounts-verifications-info.com
 solve-your-account.net
 solve-your-important-account.net
+soma9vols.com
 sombersea.com
 sombersquirrel.com
 sombersurprise.com
@@ -5387,6 +5530,7 @@ soporte-appid.com
 soporteicloud.com
 sorafef.me
 soundsecuredredir.com
+sour1bare.com
 source-payments.com
 source-updateacces-accountlocked.com
 source-updateacces-helpaccountlocked.com
@@ -5404,6 +5548,7 @@ spillero.com
 spillvacation.com
 spinasale.com
 spirebaboon.com
+spit0stge.com
 splin-body.site
 splin-body1.site
 splin-upd.site
@@ -5431,6 +5576,7 @@ squirrelhands.com
 squren.com
 srcip.com
 srepdata.freep.com
+srepdata.statesmanjournal.com
 srv4pub.com
 ssiapawz.com
 ssl-appleidverification.com
@@ -5524,6 +5670,7 @@ sucuri-js.com
 suddensidewalk.com
 sugabit.net
 sugarcurtain.com
+sugh8yami.com
 suk-breeziest-in.cloudapp.net
 sulkybutter.com
 sulvo.co
@@ -5624,7 +5771,9 @@ svalkaw.su
 svchost.publicvm.com
 svf.duckdns.org
 svjat0rx99.com
+svr007phz.com
 swa.metro.co.uk
+swat8toot.com
 swimslope.com
 swiss-underupdate.com
 switchconcepts.com
@@ -5656,6 +5805,7 @@ talk4none.com
 tan-media.com
 tangerine-webverifications.com
 tangibleteam.com
+tank3pull.com
 tappx.com
 taptapvideo.com
 targeting.perso.aws.arc.pub
@@ -5680,6 +5830,7 @@ teads.com
 tealeaf.ibmcloud.com
 tealium.com
 tealiumiq.com
+team8save.com
 teamoluwa.ddns.net
 tebo0o2xw4.com
 tech-supportcenter.us
@@ -5700,6 +5851,7 @@ telemetry.tradingview.com
 tellapart.com
 temporaryhold-webappssvcs.com
 tendertest.com
+tent0mown.com
 terdiparcalpe.info
 termid-paypal.com
 terminus.services
@@ -5717,6 +5869,7 @@ tertronrethed.info
 terworkingaccountapple-yourverifiedhanc.com
 teschenite.com
 test-adsafeprotected.com
+text6film.com
 tf16jdhnnc.com
 tfa5e.top
 tfx1jtisbb.com
@@ -5761,10 +5914,12 @@ tinlads.southernliving.com
 tinpiecessful.info
 tinybear1.xyz
 tiqcdn.com
+tire1soak.com
 tj9pcnb2ws.com
 tkekbn5sfk.com
 tkhg70uymg.com
 tm-awx.com
+tm1-001.com
 toecircle.com
 toh.info
 toknowall.com
@@ -5779,6 +5934,7 @@ torent-updates.ddns.net
 torrent-stel.space
 torrent-supd.space
 torrent-updates.ddns.net
+toru0vane.com
 tosecurecode-appleid.info
 totalmediasolutions.com
 toythieves.com
@@ -5820,6 +5976,7 @@ transaction-payment07.com
 transaction-secure5.com
 traq.li
 traskedlink.com
+tray0bury.com
 trckk.com
 treasury-government.com
 tremendoustime.com
@@ -5854,6 +6011,7 @@ trustx.org
 ttoc8ok.com
 tu42het22n.com
 tudou.com
+tula9mari.com
 tumejortorrent.com
 tune.com
 turf.digital
@@ -6078,6 +6236,7 @@ validattionmandatory.xyz
 validitions-apple-account-service.com
 valthyra.com
 valueimpression.com
+vane3alga.com
 vanfireworks.com
 vaxaqngzs3.com
 vdbhe7ti.com
@@ -6194,6 +6353,8 @@ vg74gi6mea.com
 vhbx.co
 vhldwuv6om.com
 vi.ai
+vice4beek.com
+vick6duty.com
 vicomi.com
 vidazoo.com
 vidcpm.com
@@ -6239,6 +6400,7 @@ voastauz.net
 vodafone-verificatie.com
 voicevegetable.com
 voievnenibrinw.com
+vols7feed.com
 volume-login-key-349388231231291.ru
 voluum.com
 volvelle.tech
@@ -6263,11 +6425,14 @@ w6lkr4s8wu.com
 wa-solutation-limited.com
 wa4etw9l.top
 waardex.com
+wait8hurl.com
 walkme.com
 wallstsxer.hopto.org
+want7feed.com
 warraningalert.xyz
 waryfog.com
 wateryvan.com
+wauk1care.com
 waws-prod-bn1-027.cloudapp.net
 waws-prod-bn1-027.vip.azurewebsites.windows.net
 wcge-breeziest-in.cloudapp.net
@@ -6353,6 +6518,7 @@ webvisor.org
 wedirectmedia.com
 wedogreatpurchases.com
 weeb-icloud.top
+weed6tape.com
 wehaa.net
 wehaveupdate-policypageserv.com
 wellmadefrog.com
@@ -6379,6 +6545,7 @@ whs82908.com
 wideorbit.com
 wikaba.com
 wikaba.org
+wild0army.com
 win-free-prize.com
 winclicks.info
 window5.win
@@ -6387,6 +6554,7 @@ windowmentaria.com
 windowsupdatesalert.ml
 winfreesupport.club
 wirecomic.com
+wivo2gaza.com
 wixab-cloud.com
 wixab.com
 wixab.it
@@ -6590,11 +6758,14 @@ y96q29a1fo.com
 yabidos.com
 yadangz.ddns.net
 yahthahm.com
+yama1hove.com
+yami8alea.com
 yamoo.com.ng
 ybkxsm.com
 ybp.yahoo.com
 ye185hcamw.com
 yealnk.com
+yeld9auto.com
 yellowbird1.xyz
 yellowleopard1.xyz
 yellowmeercat1.xyz
@@ -6607,6 +6778,7 @@ yieldlab.de
 yieldlove.com
 yieldoptimizer.com
 yim3eyv5.top
+yirr5frog.com
 yjchiakozj.com
 ylskyueqya.com
 ylx-4.com
