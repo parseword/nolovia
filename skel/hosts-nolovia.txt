@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-05-17 16:17:47
+# Generated at 2020-05-23 18:24:37
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -129,6 +129,7 @@
 42632zfylf.com
 43yagowe3y.com
 45eijvhgj2.com
+470kwc3.com
 480app.com
 49cgvg0fx0.com
 49feqdpw.com
@@ -686,11 +687,14 @@ analytics-static.ugc.bazaarvoice.com
 analytics.anvato.net
 analytics.audioeye.com
 analytics.blue
+analytics.businessinsider.com
 analytics.cincopa.com
 analytics.dnnapi.com
 analytics.dvidshub.net
 analytics.getshogun.com
 analytics.inform.com
+analytics.jst.ai
+analytics.myfidevs.io
 analytics.newscred.com
 analytics.nextopia.net
 analytics.publitas.com
@@ -1096,6 +1100,7 @@ ashleyrnadison.com
 asiatravelagency.ddns.net
 asksummaryaccount.com
 aso1.net
+asopctrack.com
 asorock.mooo.com
 assd-webapps.com
 assetmage.com
@@ -1387,6 +1392,7 @@ browsiprod.com
 brsrvr.com
 bsbrxl7znz.com
 btez8.xyz
+btgtrack.com
 btstatic.com
 bttrack.com
 btvhdscr.com
@@ -1908,6 +1914,7 @@ controlx.ddns.net
 convertexperiments.com
 convertflow.co
 convertful.com
+convertize.io
 convertro.com
 cookiebot.com
 cookielaw.org
@@ -1925,6 +1932,8 @@ cordlessmedia.com
 cosmosjackson.com
 costumer-account-update.com
 costumerservice.community
+count-staging.api.pgs.io
+count.api.pgs.io
 coup7cold.com
 coxmt.com
 cp9t71b6ip.com
@@ -1940,6 +1949,7 @@ crawlclocks.com
 crazycat1.xyz
 crazypanda1.xyz
 crazypeacock1.xyz
+crazyrocket.io
 create2fear.com
 crimtan.com
 criticalalert.xyz
@@ -2516,6 +2526,7 @@ fmlpmails-icloud.com
 foamybox.com
 fodlkf9d1p.com
 follingerservicemabe.com
+followsite.com
 fomo.com
 fomo.ghost.io
 footprintdns.com
@@ -3132,6 +3143,7 @@ information-accountdb.com
 infoserver4.review
 infotradelinks.ddns.net
 infoupdateppl.com
+ingest.crash.vault-tec.systems
 inner-active.com
 innity.com
 innocentwax.com
@@ -3237,6 +3249,7 @@ iponweb.com
 ipredictive.com
 iprom.eu
 iprom.net
+ipstatp.com
 iqcpm.com
 irgulzk8bi.com
 iron0walk.com
@@ -3428,6 +3441,7 @@ kj2hy.com
 kjke.pw
 klantenservice-inlogin.pro
 klca5rlwdr.com
+klclick1.com
 knifeoctopus.com
 koo6myletj.com
 korea-tax.info
@@ -3441,6 +3455,7 @@ krux.com
 krxd.net
 kt5850pjz0.com
 ktf5kbl2m4.com
+ktxlytics.io
 ktyawzg.com
 ku6.com
 kubient.com
@@ -3796,6 +3811,7 @@ mbr-targeting.com
 mdelivry.com
 mdhv.io
 me-look-update-now.com
+measured.com
 mediabong.com
 mediabreakaway
 medianewsonline.com
@@ -4551,6 +4567,7 @@ pool0852.hopto.org
 poor5zero.com
 pop6.com
 popmyads.com
+popt.in
 popularenlineaservicios.com
 popxxx.net
 port.sec.miui.com
@@ -4782,6 +4799,7 @@ rdsa2016.com
 rdsa2017.com
 rdsa2018.com
 rdsa2019.com
+rdtrker.com
 re-verify-id-apple.com
 readgoldfish.com
 readingguilt.com
@@ -5054,6 +5072,7 @@ saon6harz.com
 saqibsiddiqui.com
 saspreview.com
 sat4ken.com
+satrk.com
 saub27i3os.com
 savagtolldoc.us
 saveyoujs.com
@@ -5792,6 +5811,7 @@ t2f9pn3m7w.com
 t7479e4d.com
 tag.brandcdn.com
 tag.getdrip.com
+tag.rmp.rakuten.com
 tagdeliver.com
 tagon.co
 tags.newscgp.com
@@ -5944,6 +5964,7 @@ trace-device.us
 tracedesire.com
 track.beyondmenu.com
 track.bizjournals.com
+track.klickly.com
 track.thesaurus.com
 track.volo-mobile.com
 track.wayin.com
@@ -6037,6 +6058,7 @@ u8vysb7s2v.com
 u9oxdnxk8b.com
 uacexchange.us
 uappllee.com
+ub-analytics.com
 ubembed.com
 ucfunnel.com
 ucheephu.com
@@ -6108,6 +6130,7 @@ unverify-id-apple.com
 unwrittenspot.com
 uod2quk646.com
 uorineall.info
+upapi.net
 update-access-recovery.com
 update-account-information.info
 update-account-security.com
@@ -6746,6 +6769,7 @@ xxe2.com
 xxuz.com
 xxxy.biz
 xxxy.info
+xy7track.com
 xydoclike.us
 xywdvhd.com
 xzipy.com
