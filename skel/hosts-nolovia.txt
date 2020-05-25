@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-05-23 18:24:37
+# Generated at 2020-05-25 14:04:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -129,6 +129,7 @@
 42632zfylf.com
 43yagowe3y.com
 45eijvhgj2.com
+45tu1c0.com
 470kwc3.com
 480app.com
 49cgvg0fx0.com
@@ -1192,6 +1193,7 @@ balloontexture.com
 bancobb.online
 bancomermexico2017.com
 banksampahbaginda.com
+banners.ampfeed.com
 barbarousnerve.com
 barometric.com
 baronsmedia.com
@@ -3688,6 +3690,7 @@ ltunescancelationpayment.com
 luckstarclub.com
 luckyorange.net
 lucretius-ada.com
+lumberamount.com
 lumpyleaf.com
 lvgvax82bp.com
 lw2ofgc2zo.com
