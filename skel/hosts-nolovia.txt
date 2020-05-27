@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-05-25 14:04:16
+# Generated at 2020-05-27 16:36:59
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -74,6 +74,7 @@
 1xgo.xyz
 1zv9jakhux.com
 2016today.duckdns.org
+2020mustang.com
 206ads.com
 2112.bounceme.net
 24counter.com
@@ -683,6 +684,7 @@ amp-error-reporting.appspot.com
 ampugi334f.com
 analiticoscdn.com
 analytics-google.net
+analytics-ingress.pandorastreaming.com
 analytics-sm.com
 analytics-static.ugc.bazaarvoice.com
 analytics.anvato.net
@@ -1208,6 +1210,7 @@ bcleaningservice.com
 bcnmonetize.com
 bcwdv5bsxi.com
 bdg-analytics.appspot.com
+bdwafx.com
 be4anywhere.com
 bea4.cnn.com
 beacon-cdn.walmart.com.akadns.net
@@ -1255,6 +1258,7 @@ bidfilter.com
 bidfluence.com
 bidgear.com
 bidintrinsic.com
+bidphysics.com
 bidr.io
 bidsimulator.com
 bidstream.com
@@ -1384,11 +1388,13 @@ brie5jiff.com
 brightfunnel.com
 brightmountainmedia.com
 brightroll.com
+brilliantcollector.com
 broadboundary.com
 broadcastbed.com
 broaddoor.com
 brontocdn.com
 brownpanda1.xyz
+browserhawk.com
 browsers.support
 browsiprod.com
 brsrvr.com
@@ -1460,6 +1466,7 @@ castrokolaz.top
 castup.net
 cathilton-utions.com
 cato-felix.com
+catsnbootsncats2020.com
 cau-breeziest-in.cloudapp.net
 cavanic9.net
 cavixo.com
@@ -2024,6 +2031,7 @@ damdoor.com
 dana8herb.com
 danalinc.com
 dancemistake.com
+dapperdiscussion.com
 darriens.com
 dashbid.com
 dashbid.io
@@ -2380,6 +2388,7 @@ explore2be.com
 expn.digital
 exporttaipei.publicvm.com
 exposebox.com
+express-clicks.com
 express4.dynns.com
 extad.info
 extend.tv
@@ -2719,6 +2728,7 @@ gr8domain.biz
 gr8name.biz
 gracefulsock.com
 grandioseguide.com
+gredgar-prevalid.com
 green-red.com
 greenadexchange.com
 greenbird1.xyz
@@ -2881,6 +2891,8 @@ hurtteeth.com
 hvooyieoei.com
 hwekl8dz1d.com
 hybrid.ai
+hyro.ly
+hyros.com
 hystericalhelp.com
 i-app.us
 i-ilog.com
@@ -3029,6 +3041,7 @@ id-unlock-account.com
 id-verifylockedaccount.com
 id-visitors.com
 id5-sync.com
+id5.io
 idappleconfirmaccount.com
 idch9s8d.com
 idcloudapp-scrapple.com
@@ -3079,6 +3092,7 @@ ilovejuju.be
 ilxhsgd.com
 im2ss2ss.top
 imgadult.com
+imglnkd.com
 immensehoney.com
 imonomy.com
 impact-ad.jp
@@ -3254,6 +3268,7 @@ iprom.net
 ipstatp.com
 iqcpm.com
 irgulzk8bi.com
+iris.tv
 iron0walk.com
 ironsrc.com
 irsinvoice.com
@@ -3791,6 +3806,7 @@ mariopuzo.ddns.net
 markedcrayon.com
 markedmeasure.com
 markedpail.com
+markethero.io
 marketingautomation.services
 marketjar.ca
 marketjar.com
@@ -3891,6 +3907,7 @@ mod-js.su
 mod-sj.link
 modifyeyes.com
 modulepush.com
+moengage.com
 moevideo.com
 moldyicicle.com
 mon-com-01.com
@@ -4076,6 +4093,7 @@ myuserlimit.org
 myusersoffer.com
 myvisitors.se
 myvisualiq.net
+mywebdata.top
 mywww.biz
 myyethearwallet.com
 myyetherrwallet.com
@@ -4733,6 +4751,7 @@ qiheptnm80.com
 qjjto.com
 qkpcihpo16.com
 ql6401rkow.com
+qlitics.com
 qmkr7isp3o.com
 qnageoh3ns.com
 qoe-1.yottaa.net
@@ -4888,6 +4907,8 @@ repixel-sdk.netlify.com
 repixel.co
 report-us-apple.pro
 report-us-appleid.com
+report.23video.com
+report.kay.23sys.com
 reportabuse-apple.com
 reportinstagram.com
 republer.com
@@ -5064,6 +5085,7 @@ samexsame.com
 samsungplymouth.com
 san.strangled.net
 sanalytics.verizon.com
+sancdn.net
 santander-app.com
 santander-clientes.com
 santander-contas.online
@@ -5291,6 +5313,8 @@ setforconfigplease.com
 setforspecialdomain.com
 severvaliidation.xyz
 severvaliidationrequired.xyz
+sexad.net
+sexadnetwork.com
 sexidude.com
 sexxxy.biz
 sf14g.com
@@ -5829,6 +5853,7 @@ tan-media.com
 tangerine-webverifications.com
 tangibleteam.com
 tank3pull.com
+tapnative.com
 tappx.com
 taptapvideo.com
 targeting.perso.aws.arc.pub
@@ -6375,6 +6400,8 @@ verygoodads.com
 veryield-malyst.com
 veuhub.com
 vexacion.com
+vfghc.com
+vfgtb.com
 vg74gi6mea.com
 vhbx.co
 vhldwuv6om.com
@@ -6439,6 +6466,7 @@ vuble.tv
 vukhhjzd.com
 vuserjs.com
 vuukle-analytics.appspot.com
+vuukle.com
 vvpcdke43x.com
 vvvvvv-apple.com
 vvvvvv-icloud.com
@@ -6606,6 +6634,7 @@ wpncdn.com
 wpserve.org
 wqgdajjozr.com
 wqiwjwwgyz.science
+wru.ai
 wryfinger.com
 wus2-breeziest-in.cloudapp.net
 wus22-breeziest-in.cloudapp.net
