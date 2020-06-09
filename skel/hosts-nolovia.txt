@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-05-27 16:36:59
+# Generated at 2020-06-08 22:26:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -55,6 +55,7 @@
 1990.nflfan.org
 19bk5lo5q2.com
 1c309erm.top
+1de10ecf04779.com
 1dmp.co
 1dumb.com
 1e-transfer-interac.com
@@ -682,6 +683,7 @@ amhs.club
 amos5lynn.com
 amp-error-reporting.appspot.com
 ampugi334f.com
+ampush.io
 analiticoscdn.com
 analytics-google.net
 analytics-ingress.pandorastreaming.com
@@ -1386,6 +1388,7 @@ bred4tula.com
 bridge.industries
 brie5jiff.com
 brightfunnel.com
+brightline.tv
 brightmountainmedia.com
 brightroll.com
 brilliantcollector.com
@@ -1486,6 +1489,7 @@ cdn-googleservice.com
 cdn-js.link
 cdn.firstpromoter.com
 cdn.sift.com
+cdn1272serve.xyz
 cdnassels.com
 cdnbronto.com
 cdnbronto.info
@@ -2003,6 +2007,7 @@ cvqgnkeqme.com
 cwkuki.com
 cws.conviva.com
 cxense.com
+cybba.solutions
 cybervalidationneeded.xyz
 cyclinted-metrence.com
 czechcash.com
@@ -2018,6 +2023,7 @@ d22chwk8np.com
 d2c7xlmseob604.cloudfront.net
 d2ergeh3ul.com
 d2oh4tlt9mrke9.cloudfront.net
+d2rp1k1dldbai6.cloudfront.net
 d39ievd5spb5kl.cloudfront.net
 d41.co
 d4q8zgf756.com
@@ -2417,6 +2423,7 @@ facebooku.xyz
 facilitategrandfather.com
 fadedprofit.com
 familiarfloor.com
+familiarrod.com
 famousquarter.com
 fanaticalfly.com
 fancybar.net
@@ -2740,6 +2747,7 @@ groundtruth.com
 group-secureservice.xyz
 groupvaluate.com
 grow1maid.com
+growthrx.in
 grt01.com
 grt02.com
 grt03.com
@@ -2891,6 +2899,7 @@ hurtteeth.com
 hvooyieoei.com
 hwekl8dz1d.com
 hybrid.ai
+hypnoticwound.com
 hyro.ly
 hyros.com
 hystericalhelp.com
@@ -2933,6 +2942,7 @@ ib-ibi.com
 ib1oyteqqn.com
 ibasvuru-ziraatbank.com
 ibclick.stream
+ibeat-analytics.com
 ibillboard.com
 ibmoption.com
 iciould.services
@@ -3093,6 +3103,7 @@ ilxhsgd.com
 im2ss2ss.top
 imgadult.com
 imglnkd.com
+imglnke.com
 immensehoney.com
 imonomy.com
 impact-ad.jp
@@ -3289,8 +3300,10 @@ isupports.care
 isupports.center
 itcfnfi.com
 itemdb.com
+its-up.com
 itsaol.com
 itstravel-ekb.ru
+itsup.com
 itumobig.ddns.net
 itunes-account-recover.com
 itunes-been.com
@@ -3552,6 +3565,7 @@ ligadx.com
 ligatus.com
 lightcushion.com
 lightstep.com
+lightstep.medium.systems
 limat-is-account-me.com
 limetalk.com
 limiitaccount.email
@@ -4683,6 +4697,8 @@ purple6401.com
 purplecat1.xyz
 push-notifications.top
 push.world
+pushalert.co
+pushalertjs-vbfhp6w.stackpathdns.com
 pushnami.com
 pushowl.com
 pushpad.xyz
@@ -4911,6 +4927,8 @@ report.23video.com
 report.kay.23sys.com
 reportabuse-apple.com
 reportinstagram.com
+reports.radiotime.com
+reports.tunein.com
 republer.com
 required-verification-change.com
 resecured-account-ueweaspx.com
@@ -5012,6 +5030,7 @@ rs-stripe.com
 rset-update.com
 rta2.metro.co.uk
 rtb-seller.com
+rtb123.com
 rtbcatalyst.com
 rtbcoverage.com
 rtbengine.com
@@ -5051,6 +5070,7 @@ rzekbhnk.top
 rzzc.pw
 s-adobeanalytics.vice.com
 s-msg-myetherwallet.com
+s-onetag.com
 s2.reutersmedia.net
 s20dh7e9dh.com
 s24hc8xzag.com
@@ -5662,9 +5682,11 @@ statistic-info.me
 stats.datawrapper.de
 stats.heyoya.com
 stats.rbl.ms
+stats.vliplatform.com
 stats.zotabox.com
 stats02.topix.com
 statsdot.eu
+stattrack.com
 statusdelivery.com
 steadfastsound.com
 steadfastsystem.com
