@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-06-08 22:26:16
+# Generated at 2020-06-11 11:05:57
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -712,6 +712,7 @@ analytics.video.meredithcorp.io
 analytics.wolfgangs.com
 analytics.worldtable.co
 analytics.xcal.tv
+analytics.yahoo
 and.co.uk
 andbeyond.media
 andspurs.com
@@ -1241,6 +1242,7 @@ berush.com
 bestadbid.com
 bestazon.io
 bestboundary.com
+bestdisplayformats.com
 bestsecuritysearch.com
 betsransfercomunications.org
 bettermetrics.co
@@ -1929,6 +1931,7 @@ convertflow.co
 convertful.com
 convertize.io
 convertro.com
+cookiebot.azurefd.net
 cookiebot.com
 cookielaw.org
 cookiepro.com
@@ -2354,6 +2357,7 @@ epom.com
 erne.co
 error-detected-need-attention.xyz
 error-detected.com
+errorception.com
 errortablet.com
 es-find.net
 es-webapps.com
@@ -3428,6 +3432,7 @@ just-easy-travel.com
 justdied.com
 juste-travel.com
 justicejudo.com
+justmineit.com
 justpremium.com
 justvalidate.xyz
 justvalidateit.xyz
@@ -4272,6 +4277,7 @@ nsa-breeziest-in.cloudapp.net
 nskieoxdqe.com
 nssp.com
 nsw-breeziest-in.cloudapp.net
+nta1vb6cdlrl.com
 ntlw.net
 ntvk1.ru
 nukqimllza.com
@@ -5100,6 +5106,7 @@ sail-personalize.com
 sajari.com
 salaure.pro
 salemove.com
+salesforceliveagent.com
 samescripts.com
 samexsame.com
 samsungplymouth.com
@@ -5440,6 +5447,7 @@ site-tracking.com
 site24x7rum.com
 site2scureinfo.com
 sitelabweb.com
+siteofupdate.info
 sitescout.com
 sitespeeds.com
 sixscissors.com
@@ -6064,6 +6072,7 @@ tritetongue.com
 tritondigital.com
 trk.email.dynect.net
 trk750.com
+trkapi.impact.com
 trkn.us
 trollitrancessions.net
 truckstomatoes.com
@@ -6088,6 +6097,7 @@ tune.com
 turf.digital
 turtl.co
 tuvvpas.com
+tvpixel.com
 tvsquared.com
 twiago.com
 twitteraccountverified.online
