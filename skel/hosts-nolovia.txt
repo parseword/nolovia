@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-06-11 19:35:18
+# Generated at 2020-06-15 19:58:51
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -533,6 +533,7 @@ adrock.tv
 adrolx.com
 adrs.me
 ads-twitter.com
+ads.pinbusinessnetwork.com
 ads.simonandschuster.com
 ads4pics.com
 adsafeprotected.com
@@ -1314,6 +1315,7 @@ bigfish1.xyz
 biglion1.xyz
 bigmoney.biz
 bigmouse1.xyz
+bigpingback.issuu.com
 bigsnake1.xyz
 biling-updateappl.com
 billing-appleverification.com
@@ -1494,6 +1496,7 @@ carajoin.me
 carambola.com
 caramella.fun
 caramella.life
+carbon-analytics.trafficmanager.net
 cardcenteramex.world
 cardlytics.com
 care-ph.reviews
@@ -1523,6 +1526,7 @@ cbarsrv.com
 cbsileads.com
 cca-breeziest-in.cloudapp.net
 ccexperiments.oracleoutsourcing.com
+ccgateway.net
 ccmbg.com
 ccumhss.com
 ccvalidate.com
@@ -2125,6 +2129,7 @@ dbmads.com
 dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
 dc.trafficmanager.net
+dcanalytics.us-east-1.elasticbeanstalk.com
 dd82dd.com
 ddns.info
 ddns.me.uk
@@ -2612,6 +2617,7 @@ floweryoperation.com
 fluct.jp
 fludies-coaticted.com
 fly-apps.com
+flytedesk.com
 fm6dz864.top
 fmi-finder.tk
 fmi-idicloud.com
@@ -2806,6 +2812,7 @@ googleads.github.io
 googleadsl.com
 googlecloud.su
 googlemapsup.ddns.net
+googleoptimize.com
 googleprotectionshop.com
 googletagmanager.eu
 googlitagmanager.com
@@ -4700,6 +4707,7 @@ pietexture.com
 pilaff-up.ru
 pilotx.tv
 pinewood-financial.com
+pingback.issuu.com
 pingma.qq.com
 piquantpigs.com
 piquantstove.com
@@ -4890,6 +4898,7 @@ px-cloud.net
 px1alsry.com
 pxladb.club
 pxlclnvwe-a.akamaihd.net
+pxlctl.elpais.com
 pxlgnpgecom-a.akamaihd.net
 pxlsrv.net
 pxltgr.com
