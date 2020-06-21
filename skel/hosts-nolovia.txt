@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-06-15 19:58:51
+# Generated at 2020-06-21 15:21:14
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1957,6 +1957,7 @@ consciouscabbage.com
 consciouschairs.com
 consensu.akadns.net
 consensu.org
+consent.api.osano.com
 conso.la
 console.cmcm.com
 consoupow.com
@@ -4465,6 +4466,7 @@ omnitagjs.com
 oms.eu
 omzdy.top
 onaudience.com
+one4p.aol.com
 onecount.net
 onedrive.one
 onedumb.com
@@ -6090,6 +6092,7 @@ tapnative.com
 tappx.com
 taptapvideo.com
 targeting.perso.aws.arc.pub
+targeting.tbt.arcpublishing.com
 targeting.tgam.arcpublishing.com
 targetingedge.com
 tarttendency.com
@@ -6268,6 +6271,7 @@ trappush.com
 traq.li
 traskedlink.com
 tray0bury.com
+trck.youvisit.com
 trckk.com
 treasury-government.com
 tremendousplastic.com
