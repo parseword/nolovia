@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-06-25 10:39:16
+# Generated at 2020-06-25 14:13:34
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -418,6 +418,7 @@ accountupdate-unusualactivity-verification.info
 accrenew-login492.com
 accuant-googlc.com
 accupdate.org
+acdn5100000.com
 aceptandverify.com
 acessocliente.net
 acessomovel.mobi
@@ -698,6 +699,7 @@ ampush.io
 analiticoscdn.com
 analytics-google.net
 analytics-ingress.pandorastreaming.com
+analytics-production.hapyak.com
 analytics-sm.com
 analytics-static.ugc.bazaarvoice.com
 analytics.anvato.net
@@ -2078,6 +2080,7 @@ d0p21g2fep.com
 d0ubletraffic.com
 d0v5g1vb.top
 d10lpsik1i8c69.cloudfront.net
+d1272serve.xyz
 d14emrg9.com
 d22chwk8np.com
 d2c7xlmseob604.cloudfront.net
@@ -2462,6 +2465,7 @@ eus02-breeziest-in.cloudapp.net
 eus2-breeziest-in.cloudapp.net
 evanescentedge.com
 evenirpage.tk
+event-logger.api.dnc.org
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
 exceptionless.io
@@ -2733,6 +2737,7 @@ gdocs.download
 ge-stion.com
 genesismedia.com
 genus.ai
+geo-targetly.com
 geo-tracker.smadex.com
 geoedge.be
 geoip.alm.com
@@ -3998,6 +4003,7 @@ messageaccount.com
 messagenovice.com
 metric.makemytrip.com
 metrica.yandex.com
+metrics.getvitals.io
 metricscollector.lp.xcal.tv
 meuzxiejun.com
 mews2ruck.com
@@ -4113,6 +4119,7 @@ multiview.com
 muqson0kgr.com
 murdoog.com
 must-update-uewe.com
+muxy.io
 mw19c3mi5a.com
 mxptint.net
 my-account-profilepypal-reactivated.info
@@ -4931,6 +4938,7 @@ qnageoh3ns.com
 qoe-1.yottaa.net
 qpc3hunbn2.com
 qpoe.com
+qprod2.net
 qrzlaatf.xyz
 qsearch-a.akamaihd.net
 qsstats.com
@@ -4940,6 +4948,7 @@ quacksquirrel.com
 quaintcan.com
 qualified.com
 qualitysocialtargeting.com
+qualtrics.com.cdn.cloudflare.net
 quantum-advertising.com
 quantummetric.com
 quarterbean.com
@@ -6237,6 +6246,7 @@ trace-device.us
 tracedesire.com
 track.beyondmenu.com
 track.bizjournals.com
+track.brnd.live
 track.klickly.com
 track.thesaurus.com
 track.volo-mobile.com
