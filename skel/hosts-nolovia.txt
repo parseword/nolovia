@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-06-25 14:13:34
+# Generated at 2020-06-30 12:35:34
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -6167,6 +6167,7 @@ tertronrethed.info
 terworkingaccountapple-yourverifiedhanc.com
 teschenite.com
 test-adsafeprotected.com
+testhjfbhjasbf.com
 text6film.com
 texturetrick.com
 tf16jdhnnc.com
@@ -7148,6 +7149,7 @@ yvzgazds6d.com
 yw9f088h61.com
 yxdown.cn
 yyz6ard1e3.com
+z-analytics.net
 z1ujd76gd6.com
 z3c7c0fgu2.com
 z52jp0na9z.com
