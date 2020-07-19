@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-06-30 12:35:34
+# Generated at 2020-07-18 18:56:49
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -107,6 +107,7 @@
 31y6b8omk2.com
 3221dkf7m2.com
 33across.com
+34ed5da2977d1ace.com
 34pavouhj7.com
 34wp.org
 35wp.org
@@ -154,6 +155,7 @@
 4v9wp.com
 5155352.com
 51nlno7cgy.com
+544bd1e82a9c8c39.com
 550b3ikb9j.com
 565an8qpws.com
 57e3ascxh1.com
@@ -220,6 +222,8 @@
 7wkfzsj7ss.com
 7xc4n.com
 81p5b.top
+822f797ef9d68ad3.com
+82448dceaaa13034.com
 82o9v830.com
 86a6b542l7.com
 88hb7evabd.com
@@ -418,7 +422,9 @@ accountupdate-unusualactivity-verification.info
 accrenew-login492.com
 accuant-googlc.com
 accupdate.org
+acdn12354732.com
 acdn5100000.com
+acdn5165543.com
 aceptandverify.com
 acessocliente.net
 acessomovel.mobi
@@ -520,6 +526,7 @@ adoric-om.com
 adoric.com
 adotmob.com
 adovr.com
+adpearance.com
 adpixo.com
 adplan-ds.com
 adplayer.pro
@@ -590,6 +597,7 @@ adwords-ppc.org
 adxcore.com
 adxtracking.com
 adzumi.com
+ae21a0ad95016488.com
 aeckcjy.com
 aerserv.com
 aethiopiensidamo.de
@@ -1235,6 +1243,7 @@ bawdypets.com
 bbypass.pw
 bc0a.com
 bcdn1234325.com
+bcdn7843241.com
 bcdn87454132.com
 bcleaningservice.com
 bcnmonetize.com
@@ -1266,6 +1275,7 @@ bemitho.com
 benn8bord.com
 benthose.com
 benx234.ddns.net
+beop.io
 beoplr66bxcgs.net
 berush.com
 bestadbid.com
@@ -2159,6 +2169,7 @@ decisivedrawer.com
 decisiveducks.com
 decoroustitle.com
 decoycreation.com
+ded733b374cc1c3f.com
 deep.bi
 deepintent.com
 deesktops.info
@@ -2336,6 +2347,7 @@ e-1interac.com
 e-onlinegirisim.com
 e-transfer11-interac.com
 e1-interac.com
+e21b1642db801b2a.com
 e2b9jbowv7.com
 e4w50tqnqk.com
 e5a87pq.com
@@ -2542,6 +2554,7 @@ feacebook-login.win
 fear7calk.com
 fearfulfish.com
 featureforward.com
+feb12740de5be9b3.com
 feebleshock.com
 feed5baby.com
 feed5mown.com
@@ -2697,6 +2710,7 @@ futuristicapparatus.com
 futuristicfairies.com
 futuristicfifth.com
 futuristicfold.com
+fuzzybasketball.com
 fuzzyflavor.com
 fuzzyweather.com
 fw5e8yga.top
@@ -2776,6 +2790,7 @@ gift2pair.com
 gifts-cards.review
 gigya.com
 ginzametrics.com
+giortm.com
 giraffepiano.com
 girrrly.com
 girrrly.today
@@ -2957,6 +2972,7 @@ hiekeegi.com
 higedev.cool
 highcpms.com
 highfalutinbox.com
+highfalutinhoney.com
 highfalutinroom.com
 hilariouszinc.com
 hilltopads.com
@@ -3175,6 +3191,7 @@ idch9s8d.com
 idcloudapp-scrapple.com
 idcwp6j6sm.com
 idealmedia.com
+idelv.net
 identity-acces-unlocked-disab1e-secure.com
 idevice-locate.us
 idevicemap-location.com
@@ -3220,8 +3237,10 @@ ilovejuju.be
 ilxhsgd.com
 im2ss2ss.top
 imgadult.com
+imglnkc.com
 imglnkd.com
 imglnke.com
+imhd.io
 imigero.top
 immensehoney.com
 imonomy.com
@@ -3236,6 +3255,7 @@ importloggm.duckdns.org
 impossibleexpansion.com
 improvedigital.com
 impulsehands.com
+imstks.com
 inbenta.com
 inbound-analytics.pixlee.com
 inc-app.us
@@ -3329,7 +3349,9 @@ interac-e1.com
 interac-refund-transfercanada.com
 interac.world
 interaconline-etransfer-paymentrefund.com
+interact-analytics.com
 intercom.io
+intergient.com
 intermob-refundbnk1.com
 internalpurchase.com
 internalvaporgroup.com
@@ -3486,6 +3508,8 @@ johnevan227.ddns.net
 jolic2.com
 josephevinchi.com
 josh7cuba.com
+journey.vanityfair.com
+journey.wired.com
 jp-appsy-account-lockedd.com
 jpar333.me
 jqcdn.download
@@ -3969,6 +3993,7 @@ masttracker.com
 matchcows.com
 materialisticfan.com
 materialmoon.com
+mawlaybob.com
 maxijs.com
 maximusstafastoriesticks.info
 maxymiser.net
@@ -3989,6 +4014,7 @@ mediawallahscript.com
 mediawayss.com
 medyanative.com
 mefound.com
+meliora.xyz
 member-validation.info
 memberdetail-data.info
 memevideoad.com
@@ -3998,6 +4024,7 @@ memozilla.org
 mercycoin.org
 meremark.com
 meresomastewini.com
+merklesearch.com
 mesoquant.org
 messageaccount.com
 messagenovice.com
@@ -4481,6 +4508,7 @@ onedumb.com
 onesignal.com
 onetag-sys.com
 onetag.com
+onetag.io
 onevanillachecker.com
 oneyservics.com
 onfocus.io
@@ -4811,6 +4839,7 @@ pretiox.com
 prevent-limitation.com
 previousplayground.com
 previouspotato.com
+previsibilisais.website
 prfdesk.pro
 prince.hackermind.info
 printerplasma.com
@@ -5879,6 +5908,7 @@ stackadapt.com
 stakingscrew.com
 stakingslope.com
 staleseat.com
+stalesummer.com
 standingnest.com
 starreviews.com
 stat-rock.com
@@ -5898,8 +5928,10 @@ stats.datawrapper.de
 stats.heyoya.com
 stats.rbl.ms
 stats.vliplatform.com
+stats.wpmucdn.com
 stats.zotabox.com
 stats02.topix.com
+stats1.wpmudev.com
 statsdot.eu
 stattrack.com
 statusdelivery.com
@@ -6065,6 +6097,7 @@ svjat0rx99.com
 svr007phz.com
 swa.metro.co.uk
 swat8toot.com
+swayshosshun.icu
 swimslope.com
 swiss-underupdate.com
 switchconcepts.com
@@ -6258,6 +6291,7 @@ tracker.metricool.com
 tracker.smadex.com
 tracker.unbxdapi.com
 tracking.aegpresents.com
+tracking.hivecloud.net
 tracking.landroverusa.com
 tracking.magnetmail.net
 tracking.marketing
@@ -6490,6 +6524,7 @@ urlads.net
 urldelivery.com
 urlife2all.com
 urnachay.com
+us-track.sync.tv
 usageanalytics.coveo.com
 usbktransact.com
 uscert.top
@@ -6781,6 +6816,7 @@ web-stats.cc
 web-stats.pw
 webaccess-limitedmyaccountz.com
 webaccess-limitedmyaccountz.info
+webanalytics.lexisnexis.com
 webapps-account.com
 webapps-app-scur.com
 webapps-checking.com
@@ -7170,6 +7206,7 @@ zemanta.com
 zeotap.com
 zertweekdoc.us
 zetazync.com
+zeustechnology.com
 zg-api.com
 zha6ivnktt.com
 zhtlvag.com
