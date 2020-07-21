@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-07-20 23:20:32
+# Generated at 2020-07-21 15:08:38
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1772,6 +1772,7 @@ coinbaseverifier.com
 coinsandtokens.io
 coinzilla.com
 coinzillatag.com
+collect.lngtd.com
 collectandgather.com
 collectiveuk.com
 collector.github.com
@@ -2260,6 +2261,7 @@ dl6q95zf.top
 dlxrlc2ni2.com
 dlzm790g.com
 dmaxjs.com
+dmtrk.net
 dmxleo.com
 dn-growing.qbox.me
 dnckawxatc.com
@@ -2674,6 +2676,7 @@ formisimo.com
 forultimateandbest4upgradepc.download
 forwrdnow.com
 fourarithmetic.com
+foureyes.io
 foxpush.com
 fqvkntefmd.com
 fraddation-pyments-acounting.com
@@ -2891,6 +2894,7 @@ guardedgovernor.com
 guardedschool.com
 gubuh.com
 guce.engadget.com
+guerly.com
 guerritor.info
 guiltlessbasketball.com
 guitarbelieve.com
@@ -4751,6 +4755,7 @@ phonefix.guru
 photographpan.com
 pi.pardot.com
 pietexture.com
+piksyon.com
 pilaff-up.ru
 pilotx.tv
 pinewood-financial.com
@@ -5098,6 +5103,7 @@ redmouse1.xyz
 redpeacock1.xyz
 redpineapplemedia.com
 redrentalservice.com
+redretarget.com
 redswan1.xyz
 redtram.com
 redwolf1.xyz
@@ -5121,6 +5127,7 @@ registerdata.info
 registered-customers.com
 registeredacclogin.com
 registeredacclogined.com
+regutalk.com
 reignn.com
 reiseeget.com
 rekmob.com
@@ -6389,6 +6396,7 @@ typejsx.com
 typekitcloud.com
 typeklt.com
 typicalteeth.com
+tyseck.com
 tzwaw.pw
 u21drwj6mp.com
 u29ngmuc.top
