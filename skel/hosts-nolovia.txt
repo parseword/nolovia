@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-07-18 18:56:49
+# Generated at 2020-07-20 23:20:32
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -458,6 +458,7 @@ actuallysheep.com
 actuallysnake.com
 acxiomapac.com
 ad-back.net
+ad-cache.tabarn.app
 ad-generation.jp
 ad-goi.com
 ad-pixel.com
@@ -705,6 +706,8 @@ amp-error-reporting.appspot.com
 ampugi334f.com
 ampush.io
 analiticoscdn.com
+analysis.fi
+analytics-egain.com
 analytics-google.net
 analytics-ingress.pandorastreaming.com
 analytics-production.hapyak.com
@@ -728,6 +731,7 @@ analytics.roboturk.co
 analytics.schoolwires.com
 analytics.snidigital.com
 analytics.syndeca.com
+analytics.tiktok.com
 analytics.tout.com
 analytics.trovit.com
 analytics.video.meredithcorp.io
@@ -2318,11 +2322,13 @@ drberg.store
 dropped-clicks.com
 drossel.me
 drydrum.com
+ds-beap1.cb.g01.yahoodns.net
 dsmtp.com
 dspmulti.com
 dsud.com
 dt00.net
 dt2xr6g2i5.com
+dttrpx.com
 dualstack.collector-nginx-1035376720.us-east-1.elb.amazonaws.com
 dubaiexchange.dynu.net
 dumb1.com
@@ -2502,6 +2508,7 @@ ezoic.com
 ezoic.net
 ezskz4vee5.com
 ezua.com
+f-log-at.grammarly.io
 f084t2700i.com
 f09vhflf10.com
 f2q1u44h4m.com
@@ -2749,6 +2756,7 @@ gb0rd.com
 gcion.com
 gdocs.download
 ge-stion.com
+gemini.yahoo.com
 genesismedia.com
 genus.ai
 geo-targetly.com
@@ -3970,6 +3978,7 @@ maps-app.us
 maps-connect.services
 maps-findmyiphone.online
 marchdom4.com
+marchex.io
 marfeel.com
 mari4norm.com
 mariopuzo.ddns.net
@@ -4761,6 +4770,7 @@ pixel.newscgp.com
 pixel.patch.com
 pixel.rubiconproject.net.akadns.net
 pixel.spotify.com
+pixel.voltn.com
 pixeldefender.com
 pixelsrvdmn.com
 pixfuture.com
@@ -5237,6 +5247,7 @@ rotumal.com
 roughroll.com
 royal-submitverifcations.com
 royalbank-verification2.com
+rpptrk.com
 rrtcfwmvhs.com
 rs-stripe.com
 rset-update.com
@@ -5256,6 +5267,7 @@ rtpdn11.com
 rtxplatform.com
 ru858am70x.com
 rulerabbit.com
+rum-static.pingdom.net
 rum.conde.io
 rum.dynapis.com
 rum.dynapis.info
@@ -5921,6 +5933,7 @@ statements-icloudappleid.com
 statesales.info
 statful.com
 stati.in
+static-doubleclick-net.l.google.com
 static-mon.yandex.net
 static.cloudflareinsights.com
 statistic-info.me
@@ -6083,6 +6096,7 @@ supprt-account.us
 surf-town.net
 surgeprice.com
 survata.com
+surveygizmobeacon.s3.amazonaws.com
 suspciusignin.com
 suspended-facebook-temporarily.com
 suspicious-accountactivty.com
@@ -6249,6 +6263,7 @@ tinlads.southernliving.com
 tinpiecessful.info
 tinybear1.xyz
 tiqcdn.com
+tiqcdn.com.edgekey.net
 tire1soak.com
 tj9pcnb2ws.com
 tkekbn5sfk.com
@@ -6856,6 +6871,7 @@ webmediavalidation.xyz
 webmon.cfigroup.netdna-cdn.com
 weborama.fr
 weborama.net
+webpushr.com
 webresoved-service.com
 webrivage.com
 webrootyoun.us
@@ -7135,6 +7151,7 @@ yahthahm.com
 yama1hove.com
 yami8alea.com
 yamoo.com.ng
+yatrk.xyz
 ybkxsm.com
 ybp.yahoo.com
 ye185hcamw.com
