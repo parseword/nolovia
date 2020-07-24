@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-07-21 15:08:38
+# Generated at 2020-07-24 14:46:38
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -215,6 +215,7 @@
 7mfsdfasdmkgmrk.com
 7n86.com
 7owp.org
+7oz0ry9bj8.top
 7rjln8orgh.com
 7s08gpbp39.com
 7svuq83t90.com
@@ -523,6 +524,7 @@ adnegah.ir
 adnegah.net
 adnium.com
 adoning-unducted.com
+adorableanger.com
 adoric-om.com
 adoric.com
 adotmob.com
@@ -1111,6 +1113,7 @@ aprode.bit
 aps.amazon.com
 apvo.club
 apxy.io
+aquaticalarm.com
 aquaticowl.com
 ar-micuentaapple.com
 ar1nvz5.com
@@ -1235,6 +1238,7 @@ bancomermexico2017.com
 bandborder.com
 banksampahbaginda.com
 banners.ampfeed.com
+bant.io
 barbarousnerve.com
 barometric.com
 baronsmedia.com
@@ -1411,6 +1415,7 @@ bootstrapjs.com
 boredcrown.com
 boringcoat.com
 bosshugss.me
+botfuse.com
 bounceexchange.com
 bouncyproperty.com
 bprise.com
@@ -1436,6 +1441,7 @@ breakfastboat.com
 bred4tula.com
 bridge.industries
 brie5jiff.com
+briefbears.com
 brightfunnel.com
 brightline.tv
 brightmountainmedia.com
@@ -1678,6 +1684,7 @@ cleansite.biz
 cleansite.info
 cleansite.us
 clearbit.com
+clearcabbage.com
 clearcomb.com
 clearload.bid
 clearpier.com
@@ -1777,6 +1784,7 @@ collectandgather.com
 collectiveuk.com
 collector.github.com
 collector.githubapp.com
+colorfulafterthought.com
 colossalchance.com
 colossusssp.com
 colpirio.com
@@ -1975,6 +1983,7 @@ consciouschairs.com
 consensu.akadns.net
 consensu.org
 consent.api.osano.com
+consistpotato.com
 conso.la
 console.cmcm.com
 consoupow.com
@@ -2008,6 +2017,7 @@ cookielaw.org
 cookiepro.com
 cooleremail.com
 coolkshop-scrences.com
+coordinatedcoat.com
 coordinatedcub.com
 cootlogix.com
 copperchickens.com
@@ -2032,6 +2042,7 @@ cpm4link.com
 cpmpop.com
 cqyirsc.com
 crabbychin.com
+crafthenry.com
 craigslist-verification.com
 crawlclocks.com
 crayoncompetition.com
@@ -2071,6 +2082,7 @@ customer-service-resolution-center-paypal.com
 customer-verify-information.com
 customeraccountummary.info
 customerdetailoreses.com
+customerlabs.co
 customerloginupdate.com
 customerprestige-interacpay.com
 customers-security-privacy-center.com
@@ -2117,6 +2129,7 @@ danalinc.com
 dancemistake.com
 dap.digitalgov.gov
 dapperdiscussion.com
+dapperfloor.com
 darriens.com
 dashbid.com
 dashbid.io
@@ -2218,6 +2231,7 @@ dev-6638ef5b-a31a-4093-9c0d.pantheonsite.io
 dev.null.vg
 device-trace.us
 devie-location.review
+devo.io
 dewifal.com
 dexessee.com
 df8li6at9c.com
@@ -2304,6 +2318,7 @@ domclickext.xyz
 domob.cn
 donaldroberts2014.duckdns.org
 dongabby.hopto.org
+donkeyleaf.com
 donmark22.myddns.rocks
 donsea.hopto.org
 dontneedcoffee.gq
@@ -2483,6 +2498,7 @@ etym6cero.com
 eus-breeziest-in.cloudapp.net
 eus02-breeziest-in.cloudapp.net
 eus2-breeziest-in.cloudapp.net
+evaluateend.com
 evanescentedge.com
 evenirpage.tk
 event-logger.api.dnc.org
@@ -2545,6 +2561,7 @@ farmergoldfish.com
 farshake.com
 fartit.com
 fascinatedfeather.com
+fastagilelink.com
 fastlscripts.com
 fasttrack-ignite.com
 fatchilli.media
@@ -2754,6 +2771,7 @@ gapps.site
 gard4mass.com
 garm9yuma.com
 gate.hockeyapp.net
+gaudybeginner.com
 gaza2lote.com
 gb0rd.com
 gcion.com
@@ -3004,6 +3022,7 @@ hognoob.se
 hollowshake.com
 home-secured-autentic-verifi-account.com
 home-update.net
+homelycrown.com
 honeybulb.com
 honeygoldfish.com
 honorablehall.com
@@ -3664,6 +3683,7 @@ lack4skip.com
 ladcbteihg.gq
 lagoonolivia.com
 lagos042.ddns.net
+lameletters.com
 lamplow.com
 lamtrigger.com
 languagelake.com
@@ -3700,6 +3720,7 @@ left5lock.com
 leftliquid.com
 legalmember.info
 lemonpi.io
+lettucecopper.com
 lettucelimit.com
 levelbehavior.com
 lfg5jnbi.com
@@ -3856,6 +3877,7 @@ logs-app.us
 logs-id.us
 logs-in.us
 logs-sign.us
+logtrust.io
 loki8lave.com
 lolfree.pw
 longinglettuce.com
@@ -4156,6 +4178,7 @@ mtvp05j.com
 mtzenhigqg.com
 mudrakgroup.in
 multiview.com
+mundanepollution.com
 muqson0kgr.com
 murdoog.com
 must-update-uewe.com
@@ -4343,6 +4366,7 @@ needvalidationtogolive.xyz
 neighborlywatch.com
 nej7wwpp1u.com
 nepalhtml.com
+neptuneadspush.com
 neqbzz4p.top
 nervoussummer.com
 nesmotrinamenya.ru
@@ -4433,6 +4457,7 @@ noqukjy.com
 nora7nice.com
 norm0care.com
 nostalgicknot.com
+nostalgicneed.com
 notifia.io
 notification-apple-service.com
 notifications-service.ga
@@ -4480,6 +4505,7 @@ o4uxrk33.com
 o6ek91ag15.com
 o7coh5tlwb.com
 o8q80l1z.top
+oafishobservation.com
 oagwl3372h.com
 oao-js-tag.onemobile.yahoo.com
 obi234.ddns.net
@@ -4625,7 +4651,9 @@ paibopse.com
 palaccountsubmit.com
 paleleaf.com
 palletbush.hopto.org
+panickypancake.com
 panini101.chickenkiller.com
+panoramicbutter.com
 paradoxfactor.com
 parafarmaciaabascal.com
 parcelcreature.com
@@ -4636,6 +4664,7 @@ parscale.com
 parscalecloud.com
 parsimoniouspolice.com
 partplanes.com
+passengerpage.com
 password-appleid.com
 pasword-recovery.com
 path5wall.com
@@ -4794,6 +4823,7 @@ pmadx.com
 pmi5media.com
 pndelfast.com
 pocketmath.com
+pointlessrifle.com
 poiuytyuiopkjfnf.com
 polarbear.freeddns.org
 police-pypal.com
@@ -5023,6 +5053,7 @@ rahasn.akamake.net
 rahasn.homewealth.biz
 rahasn.webhop.org
 railwayrainstorm.com
+railwayreason.com
 raintwig.com
 rals4alum.com
 ransomware.bit
@@ -5074,6 +5105,7 @@ receptiveink.com
 receptivereaction.com
 recommender.scarabresearch.com
 reconditerake.com
+reconditerespect.com
 reconizerindentificationaccount.com
 recovermycart.com
 recovers-account-disabeld-access.com
@@ -5353,10 +5385,12 @@ saon6harz.com
 saqibsiddiqui.com
 saspreview.com
 sat4ken.com
+satisfyingspark.com
 satrk.com
 saub27i3os.com
 savagtolldoc.us
 saveyoujs.com
+savorystructure.com
 saysidewalk.com
 sbr-breeziest-in.cloudapp.net
 sc-applle-login.com
@@ -5369,6 +5403,7 @@ scarcestream.com
 scarecrowslip.com
 scaredcomfort.com
 scatteredheat.com
+scientificshirt.com
 scientificsneeze.com
 scintillatingscissors.com
 scintillatingspace.com
@@ -5609,6 +5644,7 @@ shoofle.tv
 shop-analytics.net
 shopbreakfast.com
 shortcm.li
+showstranger.com
 shrfbdg004.com
 shyseed.com
 si1ef.com
@@ -5715,6 +5751,7 @@ slipperysack.com
 slkdocsmember.website
 slkdocsofficemember.website
 sloi1.com
+sloppyearthquake.com
 slripe.com
 slyngshot.io
 sm534z1jpx.com
@@ -5865,6 +5902,7 @@ spectacularsnail.com
 spectrocoinbtc.com
 speednames.com
 spellsalsa.com
+spendpest.com
 sphereup.com
 spidersboats.com
 spiffymachine.com
@@ -6010,6 +6048,7 @@ succeedscene.com
 sucuri-cloud.com
 sucuri-js.com
 suddensidewalk.com
+suddensnake.com
 sugabit.net
 sugarcurtain.com
 sugh8yami.com
@@ -6202,6 +6241,7 @@ telemetry.mozilla.org
 telemetry.tradingview.com
 tellapart.com
 temporaryhold-webappssvcs.com
+tempttalk.com
 tendertest.com
 tent0mown.com
 terdiparcalpe.info
@@ -6247,6 +6287,7 @@ thicktrucks.com
 thiksikr.com
 thingsafterthought.com
 thinkablerice.com
+thinkabletrick.com
 thirdparty.bnc.lt
 thirdpresence.com
 thirdrespect.com
@@ -6922,6 +6963,7 @@ wha.la
 wha8q7pevj.com
 whereareyou.pro
 whiceega.com
+whineattempt.com
 whirlwealth.com
 whiskyqueue.com
 whisperingbadge.com
@@ -7172,6 +7214,7 @@ yeo1tfjz5f.com
 yext-pixel.com
 ygto.com
 yieldbird.com
+yieldify.com
 yieldlab.com
 yieldlab.de
 yieldlove.com
