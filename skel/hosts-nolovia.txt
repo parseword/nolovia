@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-07-24 14:46:38
+# Generated at 2020-07-25 18:30:53
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1646,6 +1646,7 @@ chip2gift.com
 chk-update.com
 chocolateplatform.com
 choicepoint.com
+choozle.com
 chriswork999.ddns.net
 chuksthedon.duckdns.org
 chunkycactus.com
@@ -3011,6 +3012,7 @@ hipstarclub.com
 hiss3lark.com
 historicalrequest.com
 hitcpm.com
+hitleap.com
 hiug862dj0.com
 hizaxytv.com
 hloginnow.net
@@ -3711,6 +3713,7 @@ lcloudonline.com
 lde-signin-privat-true-login1.info
 lde-signin-privat-true-login1.site
 ldt1duixoe.com
+leadfeeder.com
 leadgen-cbslnk.cnet.com
 leadin.com
 leadzupc.com
@@ -3723,6 +3726,7 @@ lemonpi.io
 lettucecopper.com
 lettucelimit.com
 levelbehavior.com
+lfeeder.com
 lfg5jnbi.com
 lflink.com
 lflinkup.com
