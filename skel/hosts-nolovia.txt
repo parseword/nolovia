@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-11 20:33:45
+# Generated at 2020-08-12 14:51:17
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1653,6 +1653,7 @@ chriswork999.ddns.net
 chuksthedon.duckdns.org
 chunkycactus.com
 churnsignal.com
+ci-mpsnare.iovation.com
 cibconline-verifications.com
 cignal.io
 cin-breeziest-in.cloudapp.net
@@ -3728,6 +3729,7 @@ leadgen-cbslnk.cnet.com
 leadin.com
 leadzupc.com
 leanplum.com
+leanproconsulting.com.br
 leaplunchroom.com
 left5lock.com
 leftliquid.com
@@ -3915,6 +3917,7 @@ lowlocket.com
 lp3tdqle.com
 lphone-local.com
 lqw.me
+lr-ingest.io
 ls.chatid.com
 lsd.systemten.org
 ltunes.cloud
@@ -6385,6 +6388,7 @@ tracking.marketing
 tracking.nationalfamily.com
 tracking.news.trade-point.co.uk
 tracking.nextdoor.com
+tracking.shopstyle.com
 tracking.skyword.com
 tracking.socketlabs.com
 trackingapp.info
@@ -7075,8 +7079,10 @@ www-unlocked-service.com
 www-webuserprotection-appleid.com
 www.creativeforwardings.cf
 www.jrocketmassive.cf
+www.leanproconsulting.com.br
 www.malaika-jp.com
 www.roofmantf.cf
+www.sba-gov-us.xyz
 www1-apple.store
 www1-cserviceapple.com
 www1-cservicepaeyipal.com
