@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-07-28 21:39:22
+# Generated at 2020-08-11 20:33:45
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -709,6 +709,7 @@ ampugi334f.com
 ampush.io
 analiticoscdn.com
 analysis.fi
+analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics-egain.com
 analytics-google.net
 analytics-ingress.pandorastreaming.com
@@ -1623,6 +1624,7 @@ check-account-now.com
 check-accountlocked.com
 check-active-acces.com
 check-idevice.online
+check-you-robot.online
 cheerfulrange.com
 chemicalcoach.com
 chemicalsnake.com
@@ -1785,6 +1787,7 @@ collectandgather.com
 collectiveuk.com
 collector.github.com
 collector.githubapp.com
+collector.wbeme.com
 colorfulafterthought.com
 colossalchance.com
 colossusssp.com
@@ -2497,6 +2500,7 @@ etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 etreflased.info
 etym6cero.com
+eum-appdynamics.com
 eus-breeziest-in.cloudapp.net
 eus02-breeziest-in.cloudapp.net
 eus2-breeziest-in.cloudapp.net
@@ -2779,6 +2783,7 @@ gb0rd.com
 gcion.com
 gdocs.download
 ge-stion.com
+gekkopush.com
 gemini.yahoo.com
 genesismedia.com
 genus.ai
@@ -3270,6 +3275,7 @@ ilog-ins.us
 ilovejuju.be
 ilxhsgd.com
 im2ss2ss.top
+img-taboola.com
 imgadult.com
 imglnkc.com
 imglnkd.com
@@ -3494,6 +3500,8 @@ itunesapplenvoice.info
 iubenda.com
 iverifyaccount.info
 ividence.com
+ivstat-failover.index.hu
+ivstat.indavideo.hu
 ivykiosk.com
 iwanttodeliver.com
 ixeq490u20.com
@@ -4654,6 +4662,8 @@ page-signin-access-webapps.com
 page1monk.com
 pages-signin.top
 pages-stats.rbl.ms
+pagesense-collect.zoho.com
+pagesense.io
 paibopse.com
 palaccountsubmit.com
 paleleaf.com
@@ -5221,6 +5231,7 @@ resonanceads.com
 resonantbrush.com
 respectrain.com
 responseiq.com
+responsys.net
 resselerratings.com
 restart-membership-netfilx.com
 restoreappleid-apple.com
@@ -5268,6 +5279,7 @@ ripe8book.com
 riserange.com
 ritzykey.com
 ritzysponge.com
+rjtsdjguijtriohtjionj.blogspot.com
 rkdms.com
 rkdtt0hez7.com
 rlcdn.com
@@ -5771,6 +5783,7 @@ smallpanda1.xyz
 smartadserver.com
 smarterhq.io
 smartlook.com
+smartname.com
 smartplugin.youbora.com
 smartstream.tv
 smashseek.com
@@ -5969,6 +5982,7 @@ sso-billingservice-webapps.com
 ssphwy.com
 ssraju3n.com
 sstats.kroger.com
+ssvwv.com
 stack-sonar.com
 stackadapt.com
 stakingscrew.com
@@ -6137,6 +6151,7 @@ supportlimitedaccount-verification.org
 supportlimitedservice-accounts.net
 supportlimitedservicesacount-paypal.com
 supportlogin-costumers.com
+supportmetrics-uat.apple.com
 supportmetrics.apple.com
 supports.ltd
 supports.services
@@ -6407,6 +6422,7 @@ triplelift.com
 tritetongue.com
 tritondigital.com
 trk.email.dynect.net
+trk.pinterest.com
 trk750.com
 trkapi.impact.com
 trkn.us
@@ -6426,6 +6442,7 @@ trustkemi.duckdns.org
 trustmordor.pw
 trustx.org
 ttoc8ok.com
+ttraff.cc
 tu42het22n.com
 tudou.com
 tula9mari.com
@@ -6918,6 +6935,7 @@ webappsrequired-accrenew22125122.com
 webappss-security-bin-apple.com
 webdeclaration.xyz
 webdoctell.us
+webeyez.com
 webfotce.me
 webgrowthdoc.us
 webhostvalidate.xyz
@@ -6997,6 +7015,7 @@ windowinstalldealaflash.icu
 windowmentaria.com
 windowsupdatesalert.ml
 winfreesupport.club
+winworker.club
 wirecomic.com
 wivo2gaza.com
 wixab-cloud.com
