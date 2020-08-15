@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-12 14:51:17
+# Generated at 2020-08-15 13:32:15
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -645,6 +645,7 @@ aj1610.online
 aj2073.online
 ajjhtetv87.com
 ajkzd9h.com
+ajump.link
 ak-facebook.com
 ak-is.net
 ak-is2.net
@@ -1291,6 +1292,7 @@ bestadbid.com
 bestazon.io
 bestboundary.com
 bestdisplayformats.com
+bestprizesday4.life
 bestsecuritysearch.com
 betsransfercomunications.org
 bettermetrics.co
@@ -1616,6 +1618,7 @@ chase-logbank5.xyz
 chase-unlockid.com
 chatbeacon.io
 chatid.com
+chatpath.com
 chatra.io
 chatterbuzz-media.com
 check-account-acceess.com
@@ -1625,6 +1628,7 @@ check-accountlocked.com
 check-active-acces.com
 check-idevice.online
 check-you-robot.online
+checkingwindowsforcleaning-here01.life
 cheerfulrange.com
 chemicalcoach.com
 chemicalsnake.com
@@ -3352,6 +3356,7 @@ infoserver4.review
 infotradelinks.ddns.net
 infoupdateppl.com
 ingest.crash.vault-tec.systems
+initiatefreeintenselyplayer.icu
 inner-active.com
 innity.com
 innocentwax.com
@@ -4130,6 +4135,7 @@ mnfioew.info
 mnoa6ez1eq.com
 mobifoth.com
 mobile-found.com
+mobile-global-apps-store.life
 mobileadtrading.com
 mobileapptracking.com
 mobiledevsafety.com
@@ -6803,6 +6809,7 @@ veuhub.com
 vexacion.com
 vfghc.com
 vfgtb.com
+vfgte.com
 vg74gi6mea.com
 vhbx.co
 vhldwuv6om.com
@@ -6881,6 +6888,7 @@ w6lkr4s8wu.com
 wa-solutation-limited.com
 wa4etw9l.top
 waardex.com
+waarschijnlijk14.live
 wait8hurl.com
 wakefulcook.com
 walkme.com
