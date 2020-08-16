@@ -348,10 +348,11 @@ foreach ($resolvers as $r) {
      * output formats simply get a comment at the top.
      */
     if ($r->getName() === 'rpz') {
+        $serial = date('ymdHi');
         $header = <<<EOT
 \$TTL	604800
 \$ORIGIN	blackhole.rpz.
-@	IN	SOA	localhost. root.localhost. (1 604800 86400 2419200 604800 )
+@	IN	SOA	localhost. root.localhost. ({$serial} 604800 86400 2419200 604800 )
 @	IN	NS	localhost.
 ; blackhole.rpz
 ; DNS blackhole configuration for advertising, tracking, and malware servers
