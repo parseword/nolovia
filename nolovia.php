@@ -18,7 +18,7 @@
  *
  * This script fetches and makes use of server lists compiled by:
  *
- * Paul Butler at https://ssl.bblck.me/
+ * Paul Butler at https://github.com/paulgb/BarbBlock
  * Disconnect at https://disconnect.me/
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Malware Domain List at https://www.malwaredomainlist.com/
