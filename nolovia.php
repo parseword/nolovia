@@ -21,7 +21,6 @@
  * Paul Butler at https://ssl.bblck.me/
  * Disconnect at https://disconnect.me/
  * Peter Lowe at http://pgl.yoyo.org/adservers/
- * Malwarebytes at https://hosts-file.net/?s=Download
  * Malware Domain List at https://www.malwaredomainlist.com/
  * Dan Pollock at http://someonewhocares.org/hosts/
  * SANS Internet Storm Center at https://isc.sans.edu/suspicious_domains.html
