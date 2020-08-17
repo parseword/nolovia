@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-15 13:32:15
+# Generated at 2020-08-16 19:47:22
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5319,6 +5319,7 @@ rpptrk.com
 rrtcfwmvhs.com
 rs-stripe.com
 rset-update.com
+rstyle.me
 rta2.metro.co.uk
 rtb-seller.com
 rtb123.com
@@ -6984,6 +6985,7 @@ webvalidationneeded.xyz
 webvalidationrequire.xyz
 webvalidationrequired.xyz
 webvisor.org
+wecantrack.com
 wedirectmedia.com
 wedogreatpurchases.com
 weeb-icloud.top
