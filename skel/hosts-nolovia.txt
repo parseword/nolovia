@@ -1,12 +1,12 @@
 ################################################################################
-# nolovia Supplemental Bad Host Index blacklist file
+# nolovia Supplemental Bad Host Index denylist file
 # Part of nolovia, <https://github.com/parseword/nolovia/>
 #
 # The following list is compiled by nolovia's author from various sources, and
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-16 19:47:22
+# Generated at 2020-08-21 16:51:05
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2024,6 +2024,7 @@ cookiebot.azurefd.net
 cookiebot.com
 cookielaw.org
 cookiepro.com
+cookihq.com
 cooleremail.com
 coolkshop-scrences.com
 coordinatedcoat.com
