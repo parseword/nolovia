@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-21 16:51:05
+# Generated at 2020-08-23 15:38:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -6019,6 +6019,7 @@ statistic-info.me
 stats.datawrapper.de
 stats.heyoya.com
 stats.rbl.ms
+stats.vidalytics.com
 stats.vliplatform.com
 stats.wpmucdn.com
 stats.zotabox.com
