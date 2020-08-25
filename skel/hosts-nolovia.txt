@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-23 15:38:55
+# Generated at 2020-08-25 13:07:46
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2574,6 +2574,7 @@ farshake.com
 fartit.com
 fascinatedfeather.com
 fastagilelink.com
+fastbase.com
 fastlscripts.com
 fasttrack-ignite.com
 fatchilli.media
@@ -5336,6 +5337,8 @@ rtk.io
 rtpdn11.com
 rtxplatform.com
 ru858am70x.com
+rudderlabs.com
+rudderstack.com
 rulerabbit.com
 rum-static.pingdom.net
 rum.conde.io
@@ -5892,6 +5895,7 @@ sneakystew.com
 sni-dat.com
 snigelweb.com
 snigelweb.net
+snitcher.com
 snowplow-pixel.tradingview.com
 snta0034.com
 soagitet.net
