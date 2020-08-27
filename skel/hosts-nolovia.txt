@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-26 22:05:19
+# Generated at 2020-08-27 13:46:38
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -519,6 +519,7 @@ admetricspro.com
 admicro.vn
 admin-apple.space
 admixer.com
+admonks.io
 adnegah.com
 adnegah.ir
 adnegah.net
@@ -3286,6 +3287,8 @@ ilxhsgd.com
 im2ss2ss.top
 img-taboola.com
 imgadult.com
+imglnka.com
+imglnkb.com
 imglnkc.com
 imglnkd.com
 imglnke.com
@@ -3793,6 +3796,7 @@ limons.duckdns.org
 limpingline.com
 line6agar.com
 link5view.com
+linkmaniak.com
 linknetwork.com
 linkslot.ru
 linodepower.com
@@ -4148,6 +4152,10 @@ mobiledevsafety.com
 mobileinterac-pointpayrewards.com
 mobility-refunds.com
 mobistartapp.com
+mobtya.com
+mobtyb.com
+mobtyc.com
+mobtyd.com
 mocdoctest.us
 mod-js.su
 mod-sj.link
@@ -7355,6 +7363,7 @@ zlp6s.pw
 zme8o3l1c4.com
 zmjagawa.com
 zo7gihmry2.com
+zog.link
 zonejs.com
 zoobashop.com
 zoomd.com
