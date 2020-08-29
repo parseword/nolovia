@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-28 21:59:31
+# Generated at 2020-08-29 16:13:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -744,6 +744,7 @@ analytics.wolfgangs.com
 analytics.worldtable.co
 analytics.xcal.tv
 analytics.yahoo
+analytics.yopify.com
 and.co.uk
 andbeyond.media
 andspurs.com
@@ -765,6 +766,7 @@ anxiousapples.com
 anyclip-media.com
 apathetictheory.com
 api-profit.com
+api-telemetry.servers.getgo.com
 api.e-toys.cn
 api.limbik.com
 api.userstyles.org
@@ -2381,6 +2383,7 @@ dzxsqoh01i.com
 e-1interac.com
 e-onlinegirisim.com
 e-transfer11-interac.com
+e.reddit.com
 e1-interac.com
 e21b1642db801b2a.com
 e2b9jbowv7.com
@@ -2924,6 +2927,7 @@ grt05.com
 gstaticadssl.l.google.com
 gsx2newapple.com
 gtagaffilate.com
+gu-ecom.com
 guangzizai.com
 guardedgovernor.com
 guardedschool.com
@@ -3861,6 +3865,7 @@ log.outbrainimg.com
 log.quora.com
 logger.dailymotion.com
 logger.unsplash.com
+logging.getgo.com
 loggingapi.spingo.com
 loghaomedoc.us
 login-acces-verified-account-intl.com
@@ -4632,6 +4637,7 @@ optanon.blob.core.windows.net
 optimallimit.com
 optimatic.com
 optimize-stats.voxmedia.com
+optimizely.techtarget.com
 optimizly.info
 optincollect.com
 optinmonster.com
@@ -6294,6 +6300,7 @@ telegram-verification.com
 telemetrics.klaviyo.com
 telemetry.allrecipes.com
 telemetry.mozilla.org
+telemetry.servers.getgo.com
 telemetry.tradingview.com
 tellapart.com
 temporaryhold-webappssvcs.com
