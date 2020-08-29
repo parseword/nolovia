@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-27 13:46:38
+# Generated at 2020-08-28 21:59:31
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1298,6 +1298,7 @@ bestsecuritysearch.com
 betsransfercomunications.org
 bettermetrics.co
 betweendigital.com
+bewilderedbattle.com
 bewilderedblade.com
 bfmio.com
 bg6s0.com
