@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-29 16:13:27
+# Generated at 2020-08-30 16:50:10
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5034,6 +5034,7 @@ pxladb.club
 pxlclnvwe-a.akamaihd.net
 pxlctl.elpais.com
 pxlgnpgecom-a.akamaihd.net
+pxlsrc.com
 pxlsrv.net
 pxltgr.com
 py5iqkj9ny.com
