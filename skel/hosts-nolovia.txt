@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-08-30 16:50:10
+# Generated at 2020-09-01 13:34:00
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2009,6 +2009,8 @@ contact-securemyaccount.com
 contact-verify-center.com
 contactcostumer-service.com
 content-recommendation.net
+contentabc.com
+contentabc.net
 contentignite.com
 contentprogrammatic.com
 context.ly
@@ -2522,6 +2524,7 @@ evenirpage.tk
 event-logger.api.dnc.org
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
+evts.creately.com
 exceptionless.io
 exclusivebrass.com
 exi8ef83z9.com
@@ -3745,6 +3748,7 @@ leadfeeder.com
 leadgen-cbslnk.cnet.com
 leadid.com
 leadin.com
+leadmanagerfx.com
 leadzupc.com
 leanplum.com
 leanproconsulting.com.br
@@ -5084,6 +5088,8 @@ quicksandear.com
 quietknowledge.com
 quikcdn.com
 quintag.com
+quiq-api.com
+quiq-cdn.com
 quizzicalzephyr.com
 quoashei.com
 qvjql3e.com
@@ -6981,6 +6987,7 @@ webdeclaration.xyz
 webdoctell.us
 webeyez.com
 webfotce.me
+webfx.com
 webgrowthdoc.us
 webhostvalidate.xyz
 webhostvalidationneeded.xyz
