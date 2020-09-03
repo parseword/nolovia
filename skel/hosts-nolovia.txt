@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-01 13:34:00
+# Generated at 2020-09-03 08:26:09
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3314,6 +3314,7 @@ importlocate.com
 importloggm.duckdns.org
 impossibleexpansion.com
 improvedigital.com
+improving.duckduckgo.com
 impulsehands.com
 imstks.com
 inbenta.com
@@ -6249,6 +6250,7 @@ tag.rmp.rakuten.com
 tagdeliver.com
 tagon.co
 tags.newscgp.com
+tags.rvere.com
 tags.tiqcdn.com.edgekey.net
 tagsrvcs.com
 talentedsteel.com
@@ -6423,6 +6425,7 @@ tracker.affirm.com
 tracker.metricool.com
 tracker.smadex.com
 tracker.unbxdapi.com
+tracking-sales-pop.carecart.io
 tracking.aegpresents.com
 tracking.hivecloud.net
 tracking.landroverusa.com
@@ -6933,6 +6936,7 @@ walkme.com
 wallstsxer.hopto.org
 want7feed.com
 warmquiver.com
+warnermediaprivacy.com
 warraningalert.xyz
 waryfog.com
 wateryvan.com
