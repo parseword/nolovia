@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-03 08:26:09
+# Generated at 2020-09-06 23:12:28
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1419,6 +1419,8 @@ booe.pro
 boomtrain.com
 bootstrap-js.com
 bootstrapjs.com
+bordeaux-gateway.futureplc.com
+bordeaux.futurecdn.net
 boredcrown.com
 boringcoat.com
 bosshugss.me
@@ -2522,6 +2524,7 @@ evaluateend.com
 evanescentedge.com
 evenirpage.tk
 event-logger.api.dnc.org
+eventlog.bradsdeals.com
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
 evts.creately.com
@@ -4947,6 +4950,7 @@ printio-geo.appspot.com
 printscreens.info
 priv-my-autoservice.com
 privacy-center.org
+privacy-mgmt.com
 privacyaccountlimited.com
 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privacyform.com
@@ -5581,6 +5585,7 @@ selfmademan.ddns.net
 selfmademan2.ddns.net
 sellclassics.com
 selligent.com
+semantiqo.com
 semasio.net
 sendpulse.com
 sendsmtp.com
@@ -6265,6 +6270,7 @@ tank3pull.com
 tapnative.com
 tappx.com
 taptapvideo.com
+targetemsecure.blob.core.windows.net
 targeting.perso.aws.arc.pub
 targeting.tbt.arcpublishing.com
 targeting.tgam.arcpublishing.com
@@ -7059,6 +7065,7 @@ whoisvisiting.com
 whoslooking.herokuapp.com
 whs82908.com
 wideorbit.com
+widgets.future-fie.co.uk
 wigglygeese.com
 wikaba.com
 wikaba.org
