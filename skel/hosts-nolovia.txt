@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-06 23:12:28
+# Generated at 2020-09-08 22:53:06
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1116,6 +1116,7 @@ apptunes-appleid.info
 appvador.com
 aprode.bit
 aps.amazon.com
+aptivada.com
 apvo.club
 apxy.io
 aquaticalarm.com
@@ -3834,6 +3835,7 @@ lloydsbacs.co.uk
 llq9q2lacr.com
 llqd75c56i.com
 lmyiwaakn.com
+lngtd.com
 lnterac-funds.com
 lnterac-secure.org
 lnteract-rewards.com
