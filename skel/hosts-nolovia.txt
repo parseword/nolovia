@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-09 19:27:46
+# Generated at 2020-09-11 15:45:28
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2498,6 +2498,7 @@ errortablet.com
 es-find.net
 es-webapps.com
 esmtp.biz
+esputnik.com
 essentialetimes.com
 essztednsbk.ddns.net
 estara.com
@@ -2812,6 +2813,7 @@ geo-targetly.com
 geo-tracker.smadex.com
 geoedge.be
 geoip.alm.com
+geolocation.onetrust.com
 gestyy.com
 get-confirmation.com
 get-free-gitf.com
@@ -5686,6 +5688,7 @@ sexad.net
 sexadnetwork.com
 sexidude.com
 sexxxy.biz
+sf-syn.com
 sf14g.com
 sf2ej57.com
 sfvwe.com
