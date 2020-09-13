@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-13 17:22:22
+# Generated at 2020-09-13 18:05:12
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3880,6 +3880,8 @@ log-sign.us
 log.outbrain.org
 log.outbrainimg.com
 log.quora.com
+log.zoomgov.com
+logfiles.zoomgov.com
 logger.dailymotion.com
 logger.unsplash.com
 logging.getgo.com
@@ -7386,6 +7388,7 @@ zeotap.com
 zertweekdoc.us
 zetazync.com
 zeustechnology.com
+zfg-logfile-service-1878940491.us-gov-west-1.elb.amazonaws.com
 zg-api.com
 zha6ivnktt.com
 zhtlvag.com
