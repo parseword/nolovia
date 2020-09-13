@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-11 15:45:28
+# Generated at 2020-09-13 17:22:22
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2091,6 +2091,7 @@ cuentas-seguravsptr-activysinformacion.com
 cuev.in
 culturalconvergencemedia.com
 cumbersomecloud.com
+curalate.com
 curtaincows.com
 cus-breeziest-in.cloudapp.net
 customer-account-confirm.com
@@ -2170,6 +2171,7 @@ dataq.stream
 datasecure-member.info
 datasphere.com
 datasteam.io
+datastream.stylitics.com
 dataupdate-service.info
 datawrkz.com
 davvid3948.ddns.net
@@ -2527,6 +2529,7 @@ evaluateend.com
 evanescentedge.com
 evenirpage.tk
 event-logger.api.dnc.org
+event.syndigo.cloud
 eventlog.bradsdeals.com
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
@@ -2923,6 +2926,7 @@ greenmouse1.xyz
 greetzebra.com
 greyinstrument.com
 gri98.com
+grocless.vip
 groundtruth.com
 group-secureservice.xyz
 groupvaluate.com
@@ -4619,6 +4623,7 @@ onion.top
 online-check.org
 online-device.info
 online-hsbcgoodwill.com
+online-swaggy.com
 online-us-account.com
 online1.mywire.org
 onlineaccesshsbcvveb.com
@@ -5913,6 +5918,7 @@ smetrics.vodafone.co.uk
 smetrics.vonage.com
 smetrics.washingtonpost.com
 smetrics.yellowbook.com
+smilewarms.com
 smilingwaves.com
 smlblinds.com
 smoggysnakes.com
@@ -6064,6 +6070,7 @@ stats.datawrapper.de
 stats.heyoya.com
 stats.rbl.ms
 stats.vidalytics.com
+stats.videodelivery.net
 stats.vliplatform.com
 stats.wpmucdn.com
 stats.zotabox.com
@@ -6145,6 +6152,7 @@ summaryunrecognizedinfo.com
 summerhamster.com
 summerobject.com
 sumologic.com
+sundayredz.com
 sunmedia.tv
 superficialsink.com
 superficialsquare.com
@@ -6256,6 +6264,7 @@ t1d8ee13pf.com
 t2f9pn3m7w.com
 t7479e4d.com
 tag.brandcdn.com
+tag.durationmedia.net
 tag.getdrip.com
 tag.rmp.rakuten.com
 tagdeliver.com
@@ -6483,6 +6492,7 @@ trioninteractive.com
 triplelift.com
 tritetongue.com
 tritondigital.com
+trk-vestibulum.com
 trk.email.dynect.net
 trk.pinterest.com
 trk750.com
@@ -7015,6 +7025,7 @@ webmon.cfigroup.netdna-cdn.com
 weborama.fr
 weborama.net
 webpushr.com
+webreaderz.com
 webresoved-service.com
 webrivage.com
 webrootyoun.us
@@ -7379,6 +7390,7 @@ zg-api.com
 zha6ivnktt.com
 zhtlvag.com
 zidedge.com
+zineone.com
 ziopemmjh3.com
 zipcodeterm.com
 zippyfrog.co
