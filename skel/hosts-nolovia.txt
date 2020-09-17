@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-13 18:05:12
+# Generated at 2020-09-17 16:32:31
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4939,6 +4939,8 @@ ppl-checker-for-family.com
 ppleid-lockedid.com
 ppmon.com
 practicetoothpaste.com
+prd-collector-anon-video.playbuzz.com
+prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prebid.org
 predep.com
