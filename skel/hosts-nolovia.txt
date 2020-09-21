@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-19 10:29:10
+# Generated at 2020-09-21 16:35:58
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -6071,6 +6071,7 @@ static-doubleclick-net.l.google.com
 static-mon.yandex.net
 static.cloudflareinsights.com
 statistic-info.me
+stats.biotrust.com
 stats.datawrapper.de
 stats.heyoya.com
 stats.rbl.ms
@@ -6408,6 +6409,7 @@ timesink.com
 tinlads.southernliving.com
 tinpiecessful.info
 tinybear1.xyz
+tinytrk.com
 tiqcdn.com
 tiqcdn.com.edgekey.net
 tire1soak.com
@@ -6453,6 +6455,7 @@ tracker.smadex.com
 tracker.unbxdapi.com
 tracking-sales-pop.carecart.io
 tracking.aegpresents.com
+tracking.friends2follow.com
 tracking.hivecloud.net
 tracking.landroverusa.com
 tracking.magnetmail.net
