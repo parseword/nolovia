@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-21 16:35:58
+# Generated at 2020-09-22 12:26:46
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1508,6 +1508,7 @@ cage6west.com
 calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
+calibermind.com
 callibri.ru
 callousbrake.com
 callstats.io
@@ -3582,6 +3583,7 @@ joaffs.com
 jody0sora.com
 johnevan227.ddns.net
 jolic2.com
+jornaya.com
 josephevinchi.com
 josh7cuba.com
 journey.vanityfair.com
@@ -4121,6 +4123,7 @@ merklesearch.com
 mesoquant.org
 messageaccount.com
 messagenovice.com
+metarouter.io
 metric.makemytrip.com
 metrica.yandex.com
 metrics.getvitals.io
@@ -4224,6 +4227,7 @@ mparticle.com
 mpeasylink.com
 mpp-service.com
 mpuqvoa.com
+mr-in.com
 mrbasic.com
 mrbonus.com
 mrcapable01.publicvm.com
@@ -4955,6 +4959,7 @@ prevent-limitation.com
 previousplayground.com
 previouspotato.com
 previsibilisais.website
+prf.hn
 prfdesk.pro
 prince.hackermind.info
 printerplasma.com
