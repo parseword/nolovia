@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-22 12:26:46
+# Generated at 2020-09-25 23:17:02
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -607,6 +607,7 @@ aerserv.com
 aethiopiensidamo.de
 afcwyxnwl0.com
 affiliates-spinit.com
+affiliatly.com
 affle.com
 afflow.btadsmedia.com
 affrh2011.com
@@ -1800,6 +1801,7 @@ collectandgather.com
 collectiveuk.com
 collector.github.com
 collector.githubapp.com
+collector.pi-charter.net
 collector.wbeme.com
 colorfulafterthought.com
 colossalchance.com
@@ -3097,6 +3099,7 @@ https443.org
 hubapi.com
 hubs.ly
 hucksterbot.ru
+humbing-impliver.icu
 humdrumhat.com
 hurtteeth.com
 hvooyieoei.com
@@ -3696,6 +3699,7 @@ kjke.pw
 klantenservice-inlogin.pro
 klca5rlwdr.com
 klclick1.com
+klclick3.com
 knifeoctopus.com
 knottysticks.com
 koo6myletj.com
@@ -5262,6 +5266,7 @@ report.kay.23sys.com
 reportabuse-apple.com
 reportinstagram.com
 reports.radiotime.com
+reports.sdiapi.com
 reports.tunein.com
 republer.com
 required-verification-change.com
@@ -6468,6 +6473,7 @@ tracking.marketing
 tracking.nationalfamily.com
 tracking.news.trade-point.co.uk
 tracking.nextdoor.com
+tracking.sezzle.com
 tracking.shopstyle.com
 tracking.skyword.com
 tracking.socketlabs.com
@@ -7377,6 +7383,7 @@ yusp.com
 yvzgazds6d.com
 yw9f088h61.com
 yxdown.cn
+yyjvimo.com
 yyz6ard1e3.com
 z-analytics.net
 z1ujd76gd6.com
