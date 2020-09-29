@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-25 23:17:02
+# Generated at 2020-09-28 21:07:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3885,6 +3885,7 @@ log-ins.us
 log-sign.us
 log.outbrain.org
 log.outbrainimg.com
+log.propermessage.io
 log.quora.com
 log.zoomgov.com
 logfiles.zoomgov.com
@@ -6079,6 +6080,7 @@ statful.com
 stati.in
 static-doubleclick-net.l.google.com
 static-mon.yandex.net
+static-trustpilot.com
 static.cloudflareinsights.com
 statistic-info.me
 stats.biotrust.com
