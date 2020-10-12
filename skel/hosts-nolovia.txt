@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-09-28 21:07:16
+# Generated at 2020-10-11 20:35:56
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -598,6 +598,7 @@ adwordls-account.site
 adwords-login.com
 adwords-online.org
 adwords-ppc.org
+adxcel-ec2.com
 adxcore.com
 adxtracking.com
 adzumi.com
@@ -1270,6 +1271,7 @@ bea4.cnn.com
 beacon-cdn.walmart.com.akadns.net
 beacon.aimtell.com
 beacon.dropbox.com
+beacon.lynx.cognitivlabs.com
 beacon.riskified.com
 beacon.searchspring.io
 beacon.v.dropbox.com
@@ -2054,6 +2056,7 @@ costumer-account-update.com
 costumerservice.community
 count-staging.api.pgs.io
 count.api.pgs.io
+country-blocker.zend-apps.com
 coup7cold.com
 coxmt.com
 cp9t71b6ip.com
@@ -2540,6 +2543,7 @@ evts.creately.com
 exceptionless.io
 exclusivebrass.com
 exi8ef83z9.com
+exitintel.com
 exmo.info
 exmo.tech
 explorads.com
@@ -3509,6 +3513,7 @@ iservershost.com
 ishahguv.com
 isign-in.us
 ispot.tv
+issquareonly10.live
 issue-access.com
 istomembersproduct.com
 isupport-device.xyz
@@ -4178,6 +4183,7 @@ mnfioew.info
 mnoa6ez1eq.com
 mobifoth.com
 mobile-found.com
+mobile-global-apps-storages.life
 mobile-global-apps-store.life
 mobileadtrading.com
 mobileapptracking.com
@@ -4839,6 +4845,7 @@ perfectmarket.com
 perimeterx.net
 perk0mean.com
 perkele.ovh
+personalizer.io
 perviousgamechange.com
 pesbqkopdm.com
 petametrics.com
@@ -4876,6 +4883,7 @@ pixel.app.returnpath.net
 pixel.archive.fo
 pixel.archive.is
 pixel.getshogun.com
+pixel.legit.ng
 pixel.mintigo.com
 pixel.newscgp.com
 pixel.patch.com
@@ -4953,7 +4961,9 @@ prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prebid.org
 predep.com
+preequell.com
 prenteams-junter.com
+prepare2upvideo.findtheultimateplayerfirst.info
 prepareplanes.com
 presetrabbits.com
 presjra52opdoxgm.duckdns.org
@@ -4992,6 +5002,7 @@ profusesupport.com
 proofpark.com
 propelmedia.com
 proper.io
+propermessage.io
 protect-account-suspended.com
 protect-account-update.net
 protect-appleid.com
@@ -5487,6 +5498,7 @@ saysidewalk.com
 sbr-breeziest-in.cloudapp.net
 sc-applle-login.com
 scan6show.com
+scanapple-cleaning.live
 scandalcity.tv
 scar231.zapto.org
 scarabresearch.com
@@ -6983,6 +6995,7 @@ warmquiver.com
 warnermediaprivacy.com
 warraningalert.xyz
 waryfog.com
+waterdiepattern10.live
 wateryvan.com
 wauk1care.com
 waws-prod-bn1-027.cloudapp.net
