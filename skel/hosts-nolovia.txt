@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-10-12 23:53:59
+# Generated at 2020-10-17 22:43:37
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -802,6 +802,7 @@ app-updtscure.com
 app-us1.com
 app.link
 app.tv
+appanalysis.banggood.com
 appboy.com
 appboycdn.com
 appdynamics.com
