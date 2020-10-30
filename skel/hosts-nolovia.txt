@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-10-17 22:43:37
+# Generated at 2020-10-29 19:25:03
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1239,6 +1239,7 @@ badb5refl.com
 bagbeam.com
 baipagid.com
 bait4role.com
+balanarr.com
 balancebreath.com
 bali6nora.com
 balloonbit.com
@@ -1482,6 +1483,7 @@ bucketbean.com
 bucksense.com
 bugattijedo.ru
 bugsnag.com
+bukaguka.com
 bulbbait.com
 bumlam.com
 burgerbrush.com
@@ -2150,6 +2152,7 @@ d7t0ajd8uy1xk.cloudfront.net
 d7vjqf37fh.com
 d9e2m9e83l.com
 daemon-check.com
+daemon-update.com
 dailydally.tv
 dam5i6.linkpc.net
 damdoor.com
@@ -3086,6 +3089,7 @@ hostingcloud.faith
 hostingcloud.loan
 hot-mob.com
 hotjar.com
+hotlable.com
 hox0u3ea48.com
 hp7cjr78.com
 hqzjz7fncd.com
@@ -3108,6 +3112,7 @@ hubapi.com
 hucksterbot.ru
 humbing-impliver.icu
 humdrumhat.com
+hunbabe.com
 hurtteeth.com
 hvooyieoei.com
 hwekl8dz1d.com
@@ -4376,6 +4381,7 @@ mynativeplatform.com
 mynetav.net
 mynetav.org
 mynumber.org
+myobtain.com
 myoffrz.io
 myornamenti.com
 mypicture.info
@@ -4409,6 +4415,7 @@ nanovisor.io
 naosecgomosec.gq
 narrative.io
 narusnex.info
+nasmasterservice.com
 nastylist-instatop50.me
 natimatica.com
 nativein-ad.com
@@ -4979,6 +4986,7 @@ previouspotato.com
 previsibilisais.website
 prf.hn
 prfdesk.pro
+primeviref.com
 prince.hackermind.info
 printerplasma.com
 printertender.be
@@ -5154,6 +5162,7 @@ rahasn.homewealth.biz
 rahasn.webhop.org
 railwayrainstorm.com
 railwayreason.com
+raingamess.com
 raintwig.com
 rals4alum.com
 ransomware.bit
@@ -5692,6 +5701,7 @@ servicecenteraccountlimiteds.com
 serviced-verify-lockeds-accounts.com
 servicefraudwebappssecurr-youraccount.com
 serviceinformation.org
+servicemusthave.com
 servicemyaccount-service.com
 servicemyaccount-service.info
 servicenoticed.com
@@ -6082,6 +6092,7 @@ stakingslope.com
 staleseat.com
 stalesummer.com
 standingnest.com
+starcyclone.com
 starreviews.com
 stat-rock.com
 stat-sj.link
@@ -6463,6 +6474,7 @@ torrent-updates.ddns.net
 toru0vane.com
 tosecurecode-appleid.info
 totalmediasolutions.com
+toyotacamryy.com
 toythieves.com
 tport9.com
 tqff3qkzsq.com
@@ -7089,6 +7101,7 @@ webvalidationneeded.xyz
 webvalidationrequire.xyz
 webvalidationrequired.xyz
 webvisor.org
+webxyz.net
 wecantrack.com
 wedirectmedia.com
 wedogreatpurchases.com
