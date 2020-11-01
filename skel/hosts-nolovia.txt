@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-10-29 19:25:03
+# Generated at 2020-10-31 22:49:06
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -488,6 +488,7 @@ additionarl.racing
 addoor.net
 addroplet.com
 adentifi.com
+adept.li
 adexchangedirect.com
 adform.com
 adform.dk
@@ -1433,6 +1434,8 @@ boringcoat.com
 bosshugss.me
 botfuse.com
 bounceexchange.com
+bouncex.com
+bouncex.net
 bouncyproperty.com
 bprise.com
 bqiovml.com
@@ -1476,6 +1479,7 @@ bruisebaseball.com
 bsbrxl7znz.com
 btez8.xyz
 btgtrack.com
+btloader.com
 btstatic.com
 bttrack.com
 btvhdscr.com
@@ -2610,6 +2614,7 @@ fastbase.com
 fastlscripts.com
 fasttrack-ignite.com
 fatchilli.media
+fatcoil.com
 faultycanvas.com
 faultyfowl.com
 faxqaaawyb.com
@@ -2972,6 +2977,7 @@ guvencingiller.com
 gw1001099.chickenkiller.com
 gw1001099.duckdns.org
 gweini.com
+gwmtracking.com
 gwudu.com
 gynax.com
 gypsypy.duckdns.org
@@ -4145,6 +4151,7 @@ metarouter.io
 metric.makemytrip.com
 metrica.yandex.com
 metrics.getvitals.io
+metrics.kirklands.com
 metricscollector.lp.xcal.tv
 meuzxiejun.com
 mews2ruck.com
@@ -5446,6 +5453,7 @@ rvfrm2011.com
 rvnc72k.com
 rxthdr.com
 ryke4peep.com
+ryzeo.com
 rzekbhnk.top
 rzzc.pw
 s-adobeanalytics.vice.com
@@ -5855,6 +5863,7 @@ sizesidewalk.com
 sj-mod.link
 sj-syst.link
 sjdhqk.live
+sjpf.io
 sjremetrics.java.com
 skrilln.net
 skye6oner.com
@@ -6121,6 +6130,7 @@ stats.zotabox.com
 stats02.topix.com
 stats1.wpmudev.com
 statsdot.eu
+statstrk01.com
 stattrack.com
 statusdelivery.com
 steadfastsound.com
@@ -6311,6 +6321,7 @@ tag.brandcdn.com
 tag.durationmedia.net
 tag.getdrip.com
 tag.rmp.rakuten.com
+tag.wknd.ai
 tagdeliver.com
 tagon.co
 tags.newscgp.com
