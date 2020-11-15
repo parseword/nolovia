@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-10-31 22:49:06
+# Generated at 2020-11-14 22:25:41
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -708,6 +708,7 @@ amex2018.com
 amex2019.com
 amexopesx.com
 amhs.club
+amlg.io
 amos5lynn.com
 amp-error-reporting.appspot.com
 ampugi334f.com
@@ -2594,6 +2595,7 @@ facebooku.xyz
 facilitategrandfather.com
 fadedprofit.com
 fadedsnow.com
+fainsion-clarent.icu
 falsefeet.com
 familiarfloor.com
 familiarrod.com
@@ -2642,6 +2644,7 @@ ff76khyn6c.com
 fg09t.com
 fg8dgt.com
 fhmty1lty9.com
+fidelid.com
 fidelity-media.com
 fidzup.com
 fiechaev.com
@@ -2843,6 +2846,7 @@ get-login.com
 get-refund1.com
 get-verived-account.com
 getambassador.com
+getblueshift.com
 getintent.com
 getjaco.com
 getlytics.com
@@ -2972,6 +2976,7 @@ guiltlessbasketball.com
 guitarbelieve.com
 gulliblecamp.com
 gumgum.com
+gunuj.com
 guo1x952bi.com
 guvencingiller.com
 gw1001099.chickenkiller.com
@@ -4904,6 +4909,7 @@ pixel.legit.ng
 pixel.mintigo.com
 pixel.newscgp.com
 pixel.patch.com
+pixel.retargetapp.com
 pixel.rubiconproject.net.akadns.net
 pixel.spotify.com
 pixel.voltn.com
@@ -5046,6 +5052,7 @@ purchase-updates.com
 purple6401.com
 purplecat1.xyz
 push-notifications.top
+push.reamaze.com
 push.world
 pushalert.co
 pushalertjs-vbfhp6w.stackpathdns.com
@@ -7075,6 +7082,7 @@ webdeclaration.xyz
 webdoctell.us
 webeyez.com
 webfotce.me
+webfreecounter.com
 webfx.com
 webgrowthdoc.us
 webhostvalidate.xyz
@@ -7179,6 +7187,7 @@ wongchin11.ddns.net
 woobi.com
 workableachiever.com
 workoperation.com
+workshoptracking.online
 workstation-spartan.ddns.net
 worriednumber.com
 worrybutter.com
