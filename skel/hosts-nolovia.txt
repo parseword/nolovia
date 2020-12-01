@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-11-21 13:37:09
+# Generated at 2020-11-30 22:22:14
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1158,6 +1158,7 @@ assetsbrain.com
 assetsbraln.com
 assist-service.info
 associated-account-purchase.com
+aswpsdkeu.com
 aswpsdkus.com
 at-o.net
 atmrum.net
@@ -2364,6 +2365,7 @@ dontneedcoffee.gq
 dooglemedia.com
 doomnooaxc.top
 doorbrazil.com
+dotmetrics.net
 doublecllck.com
 doubleverify.com
 doubtfulrainstorm.com
@@ -3114,6 +3116,7 @@ hsforms.net
 hsstatic.net
 htl.bid
 htlbid.com
+html5.onl
 http.ps
 httplogserver-lb.global.unified-prod.sharethis.net
 https-localbitcoin.com
@@ -3406,6 +3409,7 @@ informaer.net
 informaer.ws
 information-account-limited.org
 information-accountdb.com
+informer.yandex.ru
 infoserver4.review
 infotradelinks.ddns.net
 infoupdateppl.com
@@ -3965,6 +3969,7 @@ logs-app.us
 logs-id.us
 logs-in.us
 logs-sign.us
+logs.psm.wmcdp.io
 logtrust.io
 loki8lave.com
 lolfree.pw
@@ -5205,6 +5210,7 @@ rdsa2018.com
 rdsa2019.com
 rdtrker.com
 re-verify-id-apple.com
+reachlocalservices.com
 readgoldfish.com
 readingguilt.com
 readingopera.com
@@ -6392,6 +6398,7 @@ telaria.com
 telegram-verification.com
 telemetrics.klaviyo.com
 telemetry.allrecipes.com
+telemetry.api.wmcdp.io
 telemetry.mozilla.org
 telemetry.servers.getgo.com
 telemetry.tradingview.com
