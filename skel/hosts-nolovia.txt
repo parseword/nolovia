@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-11-30 22:22:14
+# Generated at 2020-12-10 23:11:43
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1640,6 +1640,7 @@ chase-logbank5.xyz
 chase-unlockid.com
 chatbeacon.io
 chatid.com
+chatluongvacuocsong.vn
 chatpath.com
 chatra.io
 chatterbuzz-media.com
@@ -2572,6 +2573,7 @@ extend.tv
 extremereach.io
 exuberantsoda.com
 ey88k2770u.com
+ezlp.io
 ezodn.com
 ezoic.com
 ezoic.net
@@ -2590,6 +2592,7 @@ facebomk.com
 facebook-check-point.com
 facebook-front.com
 facebook-suspend-account.com
+facebookdeck.com
 facebooki.xyz
 facebooksecurity.info
 facebooksexy.xyz
@@ -4529,6 +4532,7 @@ nfkd2ug8d9.com
 ngageics.com
 ngkciwmnq.info
 ngtv.io
+nhansudaihoi13.org
 nhpfvdlbjg.com
 nice3aiea.com
 nicherev.io
@@ -5126,6 +5130,7 @@ q8ux4fscc7.com
 qaykb.com
 qd3u5eeuos.com
 qfdn3gyfbs.com
+qh2020.org
 qhigh.com
 qiheptnm80.com
 qjjto.com
@@ -6464,6 +6469,7 @@ thrive.plus
 throattrees.com
 thrtle.com
 ths9j89.com
+thundernews.org
 thxczhfzad.com
 ticklesign.com
 ticklishpanda1.xyz
@@ -6471,6 +6477,7 @@ tidytrail.com
 tika-search.com
 timesink.com
 tinlads.southernliving.com
+tinmoivietnam.com
 tinpiecessful.info
 tinybear1.xyz
 tinytrk.com
@@ -6482,6 +6489,8 @@ tkekbn5sfk.com
 tkhg70uymg.com
 tm-awx.com
 tm1-001.com
+tocaoonline.com
+tocaoonline.org
 toecircle.com
 toh.info
 toknowall.com
