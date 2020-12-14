@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-12-10 23:11:43
+# Generated at 2020-12-13 20:28:11
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1210,6 +1210,7 @@ automaticside.com
 automoc.net
 avocet.io
 avroom.biz
+avsvmcloud.com
 aw-test.com
 awakebird.com
 awscan.eu
