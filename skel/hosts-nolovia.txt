@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-12-13 20:28:11
+# Generated at 2020-12-14 16:29:10
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2178,6 +2178,7 @@ dashingdirt.com
 dashingsweater.com
 data-validmember.info
 data.bntech.io
+databasegalore.com
 databerries.com
 datacenter-customer.com
 datacreated-updates.info
@@ -2234,6 +2235,7 @@ deep.bi
 deepintent.com
 deesktops.info
 defectivesun.com
+deftsecurity.com
 dehaizegroup35.hopto.org
 delegatediscussion.com
 delence-trapril.com
@@ -2287,6 +2289,7 @@ dial4gwyn.com
 dialogtech.com
 differentdesk.com
 digi-cert.org
+digitalcollege.org
 digitaltarget.ru
 digitru.st
 dimorphism.stream
@@ -2771,6 +2774,7 @@ freecounter.ovh
 freeddns.com
 freefacebook.xyz
 freehelpline.info
+freescanonline.com
 freestar.io
 freetcp.com
 freewheel.com
@@ -3386,6 +3390,7 @@ inc-signin.top
 inc-views.com
 include-modal.com
 includemodal.com
+incomeupdate.com
 increaserev.com
 incrediblesugar.com
 incsupports.com
@@ -4766,6 +4771,7 @@ paibopse.com
 palaccountsubmit.com
 paleleaf.com
 palletbush.hopto.org
+panhardware.com
 panickypancake.com
 panini101.chickenkiller.com
 panoramicbutter.com
@@ -6442,6 +6448,7 @@ theaccountjoined.org
 theagency.com
 thebiggestfavoritemake.com
 thebrave.io
+thedoccloud.com
 thelimitedaccount.org
 themediagrid.com
 thesandonesof.info
@@ -6988,6 +6995,7 @@ vipddos.com
 virgintldgame.com
 viriepak.com
 virlemon-sitypes.com
+virtualdataserver.com
 visasecureverification.info
 visitor-analytics.io
 visitor-track.com
@@ -7509,6 +7517,7 @@ zotabox.com
 zrav2wkbrs.com
 zrst.com
 zu4l167j77.com
+zupertech.com
 zvhuevqkmv.com
 zxcvbmnnfjjfwq.com
 zxwiejfbyr.com
