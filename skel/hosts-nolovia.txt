@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-12-14 16:29:10
+# Generated at 2020-12-15 12:17:39
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2899,6 +2899,7 @@ glassboxcdn.com
 glassboxcloud.com
 glassboxdigital.com
 gld35wndkn.com
+globalnetworkissues.com
 globalsiteanalytics.com
 glogger.stuff.com
 glossysense.com
@@ -3754,6 +3755,7 @@ ktf5kbl2m4.com
 ktxlytics.io
 ktyawzg.com
 ku6.com
+kubecloud.com
 kubient.com
 kuhls2ao.top
 kumma.com
@@ -3796,6 +3798,7 @@ lciuod.com
 lcloud-service.gq
 lcloud-services.cf
 lcloudonline.com
+lcomputers.com
 lde-signin-privat-true-login1.info
 lde-signin-privat-true-login1.site
 ldt1duixoe.com
@@ -5674,6 +5677,7 @@ sendsmtp.com
 sentry-cdn.com
 sentry.io
 seo-fast.ru
+seobundlekit.com
 seoconsultants.org
 seodollars.com
 separatesilver.com
@@ -6024,6 +6028,7 @@ soflopxl.com
 softbank-securitys.com
 softcode2017.hopto.org
 solads.media
+solartrackingsystem.net
 solobay.ru
 solutation-update.com
 solutionshindsight.net
@@ -6996,6 +7001,7 @@ virgintldgame.com
 viriepak.com
 virlemon-sitypes.com
 virtualdataserver.com
+virtualwebdata.com
 visasecureverification.info
 visitor-analytics.io
 visitor-track.com
@@ -7105,6 +7111,7 @@ webappsc-cgi-access-service.com
 webappsecurityupdate.com
 webappsrequired-accrenew22125122.com
 webappss-security-bin-apple.com
+webcodez.com
 webdeclaration.xyz
 webdoctell.us
 webeyez.com
