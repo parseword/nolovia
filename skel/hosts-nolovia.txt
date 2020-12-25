@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-12-15 12:17:39
+# Generated at 2020-12-24 23:48:29
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -27,6 +27,7 @@
 0pe.kr
 0pyn37dv3m.com
 0ql3xxre2h.com
+0redirb.com
 0sntp7dnrr.com
 0sywjs4r1x.com
 1-cl0ud.com
@@ -3078,6 +3079,7 @@ highfalutinroom.com
 hilariouszinc.com
 hilltopads.com
 hims1nice.com
+hipfowlzeal.icu
 hipstarclub.com
 hiss3lark.com
 historicalrequest.com
@@ -3981,6 +3983,7 @@ logs-app.us
 logs-id.us
 logs-in.us
 logs-sign.us
+logs.autofi.com
 logs.psm.wmcdp.io
 logtrust.io
 loki8lave.com
@@ -4745,6 +4748,7 @@ ourhobby.com
 ourjra52fullexchgm.duckdns.org
 ours3care.com
 outbrainimg.com
+outlookabsorb.com
 outster.com
 ovalpigs.com
 overconfidentfood.com
@@ -4877,6 +4881,7 @@ pedropanther.com
 peep1alea.com
 pegloang.com
 pendo.io
+penjazzvice.com
 penspade.com
 percalabia.com
 perceivequarter.com
