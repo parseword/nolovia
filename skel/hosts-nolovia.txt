@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-12-24 23:48:29
+# Generated at 2020-12-28 13:33:06
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5541,6 +5541,7 @@ saon6harz.com
 saqibsiddiqui.com
 saspreview.com
 sat4ken.com
+satisfycork.com
 satisfyingspark.com
 satrk.com
 saub27i3os.com
