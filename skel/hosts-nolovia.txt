@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2020-12-28 13:33:06
+# Generated at 2021-01-29 00:02:13
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -556,6 +556,7 @@ adsame.com
 adsbtrack.com
 adsbtrk.com
 adscompass.com
+adserver.us-east1.prod.chicoryapp.com
 adserver.video
 adservices.brandcdn.com
 adsfirstsun.com
@@ -603,6 +604,7 @@ adwords-ppc.org
 adxcel-ec2.com
 adxcore.com
 adxtracking.com
+adxyield.com
 adzumi.com
 ae21a0ad95016488.com
 aeckcjy.com
@@ -730,6 +732,7 @@ analytics.businessinsider.com
 analytics.cincopa.com
 analytics.dnnapi.com
 analytics.dvidshub.net
+analytics.edgekey.net
 analytics.getshogun.com
 analytics.inform.com
 analytics.jst.ai
@@ -772,6 +775,7 @@ anyclip-media.com
 apathetictheory.com
 api-profit.com
 api-telemetry.servers.getgo.com
+api.aws.parking.godaddy.com
 api.e-toys.cn
 api.limbik.com
 api.userstyles.org
@@ -1475,6 +1479,7 @@ broadcastbed.com
 broaddoor.com
 brontocdn.com
 brownpanda1.xyz
+browser.events.data.microsoft.com
 browserhawk.com
 browsers.support
 browsiprod.com
@@ -1583,6 +1588,7 @@ cdn-analytics.syndeca.com
 cdn-googleapi.com
 cdn-googleservice.com
 cdn-js.link
+cdn.asf4f.us
 cdn.familyfocus.us
 cdn.firstpromoter.com
 cdn.sift.com
@@ -1619,6 +1625,7 @@ cgi-webscr-billing-account.com
 cgnl.io
 cguggrstf-managssapplicationsss-lockedpurchases-sevicesss.com
 chairscrack.com
+chameleon.spe.sony.com
 chanelets-aurning.com
 change-recovery-access.com
 changeip.name
@@ -2253,6 +2260,7 @@ deng3rada.com
 denizbank-esube.com
 denizibankasi.com
 dens1raec.com
+depart.trinitymedia.ai
 departapp.com
 department-gov.com
 dere879.me
@@ -2559,6 +2567,7 @@ event.syndigo.cloud
 eventlog.bradsdeals.com
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
+evs.pink-boat.fool.com
 evts.creately.com
 exceptionless.io
 exclusivebrass.com
@@ -2839,6 +2848,7 @@ gaudybeginner.com
 gaza2lote.com
 gb0rd.com
 gcion.com
+gddomainparking.com
 gdocs.download
 ge-stion.com
 gekkopush.com
@@ -2900,6 +2910,7 @@ glassboxcdn.com
 glassboxcloud.com
 glassboxdigital.com
 gld35wndkn.com
+globalip.melissadata.net
 globalnetworkissues.com
 globalsiteanalytics.com
 glogger.stuff.com
@@ -3427,6 +3438,7 @@ infotradelinks.ddns.net
 infoupdateppl.com
 ingest.crash.vault-tec.systems
 initiatefreeintenselyplayer.icu
+inmoment.com
 inner-active.com
 innity.com
 innocentwax.com
@@ -3512,6 +3524,7 @@ iownyour.biz
 iownyour.org
 ip-appleid.com
 ip-info.ff.avast.com
+ip-tracker.aaalife.com
 ip.taobao.com
 ip91wku2.com
 ipbsgpm4.top
@@ -3726,6 +3739,7 @@ kenxx.ddns.net
 keqi7dh3df.com
 kerumal.com
 ketdocwel.us
+keywee.co
 kfqked6fgj.com
 kilo6alga.com
 kingdon.dynu.net
@@ -3848,6 +3862,7 @@ lifterpopup.com
 ligadx.com
 ligatus.com
 lightcushion.com
+lightning.cnn.com
 lightstep.com
 lightstep.medium.systems
 limat-is-account-me.com
@@ -3993,6 +4008,7 @@ longmusic.com
 loocrum.com
 loom3otto.com
 loopme.com
+loopme.me
 lope4refl.com
 lopsidedspoon.com
 lorenzourban.com
@@ -4177,6 +4193,7 @@ metric.makemytrip.com
 metrica.yandex.com
 metrics.getvitals.io
 metrics.kirklands.com
+metrics.macys.net
 metricscollector.lp.xcal.tv
 meuzxiejun.com
 mews2ruck.com
@@ -5061,6 +5078,7 @@ ps-webapps.com
 pswec.com
 ptarepjx.com
 pub2srv.com
+publicnode.ydns.eu
 publir.com
 pubnx.com
 puchex.site
@@ -5560,6 +5578,7 @@ scarcesign.com
 scarcestream.com
 scarecrowslip.com
 scaredcomfort.com
+scatec.io
 scatteredheat.com
 scientificshirt.com
 scientificsneeze.com
@@ -5999,6 +6018,7 @@ smetrics.traderonline.com
 smetrics.ubi.com
 smetrics.uhc.com
 smetrics.uol.com.br
+smetrics.usbank.com
 smetrics.vodafone.co.uk
 smetrics.vonage.com
 smetrics.washingtonpost.com
@@ -6467,6 +6487,7 @@ thescreenroomstore.com
 thesearchagency.net
 thesportscenter.club
 thetimmedia.com
+thetimmedia.site
 thetradedesk.com
 theuserlimit.org
 theuserlimite.org
@@ -6504,6 +6525,7 @@ tiqcdn.com
 tiqcdn.com.edgekey.net
 tire1soak.com
 tj9pcnb2ws.com
+tk0x1.com
 tkekbn5sfk.com
 tkhg70uymg.com
 tm-awx.com
