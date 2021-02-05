@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-01-29 18:44:33
+# Generated at 2021-02-05 15:41:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1974,6 +1974,7 @@ com-your-account-hasbeen-limited-id.com
 comdocfer.us
 comfortablecheese.com
 commandwalk.com
+commonalmanac.com
 commonswing.com
 communication-updatepolicy.com
 completecabbage.com
@@ -2050,6 +2051,7 @@ contopaypal.info
 contribusource.com
 controlaccounticloud.com
 controlmage.com
+controlswim.com
 controlx.ddns.net
 convertexperiments.com
 convertflow.co
@@ -2122,6 +2124,7 @@ cumbersomecloud.com
 curalate.com
 curtaincows.com
 cus-breeziest-in.cloudapp.net
+cushionpig.com
 customer-account-confirm.com
 customer-accountacces.com
 customer-help-care-centre.com
@@ -2138,6 +2141,7 @@ customerservice-appleid.com
 customerservice-resolveaccount.com
 customingupdate-informationwebscrintlintl.com
 customplus.top
+cutecalculator.com
 cutecushion.com
 cuteturkey.com
 cvqgnkeqme.com
@@ -2349,6 +2353,7 @@ dnsrd.com
 dnter.net
 dobellonline.com
 dochase.com
+dockdigestion.com
 docksalmon.com
 doconcretegreatliteflash.icu
 docscloud.download
@@ -2408,6 +2413,7 @@ dumb1.com
 dunhillmild-payment07.com
 dur6g49t7u.com
 duserjs.com
+dustywave.com
 dvla-refund-gov.online
 dvla-swansea-refund.online
 dvoyy3qexr.com
@@ -2497,6 +2503,7 @@ emv3.com
 emxdgt.com
 en-verify.com
 en25.com
+enchantedtop.com
 encoderform.com
 encouragingwilderness.com
 encrypterforms.com
@@ -2894,6 +2901,7 @@ ghostmoney3.dnsdojo.com
 giddycoat.com
 gifinate-loggage.com
 gift2pair.com
+giftedthumb.com
 gifts-cards.review
 gigya.com
 ginzametrics.com
@@ -3006,6 +3014,7 @@ guo1x952bi.com
 guvencingiller.com
 gw1001099.chickenkiller.com
 gw1001099.duckdns.org
+gw2prodsc.southcentralus.cloudapp.azure.com
 gweini.com
 gwmtracking.com
 gwudu.com
@@ -3151,6 +3160,7 @@ hucksterbot.ru
 humbing-impliver.icu
 humdrumhat.com
 hunbabe.com
+hurtgrape.com
 hurtteeth.com
 hvooyieoei.com
 hwekl8dz1d.com
@@ -4912,6 +4922,7 @@ perimeterx.net
 perk0mean.com
 perkele.ovh
 personalizer.io
+persuadesock.com
 perviousgamechange.com
 pesbqkopdm.com
 petametrics.com
@@ -4940,6 +4951,7 @@ pilotx.tv
 pinewood-financial.com
 pingback.issuu.com
 pingma.qq.com
+pinpointpotato.com
 piquantpigs.com
 piquantstove.com
 piwik.pro
@@ -4952,6 +4964,7 @@ pixel.getshogun.com
 pixel.legit.ng
 pixel.mintigo.com
 pixel.newscgp.com
+pixel.newscred.com
 pixel.patch.com
 pixel.retargetapp.com
 pixel.rubiconproject.net.akadns.net
@@ -4975,6 +4988,7 @@ pmadx.com
 pmi5media.com
 pndelfast.com
 pocketmath.com
+podiumpresto.com
 pointlessrifle.com
 poiuytyuiopkjfnf.com
 polarbear.freeddns.org
@@ -5027,6 +5041,7 @@ prd-collector-anon-video.playbuzz.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prebid.org
+preciousyoke.com
 predep.com
 preequell.com
 prenteams-junter.com
@@ -5159,6 +5174,7 @@ pyrrx6zyxy.com
 q0zsp5e3dv.com
 q111333.top
 q1connect.com
+q20jqurls0y7gk8.info
 q64a9ris0j.com
 q8eqh.top
 q8ntfhfngm.com
@@ -5274,6 +5290,7 @@ receiverinformation.com
 receptiveink.com
 receptivereaction.com
 recommender.scarabresearch.com
+reconditeprison.com
 reconditerake.com
 reconditerespect.com
 reconizerindentificationaccount.com
@@ -5336,6 +5353,7 @@ rekmob.com
 relabe.com
 relandssymphoking.info
 relogin-euwee.com
+remp.dailymaverick.co.za
 remp.nv.ua
 renewal-user.com
 rensovetors.info
@@ -5423,6 +5441,7 @@ rhythmone.com
 richaudience.com
 richstring.com
 ridingduck.com
+righteouscrayon.com
 rightonin.com
 rigi9bury.com
 rime8lope.com
@@ -5570,6 +5589,7 @@ savagtolldoc.us
 saveyoujs.com
 savorystructure.com
 saysidewalk.com
+sbgsodufuosmmvsdf.info
 sbr-breeziest-in.cloudapp.net
 sc-applle-login.com
 scan6show.com
@@ -5684,6 +5704,7 @@ securitypaypal.com
 securitypoint.ddns.net
 securiy-accsess-center.com
 secury-checkout.com
+seedscissors.com
 seedtag.com
 seepano.com
 seguridadonline-icloud.com
@@ -5792,6 +5813,7 @@ seskeu3zk7.com
 sessioncam.com
 setforconfigplease.com
 setforspecialdomain.com
+setupad.com
 severvaliidation.xyz
 severvaliidationrequired.xyz
 sexad.net
@@ -5934,6 +5956,7 @@ slim2disc.com
 slimcut.com
 slimcut.media
 slimcutmedia.com
+slimopinion.com
 slipperysack.com
 slkdocsmember.website
 slkdocsofficemember.website
@@ -6027,6 +6050,7 @@ smetrics.vonage.com
 smetrics.washingtonpost.com
 smetrics.yellowbook.com
 smilewarms.com
+smilingshake.com
 smilingwaves.com
 smlblinds.com
 smoggysnakes.com
@@ -6088,6 +6112,7 @@ source-updateacces-helpaccountlocked.com
 source-updateacces-servicelocked.com
 sovrn.com
 sovrnlabs.net
+sparklesleet.com
 sparklingnumber.com
 specjs.com
 spectacularsnail.com
@@ -6213,6 +6238,7 @@ store-id-resolution-accs9921.com
 store-updaccount.com
 storebox-update9812.com
 storentrust.com
+stores-counters.wix.com
 storescissors.com
 storeslope.com
 storesurprise.com
@@ -6231,6 +6257,7 @@ strangesink.com
 streamrail.com
 streamrail.net
 stremanp.com
+stretchsister.com
 stringengines.com
 stripedburst.com
 strivesidewalk.com
@@ -6516,6 +6543,7 @@ thrtle.com
 ths9j89.com
 thundernews.org
 thxczhfzad.com
+ticketaunt.com
 ticklesign.com
 ticklishpanda1.xyz
 tidytrail.com
@@ -6607,6 +6635,7 @@ traskedlink.com
 tray0bury.com
 trck.youvisit.com
 trckk.com
+treadbun.com
 treasury-government.com
 tremendousplastic.com
 tremendoustime.com
@@ -6752,6 +6781,7 @@ unusualaccess-icloudid.com
 unusuallyaccount-unlocked-notificationupdate.com
 unusualtitle.com
 unverify-id-apple.com
+unwieldyhealth.com
 unwrittenspot.com
 uod2quk646.com
 uorineall.info
@@ -7063,6 +7093,7 @@ volume-login-key-349388231231291.ru
 voluum.com
 volvelle.tech
 votetoda.com
+voyagepotato.com
 vpjzrzcqrc.com
 vpptechnologies.com
 vq1qi.pw
@@ -7235,6 +7266,7 @@ windowsupdatesalert.ml
 winfreesupport.club
 winworker.club
 wirecomic.com
+wistfulflight.com
 wivo2gaza.com
 wixab-cloud.com
 wixab.com
