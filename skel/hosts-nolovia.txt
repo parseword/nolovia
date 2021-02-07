@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-02-05 15:41:16
+# Generated at 2021-02-06 21:01:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -555,6 +555,7 @@ adsales.snidigital.com
 adsame.com
 adsbtrack.com
 adsbtrk.com
+adscale.com
 adscompass.com
 adserver.us-east1.prod.chicoryapp.com
 adserver.video
@@ -727,6 +728,7 @@ analytics-sm.com
 analytics-static.ugc.bazaarvoice.com
 analytics.anvato.net
 analytics.audioeye.com
+analytics.batesvilletechnology.com
 analytics.blue
 analytics.businessinsider.com
 analytics.cincopa.com
@@ -2534,6 +2536,7 @@ epayment-billing.com
 epaypal-comacess-resolve-resolution9191.com
 epi0tzwi.com
 epom.com
+eraofecom.org
 erne.co
 error-detected-need-attention.xyz
 error-detected.com
@@ -4204,6 +4207,7 @@ metarouter.io
 metric.makemytrip.com
 metrica.yandex.com
 metrics.getvitals.io
+metrics.jumprope.com
 metrics.kirklands.com
 metrics.macys.net
 metricscollector.lp.xcal.tv
@@ -5523,6 +5527,7 @@ rvfrm2008.com
 rvfrm2009.com
 rvfrm2010.com
 rvfrm2011.com
+rvid.imperium.com
 rvnc72k.com
 rxthdr.com
 ryke4peep.com
@@ -6112,6 +6117,7 @@ source-updateacces-helpaccountlocked.com
 source-updateacces-servicelocked.com
 sovrn.com
 sovrnlabs.net
+sp-wukong-tracker.b-cdn.net
 sparklesleet.com
 sparklingnumber.com
 specjs.com
