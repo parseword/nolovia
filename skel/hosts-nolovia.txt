@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-02-06 21:01:55
+# Generated at 2021-02-17 17:01:59
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3451,6 +3451,7 @@ informer.yandex.ru
 infoserver4.review
 infotradelinks.ddns.net
 infoupdateppl.com
+ingage.tech
 ingest.crash.vault-tec.systems
 initiatefreeintenselyplayer.icu
 inmoment.com
@@ -4693,6 +4694,7 @@ olytics.omeda.com
 omnijay.com
 omniscientspark.com
 omnitagjs.com
+omnivirt.com
 oms.eu
 omzdy.top
 onaudience.com
@@ -4983,6 +4985,7 @@ pjpi.com
 placewise.com
 planet49.com
 platform.io
+plausible.io
 playground.xyz
 playwire.com
 plug1luge.com
