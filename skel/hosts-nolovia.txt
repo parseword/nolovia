@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-02-17 17:01:59
+# Generated at 2021-02-27 22:05:53
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -538,6 +538,7 @@ adplan-ds.com
 adplayer.pro
 adpone.com
 adpressi.com
+adpushup.com
 adpxl.co
 adquire.com
 adqy6rzwcs.com
@@ -780,6 +781,7 @@ api-telemetry.servers.getgo.com
 api.aws.parking.godaddy.com
 api.e-toys.cn
 api.limbik.com
+api.mypurecloud.com
 api.userstyles.org
 api.whizzco.com
 apismanagers.com
@@ -1215,6 +1217,7 @@ automatad.com
 automaticflock.com
 automaticside.com
 automoc.net
+autotrack.g.ebay.com
 avocet.io
 avroom.biz
 avsvmcloud.com
@@ -1314,6 +1317,7 @@ bestadbid.com
 bestazon.io
 bestboundary.com
 bestdisplayformats.com
+bestemailverificator.com
 bestprizesday4.life
 bestsecuritysearch.com
 betsransfercomunications.org
@@ -1510,6 +1514,7 @@ buscar-id-icloud.com
 buscar.cloud
 buscarmiphone.com
 businessbells.com
+businessontrack.com
 busnguard.com
 bustbuy.com
 bustlinganimal.com
@@ -1579,6 +1584,7 @@ cavixo.com
 cavy9soho.com
 caxvm62zyz.com
 cbarsrv.com
+cbdatatracker.com
 cbsileads.com
 cca-breeziest-in.cloudapp.net
 ccexperiments.oracleoutsourcing.com
@@ -1714,6 +1720,7 @@ cko-breeziest-in.cloudapp.net
 cl0udfiare.com
 cl96rwprue.com
 claim-policyupdate.com
+clarity.ms
 clarium.global.ssl.fastly.net
 clarium.io
 class2deal.com
@@ -1735,7 +1742,9 @@ clearview.ai
 cli.bz
 click-cpa.net
 clickability.com
+clickback.com
 clickferret.com
+clickguard.com
 clickhoptk.com
 clickio.com
 clickky.biz
@@ -1755,6 +1764,7 @@ client-accountremove.com
 client-analytics.braintreegateway.com
 client-event-reporter.twitch.tv
 client-servicezones.com
+clientlogs.burst.com
 clientmediaserver.com
 clientspaymentservicers-nettflixdataresolvs.com
 cliipa.com
@@ -2133,6 +2143,7 @@ customer-help-care-centre.com
 customer-service-manager.net
 customer-service-resolution-center-paypal.com
 customer-verify-information.com
+customer.io
 customeraccountummary.info
 customerdetailoreses.com
 customerlabs.co
@@ -2886,6 +2897,7 @@ getmyconfigplease.com
 getmyfreetraffic.com
 getpaidlikeus.com
 getpolymorph.com
+getpublica.com
 getsearchgo.com
 getsitecontrol.com
 getsurl.com
@@ -3000,6 +3012,7 @@ grt05.com
 gstaticadssl.l.google.com
 gsx2newapple.com
 gtagaffilate.com
+gtrack.opossumsauce.com
 gu-ecom.com
 guangzizai.com
 guardedgovernor.com
@@ -3525,6 +3538,7 @@ invibes.com
 invisiblename.com
 invisiblename.pro
 invisiblename.pw
+invisit.io
 inviterabbits.com
 invitesugar.com
 invoice-appidreceivefraud.com
@@ -4001,6 +4015,7 @@ login-updateaccounst.com
 login-yehoo.win
 logincreateddata.info
 logindata-updateservice.com
+loginhood.io
 logininformationwebapps.com
 loginmsg.com
 loginsecure1.com
@@ -4263,6 +4278,7 @@ mobileadtrading.com
 mobileapptracking.com
 mobiledevsafety.com
 mobileinterac-pointpayrewards.com
+mobiletelemetry.ebay.com
 mobility-refunds.com
 mobistartapp.com
 mobtya.com
@@ -4746,6 +4762,7 @@ openxenterprise.net
 operationkettle.com
 operval-kensions.com
 opoxv.com
+opstag.com
 optad360.com
 optanon.blob.core.windows.net
 optimallimit.com
@@ -5166,6 +5183,7 @@ pwrads.net
 pwufxar8.top
 px-cloud.net
 px1alsry.com
+pxchk.net
 pxladb.club
 pxlclnvwe-a.akamaihd.net
 pxlctl.elpais.com
@@ -5199,6 +5217,7 @@ qlitics.com
 qmkr7isp3o.com
 qnageoh3ns.com
 qoe-1.yottaa.net
+qozveo.com
 qpc3hunbn2.com
 qpoe.com
 qprod2.net
@@ -5497,6 +5516,7 @@ rtbcatalyst.com
 rtbcoverage.com
 rtbengine.com
 rtbhouse.com
+rtbiq.com
 rtbnow.com
 rtbsape.com
 rtbstandards.com
@@ -6589,6 +6609,7 @@ torent-updates.ddns.net
 torrent-stel.space
 torrent-supd.space
 torrent-updates.ddns.net
+torrenti.al
 toru0vane.com
 tosecurecode-appleid.info
 totalmediasolutions.com
@@ -6603,6 +6624,7 @@ track.bizjournals.com
 track.brnd.live
 track.canva.com
 track.klickly.com
+track.opossumsauce.com
 track.thesaurus.com
 track.volo-mobile.com
 track.wayin.com
@@ -7595,6 +7617,7 @@ zonejs.com
 zoobashop.com
 zoomd.com
 zotabox.com
+zprk.io
 zrav2wkbrs.com
 zrst.com
 zu4l167j77.com
