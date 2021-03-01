@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-02-27 22:05:53
+# Generated at 2021-03-01 15:33:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1720,7 +1720,10 @@ cko-breeziest-in.cloudapp.net
 cl0udfiare.com
 cl96rwprue.com
 claim-policyupdate.com
+clarity.azurefd.net
+clarity.microsoft.com
 clarity.ms
+claritystatic.azureedge.net
 clarium.global.ssl.fastly.net
 clarium.io
 class2deal.com
