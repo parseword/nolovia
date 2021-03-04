@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-03-01 15:33:55
+# Generated at 2021-03-04 16:24:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -739,6 +739,7 @@ analytics.edgekey.net
 analytics.getshogun.com
 analytics.inform.com
 analytics.jst.ai
+analytics.linktr.ee
 analytics.myfidevs.io
 analytics.newscred.com
 analytics.nextopia.net
@@ -1824,6 +1825,7 @@ clue6load.com
 cmbestsrv.com
 cmcore.com
 cmp.network-n.com
+cmp.osano.com
 cmytuok.top
 coax7nice.com
 code203.ddns.net
@@ -2262,6 +2264,7 @@ decoycreation.com
 ded733b374cc1c3f.com
 deep.bi
 deepintent.com
+deepmarkit.com
 deesktops.info
 defectivesun.com
 deftsecurity.com
@@ -3577,6 +3580,7 @@ iphoneid-icloud.com
 iphonerc.top
 ipichnaear.me
 ipichnaear22.me
+iplogger.org
 iponweb.com
 ipredictive.com
 iprom.eu
@@ -5456,6 +5460,7 @@ revital-travel.com
 revjet.com
 rewards-litecoin.win
 rexrtb.com
+reyweb.com
 rezync.com
 rfihub.com
 rfihub.net
@@ -5746,6 +5751,7 @@ selectionsugar.com
 selectivesummer.com
 selectmedia.asia
 selfishsea.com
+selfishsnake.com
 selfmademan.ddns.net
 selfmademan2.ddns.net
 sellclassics.com
