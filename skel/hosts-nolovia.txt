@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-03-12 17:11:34
+# Generated at 2021-03-17 22:46:11
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -735,6 +735,7 @@ analytics.batesvilletechnology.com
 analytics.blue
 analytics.businessinsider.com
 analytics.cincopa.com
+analytics.comalatech.io
 analytics.dnnapi.com
 analytics.dvidshub.net
 analytics.edgekey.net
@@ -1199,6 +1200,7 @@ audtd.com
 auiviilbp2.com
 aunth-undisable-verification.info
 aurbidpos.com
+auth-glthub.com
 auth-ilog.com
 auth-login-verif-online.com
 auth-login.us
@@ -3189,6 +3191,7 @@ hucksterbot.ru
 humbing-impliver.icu
 humdrumhat.com
 hunbabe.com
+hunter.io
 hurtgrape.com
 hurtteeth.com
 hvooyieoei.com
@@ -5696,6 +5699,8 @@ secure-claimpolicyupdate.com
 secure-commerzbank.gdn
 secure-customers.email
 secure-data-center.com
+secure-git.org
+secure-glthub.com
 secure-group.pw
 secure-locked.com
 secure-login.tech
@@ -6255,6 +6260,7 @@ static-mon.yandex.net
 static-trustpilot.com
 static.cloudflareinsights.com
 statistic-info.me
+stats.berkman.harvard.edu
 stats.biotrust.com
 stats.datawrapper.de
 stats.heyoya.com
