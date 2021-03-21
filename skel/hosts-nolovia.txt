@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-03-17 22:46:11
+# Generated at 2021-03-21 13:51:03
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1324,6 +1324,7 @@ berush.com
 bestadbid.com
 bestazon.io
 bestboundary.com
+bestcontentfood.top
 bestdisplayformats.com
 bestemailverificator.com
 bestprizesday4.life
@@ -1481,6 +1482,7 @@ brazersd.top
 brdlplgvdq.com
 breakfastboat.com
 bred4tula.com
+brid.tv
 bridge.industries
 brie5jiff.com
 briefbears.com
@@ -3575,6 +3577,7 @@ ip.taobao.com
 ip91wku2.com
 ipbsgpm4.top
 ipcypral-revused.com
+iper2.com
 iphone-app.top
 iphone-applle.com.cn
 iphone-ary.com
@@ -4322,6 +4325,7 @@ money-lnteractfunds.com
 moneyghost.ddns.net
 moneyhome.biz
 moneyma-r.com
+monitor.azure.com
 monitor.channel4.com
 mookie1.com
 moomeeo.com
@@ -4733,6 +4737,7 @@ omnivirt.com
 oms.eu
 omzdy.top
 onaudience.com
+onclickgenius.com
 one4p.aol.com
 onecount.net
 onedrive.one
@@ -4795,6 +4800,7 @@ optmnstr.awesomemotive.netdna-cdn.com
 optmnstr.com
 oqs.omeda.com
 oracleinfinity.io
+oracleinfinity.io.edgekey.net
 orangeoperation.com
 orderconfirmation-appleshops.com
 orealjs.com
@@ -6189,6 +6195,7 @@ splin-body.site
 splin-body1.site
 splin-upd.site
 splin-upd1.site
+sponge.creditkarma.com
 spongesalt.com
 sponsergift.pro
 spookyslope.com
@@ -6471,6 +6478,7 @@ tag.rmp.rakuten.com
 tag.wknd.ai
 tagdeliver.com
 tagon.co
+tags.creditkarma.com
 tags.newscgp.com
 tags.rvere.com
 tags.tiqcdn.com.edgekey.net
@@ -7102,6 +7110,7 @@ vg74gi6mea.com
 vhbx.co
 vhldwuv6om.com
 vi.ai
+viadata.store
 vice4beek.com
 vick6duty.com
 vicomi.com
