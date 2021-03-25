@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-03-21 13:51:03
+# Generated at 2021-03-24 19:46:15
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -89,6 +89,7 @@
 2bq.xyz
 2cbisyjaae.com
 2cuknh50ef.com
+2fix.tech
 2go7v1nes8.com
 2gok8g15p2.com
 2hus8ekwlk.com
@@ -702,6 +703,7 @@ amazoappreview.com
 amazon-awsummary.com
 amazon-deutschland-customer-service.info
 amazon-premiumsecu.com
+amazondevicesupports.xyz
 amazongifts.ddns.net
 amazonnapp.com
 amazonsse.com
@@ -1738,6 +1740,7 @@ claritystatic.azureedge.net
 clarium.global.ssl.fastly.net
 clarium.io
 class2deal.com
+classifiedlookup.com
 classifieds2000.com
 clcktrk.com
 clean.gg
@@ -1834,6 +1837,7 @@ clrstm.com
 clue6load.com
 cmbestsrv.com
 cmcore.com
+cmdscan.info
 cmp.network-n.com
 cmp.osano.com
 cmytuok.top
@@ -2178,6 +2182,8 @@ cwkuki.com
 cws.conviva.com
 cxense.com
 cybba.solutions
+cyberonservices.com
+cybersmart.xyz
 cybervalidationneeded.xyz
 cyclinted-metrence.com
 czechcash.com
@@ -2289,6 +2295,7 @@ deliverymodo.com
 deloplen.com
 deloton.com
 delta-search.com
+delvelogic.us
 demand.supply
 denakop.com
 deng3rada.com
@@ -3102,12 +3109,14 @@ heavyplayground.com
 help-facebook.com
 help-forgot-information.net
 help-forgot-information.org
+help-live.us
 help-lnstagramsupport.com
 help-report-center.com
 help-service-center.com
 help-solution-limited.com
 help-suport.net
 help-you-in-confirmation.info
+help365.us
 helplimit.net
 helpscout.net
 herb2warn.com
@@ -3169,6 +3178,7 @@ hostingcloud.loan
 hot-mob.com
 hotjar.com
 hotlable.com
+hotmailhelplinenumber.com
 hox0u3ea48.com
 hp7cjr78.com
 hqzjz7fncd.com
@@ -3943,6 +3953,8 @@ list1holp.com
 listrakb.com
 listrakbi.com
 listtraceast.cloudapp.net
+live-online-support.info
+live-support.us
 liveburst.com
 livesegmentservice.com
 livetracker.voa.pangea-cms.com
@@ -4573,6 +4585,7 @@ netflixbrasil.website
 netflixcolombia.net
 netflixsclientservicrs-managepaymentsubscribers.com
 netmg-cdn.com
+network-security-alerts.com
 networkdocweb.us
 neu-breeziest-in.cloudapp.net
 new-feedback-apple-information-by-administrator.com
@@ -5262,6 +5275,9 @@ quantummetric.com
 quarterbean.com
 quebec-bin.com
 quebec-lea.com
+quick-help.us
+quickhelpdesk.in
+quickhelpdeskk.us
 quickintertac-paymentrewards.com
 quicksandear.com
 quietknowledge.com
@@ -5495,6 +5511,7 @@ rhythmone.com
 richaudience.com
 richstring.com
 ridingduck.com
+rightassists.com
 righteouscrayon.com
 rightonin.com
 rigi9bury.com
@@ -5533,6 +5550,7 @@ roughroll.com
 royal-submitverifcations.com
 royalbank-verification2.com
 rpptrk.com
+rrlivehelp.com
 rrtcfwmvhs.com
 rs-stripe.com
 rset-update.com
@@ -5609,6 +5627,7 @@ sack.world
 safe-activity-resume.com
 safe-i.cloud
 safe-summary.com
+safebanking.biz
 safefastverifyserviced.com
 safegraph.com
 safekey-verificationrequaires.com
@@ -6413,6 +6432,7 @@ support-update-data-verification.com
 support-update-id.com
 support-us-appllie-information.com
 support-verification-id.com
+support247live.us
 supportaccount-updateinformations.com
 supporteid-icloud.com
 supporthelpline.us
@@ -7268,6 +7288,7 @@ webpushr.com
 webreaderz.com
 webresoved-service.com
 webrivage.com
+webroot-support-number.com
 webrootyoun.us
 webs-accountinfo.com
 webscr-accountupdatehelpingcustomer.net
@@ -7550,6 +7571,7 @@ y6a7tqyr.com
 y96q29a1fo.com
 yabidos.com
 yadangz.ddns.net
+yahoomailhelplinenumber.com
 yahthahm.com
 yama1hove.com
 yami8alea.com
@@ -7631,6 +7653,7 @@ zertweekdoc.us
 zetazync.com
 zeustechnology.com
 zfg-logfile-service-1878940491.us-gov-west-1.elb.amazonaws.com
+zfix.tech
 zg-api.com
 zha6ivnktt.com
 zhtlvag.com
