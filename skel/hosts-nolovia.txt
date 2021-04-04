@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-03-29 12:14:30
+# Generated at 2021-04-04 17:08:29
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -67,6 +67,7 @@
 1myetherwallet.info
 1myetherwallet.net
 1paj4kmp.top
+1redira.com
 1rx.io
 1suser.ddns.net
 1wkvvts8is.com
@@ -545,6 +546,7 @@ adpushup.com
 adpxl.co
 adquire.com
 adqy6rzwcs.com
+adr0ck.com
 adrizer.com
 adro.io
 adrock.tv
@@ -2196,6 +2198,7 @@ d0v5g1vb.top
 d10lpsik1i8c69.cloudfront.net
 d1272serve.xyz
 d14emrg9.com
+d1vl8wytztdz.cloudfront.net
 d22chwk8np.com
 d2c7xlmseob604.cloudfront.net
 d2ergeh3ul.com
@@ -3147,6 +3150,7 @@ hipfowlzeal.icu
 hipstarclub.com
 hiss3lark.com
 historicalrequest.com
+hit.uptrendsdata.com
 hitcpm.com
 hitleap.com
 hiug862dj0.com
@@ -4010,6 +4014,7 @@ log.shortbread.aws.dev
 log.zoomgov.com
 logfiles.zoomgov.com
 logger.dailymotion.com
+logger.navigator-bs.gmx.com
 logger.unsplash.com
 logging.getgo.com
 loggingapi.spingo.com
@@ -4226,9 +4231,11 @@ mayserve-magestor.com
 mbcjufwxg9.com
 mbolo2017.hopto.org
 mbr-targeting.com
+mcdn-report.wc.yahoodns.net
 mdelivry.com
 mdhv.io
 me-look-update-now.com
+meadowtitle.info
 measured.com
 meatydime.com
 mediabong.com
@@ -4959,6 +4966,7 @@ paypl-direct-resolutioncenter.com
 paypol-securities.biz
 paypupdate.com
 pbackpixel.com
+pbstck.com
 pbterra.com
 pcanywhere.net
 pcrl.co
@@ -5012,6 +5020,7 @@ pilotx.tv
 pinewood-financial.com
 pingback.issuu.com
 pingma.qq.com
+pinnterest.com
 pinpointpotato.com
 piquantpigs.com
 piquantstove.com
@@ -5162,6 +5171,7 @@ pub2srv.com
 publicnode.ydns.eu
 publir.com
 pubnx.com
+pubstack.io
 puchex.site
 puffyloss.com
 puffypull.com
@@ -6025,6 +6035,7 @@ sj-syst.link
 sjdhqk.live
 sjpf.io
 sjremetrics.java.com
+skilyake.net
 skrilln.net
 skye6oner.com
 slaysweater.com
@@ -6836,6 +6847,7 @@ undergiveto54.com
 unequalbrake.com
 unevenstring.com
 unexpect-login.com
+uniconsent.com
 unitytrustcapital.com
 universalcookie.com
 unknowjbireestagm.duckdns.org
@@ -7137,6 +7149,7 @@ vicomi.com
 vidazoo.com
 vidcpm.com
 videmob.com
+video-ads.a2z.com
 videoflare.com
 videologygroup.com
 videoplayerhub.com
