@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-04-04 17:08:29
+# Generated at 2021-04-09 15:18:47
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2339,6 +2339,7 @@ dgs2749y980f1.cloudfront.net
 dh2xbuwg.com
 dh956.com
 dhcp.biz
+diagnostics.redditmedia.com
 dial4gwyn.com
 dialogtech.com
 differentdesk.com
@@ -3251,6 +3252,7 @@ i7wp.org
 i864ekhq.com
 i9zqq3fj.top
 iadsnetwork.com
+iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 iappleid-regist.com
 ib-ibi.com
 ib1oyteqqn.com
