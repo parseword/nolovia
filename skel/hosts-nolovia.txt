@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-04-24 09:19:39
+# Generated at 2021-04-27 17:17:15
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -497,6 +497,7 @@ adexchangedirect.com
 adform.com
 adform.dk
 adform.net
+adfox.ru
 adfries.com
 adglance.com
 adglare.com
@@ -733,6 +734,7 @@ analytics-ingress.pandorastreaming.com
 analytics-production.hapyak.com
 analytics-sm.com
 analytics-static.ugc.bazaarvoice.com
+analytics.anarc.at
 analytics.anvato.net
 analytics.audioeye.com
 analytics.batesvilletechnology.com
@@ -1300,6 +1302,7 @@ be4anywhere.com
 bea4.cnn.com
 beacon-cdn.walmart.com.akadns.net
 beacon.aimtell.com
+beacon.by
 beacon.dropbox.com
 beacon.lynx.cognitivlabs.com
 beacon.riskified.com
@@ -2556,6 +2559,7 @@ energeticexample.com
 eng-servicesonlineactivity.com
 engageads.com
 engageads.xml.ak-is.net
+engagement.ai
 engageya.com
 eni-procurement.info
 enjws5329l.com
@@ -3844,6 +3848,7 @@ kumma.com
 kurtangle083.publicvm.com
 kwnq4hg2n9.com
 kzws02uffs.com
+l-stat.livejournal.net
 l4oecosq.com
 l6b587txj1.com
 l7r0sgc0.top
@@ -4248,6 +4253,7 @@ mediawallahscript.com
 mediawayss.com
 medyanative.com
 mefound.com
+megaphone.cloud
 meliora.xyz
 member-validation.info
 memberdetail-data.info
@@ -4993,6 +4999,8 @@ perfectmarket.com
 perimeterx.net
 perk0mean.com
 perkele.ovh
+permutive.app
+permutive.com
 personalizer.io
 persuadesock.com
 perviousgamechange.com
@@ -5011,6 +5019,7 @@ philometrics.com
 philometrics.net
 philometrics.org
 phkutmddtm.com
+phoapsoo.com
 phone2347.ddns.net
 phonebillsrefund.com
 phonefix.guru
@@ -5321,6 +5330,7 @@ railwayrainstorm.com
 railwayreason.com
 raingamess.com
 raintwig.com
+rainyrule.com
 rals4alum.com
 ransomware.bit
 rapiddomainbuilder.com
@@ -6320,6 +6330,7 @@ steadfastsound.com
 steadfastsystem.com
 steamchristmas.com
 stecker.su
+steelcentral.net
 steepsquirrel.com
 stek-js.link
 stepconfirm-limitation-eng-lang.com
@@ -6675,6 +6686,7 @@ tonychucks96.hopto.org
 tonystark001.publicvm.com
 toothbrushnote.com
 top-sj.link
+top100.ru
 topichawaii.com
 topstories.fun
 torent-updates.ddns.net
@@ -6685,6 +6697,7 @@ torrenti.al
 toru0vane.com
 tosecurecode-appleid.info
 totalmediasolutions.com
+touchpoints.easy.xyz
 toyotacamryy.com
 toythieves.com
 tport9.com
@@ -6780,6 +6793,7 @@ trustx.org
 ttoc8ok.com
 ttraff.cc
 tu42het22n.com
+tubroaffs.org
 tudou.com
 tula9mari.com
 tumejortorrent.com
@@ -6813,6 +6827,7 @@ uacexchange.us
 uappllee.com
 ub-analytics.com
 ubembed.com
+uberflip.com
 ubiquitousyard.com
 ucfunnel.com
 ucheephu.com
@@ -6959,6 +6974,7 @@ usbktransact.com
 uscert.top
 uscourtsgov.com
 usdepartmentofrevenue.com
+usechimney.com
 usefomo.com
 user-stats.rbl.ms
 user-summary-account.com
@@ -7032,6 +7048,7 @@ veeseo.com
 vehicle-tax-refunds.org
 velismedia.com
 venusgloria.com
+vercel-analytics.com
 verfiy.us
 vericationservicetwitter.com
 verif-case-purchase-id-4581-752-495.com
@@ -7359,6 +7376,7 @@ whocame.ovh
 whoisvisiting.com
 whoslooking.herokuapp.com
 whs82908.com
+whugesto.net
 wideorbit.com
 widgets.future-fie.co.uk
 wigglygeese.com
