@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Copyright 2015, 2020 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
+ * Copyright 2015, 2021 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
  * Repository: <https://github.com/parseword/nolovia>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -177,7 +177,7 @@ $serverLists[] = $sl;
 
 $sl = new ServerList('Disconnect Malvertising');
 $sl->setFilePath('./data/hosts-disconnect-malvertising.txt');
-$sl->setUri('https://disconnect.me/lists/malvertising');
+$sl->setUri('https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt');
 $sl->setMinimumExpectedBytes(32768);
 $sl->setValidationText('2o7.net');
 $serverLists[] = $sl;
