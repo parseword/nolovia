@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-04-27 17:17:15
+# Generated at 2021-05-04 21:22:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -124,6 +124,8 @@
 3gl.net
 3grsomcook.com
 3jmcwio.com
+3p-geo.yahoo.com
+3p-udc.yahoo.com
 3phzb1pbij.com
 3r1kwxcd.top
 3rpagb7k11.com
@@ -754,6 +756,7 @@ analytics.newscred.com
 analytics.nextopia.net
 analytics.publitas.com
 analytics.roboturk.co
+analytics.rosehosting.com
 analytics.schoolwires.com
 analytics.snidigital.com
 analytics.syndeca.com
@@ -1632,6 +1635,7 @@ cdnrfv.com
 cdnscriptx.com
 cdnwhiltelist.com
 cdnwidget.com
+cdpsvc.com
 cedato.com
 cellubiue.com
 cellublue.info
@@ -2137,6 +2141,7 @@ crazypanda1.xyz
 crazypeacock1.xyz
 crazyrocket.io
 create2fear.com
+creditonebanklogin.live
 crimtan.com
 criticalalert.xyz
 criticalwarraningalert.xyz
@@ -5362,6 +5367,7 @@ reachlocalservices.com
 readgoldfish.com
 readingguilt.com
 readingopera.com
+readmo.yahoo.com
 readymoon.com
 readysnails.com
 realcenter-mobileapps.com
@@ -5377,6 +5383,7 @@ reason-locked-id1.info
 rebatesrule.net
 rebelsubway.com
 receipt-verification.com
+receive.wmcdp.io
 receiverinformation.com
 receptiveink.com
 receptivereaction.com
