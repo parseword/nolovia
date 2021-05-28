@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-05-04 21:22:48
+# Generated at 2021-05-27 20:20:45
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2624,6 +2624,7 @@ evenirpage.tk
 event-logger.api.dnc.org
 event.syndigo.cloud
 eventlog.bradsdeals.com
+eventlog.jackpot.de
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
 evs.pink-boat.fool.com
@@ -6642,6 +6643,7 @@ thetimmedia.site
 thetradedesk.com
 theuserlimit.org
 theuserlimite.org
+theyardservice.com
 thicktrucks.com
 thiksikr.com
 thingsafterthought.com
