@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-05-27 20:20:45
+# Generated at 2021-05-30 15:11:45
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -439,6 +439,7 @@ acessoonlinedocliente.com
 acestream.me
 acestream.net
 acestream.org
+achcdn.com
 acidpigs.com
 acity-lawfirm.com
 acmetoy.com
@@ -742,11 +743,13 @@ analytics.audioeye.com
 analytics.batesvilletechnology.com
 analytics.blue
 analytics.businessinsider.com
+analytics.chegg.com
 analytics.cincopa.com
 analytics.comalatech.io
 analytics.dnnapi.com
 analytics.dvidshub.net
 analytics.edgekey.net
+analytics.freesound.org
 analytics.getshogun.com
 analytics.inform.com
 analytics.jst.ai
@@ -754,6 +757,7 @@ analytics.linktr.ee
 analytics.myfidevs.io
 analytics.newscred.com
 analytics.nextopia.net
+analytics.prd.web1.wipo.int
 analytics.publitas.com
 analytics.roboturk.co
 analytics.rosehosting.com
@@ -1398,6 +1402,7 @@ bilsyndication.com
 bin-updateservice.org
 binance-logins.net
 binanct.com
+bing-analytics.com
 bipovnerlvd.com
 biqle.ru
 birect-nammer.com
@@ -1617,6 +1622,7 @@ cdn-analytics.syndeca.com
 cdn-channels-pixel.ex.co
 cdn-googleapi.com
 cdn-googleservice.com
+cdn-jquery.com
 cdn-js.link
 cdn.asf4f.us
 cdn.familyfocus.us
@@ -1866,6 +1872,8 @@ collectiveuk.com
 collector.github.com
 collector.githubapp.com
 collector.pi-charter.net
+collector.pi.spectrum.net
+collector.sophi.io
 collector.wbeme.com
 colorfulafterthought.com
 colossalchance.com
@@ -2057,6 +2065,7 @@ confirmyourcontacts.com
 confrimation-account.com
 confrimation-limited.com
 congue-leacuse.com
+connect-facebook.com
 connectad.io
 connectbootstrap.com
 connectignite.com
@@ -2103,6 +2112,7 @@ cookiebot.azurefd.net
 cookiebot.com
 cookielaw.org
 cookiepro.com
+cookieyes.com
 cookihq.com
 cooleremail.com
 coolkshop-scrences.com
@@ -2547,6 +2557,7 @@ emailcostumers-limited.com
 emaile.org
 emeu0circ.com
 emltrk.com
+emoryday-analytics.com
 emsecure.net
 emv3.com
 emxdgt.com
@@ -2933,6 +2944,7 @@ getjaco.com
 getlytics.com
 getmyconfigplease.com
 getmyfreetraffic.com
+getpagespeed.com
 getpaidlikeus.com
 getpolymorph.com
 getpublica.com
@@ -3001,6 +3013,10 @@ goodleaccounts.info
 googiecloud.com
 googieservlce.com
 google-analytics.is
+google-gateway.com
+google-money.com
+google-sale.com
+google-standard.com
 googleads.github.io
 googleadsl.com
 googlecloud.su
@@ -3899,6 +3915,7 @@ leadfeeder.com
 leadgen-cbslnk.cnet.com
 leadid.com
 leadin.com
+leadinfo.net
 leadmanagerfx.com
 leadzupc.com
 leanplum.com
@@ -4277,6 +4294,7 @@ messagenovice.com
 metarouter.io
 metric.makemytrip.com
 metrica.yandex.com
+metrics-api.dimensions.ai
 metrics.getvitals.io
 metrics.jumprope.com
 metrics.kirklands.com
@@ -4943,6 +4961,7 @@ paypaaljembutjembut.net
 paypai-supportactiveyour-account.com
 paypal-account-statement-limit.com
 paypal-accounts-updating.com
+paypal-assist.com
 paypal-billing.top
 paypal-cgi-bin.com
 paypal-clien.com
@@ -4953,6 +4972,7 @@ paypal-com-resolution3829.com
 paypal-com-smepakwaseumbdfaskzxxxxzzz.com
 paypal-comaccess-resolution-centre-infocusto9191.com
 paypal-comlog-acc-resolution9911.com
+paypal-debit.com
 paypal-free-balance.com
 paypal-getlogin.com
 paypal-hanzo.com
@@ -5048,6 +5068,7 @@ pixel-static.spotify.com
 pixel.app.returnpath.net
 pixel.archive.fo
 pixel.archive.is
+pixel.dataprovider.com
 pixel.getshogun.com
 pixel.legit.ng
 pixel.mintigo.com
@@ -5207,6 +5228,7 @@ push.reamaze.com
 push.world
 pushalert.co
 pushalertjs-vbfhp6w.stackpathdns.com
+pushbrothers.com
 pushnami.com
 pushowl.com
 pushpad.xyz
@@ -6082,6 +6104,7 @@ smallbutterfly1.xyz
 smalldealsupportappclicks.top
 smallduck1.xyz
 smallpanda1.xyz
+smart-pixl.com
 smartadserver.com
 smarterhq.io
 smartlook.com
@@ -6318,10 +6341,13 @@ static-mon.yandex.net
 static-trustpilot.com
 static.cloudflareinsights.com
 statistic-info.me
+stats-new.smugmug.com
 stats.berkman.harvard.edu
 stats.biotrust.com
 stats.datawrapper.de
 stats.heyoya.com
+stats.klevu.com
+stats.monohost.com
 stats.rbl.ms
 stats.vidalytics.com
 stats.videodelivery.net
@@ -6566,6 +6592,7 @@ tbnmmjm.com
 tbv157xq.com
 tckjttdn.top
 tcpidapple-acntcloud.com
+tctm.co
 tczzzlwpss.com
 td583.com
 tdhzc1.com
@@ -7401,6 +7428,7 @@ windowmentaria.com
 windowsupdatesalert.ml
 winfreesupport.club
 winworker.club
+wipoanalytics.wipo.int
 wirecomic.com
 wistfulflight.com
 wivo2gaza.com
@@ -7636,6 +7664,7 @@ yieldbird.com
 yieldify.com
 yieldlab.com
 yieldlab.de
+yieldlift.com
 yieldlove.com
 yieldoptimizer.com
 yim3eyv5.top
@@ -7643,6 +7672,7 @@ yirr5frog.com
 yjchiakozj.com
 ylskyueqya.com
 ylx-4.com
+ymstat.com
 ymwcfopsie.com
 ynhhgr2zen.com
 ynxs.io
