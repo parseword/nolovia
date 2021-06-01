@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-05-30 15:11:45
+# Generated at 2021-06-01 17:26:54
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -21,6 +21,7 @@
 0f81i8zmcp.com
 0gctp5ht.top
 0h6djpk8fn.com
+0i0i0i0.com
 0j7z9aw6.top
 0n55f9zgy7.com
 0naa190101.mobi
@@ -557,6 +558,7 @@ adrock.tv
 adrolx.com
 adrs.me
 ads-twitter.com
+ads.nextdoor.com
 ads.pinbusinessnetwork.com
 ads.simonandschuster.com
 ads4pics.com
@@ -1111,6 +1113,7 @@ appleverificationupdate.com
 applexr-iphone.com
 applezcl.com
 applezr-iphone.com
+applicationinsights.azure.com
 applicationinsights.microsoft.com
 applicloud-ios.com
 applid-webapps-mycloud.com
@@ -1403,6 +1406,7 @@ bin-updateservice.org
 binance-logins.net
 binanct.com
 bing-analytics.com
+biocatch.com
 bipovnerlvd.com
 biqle.ru
 birect-nammer.com
@@ -1777,6 +1781,7 @@ clickability.com
 clickback.com
 clickferret.com
 clickguard.com
+clickhomeclick.com
 clickhoptk.com
 clickio.com
 clickky.biz
@@ -2245,6 +2250,7 @@ dashbid.io
 dashbord-mysecure-unlocked-acces-1nfo.com
 dashingdirt.com
 dashingsweater.com
+data-ingestion.prod.dataops.mozgcp.net
 data-validmember.info
 data.bntech.io
 databasegalore.com
@@ -2701,6 +2707,7 @@ farmergoldfish.com
 farshake.com
 fartit.com
 fascinatedfeather.com
+fasta.xyz
 fastagilelink.com
 fastbase.com
 fastlscripts.com
@@ -2999,6 +3006,7 @@ gnar.grammarly.com
 gnpge.com
 go.ro
 go2click.org
+go2vnow.net
 goaffpro.com
 gobankingrates.com
 gobrowsi.com
@@ -3989,6 +3997,7 @@ listrakbi.com
 listtraceast.cloudapp.net
 live-online-support.info
 live-support.us
+live-visitor-counts.herokuapp.com
 liveburst.com
 livesegmentservice.com
 livetracker.voa.pangea-cms.com
@@ -4550,6 +4559,7 @@ mysecure-id-icloud.com
 myserviceaccount.net
 mysetherwalletz.com
 mysteriousmonth.com
+mysticresponses.com
 mytransaction-account-fraudprevention.center
 myuaccname-apple.info
 myuserlimit.org
@@ -4574,6 +4584,7 @@ narrative.io
 narusnex.info
 nasmasterservice.com
 nastylist-instatop50.me
+nateria-bloning.com
 natimatica.com
 nativein-ad.com
 nativein-feed.com
@@ -4627,6 +4638,7 @@ netmg-cdn.com
 network-security-alerts.com
 networkdocweb.us
 neu-breeziest-in.cloudapp.net
+neuro-id.com
 new-feedback-apple-information-by-administrator.com
 new-loginservice.com
 new-verificationdevelopeer.com
@@ -4714,6 +4726,7 @@ notifysrv.com
 novoroll.com
 np1t0bcj0n.com
 npm.hacktask.net
+npttrk.com
 nqp0852y7r.com
 nqv63c7lai.com
 nrdlj2ru.com
@@ -4795,6 +4808,7 @@ onecount.net
 onedrive.one
 onedumb.com
 onesignal.com
+onestart-up.com
 onetag-sys.com
 onetag.com
 onetag.io
@@ -5189,6 +5203,7 @@ pro-market.net
 proads.space
 proclivitysystems.com
 prod-telemetry-us.tradingview.com
+prod.balrog.prod.cloudops.mozgcp.net
 prod.report.nacustomerexperience.citi.com
 products.apps.co.me
 profitrumour.com
@@ -5233,6 +5248,7 @@ pushnami.com
 pushowl.com
 pushpad.xyz
 pushplay.tv
+pushpros.tech
 pushwoosh.com
 pussl10.com
 pussl3.com
@@ -6756,6 +6772,7 @@ tracker.smadex.com
 tracker.unbxdapi.com
 tracking-sales-pop.carecart.io
 tracking.aegpresents.com
+tracking.curafen-at.com
 tracking.friends2follow.com
 tracking.hivecloud.net
 tracking.landroverusa.com
@@ -7083,8 +7100,10 @@ vdo.ai
 veeseo.com
 vehicle-tax-refunds.org
 velismedia.com
+velocecdn.com
 venusgloria.com
 vercel-analytics.com
+vercel-insights.com
 verfiy.us
 vericationservicetwitter.com
 verif-case-purchase-id-4581-752-495.com
@@ -7292,6 +7311,7 @@ wateryvan.com
 wauk1care.com
 waws-prod-bn1-027.cloudapp.net
 waws-prod-bn1-027.vip.azurewebsites.windows.net
+wc.yahoodns.net
 wcge-breeziest-in.cloudapp.net
 wdaxvjr9dc.com
 wdsvc.net
@@ -7427,6 +7447,7 @@ windowinstalldealaflash.icu
 windowmentaria.com
 windowsupdatesalert.ml
 winfreesupport.club
+winningwsp.xyz
 winworker.club
 wipoanalytics.wipo.int
 wirecomic.com
@@ -7446,6 +7467,7 @@ wmjj2vke66.com
 wmrfast.com
 wnzg.us
 womanear.com
+wompanalytics.azurewebsites.net
 wongchin11.ddns.net
 woobi.com
 workableachiever.com
