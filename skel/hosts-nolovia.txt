@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-06-01 17:26:54
+# Generated at 2021-06-01 23:47:44
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3476,6 +3476,7 @@ improvedigital.com
 improving.duckduckgo.com
 impulsehands.com
 imstks.com
+in-page-push.com
 inbenta.com
 inbound-analytics.pixlee.com
 inc-app.us
@@ -4476,6 +4477,7 @@ myaccountsecure2store-verifywebappid.com
 myaccountupgrades.com
 myaccoutnconfirmations.com
 myadstats.com
+myaffiliates.com
 myageverify.com
 myapper-accountcenter.com
 myappieid-appie.com
@@ -5554,6 +5556,7 @@ revalidatelicence.xyz
 revcontent.com
 revealmobile.com
 revenuehits.com
+revenuenetwork.com
 revenuepervisit.com
 reverify-id-apple.com
 reversebaglanti.com
@@ -7248,6 +7251,7 @@ virtualwebdata.com
 visasecureverification.info
 visitor-analytics.io
 visitor-track.com
+visitorqueue.com
 visto1.net
 visualdna.com
 visx.net
@@ -7373,6 +7377,7 @@ webmediavalidation.xyz
 webmon.cfigroup.netdna-cdn.com
 weborama.fr
 weborama.net
+webpartners.co
 webpushr.com
 webreaderz.com
 webresoved-service.com
