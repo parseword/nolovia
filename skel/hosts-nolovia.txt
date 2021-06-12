@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-06-08 22:02:39
+# Generated at 2021-06-11 19:56:02
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1214,6 +1214,7 @@ audienceamplify.com
 audienciad.com
 audioarctic.com
 audtd.com
+aufp.io
 auiviilbp2.com
 aunth-undisable-verification.info
 aurbidpos.com
@@ -6253,6 +6254,8 @@ somberscarecrow.com
 sombersea.com
 sombersquirrel.com
 sombersurprise.com
+sombrero.yahoo.com
+sombrero.yahoo.net
 somelandingpage.com
 somoaudience.com
 songs.linkpc.net
