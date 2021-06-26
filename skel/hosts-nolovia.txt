@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-06-11 19:56:02
+# Generated at 2021-06-25 22:21:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -698,6 +698,7 @@ alluorine.info
 almostmy.com
 aloofmetal.com
 alooma.com
+alpixtrack.com
 already-apple.com
 altervista.org
 altitude-arena.com
@@ -761,6 +762,7 @@ analytics.myfidevs.io
 analytics.newscred.com
 analytics.nextopia.net
 analytics.prd.web1.wipo.int
+analytics.proofapi.com
 analytics.publitas.com
 analytics.roboturk.co
 analytics.rosehosting.com
@@ -770,6 +772,7 @@ analytics.syndeca.com
 analytics.tiktok.com
 analytics.tout.com
 analytics.trovit.com
+analytics.vg
 analytics.video.meredithcorp.io
 analytics.wolfgangs.com
 analytics.worldtable.co
@@ -787,6 +790,7 @@ annoyedfifth.com
 anon-stats.eff.org
 anselbakery.com
 answerscloud.com
+anthill.instapage.com
 antistrophebail.com
 antivirus-scanner.com
 antivirus-upgrade.com
@@ -1272,6 +1276,7 @@ b6roqgi.com
 b84pharkhv.com
 b8y4ddrvap.com
 babyboomboomads.com
+bacon.getcarro.com
 bad-credit-cdn.com
 bad-reqest-344.ru
 badb5refl.com
@@ -1319,6 +1324,7 @@ beacon.dropbox.com
 beacon.lynx.cognitivlabs.com
 beacon.riskified.com
 beacon.searchspring.io
+beacon.tingyun.com
 beacon.v.dropbox.com
 beacon.walmart.com
 beadbears.com
@@ -1876,12 +1882,14 @@ coinzillatag.com
 collect.lngtd.com
 collectandgather.com
 collectiveuk.com
+collector-direct.xhamster.com
 collector.github.com
 collector.githubapp.com
 collector.pi-charter.net
 collector.pi.spectrum.net
 collector.sophi.io
 collector.wbeme.com
+collector.xhamster.com
 colorfulafterthought.com
 colossalchance.com
 colossusssp.com
@@ -2517,6 +2525,7 @@ earthquakescarf.com
 earthycopy.com
 eas-breeziest-in.cloudapp.net
 east2pony.com
+easygdpr.b-cdn.net
 easyplatform.com
 eau-breeziest-in.cloudapp.net
 eawp2ra7.top
@@ -2931,6 +2940,7 @@ gb0rd.com
 gcion.com
 gddomainparking.com
 gdocs.download
+gdpr-app.firebaseapp.com
 ge-stion.com
 gekkopush.com
 gemini.yahoo.com
@@ -3144,6 +3154,7 @@ healthtube.info
 heapanalytics.com
 hear8crew.com
 heat6have.com
+heatmap-events-collector.instapage.com
 heatmap.it
 heavypanda1.xyz
 heavyplayground.com
@@ -3564,6 +3575,7 @@ instagrram.xyz
 installads.net
 instana.io
 instanthq.com
+instapagemetrics.com
 instaverification.xyz
 insticator.com
 instrumentsponge.com
@@ -4238,6 +4250,7 @@ mangement-purchaseappleid-investigation.store
 manzorro.duckdns.org
 map-localisation.me
 map-logs2.com
+mapixl.com
 maplocation.services
 maps--icloud.com
 maps-app.us
@@ -4885,6 +4898,7 @@ organicpanda1.xyz
 oribi.io
 oriel.io
 origin-analytics-prod.production.braintree-api.com
+orinks-prence.com
 ornament-i.com
 orquideassp.com
 osny2p7a0k.com
@@ -5042,6 +5056,7 @@ percalabia.com
 perceivequarter.com
 perf-html.io
 perf-serving.com
+perf.hsforms.com
 perfectmarket.com
 perimeterx.net
 perk0mean.com
@@ -5225,6 +5240,8 @@ protect-appleid.com
 provideplant.com
 provnkfexxw.com
 proxydns.com
+prtrackings.com
+prtrackings.g2afse.com
 ps-webapps.com
 pswec.com
 ptarepjx.com
@@ -6375,6 +6392,7 @@ stats.heyoya.com
 stats.klevu.com
 stats.monohost.com
 stats.rbl.ms
+stats.streamhub.io
 stats.vidalytics.com
 stats.videodelivery.net
 stats.vliplatform.com
@@ -6580,6 +6598,7 @@ t7479e4d.com
 tag.brandcdn.com
 tag.durationmedia.net
 tag.getdrip.com
+tag.lexer.io
 tag.rmp.rakuten.com
 tag.wknd.ai
 tagdeliver.com
@@ -6776,6 +6795,7 @@ track.klickly.com
 track.opossumsauce.com
 track.thesaurus.com
 track.volo-mobile.com
+track.wakelet.com
 track.wayin.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.affirm.com
@@ -6787,6 +6807,7 @@ tracking-sales-pop.carecart.io
 tracking.aegpresents.com
 tracking.api.shoppinggives.com
 tracking.curafen-at.com
+tracking.debrain.cloud
 tracking.friends2follow.com
 tracking.hivecloud.net
 tracking.intelius.com
@@ -6796,6 +6817,7 @@ tracking.marketing
 tracking.nationalfamily.com
 tracking.news.trade-point.co.uk
 tracking.nextdoor.com
+tracking.redfir.net
 tracking.sezzle.com
 tracking.shopstyle.com
 tracking.skyword.com
