@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-06-25 22:21:27
+# Generated at 2021-06-27 11:11:43
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5225,7 +5225,6 @@ pro-market.net
 proads.space
 proclivitysystems.com
 prod-telemetry-us.tradingview.com
-prod.balrog.prod.cloudops.mozgcp.net
 prod.report.nacustomerexperience.citi.com
 products.apps.co.me
 profitrumour.com
