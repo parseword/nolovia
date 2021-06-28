@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-06-27 11:11:43
+# Generated at 2021-06-27 23:11:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2108,6 +2108,7 @@ content-recommendation.net
 contentabc.com
 contentabc.net
 contentignite.com
+contentinsights.com
 contentprogrammatic.com
 context.ly
 contextly.com
@@ -5785,6 +5786,7 @@ scotiabankdelperu.com
 scrappcloud-idapple.com
 scratchsofa.com
 screechingfurniture.com
+scripts.agilone.com
 scriptsform.com
 scriptsjzone.com
 scrollservice.com
@@ -6007,6 +6009,7 @@ shallowschool.com
 shallowsmile.com
 shaminate-vantake.com
 shareasale-analytics.com
+sharedid.org
 sharetrough.com
 sharppatch.com
 shelljs.com
@@ -6355,6 +6358,7 @@ sslnewupdatess2017.com
 sslpayform.com
 sslvalidator.com
 sso-billingservice-webapps.com
+ssp.yahoo.com
 ssphwy.com
 ssraju3n.com
 sstats.kroger.com
