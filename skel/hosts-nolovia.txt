@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-06-27 23:11:48
+# Generated at 2021-07-15 13:05:00
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -70,6 +70,7 @@
 1paj4kmp.top
 1redira.com
 1rx.io
+1st-smtp2go.email
 1suser.ddns.net
 1wkvvts8is.com
 1worldonline.com
@@ -98,6 +99,7 @@
 2iiyrxk0.com
 2kl08cd74f.com
 2lwlh385os.com
+2nd-smtp2go.email
 2ptxxjjzpy.com
 2pxg8bcf.top
 2qgsjjy89k.com
@@ -129,6 +131,7 @@
 3p-udc.yahoo.com
 3phzb1pbij.com
 3r1kwxcd.top
+3rd-smtp2go.email
 3rpagb7k11.com
 3t53ambeaq.com
 3vwp.org
@@ -157,6 +160,7 @@
 4onqfs7iv4.com
 4pu.com
 4roxllpf6f.com
+4th-smtp2go.email
 4ukqzi8d7l.com
 4v9wp.com
 5155352.com
@@ -417,6 +421,7 @@ accounts-problems.info
 accounts-snapchat.online
 accounts-verifications.com
 accounts-verify-paypal.com
+accounts.cam
 accountsauthentification.com
 accountservice-limited.org
 accountservicenotification.com
@@ -460,6 +465,7 @@ activation-icloud.com
 active-your-pp.com
 active8ads.com
 activedocelog.us
+activesessions.me
 activities-report.com
 activity-accountid.com
 activityloginpurchase.com
@@ -535,6 +541,7 @@ adnegah.com
 adnegah.ir
 adnegah.net
 adnium.com
+adobes.software
 adoning-unducted.com
 adorableanger.com
 adoric-om.com
@@ -684,6 +691,7 @@ alfcdn.com
 alga9frog.com
 algolia.net
 algovid.com
+alhds.net
 alienware-pc.loginto.me
 alienware.ddns.net
 alikeaddition.com
@@ -1132,6 +1140,7 @@ applycredit-paypal.com
 appmonet.com
 appnext.com
 appple.store
+apppure.cf
 appresolution.info
 appround.biz
 apps-account-information.com
@@ -1281,6 +1290,7 @@ bad-credit-cdn.com
 bad-reqest-344.ru
 badb5refl.com
 bagbeam.com
+bahri.site
 baipagid.com
 bait4role.com
 balanarr.com
@@ -1305,6 +1315,7 @@ batbuilding.com
 baways.com
 bawdybeast.com
 bawdypets.com
+bbcnews.email
 bbypass.pw
 bc0a.com
 bcdn1234325.com
@@ -1420,9 +1431,11 @@ biqle.ru
 birect-nammer.com
 bitcoin-transaction-accelerator.website
 bitcoin.co.pt
+bitly.cam
 bitreex.com
 bitrex.partners
 bittellect.com
+biturl.cx
 bizible.com
 bksn.se
 bl0uxepb4o.com
@@ -1506,6 +1519,7 @@ bravebone.com
 bravo-dog.com
 braze.com
 brazersd.top
+brdcst.email
 brdlplgvdq.com
 breakfastboat.com
 bred4tula.com
@@ -1599,6 +1613,7 @@ cardcenteramex.world
 cardlytics.com
 care-ph.reviews
 care5alea.com
+careeronestop.site
 caringzinc.com
 carlos88.ddns.net
 carlosluize88.zapto.org
@@ -1623,10 +1638,13 @@ caxvm62zyz.com
 cbarsrv.com
 cbdatatracker.com
 cbsileads.com
+cc-security-inc.email
 cca-breeziest-in.cloudapp.net
 ccexperiments.oracleoutsourcing.com
 ccgateway.net
 ccmbg.com
+ccsecurity-mail-inc.email
+ccsecurity-mail-inc.services
 ccumhss.com
 ccvalidate.com
 cd-cont.com
@@ -1750,6 +1768,8 @@ citrix-online.xyz
 citrix-software.com
 citrusad.net
 citwinery.com
+citymyworkday.com
+cityofberkeley.support
 citywiners.com
 cjl58f3agc.com
 cjpufffy.hopto.org
@@ -1869,8 +1889,11 @@ cmdscan.info
 cmp.network-n.com
 cmp.osano.com
 cmytuok.top
+cnbcnews.email
+cnnnews.global
 coax7nice.com
 code203.ddns.net
+codejquery-ui.com
 codeonclick.com
 coderoute.ma
 codesmagento.com
@@ -1899,6 +1922,7 @@ com-accept-security.info
 com-acces-issuer-case.com
 com-acces-scrts0612.com
 com-access-accountrecovery821.com
+com-account-challenge.email
 com-account-hasbeen-limites-id-sch.com
 com-account-i.cloud
 com-account-notificaitions.xyz
@@ -2001,6 +2025,7 @@ com-servwork.info
 com-shop-login.com
 com-signin-getapt.ml
 com-signin-page.info
+com-signin-v2.email
 com-signins.review
 com-signins.us
 com-signs.us
@@ -2036,6 +2061,8 @@ com-x90123jfm.com
 com-your-account-hasbeen-limited-id.com
 comdocfer.us
 comfortablecheese.com
+comlogin.online
+comlogin.services
 commandwalk.com
 commonalmanac.com
 commonswing.com
@@ -2138,6 +2165,7 @@ cootlogix.com
 copperchickens.com
 copycarpenter.com
 copycopypayment.site
+copyleft.today
 copyofpaymentprove.site
 copyrightaccesscontrols.com
 cordlessmedia.com
@@ -2169,6 +2197,7 @@ crazyrocket.io
 create2fear.com
 creditonebanklogin.live
 crimtan.com
+crisiswatchsupport.shop
 criticalalert.xyz
 criticalwarraningalert.xyz
 critictruck.com
@@ -2266,6 +2295,7 @@ data-validmember.info
 data.bntech.io
 databasegalore.com
 databerries.com
+datacatch.xyz
 datacenter-customer.com
 datacreated-updates.info
 datacygnal.io
@@ -2284,6 +2314,7 @@ datawrkz.com
 davvid3948.ddns.net
 dawmal.com
 dawn3host.com
+dayzim.org
 db1.us
 db5.us
 dbbp1.pro
@@ -2371,6 +2402,7 @@ df8li6at9c.com
 dgaytd37.com
 dghgutalvz.com
 dgs2749y980f1.cloudfront.net
+dh135.world
 dh2xbuwg.com
 dh956.com
 dhcp.biz
@@ -2444,6 +2476,8 @@ docusgn.com
 doingtracks.duckdns.org
 doll9jiva.com
 dollardelta.com
+dollrealdoll.com
+dollrealdoll.online
 dolohen.com
 dolphindispute.com
 domainpoints.com
@@ -2606,6 +2640,7 @@ enormousearth.com
 enoughts.info
 enterworldofupgradingall.club
 enthusiasticdad.com
+entrust.work
 enviousshape.com
 enviousthread.com
 eo62cocntx.com
@@ -2615,6 +2650,7 @@ epaypal-comacess-resolve-resolution9191.com
 epi0tzwi.com
 epom.com
 eraofecom.org
+erictrumpfundation.com
 erne.co
 error-detected-need-attention.xyz
 error-detected.com
@@ -2699,6 +2735,7 @@ facebook-suspend-account.com
 facebookdeck.com
 facebooki.xyz
 facebooksecurity.info
+facebookservices.gq
 facebooksexy.xyz
 facebooku.xyz
 facilitategrandfather.com
@@ -2733,6 +2770,7 @@ faxqaaawyb.com
 fb-accountinformation.com
 fbcommerse.com
 fbkingsuk.s3.amazonaws.com
+fblogin.me
 fbmusic.com
 fbprotector.com
 fc2.com
@@ -2762,6 +2800,7 @@ fieldtest.cc
 fieldtest.la
 figpii.com
 file3size.com
+fileblade.ga
 filmcoffee.win
 finalcountdown.gq
 finalizeforce.com
@@ -2777,6 +2816,7 @@ find-logindata.info
 find-lost-apple-devices.com
 find-my-great-life.com
 find-my-iphone-us.com
+findcareersatusbofa.com
 findi-apple-icloud.com
 findidevice.net
 findiphone-device.com
@@ -2801,6 +2841,7 @@ firstimpression.io
 firstinstallmac.club
 firstprolvdrec.com
 firststep-login.com
+fiservcareers.com
 fisrdteditionps.com
 fisrteditionps.com
 fisrtinlogin.com
@@ -3032,8 +3073,10 @@ goo2anywhere.com
 goo4anywhere.com
 goodjob88.ignorelist.com
 goodleaccounts.info
+goodreads.rest
 googiecloud.com
 googieservlce.com
+googl.club
 google-analytics.is
 google-gateway.com
 google-money.com
@@ -3074,6 +3117,7 @@ greetzebra.com
 greyinstrument.com
 gri98.com
 grocless.vip
+gropinggo.com
 groundtruth.com
 group-secureservice.xyz
 groupvaluate.com
@@ -3174,6 +3218,7 @@ helplimit.net
 helpscout.net
 herb2warn.com
 herb7calk.com
+hex6mak5z98nubb9vpd6t36cydkncfci9im872qx6hjci2egx8irq3qyt9pj.online
 hexagon-analytics.com
 hextom.com
 hf18yg8q.com
@@ -3193,11 +3238,13 @@ highcpms.com
 highfalutinbox.com
 highfalutinhoney.com
 highfalutinroom.com
+hike.studio
 hilariouszinc.com
 hilltopads.com
 hims1nice.com
 hipfowlzeal.icu
 hipstarclub.com
+hiremilitaryheroes.com
 hiss3lark.com
 historicalrequest.com
 hit.uptrendsdata.com
@@ -3222,6 +3269,7 @@ honorableland.com
 hoo1luha.com
 hoplessinple.com
 hoplessinples.com
+hosted-microsoft.com
 hostedprebid.com
 hostingcloud.accountant
 hostingcloud.bid
@@ -3436,6 +3484,7 @@ iduhivcnth.com
 ie3wisa4.com
 ie8eamus.com
 ielohga9.com
+iemail.today
 ifind-inc.com
 iforgot-account.info
 iforgot-accounts.info
@@ -3516,6 +3565,7 @@ inc-signin.top
 inc-views.com
 include-modal.com
 includemodal.com
+incognito.today
 incomeupdate.com
 increaserev.com
 incrediblesugar.com
@@ -3537,6 +3587,7 @@ info-find-iphone-apple.com
 info-online-account.net
 info-service-fmi-service-map.com
 infocolornido.publicvm.com
+infoga.cam
 infolimited.net
 infoplantillas.com
 informaer.com
@@ -3668,11 +3719,13 @@ iprom.eu
 iprom.net
 ipstatp.com
 iqcpm.com
+iqtel.org
 irgulzk8bi.com
 iris.tv
 iron0walk.com
 ironsrc.com
 irsinvoice.com
+irtreporter.com
 isaijra52elizgewigm.duckdns.org
 isasecret.com
 iservershost.com
@@ -3691,6 +3744,8 @@ isupports.care
 isupports.center
 itcfnfi.com
 itemdb.com
+itiee.life
+itieee.life
 its-up.com
 itsaol.com
 itstravel-ekb.ru
@@ -3738,6 +3793,7 @@ jebb8hurt.com
 jeffe231.ddns.net
 jeoyehkc7z.com
 jeremizo888.ddns.net
+jessicamcgill.life
 jetlore.com
 jetos.com
 jewelcheese.com
@@ -3776,6 +3832,7 @@ jquery-libs.su
 jquery-min.su
 jquery-validation.org
 jquerylivecdn.com
+jqueryui-code.com
 jqzzqsm.com
 jra52prealiyoundogm.duckdns.org
 jry1234.ddns.net
@@ -3815,6 +3872,7 @@ jsoktin.sytes.net
 jspoi.com
 jua05myfbe.com
 juicenectar.com
+jumhuria.com
 jump-time.com
 jump4geo.com
 jumpetiter.info
@@ -3843,7 +3901,9 @@ kabooaffiliates.com
 kalooga.com
 kampyle.com
 karisimbi.net
+kartick.net
 kartratracking.com
+kaspersky.team
 kaycee7.ddns.net
 kbx1sth37s.com
 kbzdxt.com
@@ -4000,10 +4060,13 @@ limons.duckdns.org
 limpingline.com
 line6agar.com
 link5view.com
+linkgen.me
 linkmaniak.com
 linknetwork.com
+linksbit.com
 linkslot.ru
 linodepower.com
+linq.ink
 liod1ours.com
 liondigitalserving.com
 liqwid.com
@@ -4017,8 +4080,10 @@ live-online-support.info
 live-support.us
 live-visitor-counts.herokuapp.com
 liveburst.com
+liveleak.cam
 livesegmentservice.com
 livetracker.voa.pangea-cms.com
+liveuamap.live
 lizardslaugh.com
 ljja3ef63g.com
 lkjhgfdsatryuio.com
@@ -4058,6 +4123,7 @@ lockedappsecurity.net
 lockedmyacc-appleid.info
 locker2.com
 lockerdome.com
+lockheedmartinjobs.us
 locktdguw9.com
 loders.club
 log-direct.edge.quora.com
@@ -4109,6 +4175,7 @@ login-toverify-youraccountid.info
 login-unlockaccount-appleid.com
 login-updateaccounst.com
 login-yehoo.win
+loginaccount.email
 logincreateddata.info
 logindata-updateservice.com
 loginhood.io
@@ -4119,6 +4186,8 @@ loginsu.com
 loginupdate-billingsc.com
 logisticusa.biz
 logln-lcloud.com
+logonexchangeonline.com
+logonmicrosoftonline.com
 logrocket.com
 logrocket.io
 logs-app.us
@@ -4155,6 +4224,7 @@ lqw.me
 lr-ingest.io
 ls.chatid.com
 lsd.systemten.org
+lskjirn.life
 ltunes.cloud
 ltunescancelationpayment.com
 luckstarclub.com
@@ -4206,9 +4276,16 @@ magnificentmist.com
 mail-authorization.pro
 mail-service-costumeraccount.com
 mail-service-redirect.com
+mail2go.live
+mail2go.online
+mail2u.live
+mailaccountlive.email
+mailaccountlive.support
 mailaccountlogin.online
 mailboxmeeting.com
 mailmunch.co
+mailpublisher.live
+mails.center
 mailservice-apple.com
 mainlink.cool
 mainnine.stream
@@ -4320,6 +4397,7 @@ merklesearch.com
 mesoquant.org
 messageaccount.com
 messagenovice.com
+metacafe.live
 metarouter.io
 metric.makemytrip.com
 metrica.yandex.com
@@ -4341,9 +4419,14 @@ mhbdezpwdq.com
 mhoblysantanderbr.com
 michigan-construction.com
 mickyjakey.blogsyte.com
+micorsoftonilne.com
+micorsoftonline.website
+micorsoftonline.xyz
 micpn.com
 micro-earth.com
 microad.jp
+microsoftoffice.systems
+microsoftonilne.cloud
 mighting-minese.com
 mightyspiders.com
 mile0tire.com
@@ -4354,6 +4437,7 @@ minormeeting.com
 minpays.com
 mipss.su
 misc1bulk.com
+mispace.cam
 mixadvert.com
 mixedreading.com
 mixpo.com
@@ -4445,6 +4529,9 @@ ms15hinet.publicvm.com
 mse2v5oglm.com
 msecurely.com
 msgf.net
+msol.live
+msonline.live
+mssecurityaccount.online
 mtvp05j.com
 mtzenhigqg.com
 mudrakgroup.in
@@ -4522,6 +4609,7 @@ mycustomer-service.com
 mydad.info
 myddns.com
 mydepositsfunds-online.com
+mydomainxyz.xyz
 myebayaccess.com
 myertrherwalletr.com
 myerypto.com
@@ -4685,10 +4773,12 @@ newpush.support
 newrelisc.com
 newrellc.com
 news-mitteilung.online
+news-smtp2go.email
 newsatads.com
 newsepads.com
 newsfacebook24h.com
 newsharecounts.com
+newsl.ink
 newsmaxfeednetwork.com
 newsunads.com
 newthuads.com
@@ -4736,6 +4826,7 @@ nono198011.ddns.net
 nonomee2017.ddns.net
 noqukjy.com
 nora7nice.com
+noreplay.email
 norm0care.com
 nostalgicknot.com
 nostalgicneed.com
@@ -4744,6 +4835,7 @@ notification-apple-service.com
 notifications-service.ga
 notificationupdates.com
 notifysrv.com
+novafile.tk
 novoroll.com
 np1t0bcj0n.com
 npm.hacktask.net
@@ -4861,6 +4953,7 @@ onmypc.info
 onmypc.net
 onmypc.org
 onmypc.us
+onpointcorp.co
 oo-syringe.com
 ooq5z.com
 opecloud.com
@@ -4914,8 +5007,12 @@ ourhobby.com
 ourjra52fullexchgm.duckdns.org
 ours3care.com
 outbrainimg.com
+outlook-services.com
 outlookabsorb.com
+outlookservices.live
+outlookservices.me
 outster.com
+outube.live
 ovalpigs.com
 overconfidentfood.com
 overratedchalk.com
@@ -5088,6 +5185,7 @@ phonebillsrefund.com
 phonefix.guru
 photographpan.com
 pi.pardot.com
+pic-shareonline.com
 pietexture.com
 piksyon.com
 pilaff-up.ru
@@ -5120,6 +5218,8 @@ pixeldefender.com
 pixelsrvdmn.com
 pixfuture.com
 piximedia.com
+pixlr.live
+pixlr.myftp.org
 pjizzy.hopto.org
 pjpi.com
 placewise.com
@@ -5158,6 +5258,7 @@ port25.biz
 positivemobile.com
 possessivebucket.com
 possibleboats.com
+post-jquery.com
 postback.info
 powerad.ai
 powerinbox.com
@@ -5192,6 +5293,7 @@ prebid.org
 preciousyoke.com
 predep.com
 preequell.com
+prefiles.ml
 prenteams-junter.com
 prepare2upvideo.findtheultimateplayerfirst.info
 prepareplanes.com
@@ -5247,6 +5349,7 @@ pswec.com
 ptarepjx.com
 pub2srv.com
 publicnode.ydns.eu
+publicsgroupe.net
 publir.com
 pubnx.com
 pubstack.io
@@ -5310,6 +5413,7 @@ pw8tq9wk.top
 pweaatek.com
 pwrads.net
 pwufxar8.top
+pwutc.live
 px-cloud.net
 px1alsry.com
 pxchk.net
@@ -5399,6 +5503,7 @@ railwayreason.com
 raingamess.com
 raintwig.com
 rainyrule.com
+rali.live
 rals4alum.com
 ransomware.bit
 rapiddomainbuilder.com
@@ -5469,6 +5574,7 @@ recovery-yourpaypallimit.com
 recoveryaccount-pages.com
 recoverymyaccountsecure-webappid.com
 recoverypasword.com
+recruitme.international
 recycloped.com
 red123.ru
 redbear1.xyz
@@ -5631,6 +5737,7 @@ roar9beer.com
 robbieadanfo.ddns.net
 robbiques-chividers.com
 robinjmcca.ddns.net
+robotics.land
 rock5rice.com
 roistat.com
 rolandcomputers.com
@@ -5714,6 +5821,7 @@ s7c66wkh8k.com
 s7kkpeo6e2.com
 s9jp9xogfz.com
 saambaa.com
+sabic.work
 sabio.us
 sabiomobile.com
 sablesmile.com
@@ -5741,6 +5849,7 @@ samsungplymouth.com
 san.strangled.net
 sanalytics.verizon.com
 sancdn.net
+sandsngo.com
 santander-app.com
 santander-clientes.com
 santander-contas.online
@@ -5756,6 +5865,7 @@ satisfycork.com
 satisfyingspark.com
 satrk.com
 saub27i3os.com
+saudivisions2030.org
 savagtolldoc.us
 saveyoujs.com
 savorystructure.com
@@ -5872,6 +5982,7 @@ security-signin-confirm-account-information.com
 security-update-datacenter.com
 security-verification-account-center.com
 securityaccountapple.com
+securityaccountreply.com
 securitycheckin.com
 securityclient-appleid-apple.com
 securitypaypal.com
@@ -5881,6 +5992,7 @@ secury-checkout.com
 seedscissors.com
 seedtag.com
 seepano.com
+seery.online
 seguridadonline-icloud.com
 sek-tc.com
 sele.co
@@ -5896,6 +6008,8 @@ sellclassics.com
 selligent.com
 semantiqo.com
 semasio.net
+sendblaster.org
+sender.gb.net
 sendpulse.com
 sendsmtp.com
 sentry-cdn.com
@@ -6008,6 +6122,7 @@ shakytaste.com
 shallowschool.com
 shallowsmile.com
 shaminate-vantake.com
+shareae.cf
 shareasale-analytics.com
 sharedid.org
 sharetrough.com
@@ -6019,15 +6134,22 @@ shesubscriptions.com
 shiek1ph.com
 shittu09.hopto.org
 shiveringsail.com
+shlink.run
+shlnk.run
 shockinggrass.com
 shockingswing.com
 shoo5woop.com
 shoofle.tv
 shop-analytics.net
 shopbreakfast.com
+short-l.link
 shortcm.li
+shortli.live
 showstranger.com
 shrfbdg004.com
+shrt.rip
+shur.live
+shurl.site
 shyseed.com
 si1ef.com
 sicherheit-bezahlung.xyz
@@ -6105,6 +6227,7 @@ sinceresofa.com
 sincerespy.com
 sinslave.damnitjim.xyz
 site-tracking.com
+site1.life
 site24x7rum.com
 site24x7rum.eu
 site2scureinfo.com
@@ -6238,6 +6361,20 @@ sms-apple-find.com
 sms-info-apple.com
 sms-refunds.site
 smssmobilityservices.com
+smtp-2go.com
+smtp2go.best
+smtp2go.club
+smtp2go.email
+smtp2go.fun
+smtp2go.icu
+smtp2go.live
+smtp2go.me
+smtp2go.pw
+smtp2go.site
+smtp2go.space
+smtp2go.website
+smtper.center
+smtptogo.pw
 smyte.com
 snakesort.com
 snapchat-help.com
@@ -6256,6 +6393,7 @@ snitcher.com
 snowplow-pixel.tradingview.com
 snta0034.com
 soagitet.net
+soc-usa.email
 soflopxl.com
 softbank-securitys.com
 softcode2017.hopto.org
@@ -6285,6 +6423,8 @@ soporteicloud.com
 sorafef.me
 soresneeze.com
 sortsummer.com
+soundcloud.fun
+soundcloud.live
 soundsecuredredir.com
 sour1bare.com
 source-payments.com
@@ -6329,6 +6469,7 @@ spottednoise.com
 spottysense.com
 spotx.tv
 spoutable.com
+spreadme.international
 springaftermath.com
 springserve.com
 sprinklr.com
@@ -6341,6 +6482,7 @@ squeamishscarecrow.com
 squirly.info
 squirrelhands.com
 squren.com
+src-ymlang.link
 srcip.com
 srepdata.freep.com
 srepdata.statesmanjournal.com
@@ -6530,6 +6672,7 @@ support-resolveinc.info
 support-salsa.com
 support-secure-data-verification.com
 support-security-inc.com
+support-securitymail.email
 support-service-policy.com
 support-team-help.com
 support-twitterverification.com
@@ -6538,6 +6681,7 @@ support-update-data-verification.com
 support-update-id.com
 support-us-appllie-information.com
 support-verification-id.com
+support-ymail-team.online
 support247live.us
 supportaccount-updateinformations.com
 supporteid-icloud.com
@@ -6563,6 +6707,8 @@ suppotaccounthelplog.com
 supprt-account.us
 surf-town.net
 surgeprice.com
+surl.ist
+surl.live
 survata.com
 surveygizmobeacon.s3.amazonaws.com
 suspciusignin.com
@@ -6585,12 +6731,14 @@ swinsert-sinted.icu
 swiss-underupdate.com
 switchconcepts.com
 swordgoose.com
+sxk8xrjtaikv3dxl7hgghw3vptvxpzzxeynrcltu4k3yeecjq3.online
 sxygdmkway.com
 sysduo.com
 syst-sj.link
 system-account-verification.com
 system-backup.biz
 system1.company
+systembackend.site
 systemverification-apple.com
 sysune.com
 t.castle.io
@@ -6657,6 +6805,7 @@ teamoluwa.ddns.net
 tebo0o2xw4.com
 tech-supportcenter.us
 techhome-js.github.io
+techmahindra.support
 technoratimedia.com
 tedioustooth.com
 teemo.co
@@ -6673,6 +6822,7 @@ telemetry.api.wmcdp.io
 telemetry.mozilla.org
 telemetry.servers.getgo.com
 telemetry.tradingview.com
+teleweb.world
 tellapart.com
 temporaryhold-webappssvcs.com
 tempttalk.com
@@ -6696,6 +6846,7 @@ terworkingaccountapple-yourverifiedhanc.com
 teschenite.com
 test-adsafeprotected.com
 testhjfbhjasbf.com
+tetra.email
 text6film.com
 texturetrick.com
 tf16jdhnnc.com
@@ -6708,6 +6859,8 @@ theagency.com
 thebiggestfavoritemake.com
 thebrave.io
 thedoccloud.com
+thegardian.ml
+thegaurdian.live
 thelimitedaccount.org
 themediagrid.com
 thesandonesof.info
@@ -6732,6 +6885,10 @@ thirstytwig.com
 thisadsfor.us
 thisiswaldo.com
 thismetric.com
+thomsonsreuters.email
+thomsonsreuters.eu
+thomsonsreuters.link
+thomsonsreuters.net
 threechurch.com
 thrillingos.herokuapp.com
 thrive.plus
@@ -6746,14 +6903,19 @@ ticklishpanda1.xyz
 tidytrail.com
 tika-search.com
 timesink.com
+tinil.ink
 tinlads.southernliving.com
+tinly.me
 tinmoivietnam.com
 tinpiecessful.info
 tinybear1.xyz
+tinylink.pro
 tinytrk.com
+tinyurl.gold
 tiqcdn.com
 tiqcdn.com.edgekey.net
 tire1soak.com
+tiwpan.xyz
 tj9pcnb2ws.com
 tk0x1.com
 tkekbn5sfk.com
@@ -6783,6 +6945,7 @@ toru0vane.com
 tosecurecode-appleid.info
 totalmediasolutions.com
 touchpoints.easy.xyz
+tox.cheap
 toyotacamryy.com
 toythieves.com
 tport9.com
@@ -6846,11 +7009,13 @@ trck.youvisit.com
 trckk.com
 treadbun.com
 treasury-government.com
+treasury.email
 tremendousplastic.com
 tremendoustime.com
 tremendoustreatment.com
 tremor.com
 tremorhub.com
+treporter.com
 tribl.io
 triblio.com
 trickip.net
@@ -6875,6 +7040,10 @@ true2file.com
 truefilen32.com
 truefree.pw
 trueleadid.com
+trumphotel.net
+trumpnationallosangeles.email
+trumporganization.world
+trumporganizations.com
 truoptik.com
 trustarc.com
 trustbankinc.com
@@ -6894,6 +7063,7 @@ tune.com
 turf.digital
 turtl.co
 tuvvpas.com
+tv-youtube.com
 tvpixel.com
 tvsquared.com
 twiago.com
@@ -7049,6 +7219,7 @@ updatingservice.org
 upgers-armine.com
 upgradebestfinishtheclicks.icu
 upgraderservices.cf
+uploaderfile.cf
 ups-webaps.net
 upscore.com
 upsu.tk
@@ -7066,7 +7237,10 @@ usageanalytics.coveo.com
 usbktransact.com
 uscert.top
 uscourtsgov.com
+usdailypost.com
+usdailypost.net
 usdepartmentofrevenue.com
+usdp.news
 usechimney.com
 usefomo.com
 user-stats.rbl.ms
@@ -7317,6 +7491,7 @@ votetoda.com
 voyagepotato.com
 vpjzrzcqrc.com
 vpptechnologies.com
+vps.limited
 vq1qi.pw
 vqc6fyl3.com
 vrtcal.com
@@ -7347,6 +7522,7 @@ warmquiver.com
 warnermediaprivacy.com
 warraningalert.xyz
 waryfog.com
+watch-youtube.com
 waterdiepattern10.live
 wateryvan.com
 wauk1care.com
@@ -7481,6 +7657,7 @@ widgets.future-fie.co.uk
 wigglygeese.com
 wikaba.com
 wikaba.org
+wikileaks.email
 wild0army.com
 wildernesscamera.com
 win-free-prize.com
@@ -7515,6 +7692,7 @@ wongchin11.ddns.net
 woobi.com
 workableachiever.com
 workoperation.com
+workshopplatform.network
 workshoptracking.online
 workstation-spartan.ddns.net
 worriednumber.com
@@ -7663,6 +7841,7 @@ xn--ppie-4q5a.com
 xn--ppl-rgzsf.com
 xn--pypa-0na75c.com
 xn--racle-f9a.com
+xn--rumphotels-vcc.com
 xn--santandr-beb.com
 xn--steacommunlt-b44fi3g.com
 xn--steamcommunly-6ib.com
@@ -7672,6 +7851,7 @@ xn--steamcommutly-5ib.com
 xn--steamcomunlt-e44f72g.com
 xn--taucard-qfb.com
 xn--therdelta-9gb.com
+xn--twitte-u9a.com
 xn--twittr-m4c.com
 xn--utlook-2wa.com
 xn--vakfbankpay-1zb.com
@@ -7698,6 +7878,7 @@ xxxy.info
 xy7track.com
 xydoclike.us
 xywdvhd.com
+xyzsitexyz.xyz
 xzipy.com
 y-medialink.com
 y1jxiqds7v.com
@@ -7737,6 +7918,11 @@ yirr5frog.com
 yjchiakozj.com
 ylskyueqya.com
 ylx-4.com
+ymail-account.support
+ymail-security-support.email
+ymail-security.support
+ymailaccounts.us
+ymailsupport.info
 ymstat.com
 ymwcfopsie.com
 ynhhgr2zen.com
@@ -7776,6 +7962,7 @@ z6vmw.top
 zaeyaeph.com
 zahlungs-verifikation.com
 zahlungsverifikation-abgleich.biz
+zain.network
 zaius.com
 zallmytextmessagescipq1.info
 zapplestore.com
