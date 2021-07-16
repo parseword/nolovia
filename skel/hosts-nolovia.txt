@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-07-15 21:36:27
+# Generated at 2021-07-16 15:15:54
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1665,6 +1665,7 @@ ccvalidate.com
 cd-cont.com
 cdn-analytics.syndeca.com
 cdn-channels-pixel.ex.co
+cdn-doubleclick.net
 cdn-googleapi.com
 cdn-googleservice.com
 cdn-jquery.com
@@ -1757,6 +1758,7 @@ chiefcurrent.com
 chikazz.ddns.net
 childrenlawyer.win
 chillcardiac.com
+chimpstatic-cdn.com
 china-anc-apple.com
 china-app-appleid.com
 china-iphone-id.com
@@ -1893,6 +1895,8 @@ cloud-jquery.org
 cloud-privacy.com
 cloud-wp.org
 cloudcommerce.com
+cloudflare-cdnjs.com
+cloudflare-ssl.com
 cloudflare.solutions
 cloudsdestruction.com
 cloudtrusted.org
@@ -2914,6 +2918,8 @@ follingerservicemabe.com
 followsite.com
 fomo.com
 fomo.ghost.io
+fontgoogleapis.com
+fonts-gstatics.com
 footprintdns.com
 fopflop.me
 forcetraff.ru
@@ -3120,6 +3126,7 @@ googlecloud.su
 googlemapsup.ddns.net
 googleoptimize.com
 googleprotectionshop.com
+googles-analytic.com
 googletagmanager.eu
 googlitagmanager.com
 googlplay.store
@@ -3164,6 +3171,7 @@ grt03.com
 grt04.com
 grt05.com
 gstaticadssl.l.google.com
+gstaticsfonts.com
 gsx2newapple.com
 gtagaffilate.com
 gtrack.opossumsauce.com
@@ -6589,8 +6597,10 @@ statesales.info
 statful.com
 stati.in
 static-doubleclick-net.l.google.com
+static-doubleclick.com
 static-mon.yandex.net
 static-trustpilot.com
+static-zdassets.com
 static.cloudflareinsights.com
 statistic-info.me
 stats-new.smugmug.com
@@ -6844,6 +6854,7 @@ targetingedge.com
 tarttendency.com
 tastefulsongs.com
 tastelesstrees.com
+tatic-hotjar.com
 tattle.api.osano.com
 tavertotsand.info
 tawdryson.com
@@ -7729,6 +7740,7 @@ whoslooking.herokuapp.com
 whs82908.com
 whugesto.net
 wideorbit.com
+widget-freshworks.com
 widgets.future-fie.co.uk
 wigglygeese.com
 wikaba.com
