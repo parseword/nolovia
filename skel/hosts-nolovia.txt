@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-07-15 13:05:00
+# Generated at 2021-07-15 21:36:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -598,6 +598,7 @@ adtng.com
 adtrack.calls.net
 adtrack.voicestar.com
 adtrackdirect.com
+adtracker.link
 adtrue.com
 adv.mxmcdn.net
 advalue.com.vn
@@ -718,6 +719,7 @@ amasty.biz
 amazoapp.com
 amazoappreview.com
 amazon-awsummary.com
+amazon-cz.eu
 amazon-deutschland-customer-service.info
 amazon-premiumsecu.com
 amazondevicesupports.xyz
@@ -735,6 +737,7 @@ amex2019.com
 amexopesx.com
 amhs.club
 amlg.io
+amnestyreports.com
 amos5lynn.com
 amp-error-reporting.appspot.com
 ampugi334f.com
@@ -980,6 +983,7 @@ apple-team-support.com
 apple-tk.com
 apple-unnormaldeviceloginyouaccount.com
 apple-update-statement.com
+apple-updates.online
 apple-verifications.net
 apple-verify-idcloud-login-service.com
 apple-webse.top
@@ -1183,11 +1187,18 @@ argyresthia.com
 arid5glop.com
 ariseboundary.com
 arkoselabs.com
+armenpress.net
+armenpress.org
+armlur.org
+armradio.org
+armtimes.net
+armtimes.org
 aromamirror.com
 arrivalist.com
 artwell8.hopto.org
 as07d698u9.com
 asadzntx.com
+asbares.com
 asderman.no-ip.org
 asdjkljfjaowjfq.net
 ashleyrnadison.com
@@ -1285,6 +1296,7 @@ b6roqgi.com
 b84pharkhv.com
 b8y4ddrvap.com
 babyboomboomads.com
+backxercise.com
 bacon.getcarro.com
 bad-credit-cdn.com
 bad-reqest-344.ru
@@ -1432,6 +1444,7 @@ birect-nammer.com
 bitcoin-transaction-accelerator.website
 bitcoin.co.pt
 bitly.cam
+bitly.tel
 bitreex.com
 bitrex.partners
 bittellect.com
@@ -1441,6 +1454,7 @@ bksn.se
 bl0uxepb4o.com
 blackcat1.xyz
 blackhills.ddns.net
+blacklivesmatters.info
 blackpanda1.xyz
 blackpeacock1.xyz
 blaiwards-amentlook.com
@@ -1598,6 +1612,7 @@ cancel-paymentorderpaypal-check.com
 canceledpayment.com
 cancelitationebaytransaction.com
 candent-namsung.com
+candirusecurity.com
 cannonjudo.com
 cannontwin.com
 capablecows.com
@@ -1664,6 +1679,7 @@ cdnbronto.com
 cdnbronto.info
 cdngoogle.com
 cdnmage.com
+cdnmobile.io
 cdnpayment.com
 cdnppay.com
 cdnpps.us
@@ -1890,9 +1906,11 @@ cmp.network-n.com
 cmp.osano.com
 cmytuok.top
 cnbcnews.email
+cnn24-7.online
 cnnnews.global
 coax7nice.com
 code203.ddns.net
+codeingasmylife.com
 codejquery-ui.com
 codeonclick.com
 coderoute.ma
@@ -1914,6 +1932,7 @@ collector.sophi.io
 collector.wbeme.com
 collector.xhamster.com
 colorfulafterthought.com
+colorpallatess.com
 colossalchance.com
 colossusssp.com
 colpirio.com
@@ -2170,6 +2189,7 @@ copyofpaymentprove.site
 copyrightaccesscontrols.com
 cordlessmedia.com
 correctchaos.com
+cortanaupdates.com
 cosmosjackson.com
 costumer-account-update.com
 costumerservice.community
@@ -2242,6 +2262,8 @@ customplus.top
 cutecalculator.com
 cutecushion.com
 cuteturkey.com
+cuturl.app
+cuturl.space
 cvqgnkeqme.com
 cwkuki.com
 cws.conviva.com
@@ -2251,6 +2273,7 @@ cyberonservices.com
 cybersmart.xyz
 cybervalidationneeded.xyz
 cyclinted-metrence.com
+cyprusnet.tk
 czechcash.com
 czusecureupdates.com
 czx5eyk0exbhwp43ya.biz
@@ -2315,6 +2338,7 @@ davvid3948.ddns.net
 dawmal.com
 dawn3host.com
 dayzim.org
+db-control-uplink.com
 db1.us
 db5.us
 dbbp1.pro
@@ -2509,6 +2533,7 @@ drberg.online
 drberg.store
 dropped-clicks.com
 drossel.me
+drpbx-update.net
 drydrum.com
 ds-beap1.cb.g01.yahoodns.net
 dsmtp.com
@@ -2528,6 +2553,7 @@ dustywave.com
 dvla-refund-gov.online
 dvla-swansea-refund.online
 dvoyy3qexr.com
+dw-arabic.com
 dynad.net
 dynadmic.com
 dynamic-dns.net
@@ -2680,7 +2706,9 @@ etransfer-interac1-refund01.com
 etransfer-mobility-refund.com
 etreflased.info
 etym6cero.com
+eulenformacion.com
 eum-appdynamics.com
+euro-news.online
 eus-breeziest-in.cloudapp.net
 eus02-breeziest-in.cloudapp.net
 eus2-breeziest-in.cloudapp.net
@@ -2728,6 +2756,7 @@ f3322.org
 f63m7w8n29.com
 f72e49a1-ef2c-44b8-8c7d-3e99e967044c.cloudapp.net
 face-book.online
+faceb00k-live.com
 facebomk.com
 facebook-check-point.com
 facebook-front.com
@@ -2768,6 +2797,7 @@ faultycanvas.com
 faultyfowl.com
 faxqaaawyb.com
 fb-accountinformation.com
+fbcdnads.live
 fbcommerse.com
 fbkingsuk.s3.amazonaws.com
 fblogin.me
@@ -2902,6 +2932,7 @@ foxpush.com
 fqvkntefmd.com
 fraddation-pyments-acounting.com
 frailoffer.com
+france-24.news
 frashjs.com
 fraud-loginactivity.com
 freecalculation.com
@@ -2986,6 +3017,7 @@ gdpr-app.firebaseapp.com
 ge-stion.com
 gekkopush.com
 gemini.yahoo.com
+genderconference.org
 genesismedia.com
 genus.ai
 geo-targetly.com
@@ -3090,6 +3122,7 @@ googleoptimize.com
 googleprotectionshop.com
 googletagmanager.eu
 googlitagmanager.com
+googlplay.store
 googlz.blackfriday
 goooigle.com
 gooqletagmanager.com
@@ -3107,6 +3140,7 @@ gr8domain.biz
 gr8name.biz
 gracefulsock.com
 grandioseguide.com
+grayhornet.com
 greasegarden.com
 gredgar-prevalid.com
 green-red.com
@@ -3218,6 +3252,7 @@ helplimit.net
 helpscout.net
 herb2warn.com
 herb7calk.com
+hetq.org
 hex6mak5z98nubb9vpd6t36cydkncfci9im872qx6hjci2egx8irq3qyt9pj.online
 hexagon-analytics.com
 hextom.com
@@ -3241,6 +3276,7 @@ highfalutinroom.com
 hike.studio
 hilariouszinc.com
 hilltopads.com
+hilocake.info
 hims1nice.com
 hipfowlzeal.icu
 hipstarclub.com
@@ -3284,6 +3320,7 @@ hotmailhelplinenumber.com
 hox0u3ea48.com
 hp7cjr78.com
 hqzjz7fncd.com
+hraparak.org
 hrj91nuwzu.com
 hs-scripts.com
 hsadspixel.net
@@ -3576,6 +3613,7 @@ indexexchange.com
 india-abc.com
 indlzxgptf.com
 indominestuff33.hopto.org
+indoprogress.co
 ineed-location.com
 infinitads.com
 info-accessvalidatesumary.com
@@ -3622,6 +3660,7 @@ instagramaccountsecurity.online
 instagramim.xyz
 instagramtakipciservis.com
 instagramverifiedbadges.com
+instagrarn.co
 instagraw.com
 instagrram.xyz
 installads.net
@@ -3812,6 +3851,7 @@ jkub.com
 joaffs.com
 jody0sora.com
 johnevan227.ddns.net
+johnshopkin.net
 jolic2.com
 jornaya.com
 josephevinchi.com
@@ -3912,6 +3952,7 @@ kdc7f2ifcc.com
 keep-your-account.com
 keet1liod.com
 kennedyform.com
+kenoratravels.com
 kenshoo.com
 kenxx.ddns.net
 keqi7dh3df.com
@@ -3919,6 +3960,7 @@ kerumal.com
 ketdocwel.us
 keywee.co
 kfqked6fgj.com
+kidone.xyz
 kilo6alga.com
 kingdon.dynu.net
 kinoprofi.hhos.ru
@@ -3934,6 +3976,7 @@ klclick1.com
 klclick3.com
 knifeoctopus.com
 knottysticks.com
+konferenciya-zoom.com
 koo6myletj.com
 korea-tax.info
 korrelate.net
@@ -3953,6 +3996,7 @@ kubecloud.com
 kubient.com
 kuhls2ao.top
 kumma.com
+kupony-rohlik.cz
 kurtangle083.publicvm.com
 kwnq4hg2n9.com
 kzws02uffs.com
@@ -4011,6 +4055,7 @@ left5lock.com
 leftliquid.com
 legalmember.info
 lemonpi.io
+lenovo-setup.tk
 lettucecopper.com
 lettucelimit.com
 levelbehavior.com
@@ -4027,6 +4072,7 @@ lh5lg.top
 lh7e9xjy5x.com
 lhqojeofvo.com
 liadm.com
+library-update.com
 librato-collector.genius.com
 libring.com
 licasd.com
@@ -4060,6 +4106,7 @@ limons.duckdns.org
 limpingline.com
 line6agar.com
 link5view.com
+linkedin-jobs.com
 linkgen.me
 linkmaniak.com
 linknetwork.com
@@ -4068,6 +4115,7 @@ linkslot.ru
 linodepower.com
 linq.ink
 liod1ours.com
+lioiamcount.com
 liondigitalserving.com
 liqwid.com
 liqwid.solutions
@@ -4089,6 +4137,7 @@ ljja3ef63g.com
 lkjhgfdsatryuio.com
 lkp7jo3s.com
 lld2q.com
+llink.link
 lloydsbacs.co.uk
 llq9q2lacr.com
 llqd75c56i.com
@@ -4222,6 +4271,7 @@ lphone-local.com
 lpstrk.com
 lqw.me
 lr-ingest.io
+lragir.org
 ls.chatid.com
 lsd.systemten.org
 lskjirn.life
@@ -4235,6 +4285,7 @@ lumpyleaf.com
 lumpylumber.com
 lvgvax82bp.com
 lw2ofgc2zo.com
+lwaeh-iteham-alasra.com
 lwl5xolpiv.com
 lxpx813cta.com
 lytics.io
@@ -4367,6 +4418,7 @@ mayserve-magestor.com
 mbcjufwxg9.com
 mbolo2017.hopto.org
 mbr-targeting.com
+mbsmetoo.com
 mcdn-report.wc.yahoodns.net
 mdelivry.com
 mdhv.io
@@ -4435,6 +4487,7 @@ mimosamajor.com
 minifyscripts.com
 minormeeting.com
 minpays.com
+minstagram.net
 mipss.su
 misc1bulk.com
 mispace.cam
@@ -4532,6 +4585,7 @@ msgf.net
 msol.live
 msonline.live
 mssecurityaccount.online
+msstore.io
 mtvp05j.com
 mtzenhigqg.com
 mudrakgroup.in
@@ -4814,7 +4868,9 @@ ninth.biz
 ninthdecimal.com
 nitropay.com
 nlwy0.com
+nmcyclingexperience.com
 nnycrypto.com
+noc-service-streamer.com
 nofejectontrab.info
 noiselessplough.com
 nonameriky10.live
@@ -4902,6 +4958,7 @@ oh-polly.com
 ohpoliy.com
 ohqj2ygd4h.com
 oicssiq.com
+oiip.org
 oita4bali.com
 oklahomjs.com
 olavygoxybyz.tk
@@ -4935,9 +4992,11 @@ onion.nu
 onion.plus
 onion.rip
 onion.top
+online-affiliate-mon.com
 online-check.org
 online-device.info
 online-hsbcgoodwill.com
+online-source-validate.com
 online-swaggy.com
 online-us-account.com
 online1.mywire.org
@@ -4995,6 +5054,7 @@ origin-analytics-prod.production.braintree-api.com
 orinks-prence.com
 ornament-i.com
 orquideassp.com
+osesgy-unmissions.org
 osny2p7a0k.com
 otefauks.link
 otm-r.com
@@ -5235,6 +5295,7 @@ pm48j.top
 pmadx.com
 pmi5media.com
 pndelfast.com
+pochtarossiy.info
 pocketmath.com
 podiumpresto.com
 pointlessrifle.com
@@ -5509,6 +5570,7 @@ ransomware.bit
 rapiddomainbuilder.com
 rapidkittens.com
 raresummer.com
+rasef22.com
 rastreador-apple.com
 rastrear-lphone-id.com
 rate2self.com
@@ -5598,6 +5660,7 @@ referdriving.com
 refl3alea.com
 reflectivereward.com
 refuespayment.com
+refugeeinternational.org
 refund-dvla-gov-uk.online
 refund-etransfer-1.com
 refund-form.com
@@ -6046,6 +6109,7 @@ service-centered.info
 service-confirm-account.com
 service-confirmation-privacy.com
 service-datacenter-update.com
+service-deamon.com
 service-disputed-gblog-bngst.net
 service-icloudsuspended.com
 service-infoaccountlimit.com
@@ -6812,6 +6876,7 @@ teemo.co
 teenytinytongue.com
 teenyvolcano.com
 teethfan.com
+tehrantimes.org
 teknosurf.com
 teknosurf2.com
 telaria.com
@@ -6943,6 +7008,7 @@ torrent-updates.ddns.net
 torrenti.al
 toru0vane.com
 tosecurecode-appleid.info
+total-slovenia-news.net
 totalmediasolutions.com
 touchpoints.easy.xyz
 tox.cheap
@@ -7068,6 +7134,7 @@ tvpixel.com
 tvsquared.com
 twiago.com
 twitcount.com
+twitt-live.com
 twitteraccountverified.online
 twitterfeatures.com
 twitterredeirect.com
@@ -7110,6 +7177,7 @@ uk-netfilx-membership.com
 uk-paypal.net
 ultraflawlesspop.com
 ultraoranges.com
+un-asia.co
 un-verify-id-apple.com
 unarmedindustry.com
 unauthorize-account-signin.com
@@ -7228,6 +7296,7 @@ urbanairship.com
 urechar.com
 urgentauthrequire.xyz
 urgentauthrequired.xyz
+url-tiny.co
 urlads.net
 urldelivery.com
 urlife2all.com
@@ -7243,6 +7312,7 @@ usdepartmentofrevenue.com
 usdp.news
 usechimney.com
 usefomo.com
+useproof.cc
 user-stats.rbl.ms
 user-summary-account.com
 user3.altcoinfan.com
@@ -7312,6 +7382,7 @@ vaxaqngzs3.com
 vdbhe7ti.com
 vdo.ai
 veeseo.com
+vegmobile.com
 vehicle-tax-refunds.org
 velismedia.com
 velocecdn.com
@@ -7349,6 +7420,7 @@ verification-security-account-caseid.com
 verification-systems.net
 verification-up.com
 verification-your-account.com
+verification.center
 verificationaccount-websecureappid.com
 verificationaccount-websecuresappid.com
 verificationaccountlocked-checked.com
@@ -7422,11 +7494,13 @@ vertoz.com
 verybeatifulpear.com
 verygoodads.com
 veryield-malyst.com
+vesteldefnce.io
 veuhub.com
 vexacion.com
 vfghc.com
 vfgtb.com
 vfgte.com
+vfsglobal.fr
 vg74gi6mea.com
 vhbx.co
 vhldwuv6om.com
@@ -7533,6 +7607,7 @@ wcge-breeziest-in.cloudapp.net
 wdaxvjr9dc.com
 wdsvc.net
 we-stats.com
+weathercheck.digital
 weatherfor.us
 web-analytics.engagio.com
 web-analytics.smile.io
@@ -7648,6 +7723,7 @@ whitecanvasgroup.com
 whitekoala1.xyz
 whitelistjs.com
 whocame.ovh
+whoint.co
 whoisvisiting.com
 whoslooking.herokuapp.com
 whs82908.com
@@ -7658,6 +7734,7 @@ wigglygeese.com
 wikaba.com
 wikaba.org
 wikileaks.email
+wikipediaathome.net
 wild0army.com
 wildernesscamera.com
 win-free-prize.com
@@ -7667,6 +7744,7 @@ windowinstalldealaflash.icu
 windowmentaria.com
 windowsupdatesalert.ml
 winfreesupport.club
+winmslaf.xyz
 winningwsp.xyz
 winworker.club
 wipoanalytics.wipo.int
@@ -7687,10 +7765,13 @@ wmjj2vke66.com
 wmrfast.com
 wnzg.us
 womanear.com
+womanstudies.co
 wompanalytics.azurewebsites.net
 wongchin11.ddns.net
 woobi.com
+wordzmncount.com
 workableachiever.com
+workaj.com
 workoperation.com
 workshopplatform.network
 workshoptracking.online
@@ -7902,6 +7983,7 @@ yeld9auto.com
 yellowbird1.xyz
 yellowleopard1.xyz
 yellowmeercat1.xyz
+yeni-safak.com
 yeo1tfjz5f.com
 yext-pixel.com
 yext.com
@@ -7940,6 +8022,7 @@ yourfreepdfconverternow.com
 yourinformationupdate.com
 yourreliablesite4content.bid
 yourtrap.com
+youtubee.life
 ypqy3sgq.com
 yqs6r2hp4j.com
 yr9n47004g.com
