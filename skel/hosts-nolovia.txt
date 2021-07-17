@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-07-17 13:47:15
+# Generated at 2021-07-17 18:27:08
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1288,6 +1288,7 @@ ayc0zsm69431gfebd.xyz
 aysnmnzu4u.com
 azadify.com
 azj57rjy.com
+b.ns1p.net
 b0e8.com
 b1js.com
 b1wb3fjea1.com
@@ -2659,6 +2660,10 @@ dontneedcoffee.gq
 dooglemedia.com
 doomnooaxc.top
 doorbrazil.com
+doppler-config.cbsivideo.com
+doppler-error.cbsivideo.com
+doppler-reporting.cbsivideo.com
+doppler-tasks.cbsivideo.com
 dotmetrics.net
 doublecllck.com
 doubleverify.com
@@ -3823,6 +3828,8 @@ intango.com
 inte-authorization0102.com
 intellibid.com
 intelligentscissors.com
+intellimize.co
+intellimizeio.com
 intellipse.com
 intentiq.com
 interac-e1.com
@@ -5064,6 +5071,7 @@ ns1.name
 ns2.name
 ns3.name
 nsa-breeziest-in.cloudapp.net
+nscontrol.com
 nskieoxdqe.com
 nssp.com
 nsw-breeziest-in.cloudapp.net
@@ -6003,6 +6011,7 @@ rum.conde.io
 rum.dynapis.com
 rum.dynapis.info
 rum.uptime.com
+rumtest-aka.ts.mtvnservices.com
 run2anywhere.com
 runmewivel.com
 runspanni.com
@@ -6616,6 +6625,8 @@ snigelweb.com
 snigelweb.net
 snitcher.com
 snowplow-pixel.tradingview.com
+snowplow.convertri.com
+snowplowanalytics.com
 snta0034.com
 soagitet.net
 soc-usa.email
