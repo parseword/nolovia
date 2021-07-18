@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-07-17 18:27:08
+# Generated at 2021-07-18 16:49:41
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3479,6 +3479,7 @@ hsappstatic.net
 hsbcuksecure.com
 hscta.net
 hsforms.net
+hsleadflows.net
 hsstatic.net
 htl.bid
 htlbid.com
@@ -6627,6 +6628,7 @@ snitcher.com
 snowplow-pixel.tradingview.com
 snowplow.convertri.com
 snowplowanalytics.com
+snplow.net
 snta0034.com
 soagitet.net
 soc-usa.email
@@ -7161,6 +7163,7 @@ tj9pcnb2ws.com
 tk0x1.com
 tkekbn5sfk.com
 tkhg70uymg.com
+tkqlhce.com
 tm-awx.com
 tm1-001.com
 tocaoonline.com
@@ -7199,6 +7202,7 @@ track.beyondmenu.com
 track.bizjournals.com
 track.brnd.live
 track.canva.com
+track.cj.akadns.net
 track.klickly.com
 track.opossumsauce.com
 track.thesaurus.com
@@ -7965,6 +7969,7 @@ wqiwjwwgyz.science
 wreckvolcano.com
 wru.ai
 wryfinger.com
+ws.facil-iti.com
 wus2-breeziest-in.cloudapp.net
 wus22-breeziest-in.cloudapp.net
 wusecureaccountsworld.com
