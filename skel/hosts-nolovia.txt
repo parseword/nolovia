@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-07-18 16:49:41
+# Generated at 2021-07-28 22:16:52
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -8043,6 +8043,7 @@ xn--amazn-9ta.com
 xn--bittrx-th8b.com
 xn--blockchan-did.com
 xn--bokchain-18a20d.com
+xn--brav-yva.com
 xn--btfnex-p9ac.com
 xn--btforex-rfb.com
 xn--bttrex-3va.com
