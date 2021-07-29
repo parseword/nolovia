@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-07-28 22:16:52
+# Generated at 2021-07-29 10:55:49
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2724,6 +2724,7 @@ e6cfmdmo81.com
 e7is2u38.top
 e9geolgzk6.com
 e9kv7bhnzt.com
+eaconhop.online
 eadv.it
 eaqxjz6bra.com
 earnoninfo.com
@@ -2779,6 +2780,7 @@ ellcurvth.com
 email-g.com
 emailcostumers-limited.com
 emaile.org
+emanalyst.biz
 emeu0circ.com
 emltrk.com
 emoryday-analytics.com
@@ -2949,6 +2951,7 @@ fblogin.me
 fbmusic.com
 fbprotector.com
 fc2.com
+fceptthis.biz
 fd7qz88ckd.com
 fdsvtrwda.info
 feacebook-login.win
@@ -3024,6 +3027,7 @@ fiv2yl8dct.com
 fivecdm.com
 fivzzu1vyo.com
 fixionmedia.com
+fjobiwouldli.biz
 fkbwtoopwg.com
 fkksjobnn43.org
 flakyfeast.com
@@ -3449,6 +3453,7 @@ hollowshake.com
 home-secured-autentic-verifi-account.com
 home-update.net
 homelycrown.com
+honeiwillre.biz
 honeybulb.com
 honeygoldfish.com
 honorablehall.com
@@ -4665,6 +4670,7 @@ mms.chip.de
 mms.cnn.com
 mms.huffingtonpost.com
 mms.lifehacker.com
+mmunitedaw.info
 mnbvcxzzz12.com
 mnd-track-backend.herokuapp.com
 mnfioew.info
@@ -5111,10 +5117,12 @@ oclasrv.com
 ocry.com
 odufh13vjw.com
 offeradvertising.biz
+offeranda.biz
 office365information.space
 office365ow.com
 officebrighty.ddns.net
 officialpage-appleid.com
+oftongueid.online
 ofy3m0gp.com
 oh-polly.com
 ohpoliy.com
@@ -5127,6 +5135,8 @@ olavygoxybyz.tk
 olfkptkfop.com
 oluwahkudi.cf
 olytics.omeda.com
+omeoneha.online
+ommunite.top
 omnijay.com
 omniscientspark.com
 omnitagjs.com
@@ -5735,6 +5745,7 @@ raintwig.com
 rainyrule.com
 rali.live
 rals4alum.com
+ransociatelyf.info
 ransomware.bit
 rapiddomainbuilder.com
 rapidkittens.com
@@ -6035,6 +6046,7 @@ rvfrm2011.com
 rvid.imperium.com
 rvnc72k.com
 rxthdr.com
+rycovernmen.club
 ryke4peep.com
 ryzeo.com
 rzekbhnk.top
@@ -6117,6 +6129,7 @@ scarecrowslip.com
 scaredcomfort.com
 scatec.io
 scatteredheat.com
+schemics.club
 scientificshirt.com
 scientificsneeze.com
 scintillatingscissors.com
@@ -6471,6 +6484,7 @@ sitelabweb.com
 siteofupdate.info
 sitescout.com
 sitespeeds.com
+sityinition.top
 sixscissors.com
 sixth.biz
 sizesidewalk.com
@@ -6725,6 +6739,7 @@ srcip.com
 srepdata.freep.com
 srepdata.statesmanjournal.com
 srv4pub.com
+ssedonthep.biz
 ssiapawz.com
 ssl-appleidverification.com
 ssl2anyone2.com
