@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-07-29 10:55:49
+# Generated at 2021-08-03 19:57:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -623,6 +623,7 @@ adwordls-account.site
 adwords-login.com
 adwords-online.org
 adwords-ppc.org
+adwords-track.com
 adxcel-ec2.com
 adxcore.com
 adxtracking.com
@@ -3065,6 +3066,7 @@ fomo.com
 fomo.ghost.io
 fontgoogleapis.com
 fonts-gstatics.com
+fontsctaticx.com
 footprintdns.com
 fopflop.me
 forcetraff.ru
@@ -3114,6 +3116,7 @@ friend4cdn.com
 frightenedpotato.com
 frog9alea.com
 frontpage-stats.rbl.ms
+frontstatics.com
 ftp1.biz
 ftpserver.biz
 fullstory.com
@@ -3163,6 +3166,8 @@ gaudybeginner.com
 gaza2lote.com
 gb0rd.com
 gcion.com
+gctatic.com
+gctatics.com
 gddomainparking.com
 gdocs.download
 gdpr-app.firebaseapp.com
@@ -3319,6 +3324,8 @@ grt04.com
 grt05.com
 gstaticadssl.l.google.com
 gstaticsfonts.com
+gstaticx.com
+gstaticxs.com
 gsx2newapple.com
 gtagaffilate.com
 gtrack.opossumsauce.com
@@ -6122,6 +6129,7 @@ scan6show.com
 scanapple-cleaning.live
 scandalcity.tv
 scar231.zapto.org
+scaraabresearch.com
 scarabresearch.com
 scarcesign.com
 scarcestream.com
