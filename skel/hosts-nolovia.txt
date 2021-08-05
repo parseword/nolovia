@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-08-03 19:57:48
+# Generated at 2021-08-05 10:41:20
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -582,6 +582,7 @@ adserver.video
 adservices.brandcdn.com
 adsfirstsun.com
 adshort.co
+adskeeper.com
 adsolut.in
 adspayformymortgage.win
 adspruce.com
@@ -1321,6 +1322,7 @@ bandar-logger.prezi.com
 bandborder.com
 banksampahbaginda.com
 banners.ampfeed.com
+bannersolution.net
 bant.io
 barbarousnerve.com
 barometric.com
@@ -1344,6 +1346,7 @@ bdg-analytics.appspot.com
 bdwafx.com
 be4anywhere.com
 bea4.cnn.com
+beacon-all.walmart.com.akadns.net
 beacon-cdn.walmart.com.akadns.net
 beacon.aimtell.com
 beacon.by
@@ -2064,7 +2067,9 @@ coinzillatag.com
 collect.lngtd.com
 collectandgather.com
 collectiveuk.com
+collector-dev.cdp-dev.cnn.com
 collector-direct.xhamster.com
+collector.cdp.cnn.com
 collector.github.com
 collector.githubapp.com
 collector.pi-charter.net
@@ -2466,6 +2471,7 @@ datacygnal.io
 datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
+datadome.co
 datanyze.com
 datapropria.com
 dataq.stream
@@ -3765,6 +3771,7 @@ inc-paymentauthorized.com
 inc-sign.top
 inc-signin.top
 inc-views.com
+incing-marganic.icu
 include-modal.com
 includemodal.com
 incognito.today
@@ -4214,6 +4221,7 @@ leadgen-cbslnk.cnet.com
 leadid.com
 leadin.com
 leadinfo.net
+leadlab.click
 leadmanagerfx.com
 leadzupc.com
 leanplum.com
@@ -4701,6 +4709,7 @@ mocdoctest.us
 mod-js.su
 mod-sj.link
 modifyeyes.com
+moduleanalysis.aliexpress.com
 modulepush.com
 moengage.com
 moevideo.com
@@ -5151,6 +5160,7 @@ omnivirt.com
 oms.eu
 omzdy.top
 onaudience.com
+onclickalgo.com
 onclickgenius.com
 one4p.aol.com
 onecount.net
@@ -5490,6 +5500,7 @@ ponystudent.win
 pool0852.hopto.org
 poor5zero.com
 pop6.com
+popkit.club
 popmyads.com
 popt.in
 popularenlineaservicios.com
@@ -5890,6 +5901,7 @@ reports.radiotime.com
 reports.sdiapi.com
 reports.tunein.com
 republer.com
+requestmetrics.com
 required-verification-change.com
 resecured-account-ueweaspx.com
 reserver-appleid.info
@@ -7083,8 +7095,10 @@ teknosurf2.com
 telaria.com
 telegram-verification.com
 telemetrics.klaviyo.com
+telemetry-global.jivosite.com
 telemetry.allrecipes.com
 telemetry.api.wmcdp.io
+telemetry.jivosite.com
 telemetry.mozilla.org
 telemetry.servers.getgo.com
 telemetry.tradingview.com
@@ -7232,6 +7246,7 @@ track.thesaurus.com
 track.volo-mobile.com
 track.wakelet.com
 track.wayin.com
+track.wickedreports.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.affirm.com
 tracker.iws.vc
