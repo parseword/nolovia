@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-08-17 19:34:29
+# Generated at 2021-08-17 19:35:40
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1354,6 +1354,7 @@ beacon.dropbox.com
 beacon.lynx.cognitivlabs.com
 beacon.riskified.com
 beacon.searchspring.io
+beacon.sftoaa.com
 beacon.tingyun.com
 beacon.v.dropbox.com
 beacon.walmart.com
@@ -5463,6 +5464,7 @@ pixel.patch.com
 pixel.retargetapp.com
 pixel.rubiconproject.net.akadns.net
 pixel.spotify.com
+pixel.tatpek.com
 pixel.voltn.com
 pixeldefender.com
 pixelsrvdmn.com
