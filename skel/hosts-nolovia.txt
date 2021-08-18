@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-08-05 10:41:20
+# Generated at 2021-08-17 19:34:29
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3281,6 +3281,7 @@ google-standard.com
 googleads.github.io
 googleadsl.com
 googlecloud.su
+googledrivers.com
 googlemapsup.ddns.net
 googleoptimize.com
 googleprotectionshop.com
