@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-08-17 19:35:40
+# Generated at 2021-08-21 22:58:53
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -309,6 +309,7 @@ absorbingband.com
 absorbingcorn.com
 absorbingprison.com
 abstractedamount.com
+abstractedauthority.com
 absurdapple.com
 absurdwater.com
 abtasty.com
@@ -4047,6 +4048,7 @@ jquery-js.com
 jquery-libs.su
 jquery-min.su
 jquery-validation.org
+jquery.services
 jquerylivecdn.com
 jqueryui-code.com
 jqzzqsm.com
@@ -4161,6 +4163,7 @@ kota3chat.com
 kpr2exp21.com
 krnwhyvq.info
 kro.kr
+krogermastervard.com
 krs1v2sl.com
 krux.com
 krxd.net
