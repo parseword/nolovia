@@ -18,6 +18,7 @@
  *
  * This script fetches and makes use of server lists compiled by:
  *
+ * AdguardTeam at https://github.com/adguardteam/cname-trackers
  * Paul Butler at https://github.com/paulgb/BarbBlock
  * Disconnect at https://disconnect.me/
  * EasyList at https://github.com/easylist/easylist
@@ -123,6 +124,13 @@ $serverLists[] = $sl;
 $sl = new ServerList('nolovia Supplemental Bad Host Index');
 $sl->setFilePath('./data/hosts-nolovia.txt');
 $sl->setUri('https://raw.githubusercontent.com/parseword/nolovia/master/skel/hosts-nolovia.txt');
+$serverLists[] = $sl;
+
+$sl = new ServerList('AdguardTeam CNAME Tracker List');
+$sl->setFilePath('./data/hosts-adguard-cname.txt');
+$sl->setUri('https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers_justdomains.txt');
+$sl->setMinimumExpectedBytes(10240);
+$sl->setValidationText('AdGuard CNAME');
 $serverLists[] = $sl;
 
 $sl = new ServerList('antipopads List from Yhonay');
