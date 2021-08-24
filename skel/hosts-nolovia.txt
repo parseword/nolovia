@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-08-21 22:58:53
+# Generated at 2021-08-23 20:01:29
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -282,9 +282,13 @@ Sd5DoOzRy8.com
 a-mo.net
 a1webstats.com
 a1webstrategy.com
+a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 a3cloud.net
 a4.tl
+a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
 a63t9o1azf.com
+a8.net
+a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 a9nf3hg5c2.com
 aanqylta.com
 aaucwbe.com
@@ -470,6 +474,8 @@ activesessions.me
 activities-report.com
 activity-accountid.com
 activityloginpurchase.com
+actonservice.com
+actonsoftware.com
 actuallysheep.com
 actuallysnake.com
 acxiomapac.com
@@ -598,6 +604,7 @@ adtechium.com
 adtelligent.com
 adthink.com
 adtng.com
+adtonos.com
 adtrack.calls.net
 adtrack.voicestar.com
 adtrackdirect.com
@@ -635,7 +642,9 @@ ae21a0ad95016488.com
 aeckcjy.com
 aerserv.com
 aethiopiensidamo.de
+afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 afcwyxnwl0.com
+affex.org
 affiliates-spinit.com
 affiliatly.com
 affle.com
@@ -1653,6 +1662,7 @@ bounceexchange.com
 bouncex.com
 bouncex.net
 bouncyproperty.com
+bp01.net
 bprise.com
 bqiovml.com
 brainpad.co.jp
@@ -1967,6 +1977,7 @@ cli.bz
 click-cpa.net
 clickability.com
 clickback.com
+clickcease.com
 clickferret.com
 clickguard.com
 clickhomeclick.com
@@ -2432,6 +2443,7 @@ d0v5g1vb.top
 d10lpsik1i8c69.cloudfront.net
 d1272serve.xyz
 d14emrg9.com
+d1d3jupgwm7m5r.cloudfront.net
 d1vl8wytztdz.cloudfront.net
 d22chwk8np.com
 d2c7xlmseob604.cloudfront.net
@@ -2463,6 +2475,7 @@ dashingdirt.com
 dashingsweater.com
 data-ingestion.prod.dataops.mozgcp.net
 data-validmember.info
+data.adobedc.net
 data.bntech.io
 databasegalore.com
 databerries.com
@@ -2481,6 +2494,7 @@ datasecure-member.info
 datasphere.com
 datasteam.io
 datastream.stylitics.com
+dataunlocker.com
 dataupdate-service.info
 datawrkz.com
 datazoom.io
@@ -2629,6 +2643,7 @@ dns05.com
 dns1.us
 dns2.us
 dnsapp.info
+dnsdelegation.io
 dnset.com
 dnso.ddns.net
 dnsrd.com
@@ -2863,6 +2878,7 @@ etransfer-mobility-refund.com
 etreflased.info
 etym6cero.com
 eulenformacion.com
+eulerian.net
 eum-appdynamics.com
 euro-news.online
 eus-breeziest-in.cloudapp.net
@@ -2949,6 +2965,7 @@ fastlscripts.com
 fasttrack-ignite.com
 fatchilli.media
 fatcoil.com
+fathomdns.com
 faultycanvas.com
 faultyfowl.com
 faxqaaawyb.com
@@ -3218,6 +3235,7 @@ gexperiments3.com
 gexperiments4.com
 gfbnr.com
 gfgixev3d4.com
+ghochv3eng.trafficmanager.net
 ghostery-collector-115893389.us-east-1.elb.amazonaws.com
 ghostery-collector.ghostery.com
 ghostmoney1.hopto.org
@@ -3495,6 +3513,7 @@ hqzjz7fncd.com
 hraparak.org
 hrj91nuwzu.com
 hs-scripts.com
+hs.eloqua.com
 hsadspixel.net
 hsappstatic.net
 hsbcuksecure.com
@@ -3817,6 +3836,7 @@ ingest.crash.vault-tec.systems
 initiatefreeintenselyplayer.icu
 inmoment.com
 inner-active.com
+innerskinresearch.com
 innity.com
 innocentwax.com
 innovid.com
@@ -5145,6 +5165,7 @@ officebrighty.ddns.net
 officialpage-appleid.com
 oftongueid.online
 ofy3m0gp.com
+oghub.io
 oh-polly.com
 ohpoliy.com
 ohqj2ygd4h.com
@@ -5422,6 +5443,7 @@ pesbqkopdm.com
 petametrics.com
 petiteumbrella.com
 petwandey.us
+pexgle.com
 pffw8mgd.com
 pfk9fywba5.com
 pgh76i5ya5.com
@@ -5463,6 +5485,7 @@ pixel.legit.ng
 pixel.mintigo.com
 pixel.newscgp.com
 pixel.newscred.com
+pixel.parsely.com
 pixel.patch.com
 pixel.retargetapp.com
 pixel.rubiconproject.net.akadns.net
@@ -6143,6 +6166,8 @@ saysidewalk.com
 sbgsodufuosmmvsdf.info
 sbr-breeziest-in.cloudapp.net
 sc-applle-login.com
+sc.adobedc.net
+sc.omtrdc.net
 scan6show.com
 scanapple-cleaning.live
 scandalcity.tv
@@ -6856,6 +6881,7 @@ stores-counters.wix.com
 storescissors.com
 storeslope.com
 storesurprise.com
+storetail.io
 stormnguard.com
 stormyachiever.com
 stormyshock.com
@@ -7034,7 +7060,9 @@ tag.getdrip.com
 tag.lexer.io
 tag.rmp.rakuten.com
 tag.wknd.ai
+tagcommander.com
 tagdeliver.com
+tagdelivery.com
 tagon.co
 tags.creditkarma.com
 tags.newscgp.com
@@ -7914,6 +7942,7 @@ websignin-secure-payment-update.com
 webssl-apple.com
 webstatistic.pw
 webstatistic.ws
+webtrekk.net
 webvalidation.xyz
 webvalidationneeded.xyz
 webvalidationrequire.xyz
@@ -7969,6 +7998,7 @@ window5.win
 windowinstalldealaflash.icu
 windowmentaria.com
 windowsupdatesalert.ml
+windowsupdatesupport.org
 winfreesupport.club
 winmslaf.xyz
 winningwsp.xyz
@@ -7981,6 +8011,7 @@ wixab-cloud.com
 wixab.com
 wixab.it
 wixsite.com
+wizaly.com
 wizardsbd.com
 wjs.wurflcloud.com
 wklimited.com
@@ -8014,6 +8045,7 @@ wreckvolcano.com
 wru.ai
 wryfinger.com
 ws.facil-iti.com
+wt-eu02.net
 wus2-breeziest-in.cloudapp.net
 wus22-breeziest-in.cloudapp.net
 wusecureaccountsworld.com
@@ -8216,6 +8248,7 @@ yeo1tfjz5f.com
 yext-pixel.com
 yext.com
 ygto.com
+yield-op-idsync.live.streamtheworld.com
 yieldbird.com
 yieldify.com
 yieldlab.com
