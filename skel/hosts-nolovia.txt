@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-08-23 20:01:29
+# Generated at 2021-08-27 19:59:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4291,6 +4291,7 @@ ligadx.com
 ligatus.com
 lightcushion.com
 lightning.cnn.com
+lightning.warnermediacdn.com
 lightstep.com
 lightstep.medium.systems
 limat-is-account-me.com
@@ -8328,6 +8329,7 @@ zha6ivnktt.com
 zhtlvag.com
 zidedge.com
 zineone.com
+zion.api.cnn.io
 ziopemmjh3.com
 zipcodeterm.com
 zippyfrog.co
