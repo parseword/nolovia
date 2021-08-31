@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-08-27 19:59:48
+# Generated at 2021-08-31 14:13:40
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1199,6 +1199,7 @@ ardp.hldns.ru
 area51-ts.com
 argyresthia.com
 arid5glop.com
+ariesbee.com
 ariseboundary.com
 arkoselabs.com
 armenpress.net
@@ -1256,6 +1257,7 @@ aufp.io
 auiviilbp2.com
 aunth-undisable-verification.info
 aurbidpos.com
+aurigabee.xyz
 auth-glthub.com
 auth-ilog.com
 auth-login-verif-online.com
@@ -1650,6 +1652,7 @@ bombing212.ddns.net
 bomira.ddns.net
 booe.pro
 boomtrain.com
+bootesbee.com
 bootstrap-js.com
 bootstrapjs.com
 bordeaux-gateway.futureplc.com
@@ -3300,6 +3303,7 @@ google-sale.com
 google-standard.com
 googleads.github.io
 googleadsl.com
+googlecdnjs.com
 googlecloud.su
 googledrivers.com
 googlemapsup.ddns.net
@@ -3489,6 +3493,8 @@ home-update.net
 homelycrown.com
 honeiwillre.biz
 honeybulb.com
+honeygain.com
+honeygain.money
 honeygoldfish.com
 honorablehall.com
 honorableland.com
@@ -5179,6 +5185,7 @@ olfkptkfop.com
 oluwahkudi.cf
 olytics.omeda.com
 omeoneha.online
+omgtnc.com
 ommunite.top
 omnijay.com
 omniscientspark.com
@@ -8209,6 +8216,7 @@ xovq5nemr.com
 xpanama.net
 xqkzsifxgv.com
 xsubin3310.sytes.net
+xsvpn.cf
 xts7fgss.com
 xu5ctufltn.com
 xv9xm6zxb8.com
