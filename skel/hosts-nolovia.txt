@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-08-31 14:13:40
+# Generated at 2021-09-04 12:46:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1768,6 +1768,7 @@ cannonjudo.com
 cannontwin.com
 capablecows.com
 capablecup.com
+capitalones.co
 capriciouscorn.com
 captainbicycle.com
 carajoin.me
@@ -1892,6 +1893,7 @@ chatluongvacuocsong.vn
 chatpath.com
 chatra.io
 chatterbuzz-media.com
+chazebankgroup.com
 check-account-acceess.com
 check-account-acces.com
 check-account-now.com
@@ -3571,6 +3573,7 @@ i-myetherwallet.info
 i-myetherwallet.tech
 i-signin.us
 i-signins.us
+i.businessinsider.com
 i.ubm-us.net
 i027m.top
 i0s26ol9.com
@@ -6485,6 +6488,7 @@ sign-recovery-unlockaccountscure.com
 sign-recoveryaccountlocks-infosecure.com
 sign-unth-recovery-accountse.com
 sign-update-information-accountse.com
+signalfx.com
 signauth-verification.info
 signauthverifyaccess-information.com
 signiin-account.com
