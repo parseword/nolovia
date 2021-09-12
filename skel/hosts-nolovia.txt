@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-09-04 12:46:55
+# Generated at 2021-09-12 16:07:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -37,6 +37,7 @@
 106hk.com
 10afdmasaxsssaqrk.com
 10wp.org
+11-e.ninja
 11hrcnll.com
 11nux.com
 129ji7ymdw.com
@@ -112,6 +113,7 @@
 3-a.net
 31y6b8omk2.com
 3221dkf7m2.com
+325xcs.life
 33across.com
 34ed5da2977d1ace.com
 34pavouhj7.com
@@ -704,6 +706,7 @@ alfadart.com
 alfcdn.com
 alga9frog.com
 algolia.net
+algoplyg.com
 algovid.com
 alhds.net
 alienware-pc.loginto.me
@@ -2082,6 +2085,7 @@ coinbaseverifier.com
 coinsandtokens.io
 coinzilla.com
 coinzillatag.com
+collect.cloudsponge.com
 collect.lngtd.com
 collectandgather.com
 collectiveuk.com
@@ -2466,6 +2470,7 @@ daemon-update.com
 dailydally.tv
 dam5i6.linkpc.net
 damdoor.com
+damselclimb.com
 dana8herb.com
 danalinc.com
 dancemistake.com
@@ -3818,6 +3823,7 @@ indlzxgptf.com
 indominestuff33.hopto.org
 indoprogress.co
 ineed-location.com
+inerpretzel.com
 infinitads.com
 info-accessvalidatesumary.com
 info-account-verification.com
@@ -5071,6 +5077,7 @@ nice3aiea.com
 nicherev.io
 niftyhospital.com
 niftyjelly.com
+nighttstand.com
 nimiq-network.com
 nimiq.ag
 nimiq.agency
@@ -6877,6 +6884,7 @@ steepsquirrel.com
 stek-js.link
 stepconfirm-limitation-eng-lang.com
 steptoverif.com
+stereotypedsugar.com
 stetic.com
 steve654321.ddns.net
 stickssheep.com
@@ -6948,6 +6956,7 @@ summerobject.com
 sumologic.com
 sundayredz.com
 sunmedia.tv
+superdimensionalfolder.com
 superficialsink.com
 superficialsquare.com
 suport-garena.com
@@ -7355,6 +7364,7 @@ trioninteractive.com
 triplelift.com
 tritetongue.com
 tritondigital.com
+trk-aliquando.com
 trk-vestibulum.com
 trk.email.dynect.net
 trk.pinterest.com
