@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-09-20 20:41:27
+# Generated at 2021-09-21 11:48:12
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -277,6 +277,9 @@
 9utwbj08.top
 9ws3wutazo.com
 ACHYNE.PUBLICVM.COM
+Failedghostsmtp.com
+Failedsendapidata.com
+Faileduebpicture.cc
 I0wp.org
 I3wp.org
 Rvfrm2008.com
@@ -837,6 +840,8 @@ api.limbik.com
 api.mypurecloud.com
 api.userstyles.org
 api.whizzco.com
+apidatacss.com
+apiserverdata1.com
 apismanagers.com
 apissystem.com
 apiurl.org
@@ -1328,6 +1333,7 @@ bait4role.com
 balanarr.com
 balancebreath.com
 bali6nora.com
+baller.top
 balloonbit.com
 balloontexture.com
 bam-x.com
@@ -1653,6 +1659,7 @@ bokletdoc.us
 bolt8snap.com
 bombing212.ddns.net
 bomira.ddns.net
+bomohsmtp.com
 booe.pro
 boomtrain.com
 bootesbee.com
@@ -2483,6 +2490,7 @@ dashbid.io
 dashbord-mysecure-unlocked-acces-1nfo.com
 dashingdirt.com
 dashingsweater.com
+dasmtp.com
 data-ingestion.prod.dataops.mozgcp.net
 data-validmember.info
 data.adobedc.net
@@ -2491,6 +2499,7 @@ databasegalore.com
 databerries.com
 datacatch.xyz
 datacenter-customer.com
+datacenter01.us
 datacreated-updates.info
 datacygnal.io
 datadoghq-browser-agent.com
@@ -2763,6 +2772,7 @@ eadv.it
 eaqxjz6bra.com
 earnoninfo.com
 earthquakescarf.com
+earthsmtp.com
 earthycopy.com
 eas-breeziest-in.cloudapp.net
 east2pony.com
@@ -2932,6 +2942,7 @@ ezua.com
 f-log-at.grammarly.io
 f084t2700i.com
 f09vhflf10.com
+f1smtp.com
 f2q1u44h4m.com
 f3322.net
 f3322.org
@@ -3001,6 +3012,7 @@ feed5mown.com
 feedify.net
 feedvertizus.com
 feefo.com
+feesmtp.com
 fetch.duckdns.org
 ff76khyn6c.com
 fg09t.com
@@ -3118,6 +3130,7 @@ fouanalytics.com
 fourarithmetic.com
 foureyes.io
 foxpush.com
+foxsmtp.com
 fqvkntefmd.com
 fraddation-pyments-acounting.com
 frailoffer.com
@@ -3251,6 +3264,7 @@ ghostery-collector.ghostery.com
 ghostmoney1.hopto.org
 ghostmoney2.ddns.net
 ghostmoney3.dnsdojo.com
+ghostsmtp.com
 giddycoat.com
 gifinate-loggage.com
 gift2pair.com
@@ -3334,6 +3348,7 @@ gotoip55.com
 gov-secure.co.uk
 govfree.pw
 govsecure.co.uk
+gpxsmtp.com
 gqqdlckj8y.com
 gr8domain.biz
 gr8name.biz
@@ -3383,6 +3398,7 @@ gulliblecamp.com
 gumgum.com
 gunuj.com
 guo1x952bi.com
+gurl101.services
 guvencingiller.com
 gw1001099.chickenkiller.com
 gw1001099.duckdns.org
@@ -3518,6 +3534,7 @@ hostingcloud.date
 hostingcloud.download
 hostingcloud.faith
 hostingcloud.loan
+hostprivate.us
 hot-mob.com
 hotjar.com
 hotlable.com
@@ -4070,6 +4087,7 @@ jolic2.com
 jornaya.com
 josephevinchi.com
 josh7cuba.com
+josmtp.com
 journey.vanityfair.com
 journey.wired.com
 jp-appsy-account-lockedd.com
@@ -4135,6 +4153,7 @@ jumpetiter.info
 jumptime.com
 jungleheart.com
 jungloconding.info
+jupitersmt.com
 just-easy-travel.com
 justdied.com
 juste-travel.com
@@ -4233,6 +4252,7 @@ lameletters.com
 lamplow.com
 lamtrigger.com
 languagelake.com
+laptopdata.xyz
 larryaffiliates.com
 lashy.ddns.net
 lastbornk1.ddns.net
@@ -4325,6 +4345,7 @@ limitted-account.com
 limons.duckdns.org
 limpingline.com
 line6agar.com
+link101.bid
 link5view.com
 linkedin-jobs.com
 linkgen.me
@@ -4334,6 +4355,7 @@ linksbit.com
 linkslot.ru
 linodepower.com
 linq.ink
+linuxsmtp.com
 liod1ours.com
 lioiamcount.com
 liondigitalserving.com
@@ -4562,6 +4584,7 @@ mails.center
 mailservice-apple.com
 mainlink.cool
 mainnine.stream
+mainsmtp.com
 make6pain.com
 mali4blat.com
 malm1coax.com
@@ -4684,6 +4707,7 @@ metrics.macys.net
 metricscollector.lp.xcal.tv
 meuzxiejun.com
 mews2ruck.com
+mexsmtp.com
 mezzobit.com
 mfacebook.net
 mfadsrvr.com
@@ -4704,6 +4728,7 @@ microsoftoffice.systems
 microsoftonilne.cloud
 mighting-minese.com
 mightyspiders.com
+migration101.us
 mile0tire.com
 militaryverse.com
 mimosamajor.com
@@ -4767,6 +4792,7 @@ money-lnteractfunds.com
 moneyghost.ddns.net
 moneyhome.biz
 moneyma-r.com
+moneysmtp.com
 monitor.azure.com
 monitor.channel4.com
 monu.delivery
@@ -5336,6 +5362,7 @@ paibopse.com
 palaccountsubmit.com
 paleleaf.com
 palletbush.hopto.org
+panelsmtp.com
 panhardware.com
 panickypancake.com
 panini101.chickenkiller.com
@@ -5530,6 +5557,7 @@ playground.xyz
 playwire.com
 plug1luge.com
 plusmarketingagency.com
+plutosmto.com
 pm48j.top
 pmadx.com
 pmi5media.com
@@ -5651,6 +5679,7 @@ provnkfexxw.com
 proxydns.com
 prtrackings.com
 prtrackings.g2afse.com
+prvtsmtp.com
 ps-webapps.com
 pswec.com
 ptarepjx.com
@@ -5802,6 +5831,7 @@ r66at6sf.com
 r8mxl.top
 r8oyegintx.com
 raab3frog.com
+racksmtp.com
 radarsubmissions.apple.com
 rahasn.akamake.net
 rahasn.homewealth.biz
@@ -6057,6 +6087,7 @@ ronesio.xyz
 ronytazz2121.ddns.net
 roofrelation.com
 roosterfirework.com
+rosmtp.com
 rote8mino.com
 rotumal.com
 roughroll.com
@@ -6114,6 +6145,7 @@ rvfrm2010.com
 rvfrm2011.com
 rvid.imperium.com
 rvnc72k.com
+rxasmtp.com
 rxthdr.com
 rycovernmen.club
 ryke4peep.com
@@ -6327,6 +6359,7 @@ sellclassics.com
 selligent.com
 semantiqo.com
 semasio.net
+sendapidata.com
 sendblaster.org
 sender.gb.net
 sendpulse.com
@@ -6417,6 +6450,7 @@ servicetech.site
 serviceuser-lockeds.com
 servisedelivery.com
 servlet-appleidverification.com
+ses-smtp.com
 sescure-icloud.com
 seskeu3zk7.com
 sessioncam.com
@@ -6696,6 +6730,8 @@ smtp2go.site
 smtp2go.space
 smtp2go.website
 smtper.center
+smtpro101.com
+smtptemp.site
 smtptogo.pw
 smyte.com
 snakesort.com
@@ -7199,6 +7235,7 @@ thebrave.io
 thedoccloud.com
 thegardian.ml
 thegaurdian.live
+thegreenmy87.com
 thelimitedaccount.org
 themediagrid.com
 thesandonesof.info
@@ -7345,6 +7382,7 @@ transaction-payment07.com
 transaction-secure5.com
 trappush.com
 traq.li
+trasactionsmtp.com
 traskedlink.com
 tray0bury.com
 trck.youvisit.com
@@ -7654,6 +7692,7 @@ validattionmandatory.xyz
 validitions-apple-account-service.com
 valthyra.com
 valueimpression.com
+valvadi101.com
 vane3alga.com
 vanfireworks.com
 vaxaqngzs3.com
@@ -7818,6 +7857,7 @@ visitorqueue.com
 visto1.net
 visualdna.com
 visx.net
+vitme.bid
 vizsense.com
 vizvaz.com
 vkaofq64zz.com
@@ -7835,6 +7875,7 @@ voastauz.net
 vodafone-verificatie.com
 voicevegetable.com
 voievnenibrinw.com
+voksmtp.com
 vols7feed.com
 volume-login-key-349388231231291.ru
 voluum.com
@@ -7945,6 +7986,7 @@ webmon.cfigroup.netdna-cdn.com
 weborama.fr
 weborama.net
 webpartners.co
+webpicture.cc
 webpushr.com
 webreaderz.com
 webresoved-service.com
@@ -8027,6 +8069,7 @@ windowsupdatesupport.org
 winfreesupport.club
 winmslaf.xyz
 winningwsp.xyz
+winsmtp.com
 winworker.club
 wipoanalytics.wipo.int
 wirecomic.com
