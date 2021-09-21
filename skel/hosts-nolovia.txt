@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-09-12 16:07:16
+# Generated at 2021-09-20 20:41:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3267,6 +3267,8 @@ gitformlife.com
 gitmage.com
 give-me-coins.com
 givirsou.net
+gjthub.app
+gjthub.team
 glassbox.aircanada.ca
 glassboxcdn.com
 glassboxcloud.com
@@ -5752,6 +5754,7 @@ qjjto.com
 qkpcihpo16.com
 ql6401rkow.com
 qlitics.com
+qlthub.support
 qmkr7isp3o.com
 qnageoh3ns.com
 qoe-1.yottaa.net
