@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-09-21 11:48:12
+# Generated at 2021-10-06 16:45:12
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -6893,6 +6893,7 @@ static-mon.yandex.net
 static-trustpilot.com
 static-zdassets.com
 static.cloudflareinsights.com
+stationportcloud.top
 statistic-info.me
 stats-new.smugmug.com
 stats.berkman.harvard.edu
@@ -8348,6 +8349,7 @@ youpayme.info
 your-account-unlock.com
 youraccess-recovery.com
 yourbestandupdatesafe.pw
+yourbigexplosivewin.life
 yourfreepdfconverternow.com
 yourinformationupdate.com
 yourreliablesite4content.bid
