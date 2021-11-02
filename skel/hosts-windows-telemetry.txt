@@ -69,7 +69,6 @@ msftncsi.com
 msnbot-65-55-108-23.search.msn.com
 msntest.serving-sys.com
 nexus.officeapps.live.com
-officeclient.microsoft.com
 pre.footprintpredict.com
 preview.msn.com
 r20swj13mr.microsoft.com
