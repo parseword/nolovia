@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-10-06 16:45:12
+# Generated at 2021-11-08 19:00:32
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -581,6 +581,7 @@ ads.nextdoor.com
 ads.pinbusinessnetwork.com
 ads.simonandschuster.com
 ads.supplyframe.com
+ads.viralize.tv
 ads4pics.com
 adsafeprotected.com
 adsales.snidigital.com
@@ -602,6 +603,7 @@ adspsp.com
 adspyglass.com
 adstanding.com
 adsterra.com
+adstir.com
 adtags.pro
 adtdp.com
 adtech.net
@@ -784,6 +786,7 @@ analytics.dvidshub.net
 analytics.edgekey.net
 analytics.freesound.org
 analytics.getshogun.com
+analytics.govinfo.gov
 analytics.hotyon.com
 analytics.inform.com
 analytics.jst.ai
@@ -2345,6 +2348,7 @@ convertflow.co
 convertful.com
 convertize.io
 convertro.com
+cookie-script.com
 cookiebot.azurefd.net
 cookiebot.com
 cookielaw.org
@@ -4968,6 +4972,7 @@ mypop3.net
 mypop3.org
 mypressonline.com
 myrcrypto.com
+mysamba.tv
 mysecondarydns.com
 mysecure-id-icloud.com
 myserviceaccount.net
@@ -5819,6 +5824,7 @@ quizzicalzephyr.com
 quoashei.com
 qvjql3e.com
 qwertize.com
+qwervpnchik.shop
 qy1bx9an4j.com
 r00ts.online
 r00tshit.ddns.net
@@ -5984,6 +5990,7 @@ requestmetrics.com
 required-verification-change.com
 resecured-account-ueweaspx.com
 reserver-appleid.info
+resetdigital.co
 resollver-accoount-centre.com
 resolutekey.com
 resolution-accountactivy.com
@@ -6187,6 +6194,7 @@ sajari.com
 salaure.pro
 salemove.com
 salesforceliveagent.com
+samba.tv
 samescripts.com
 samestretch.com
 samexsame.com
