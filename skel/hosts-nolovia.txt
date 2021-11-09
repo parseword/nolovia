@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-11-08 19:00:32
+# Generated at 2021-11-08 20:00:33
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2925,6 +2925,7 @@ exi8ef83z9.com
 exitintel.com
 exmo.info
 exmo.tech
+experianmatch.info
 explorads.com
 explore2be.com
 expn.digital
@@ -5525,6 +5526,7 @@ pinpointpotato.com
 piquantpigs.com
 piquantstove.com
 piwik.pro
+pix.pub
 pixel-a.basis.net
 pixel-static.spotify.com
 pixel.app.returnpath.net
@@ -5661,6 +5663,7 @@ pro-market.net
 proads.space
 proclivitysystems.com
 prod-telemetry-us.tradingview.com
+prod.pyxis.atp.fox
 prod.report.nacustomerexperience.citi.com
 products.apps.co.me
 profiles.ClickOnDetroit.com
@@ -7977,6 +7980,7 @@ webappsecurityupdate.com
 webappsrequired-accrenew22125122.com
 webappss-security-bin-apple.com
 webcodez.com
+webcontentassessor.global.ssl.fastly.net
 webdeclaration.xyz
 webdoctell.us
 webeyez.com
