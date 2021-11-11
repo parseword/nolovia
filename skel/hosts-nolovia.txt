@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-11-08 20:00:33
+# Generated at 2021-11-11 16:16:08
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -581,6 +581,7 @@ ads.nextdoor.com
 ads.pinbusinessnetwork.com
 ads.simonandschuster.com
 ads.supplyframe.com
+ads.us.nextdoor.com
 ads.viralize.tv
 ads4pics.com
 adsafeprotected.com
@@ -590,6 +591,7 @@ adsbtrack.com
 adsbtrk.com
 adscale.com
 adscompass.com
+adserver-public-cdn.afd.azureedge.net
 adserver.us-east1.prod.chicoryapp.com
 adserver.video
 adservices.brandcdn.com
@@ -640,6 +642,7 @@ adwords-login.com
 adwords-online.org
 adwords-ppc.org
 adwords-track.com
+adx.opera.com
 adxcel-ec2.com
 adxcore.com
 adxtracking.com
@@ -761,6 +764,7 @@ amlg.io
 amnestyreports.com
 amos5lynn.com
 amp-error-reporting.appspot.com
+ampcid.google.com
 ampugi334f.com
 ampush.io
 analiticoscdn.com
@@ -1382,6 +1386,7 @@ beacon.sftoaa.com
 beacon.tingyun.com
 beacon.v.dropbox.com
 beacon.walmart.com
+beacons.mediamelon.com
 beadbears.com
 beamincrease.com
 beamkite.com
@@ -1825,6 +1830,7 @@ cca-breeziest-in.cloudapp.net
 ccexperiments.oracleoutsourcing.com
 ccgateway.net
 ccmbg.com
+ccpmtrk.com
 ccsecurity-mail-inc.email
 ccsecurity-mail-inc.services
 ccumhss.com
@@ -2083,6 +2089,7 @@ cmytuok.top
 cnbcnews.email
 cnn24-7.online
 cnnnews.global
+cnnx.link
 coax7nice.com
 code203.ddns.net
 codeingasmylife.com
@@ -2393,6 +2400,7 @@ crazycat1.xyz
 crazypanda1.xyz
 crazypeacock1.xyz
 crazyrocket.io
+crealytics.com
 create2fear.com
 creditonebanklogin.live
 crimtan.com
@@ -2656,6 +2664,7 @@ dmaxjs.com
 dmtrk.net
 dmxleo.com
 dn-growing.qbox.me
+dnacdn.net
 dnckawxatc.com
 dnr51y6xj4.com
 dns-dns.com
@@ -3305,6 +3314,7 @@ gmail-service.online
 gmaile.org
 gmidkz5tgm.com
 gnar.grammarly.com
+gnetwork.me
 gnpge.com
 go.ro
 go2click.org
@@ -3486,6 +3496,7 @@ hg777hdorotosskot.info
 hg8cdp9g2m.com
 hg8dc7bm.com
 hghm4u7b61.com
+hgrtb.com
 hgub2polye.com
 hibids5.com
 hicpm10.com
@@ -3549,6 +3560,7 @@ hp7cjr78.com
 hqzjz7fncd.com
 hraparak.org
 hrj91nuwzu.com
+hrzn-nxt.com
 hs-scripts.com
 hs.eloqua.com
 hsadspixel.net
@@ -6377,6 +6389,7 @@ sendsmtp.com
 sentry-cdn.com
 sentry.io
 seo-fast.ru
+seoab.io
 seobundlekit.com
 seoconsultants.org
 seodollars.com
@@ -6610,6 +6623,7 @@ sj-syst.link
 sjdhqk.live
 sjpf.io
 sjremetrics.java.com
+sjv.io
 skilyake.net
 skrilln.net
 skye6oner.com
