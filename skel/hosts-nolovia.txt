@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-11-11 16:16:08
+# Generated at 2021-11-28 12:32:24
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -650,6 +650,7 @@ adxyield.com
 adzumi.com
 ae21a0ad95016488.com
 aeckcjy.com
+aentafmxkmhea.com
 aerserv.com
 aethiopiensidamo.de
 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
@@ -767,6 +768,7 @@ amp-error-reporting.appspot.com
 ampcid.google.com
 ampugi334f.com
 ampush.io
+amtminjo.com
 analiticoscdn.com
 analysis.fi
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
@@ -1965,6 +1967,7 @@ citwinery.com
 citymyworkday.com
 cityofberkeley.support
 citywiners.com
+cjezgbjbltos.com
 cjl58f3agc.com
 cjpufffy.hopto.org
 cjsanandreas.com
@@ -2951,6 +2954,7 @@ ezlp.io
 ezodn.com
 ezoic.com
 ezoic.net
+ezrvmxshalr.com
 ezskz4vee5.com
 ezua.com
 f-log-at.grammarly.io
@@ -3014,6 +3018,7 @@ fbprotector.com
 fc2.com
 fceptthis.biz
 fd7qz88ckd.com
+fdbtvavxtfvpbx.com
 fdsvtrwda.info
 feacebook-login.win
 fear7calk.com
@@ -3557,6 +3562,7 @@ hotlable.com
 hotmailhelplinenumber.com
 hox0u3ea48.com
 hp7cjr78.com
+hpljupfyb.com
 hqzjz7fncd.com
 hraparak.org
 hrj91nuwzu.com
@@ -4096,6 +4102,7 @@ jisusaiche.global.ssl.fastly.net
 jisusaiche.secure.footprint.net
 jjmdavj.com
 jkub.com
+jmuaoupnykie.com
 joaffs.com
 jody0sora.com
 johnevan227.ddns.net
@@ -4378,6 +4385,7 @@ lioiamcount.com
 liondigitalserving.com
 liqwid.com
 liqwid.solutions
+lirsmmnsaixa.com
 lisasmithpypl.com
 list1holp.com
 listrakb.com
@@ -4685,6 +4693,7 @@ mbsmetoo.com
 mcdn-report.wc.yahoodns.net
 mdelivry.com
 mdhv.io
+mdpszsqzs.com
 me-look-update-now.com
 meadowtitle.info
 measured.com
@@ -5784,6 +5793,7 @@ pymx5.com
 pypalcare.com
 pyq6n.com
 pyrrx6zyxy.com
+pzhuzlwjiymfos.com
 q0zsp5e3dv.com
 q111333.top
 q1connect.com
@@ -5806,6 +5816,7 @@ qlthub.support
 qmkr7isp3o.com
 qnageoh3ns.com
 qoe-1.yottaa.net
+qogbgxne.com
 qozveo.com
 qpc3hunbn2.com
 qpoe.com
@@ -7154,6 +7165,7 @@ tags.newscgp.com
 tags.rvere.com
 tags.tiqcdn.com.edgekey.net
 tagsrvcs.com
+tagtracking.vibescm.com
 talentedsteel.com
 talentino.ddns.net
 talk2none.com
@@ -7360,6 +7372,7 @@ track.bizjournals.com
 track.brnd.live
 track.canva.com
 track.cj.akadns.net
+track.cordial.io
 track.klickly.com
 track.opossumsauce.com
 track.thesaurus.com
@@ -7674,6 +7687,7 @@ uttermosthobbies.com
 utubedelivery.com
 uxbewzrfyp.com
 uxxr80jwng.com
+uyechyymr.com
 uymkdz9s.com
 v3rjvtt.com
 va-endpoint.com
@@ -8405,6 +8419,7 @@ zahlungsverifikation-abgleich.biz
 zain.network
 zaius.com
 zallmytextmessagescipq1.info
+zaomavzcoww.com
 zapplestore.com
 zarget.com
 zbs9uwl4xy.com
