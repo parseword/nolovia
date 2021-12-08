@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-11-28 12:32:24
+# Generated at 2021-12-07 21:38:26
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -836,6 +836,7 @@ antivirus-scanner.com
 antivirus-upgrade.com
 antrively-enland.com
 antsprogrammatic.com
+anuanage.info
 anura.io
 anxiousapples.com
 anyclip-media.com
@@ -2929,6 +2930,7 @@ eventlog.bradsdeals.com
 eventlog.jackpot.de
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 evidon.com
+evocterm.com
 evs.pink-boat.fool.com
 evts.creately.com
 exceptionless.io
@@ -3644,6 +3646,7 @@ ibclick.stream
 ibeat-analytics.com
 ibillboard.com
 ibmoption.com
+iceanedy.com
 iciould.services
 icl0ud-iphone.com
 icl0ud-locked-detail.com
@@ -5139,12 +5142,14 @@ nimiq.com
 nimiq.net
 nimiq.network
 ninfeed.com
+ninhaine.com
 ninicloud.com
 ninja-445.ddns.net
 ninjaoutreach.com
 ninstream.com
 ninth.biz
 ninthdecimal.com
+nisdably.com
 nitropay.com
 nlwy0.com
 nmcyclingexperience.com
@@ -6050,6 +6055,7 @@ restart-membership-netfilx.com
 restoreappleid-apple.com
 restrictedpagesapple.com
 resulotions-ppa.com
+retoti.com
 retrowebdoc.us
 reubenwebsite.ru
 reunlock-services-accountapple.com
@@ -6158,6 +6164,7 @@ rum.uptime.com
 rumtest-aka.ts.mtvnservices.com
 run2anywhere.com
 runmewivel.com
+runmodes.com
 runspanni.com
 runtnc.net
 rupn6r2g.com
@@ -7459,6 +7466,7 @@ true2file.com
 truefilen32.com
 truefree.pw
 trueleadid.com
+trumops.com
 trumphotel.net
 trumpnationallosangeles.email
 trumporganization.world
@@ -7916,6 +7924,7 @@ voicevegetable.com
 voievnenibrinw.com
 voksmtp.com
 vols7feed.com
+voltronwork.com
 volume-login-key-349388231231291.ru
 voluum.com
 volvelle.tech
@@ -8400,6 +8409,7 @@ yr9n47004g.com
 yrxrbha.com
 ys3e965d.top
 ysz6cn9w6x.com
+yturu.com
 yu6v3nhnsl.com
 yudexjr.com
 yusp.com
