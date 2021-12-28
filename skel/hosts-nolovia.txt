@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-12-07 21:38:26
+# Generated at 2021-12-27 21:03:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -679,6 +679,7 @@ afftrack.com
 afftrck.com
 afraidlanguage.com
 afterscripts.com
+aftv-serving.bid
 agencyorquidea.com
 aggregateiq.com
 agilecrm.com
@@ -786,6 +787,7 @@ analytics.blue
 analytics.businessinsider.com
 analytics.chegg.com
 analytics.cincopa.com
+analytics.cloud.coveo.com
 analytics.comalatech.io
 analytics.dnnapi.com
 analytics.dvidshub.net
@@ -1313,6 +1315,7 @@ awzbijw.com
 axclick.store
 axiomaticalley.com
 axmstw8mkn.com
+ay.delivery
 ay.gy
 ayads.co
 ayc0zsm69431gfebd.info
@@ -1402,6 +1405,7 @@ beforescripts.com
 begemotventures.com
 beget.tech
 beijingvampires.com
+belexglokmpld.com
 bemitho.com
 benn8bord.com
 benthose.com
@@ -1875,6 +1879,7 @@ center-intl-suport.com
 centionbreased.info
 cerebro.edna.yahoo.net
 ceros.com
+ceryhtjge.xyz
 cfgcpyqx40di.changeip.com
 cfigroup.com
 cfqpxzx.com
@@ -1988,6 +1993,7 @@ class2deal.com
 classifiedlookup.com
 classifieds2000.com
 clcktrk.com
+cldtefnt.net
 clean.gg
 cleanads.net
 cleanmedia.net
@@ -2267,6 +2273,7 @@ com-webapps-securepolicy.net
 com-webappsscurekontloekevingedinemen.com
 com-x90123jfm.com
 com-your-account-hasbeen-limited-id.com
+comation-visonging.com
 comdocfer.us
 comfortablecheese.com
 comlogin.online
@@ -2386,6 +2393,7 @@ costumerservice.community
 count-staging.api.pgs.io
 count.api.pgs.io
 country-blocker.zend-apps.com
+counts.air.tv
 coup7cold.com
 coxmt.com
 cp9t71b6ip.com
@@ -3003,6 +3011,7 @@ fasta.xyz
 fastagilelink.com
 fastbase.com
 fastlscripts.com
+fastrk1.com
 fasttrack-ignite.com
 fatchilli.media
 fatcoil.com
@@ -4221,6 +4230,7 @@ keqi7dh3df.com
 kerumal.com
 ketdocwel.us
 keywee.co
+keznews.com
 kfqked6fgj.com
 kidone.xyz
 kilo6alga.com
@@ -4933,6 +4943,7 @@ mybestmv.com
 mybitcoinmastercard.com
 mycarddetailsverify.com
 mycloudtrusted.com
+mycounter.net
 mycrypto.company
 mycrypto.group
 mycrypto.ink
@@ -5549,8 +5560,10 @@ pingback.issuu.com
 pingma.qq.com
 pinnterest.com
 pinpointpotato.com
+pipaffiliates.com
 piquantpigs.com
 piquantstove.com
+piwik.d3vcloud.com
 piwik.pro
 pix.pub
 pixel-a.basis.net
@@ -5607,6 +5620,7 @@ politegoldfish.com
 polyicloudfinder.com
 ponystudent.win
 pool0852.hopto.org
+poonstate.click
 poor5zero.com
 pop6.com
 popkit.club
@@ -5701,6 +5715,7 @@ profiles.wsls.com
 profitrumour.com
 profusesupport.com
 proofpark.com
+propeller-tracking.com
 propelmedia.com
 proper.io
 propermessage.io
@@ -6074,6 +6089,7 @@ reviewaccountlogin.com
 reviewservicelimitedaccountsrv.com
 revital-travel.com
 revjet.com
+revmasters.com
 rewards-litecoin.win
 rexrtb.com
 reyweb.com
@@ -6085,6 +6101,7 @@ rgvqcsxqge.com
 rhetoricalloss.com
 rhnw4h506h.com
 rhombusads.com
+rhxdsplm.com
 rhymezebra.com
 rhythmmoney.com
 rhythmone.com
@@ -6133,6 +6150,7 @@ royal-submitverifcations.com
 royalbank-verification2.com
 rpptrk.com
 rrlivehelp.com
+rro-ads.com
 rrtcfwmvhs.com
 rs-stripe.com
 rset-update.com
@@ -6942,6 +6960,7 @@ stats.berkman.harvard.edu
 stats.biotrust.com
 stats.datawrapper.de
 stats.heyoya.com
+stats.justpaste.it
 stats.klevu.com
 stats.monohost.com
 stats.rbl.ms
@@ -7664,6 +7683,7 @@ urlife2all.com
 urnachay.com
 us-central1-amp-error-reporting.cloudfunctions.net
 us-track.sync.tv
+us-track.wayin.com
 usageanalytics.coveo.com
 usbktransact.com
 uscert.top
@@ -7942,6 +7962,7 @@ vuserjs.com
 vuukle-analytics.appspot.com
 vuukle.com
 vvpcdke43x.com
+vvqknwws.com
 vvvvvv-apple.com
 vvvvvv-icloud.com
 vwvw-apple.com
@@ -8199,6 +8220,7 @@ www1-cserviceapple.com
 www1-cservicepaeyipal.com
 www1.biz
 wwwacessocooopnore.com
+wwwbarclaycardus.com
 wwwcrediplanacesso.com
 wwwhost.biz
 wwwwmobisantander.com
