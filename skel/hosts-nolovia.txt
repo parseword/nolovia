@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-12-28 15:38:28
+# Generated at 2021-12-30 14:58:54
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3539,6 +3539,7 @@ hipstarclub.com
 hiremilitaryheroes.com
 hiss3lark.com
 historicalrequest.com
+hit.inkfrog.com
 hit.uptrendsdata.com
 hitcpm.com
 hitleap.com
