@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2021-12-30 14:58:54
+# Generated at 2022-01-03 11:41:21
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2115,6 +2115,7 @@ coinbaseverifier.com
 coinsandtokens.io
 coinzilla.com
 coinzillatag.com
+collect.chat
 collect.cloudsponge.com
 collect.lngtd.com
 collectandgather.com
@@ -2398,6 +2399,8 @@ costumer-account-update.com
 costumerservice.community
 count-staging.api.pgs.io
 count.api.pgs.io
+counter.edlio.com
+counter.joeldare.com
 country-blocker.zend-apps.com
 counts.air.tv
 coup7cold.com
@@ -5378,6 +5381,7 @@ ourhobby.com
 ourjra52fullexchgm.duckdns.org
 ours3care.com
 outbrainimg.com
+outfunnel.com
 outlook-services.com
 outlookabsorb.com
 outlookservices.live
@@ -5434,6 +5438,7 @@ pasword-recovery.com
 path5wall.com
 patronim.com
 paula-secundinus.com
+pause.ameo.dev
 pavpal-me.com
 paxful-logins.com
 payclick.it
@@ -6253,6 +6258,7 @@ sajari.com
 salaure.pro
 salemove.com
 salesforceliveagent.com
+salesiq.zohopublic.com
 samba.tv
 samescripts.com
 samestretch.com
@@ -6433,6 +6439,7 @@ sender.gb.net
 sendpulse.com
 sendsmtp.com
 sentry-cdn.com
+sentry.ameo.design
 sentry.io
 seo-fast.ru
 seoab.io
