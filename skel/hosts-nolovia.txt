@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-01-03 11:41:21
+# Generated at 2022-01-06 13:57:44
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3252,6 +3252,7 @@ gate.hockeyapp.net
 gaudybeginner.com
 gaza2lote.com
 gb0rd.com
+gc-ingress-prod.danzz.ch
 gcion.com
 gctatic.com
 gctatics.com
@@ -4469,6 +4470,7 @@ log-direct.edge.quora.com
 log-ins.us
 log-sign.us
 log.bc.aarp.org
+log.hitsteps.net
 log.outbrain.org
 log.outbrainimg.com
 log.propermessage.io
@@ -7417,6 +7419,7 @@ track.canva.com
 track.cj.akadns.net
 track.cordial.io
 track.klickly.com
+track.nzz.ch
 track.opossumsauce.com
 track.thesaurus.com
 track.volo-mobile.com
@@ -7429,6 +7432,7 @@ tracker.iws.vc
 tracker.metricool.com
 tracker.smadex.com
 tracker.unbxdapi.com
+trackimo.com
 tracking-sales-pop.carecart.io
 tracking.aegpresents.com
 tracking.api.shoppinggives.com
@@ -8093,6 +8097,7 @@ websevervaliidation.xyz
 websevervaliidationneeded.info
 websevervaliidationneeded.xyz
 websignin-secure-payment-update.com
+websitepolicies.io
 webssl-apple.com
 webstatistic.pw
 webstatistic.ws
