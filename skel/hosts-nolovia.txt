@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-01-06 13:57:44
+# Generated at 2022-01-15 15:22:25
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -590,6 +590,7 @@ adsame.com
 adsbtrack.com
 adsbtrk.com
 adscale.com
+adsco.re
 adscompass.com
 adserver-public-cdn.afd.azureedge.net
 adserver.us-east1.prod.chicoryapp.com
@@ -809,6 +810,7 @@ analytics.roboturk.co
 analytics.rosehosting.com
 analytics.schoolwires.com
 analytics.snidigital.com
+analytics.stacker.com
 analytics.supplyframe.com
 analytics.syndeca.com
 analytics.tiktok.com
@@ -3252,6 +3254,8 @@ gate.hockeyapp.net
 gaudybeginner.com
 gaza2lote.com
 gb0rd.com
+gbqofs.com
+gbqofs.io
 gc-ingress-prod.danzz.ch
 gcion.com
 gctatic.com
@@ -5578,6 +5582,7 @@ pinpointpotato.com
 pipaffiliates.com
 piquantpigs.com
 piquantstove.com
+pitchleads.com
 piwik.d3vcloud.com
 piwik.pro
 pix.pub
@@ -5770,6 +5775,8 @@ push.world
 pushalert.co
 pushalertjs-vbfhp6w.stackpathdns.com
 pushbrothers.com
+pushmaster-cdn.xyz
+pushmaster-in.xyz
 pushnami.com
 pushowl.com
 pushpad.xyz
