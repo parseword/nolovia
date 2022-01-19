@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-01-15 15:22:25
+# Generated at 2022-01-19 12:21:26
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -884,6 +884,7 @@ app-signs.us
 app-updtscure.com
 app-us1.com
 app.link
+app.statuscake.com
 app.tv
 appanalysis.banggood.com
 appboy.com
@@ -1582,6 +1583,7 @@ blue.kwbq.com
 blue.kwgn.com
 blue.kxan.com
 blue.kxnet.com
+blue.localdvm.com
 blue.localsyr.com
 blue.myarklamiss.com
 blue.mychamplainvalley.com
@@ -2785,6 +2787,7 @@ dynamicdns.biz
 dynamicdns.co.uk
 dynamicdns.me.uk
 dynamicdns.org.uk
+dynamicyield.com
 dyndns.pro
 dynssl.com
 dzjv9gbu8a.com
