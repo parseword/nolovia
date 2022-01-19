@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-01-19 12:21:26
+# Generated at 2022-01-19 14:41:41
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5722,6 +5722,7 @@ privacyform.com
 privacymanager.io
 privatejs.com
 privatixjs.com
+prmutv.co
 pro-market.net
 proads.space
 proclivitysystems.com
@@ -7421,12 +7422,14 @@ tport9.com
 tqff3qkzsq.com
 trace-device.us
 tracedesire.com
+track-latency.cmcassets.com
 track-v2.funnelytics.io
 track.beyondmenu.com
 track.bizjournals.com
 track.brnd.live
 track.canva.com
 track.cj.akadns.net
+track.cmcassets.com
 track.cordial.io
 track.klickly.com
 track.nzz.ch
