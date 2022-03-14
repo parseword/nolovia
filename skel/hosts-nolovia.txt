@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-03-04 20:32:39
+# Generated at 2022-03-14 14:07:13
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5600,6 +5600,7 @@ pixel-static.spotify.com
 pixel.app.returnpath.net
 pixel.archive.fo
 pixel.archive.is
+pixel.archive.ph
 pixel.dataprovider.com
 pixel.getshogun.com
 pixel.legit.ng
