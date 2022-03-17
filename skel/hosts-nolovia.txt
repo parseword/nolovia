@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-03-14 14:07:13
+# Generated at 2022-03-16 20:30:37
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -805,7 +805,9 @@ analytics.linktr.ee
 analytics.myfidevs.io
 analytics.newscred.com
 analytics.nextopia.net
+analytics.pixels.ai
 analytics.prd.web1.wipo.int
+analytics.prng.co
 analytics.proofapi.com
 analytics.publitas.com
 analytics.roboturk.co
@@ -2409,6 +2411,7 @@ count-staging.api.pgs.io
 count.api.pgs.io
 counter.edlio.com
 counter.joeldare.com
+counter.unian.net
 country-blocker.zend-apps.com
 counts.air.tv
 coup7cold.com
@@ -3123,6 +3126,7 @@ fisrtinlogin.com
 fiv2yl8dct.com
 fivecdm.com
 fivzzu1vyo.com
+fixidle.com
 fixionmedia.com
 fjobiwouldli.biz
 fkbwtoopwg.com
@@ -3398,6 +3402,7 @@ gossipmiser.com
 got-game.org
 gothamads.com
 gotoip55.com
+gotprofits.com
 gov-secure.co.uk
 govfree.pw
 govsecure.co.uk
