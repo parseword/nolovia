@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-03-16 20:30:37
+# Generated at 2022-03-27 15:58:20
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2131,6 +2131,8 @@ collectandgather.com
 collectiveuk.com
 collector-dev.cdp-dev.cnn.com
 collector-direct.xhamster.com
+collector-testing.countable.us
+collector-web.countable.us
 collector.cdp.cnn.com
 collector.github.com
 collector.githubapp.com
