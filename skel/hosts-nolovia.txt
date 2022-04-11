@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-03-27 15:58:20
+# Generated at 2022-04-11 11:46:06
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -484,6 +484,7 @@ actonsoftware.com
 actuallysheep.com
 actuallysnake.com
 acxiomapac.com
+ad-auris-logging-db-l72twop3ra-uc.a.run.app
 ad-back.net
 ad-cache.tabarn.app
 ad-generation.jp
@@ -1738,6 +1739,7 @@ broadcastbed.com
 broaddoor.com
 brontocdn.com
 brownpanda1.xyz
+browser-intake-datadoghq.com
 browser.events.data.microsoft.com
 browserhawk.com
 browsers.support
@@ -7057,6 +7059,7 @@ storygize.com
 storygize.net
 stoveseashore.com
 stpd.cloud
+stracking.one
 straffic.io
 straightnest.com
 straightschool.com
