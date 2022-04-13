@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-04-12 19:27:59
+# Generated at 2022-04-13 14:25:29
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -7461,6 +7461,7 @@ track.wayin.com
 track.wickedreports.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.affirm.com
+tracker.derekr.com
 tracker.iws.vc
 tracker.metricool.com
 tracker.ntunhs.net
