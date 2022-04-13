@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-04-11 11:46:06
+# Generated at 2022-04-12 19:27:59
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2930,6 +2930,7 @@ esputnik.com
 essentialetimes.com
 essztednsbk.ddns.net
 estara.com
+estatcounter.com
 et-etransfer-interact-trusted.com
 et-interac-etransfer-payment.com
 et-transfer1-interac1.com
@@ -7462,6 +7463,7 @@ tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.affirm.com
 tracker.iws.vc
 tracker.metricool.com
+tracker.ntunhs.net
 tracker.smadex.com
 tracker.unbxdapi.com
 trackimo.com
