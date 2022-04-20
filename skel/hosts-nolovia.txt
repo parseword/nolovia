@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-04-13 14:25:29
+# Generated at 2022-04-20 08:50:49
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -802,6 +802,7 @@ analytics.govinfo.gov
 analytics.hotyon.com
 analytics.inform.com
 analytics.jst.ai
+analytics.kapost.com
 analytics.linktr.ee
 analytics.myfidevs.io
 analytics.newscred.com
@@ -1741,6 +1742,7 @@ brontocdn.com
 brownpanda1.xyz
 browser-intake-datadoghq.com
 browser.events.data.microsoft.com
+browser.events.data.msn.com
 browserhawk.com
 browsers.support
 browsiprod.com
@@ -6142,6 +6144,7 @@ rezync.com
 rfihub.com
 rfihub.net
 rfjejnfjnefje.com
+rftslb.com
 rgvqcsxqge.com
 rhetoricalloss.com
 rhnw4h506h.com
@@ -7007,6 +7010,7 @@ statistic-info.me
 stats-new.smugmug.com
 stats.berkman.harvard.edu
 stats.biotrust.com
+stats.bt4g.org
 stats.datawrapper.de
 stats.heyoya.com
 stats.justpaste.it
@@ -8280,6 +8284,7 @@ www1-cserviceapple.com
 www1-cservicepaeyipal.com
 www1.biz
 wwwacessocooopnore.com
+wwwanalytics.novanthealth.org
 wwwbarclaycardus.com
 wwwcrediplanacesso.com
 wwwhost.biz
