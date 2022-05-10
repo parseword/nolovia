@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-04-20 08:50:49
+# Generated at 2022-05-09 21:58:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1741,6 +1741,7 @@ broaddoor.com
 brontocdn.com
 brownpanda1.xyz
 browser-intake-datadoghq.com
+browser-intake-datadoghq.eu
 browser.events.data.microsoft.com
 browser.events.data.msn.com
 browserhawk.com
@@ -3282,6 +3283,7 @@ gctatics.com
 gddomainparking.com
 gdocs.download
 gdpr-app.firebaseapp.com
+gdprcdn.b-cdn.net
 ge-stion.com
 gekkopush.com
 gemini.yahoo.com
@@ -7472,6 +7474,7 @@ tracker.ntunhs.net
 tracker.smadex.com
 tracker.unbxdapi.com
 trackimo.com
+tracking-na.hawksearch.com
 tracking-sales-pop.carecart.io
 tracking.aegpresents.com
 tracking.api.shoppinggives.com
