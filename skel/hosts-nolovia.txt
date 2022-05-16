@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-05-09 21:58:48
+# Generated at 2022-05-16 12:10:00
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5361,6 +5361,7 @@ ooq5z.com
 opecloud.com
 openads.com
 opendingweb.us
+openfpcdn.io
 openx.jp
 openxadexchange.com
 openxenterprise.com
