@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Copyright 2015, 2021 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
+ * Copyright 2015, 2022 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
  * Repository: <https://github.com/parseword/nolovia>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -24,7 +24,7 @@
  * EasyList at https://github.com/easylist/easylist
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Dan Pollock at http://someonewhocares.org/hosts/
- * Malicious Hosts Blocklist at https://gitlab.com/curben/urlhaus-filter
+ * Malicious Hosts Blocklist at https://malware-filter.gitlab.io/
  * smed79 at https://github.com/smed79/blacklist/
  * Spammer Slapper at http://spammerslapper.com/
  * Vetyt Yhonay at https://github.com/Yhonay/antipopads/
@@ -61,7 +61,7 @@ define('REGEX_MULTIPART_TLD',
     '/\.(com?|org?|inc)\.(ar|au|bo|br|cc|cn|co|id|il|in|hk|jp|kr|kz|mx|nz|ph|pt|rs|tr|ua|uk|uy|vn|za)$/');
 
 //Should we send a non-blank User-Agent when fetching web resources?
-ini_set("user_agent", "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0");
+ini_set("user_agent", "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0");
 
 //Set up the resolvers we're going to generate config files for
 $resolvers = array();
@@ -195,7 +195,7 @@ $serverLists[] = $sl;
 
 $sl = new ServerList('Malicious Hosts Blocklist');
 $sl->setFilePath('./data/hosts-malicious-hosts-blocklist.txt');
-$sl->setUri('https://curben.gitlab.io/malware-filter/urlhaus-filter-hosts.txt');
+$sl->setUri('https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-hosts.txt');
 $sl->setMinimumExpectedBytes(10240);
 $sl->setValidationText('Malicious Hosts Blocklist');
 $sl->setReplacePatterns(array('|^0.0.0.0(\s+)|m'));
