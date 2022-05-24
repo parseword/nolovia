@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-05-22 20:20:37
+# Generated at 2022-05-24 12:09:56
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -847,6 +847,7 @@ anon-stats.eff.org
 anselbakery.com
 answerscloud.com
 anthill.instapage.com
+anti-theft-web.herokuapp.com
 antistrophebail.com
 antivirus-scanner.com
 antivirus-upgrade.com
