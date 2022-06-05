@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-05-24 12:09:56
+# Generated at 2022-06-05 12:47:44
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -782,6 +782,7 @@ ampush.io
 amtminjo.com
 analiticoscdn.com
 analysis.fi
+analytics-api.cerebra.tech
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 analytics-egain.com
 analytics-google.net
@@ -1890,6 +1891,7 @@ cdn.firstpromoter.com
 cdn.matomo.cloud
 cdn.sift.com
 cdn1272serve.xyz
+cdnads.geeksforgeeks.org
 cdnassels.com
 cdnbronto.com
 cdnbronto.info
@@ -2632,6 +2634,7 @@ decisiveducks.com
 decoroustitle.com
 decoycreation.com
 ded733b374cc1c3f.com
+deep-water.anchor.host
 deep.bi
 deepintent.com
 deepmarkit.com
@@ -2704,6 +2707,7 @@ dimorphism.stream
 dionbeno.me
 diplomahawaii.com
 direct-verified.com
+direct.applog-lb-texas.useast5.byteoversea.net
 directnative.com
 directref-paymobility1.com
 directrev.com
@@ -2805,6 +2809,7 @@ drberg.store
 dripappliance.com
 driverequest.com
 drivingdirt.com
+dropboxfingerprintjs.com
 dropped-clicks.com
 drossel.me
 drpbx-update.net
@@ -3234,6 +3239,7 @@ foureyes.io
 fourfork.com
 foxpush.com
 foxsmtp.com
+fpapi.io
 fqvkntefmd.com
 fraddation-pyments-acounting.com
 frailoffer.com
@@ -3854,6 +3860,7 @@ id-suspensionintlgetaccount.com
 id-unlock-account.com
 id-verifylockedaccount.com
 id-visitors.com
+id.ansible.com
 id5-sync.com
 id5.io
 idappleconfirmaccount.com
