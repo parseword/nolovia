@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-06-05 12:47:44
+# Generated at 2022-06-06 15:09:03
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -603,6 +603,7 @@ adservices.brandcdn.com
 adsfirstsun.com
 adshort.co
 adskeeper.com
+adsninja.ca
 adsolut.in
 adspayformymortgage.win
 adspruce.com
