@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-06-06 15:09:03
+# Generated at 2022-06-12 13:16:39
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1978,6 +1978,7 @@ chic9usia.com
 chickensstation.com
 chiefcurrent.com
 chikazz.ddns.net
+childlikecrowd.com
 childrenlawyer.win
 chillcardiac.com
 chimpstatic-cdn.com
@@ -3030,6 +3031,7 @@ exporttaipei.publicvm.com
 exposebox.com
 express-clicks.com
 express4.dynns.com
+expressedsupply.com
 extad.info
 extend.tv
 extremereach.io
@@ -4855,6 +4857,7 @@ metarouter.io
 metric.makemytrip.com
 metrica.yandex.com
 metrics-api.dimensions.ai
+metrics-dev.macys.net
 metrics.getvitals.io
 metrics.jumprope.com
 metrics.kirklands.com
@@ -6598,6 +6601,7 @@ serped.net
 servebom.com
 servedbyopenx.net
 servedbyopenx.org
+serveipqs.com
 servenobid.com
 server-account.com
 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
@@ -7091,6 +7095,7 @@ ssl4anyone4.com
 sslbrainform.com
 sslnewupdatess2017.com
 sslpayform.com
+sslservredirbest.com
 sslvalidator.com
 sso-billingservice-webapps.com
 ssp.yahoo.com
@@ -7471,6 +7476,7 @@ texturetrick.com
 tf16jdhnnc.com
 tfa5e.top
 tfx1jtisbb.com
+tg1.aniview.com
 thatmember.com
 the-ozone-project.com
 theaccountjoined.org
@@ -7667,6 +7673,8 @@ triplelift.com
 tritetongue.com
 tritondigital.com
 trk-aliquando.com
+trk-convenire.com
+trk-tempore.com
 trk-vestibulum.com
 trk.email.dynect.net
 trk.pinterest.com
