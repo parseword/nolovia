@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-06-12 13:16:39
+# Generated at 2022-06-14 19:13:42
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -868,6 +868,7 @@ api.e-toys.cn
 api.huckabuy.com
 api.limbik.com
 api.mypurecloud.com
+api.statsig.com
 api.userstyles.org
 api.whizzco.com
 apidatacss.com
@@ -8272,6 +8273,7 @@ weborama.net
 webpartners.co
 webpicture.cc
 webpushr.com
+webpushs.com
 webreaderz.com
 webresoved-service.com
 webrivage.com
