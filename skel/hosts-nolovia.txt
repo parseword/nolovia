@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-06-14 19:13:42
+# Generated at 2022-07-09 14:56:38
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1448,6 +1448,7 @@ bestcontentfood.top
 bestdisplayformats.com
 bestemailverificator.com
 bestprizesday4.life
+bestrevie.ws
 bestsecuritysearch.com
 betsransfercomunications.org
 bettermetrics.co
@@ -1888,6 +1889,7 @@ cdn-googleservice.com
 cdn-jquery.com
 cdn-js.link
 cdn.asf4f.us
+cdn.bestreviews.com
 cdn.familyfocus.us
 cdn.firstpromoter.com
 cdn.matomo.cloud
@@ -7634,6 +7636,7 @@ tracking.sezzle.com
 tracking.shopstyle.com
 tracking.skyword.com
 tracking.socketlabs.com
+tracking.univtec.com
 trackingapp.info
 trackjs.com
 trackmyshows.tv
