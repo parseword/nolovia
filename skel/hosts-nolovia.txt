@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-07-09 14:56:38
+# Generated at 2022-07-12 20:11:43
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -795,6 +795,7 @@ analytics.anarc.at
 analytics.anvato.net
 analytics.audioeye.com
 analytics.batesvilletechnology.com
+analytics.bestreviews.com
 analytics.blue
 analytics.businessinsider.com
 analytics.chegg.com
@@ -2133,6 +2134,13 @@ cloudtrusted.org
 clowsulin-detplier.com
 clrstm.com
 clue6load.com
+cm.azcentral.com
+cm.commercialappeal.com
+cm.jsonline.com
+cm.tennessean.com
+cm.theleafchronicle.com
+cm.tuscaloosanews.com
+cm.usatoday.com
 cmbestsrv.com
 cmcore.com
 cmdscan.info
@@ -2807,6 +2815,7 @@ dpypzvjarj.com
 dq95d35.com
 drabsize.com
 draconiancurve.com
+draftkings.bbgi.com
 dragzebra.com
 drawservant.com
 drberg.online
@@ -5825,6 +5834,7 @@ previsibilisais.website
 prf.hn
 prfdesk.pro
 primeviref.com
+primis.tech
 prince.hackermind.info
 printerplasma.com
 printertender.be
