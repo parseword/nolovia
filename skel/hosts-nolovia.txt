@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-07-12 20:11:43
+# Generated at 2022-07-18 21:28:28
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2136,6 +2136,7 @@ clrstm.com
 clue6load.com
 cm.azcentral.com
 cm.commercialappeal.com
+cm.dispatch.com
 cm.jsonline.com
 cm.tennessean.com
 cm.theleafchronicle.com
@@ -6260,6 +6261,7 @@ rezync.com
 rfihub.com
 rfihub.net
 rfjejnfjnefje.com
+rfpx1.com
 rftslb.com
 rgvqcsxqge.com
 rhetoricalloss.com
@@ -7622,6 +7624,7 @@ tracker.derekr.com
 tracker.iws.vc
 tracker.metricool.com
 tracker.ntunhs.net
+tracker.ranker.com
 tracker.smadex.com
 tracker.unbxdapi.com
 trackimo.com
