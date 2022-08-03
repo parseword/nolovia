@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-07-18 21:28:28
+# Generated at 2022-08-03 10:25:13
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1414,6 +1414,7 @@ beacon.aimtell.com
 beacon.by
 beacon.dropbox.com
 beacon.lynx.cognitivlabs.com
+beacon.qq.com
 beacon.riskified.com
 beacon.searchspring.io
 beacon.sftoaa.com
@@ -3294,6 +3295,7 @@ frontstatics.com
 ftp1.biz
 ftpserver.biz
 fullstory.com
+functionads.com
 functionalclam.com
 functionalcrown.com
 funnyairplane.com
@@ -3311,6 +3313,7 @@ g-analytics.com
 g-cloud.pro
 g-cloud.win
 g-statistic.com
+g10300385420.co
 g1hmcmp.com
 g1xgeb82nj.com
 g22rbb7.com
@@ -5519,6 +5522,7 @@ ovalpigs.com
 overconfidentfood.com
 overratedchalk.com
 ovnwislxf.info
+ovz1.j19544519.pr46m.vps.myjino.ru
 owen6000.hopto.org
 owlsr.us
 oyi9f1kbaj.com
