@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-08-03 10:25:13
+# Generated at 2022-08-08 15:25:43
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5539,6 +5539,7 @@ page-account.info
 page-appleid-apple.com
 page-signin-access-webapps.com
 page1monk.com
+pageimprove.io
 pages-signin.top
 pages-stats.rbl.ms
 pagesense-collect.zoho.com
@@ -5729,6 +5730,7 @@ pixel.newscred.com
 pixel.parsely.com
 pixel.patch.com
 pixel.retargetapp.com
+pixel.roughgroup.com
 pixel.rubiconproject.net.akadns.net
 pixel.spotify.com
 pixel.tatpek.com
@@ -5761,6 +5763,7 @@ pmadx.com
 pmi5media.com
 pndelfast.com
 pochtarossiy.info
+pocketfaucet.com
 pocketmath.com
 podiumpresto.com
 pointlessrifle.com
@@ -5775,6 +5778,7 @@ ponystudent.win
 pool0852.hopto.org
 poonstate.click
 poor5zero.com
+pop-convert.com
 pop6.com
 popkit.club
 popmyads.com
@@ -7161,6 +7165,7 @@ stats.heyoya.com
 stats.justpaste.it
 stats.klevu.com
 stats.monohost.com
+stats.planespotters.net
 stats.rbl.ms
 stats.streamhub.io
 stats.vidalytics.com
@@ -8201,6 +8206,8 @@ vwvw-apple.com
 vwvw-icloud.com
 vy4e3jw46l.com
 vyperps.no-ip.biz
+w3-reporting-nel.reddit.com
+w3-reporting.reddit.com
 w55c.net
 w6lkr4s8wu.com
 wa-solutation-limited.com
