@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-08-08 15:25:43
+# Generated at 2022-09-03 10:59:33
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -23,6 +23,7 @@
 0h6djpk8fn.com
 0i0i0i0.com
 0j7z9aw6.top
+0knw2300.mypressonline.com
 0n55f9zgy7.com
 0naa190101.mobi
 0pe.kr
@@ -83,6 +84,9 @@
 2020mustang.com
 206ads.com
 2112.bounceme.net
+21nari.getenjoyment.net
+21nari.mypressonline.com
+21nari.scienceontheweb.net
 24counter.com
 24gossip.net
 24vunvrv.com
@@ -1995,12 +1999,14 @@ chinchickens.com
 chinsnakes.com
 chip2gift.com
 chk-update.com
+chmguide.atwebpages.com
 chocolateplatform.com
 choicepoint.com
 choozle.com
 chriswork999.ddns.net
 chuksthedon.duckdns.org
 chunkycactus.com
+chunyg21.sportsontheweb.net
 churnsignal.com
 ci-mpsnare.iovation.com
 cibconline-verifications.com
@@ -3110,6 +3116,7 @@ fatcoil.com
 fathomdns.com
 faultycanvas.com
 faultyfowl.com
+faust22.mypressonline.com
 faxqaaawyb.com
 fb-accountinformation.com
 fbcdnads.live
@@ -3117,6 +3124,7 @@ fbcommerse.com
 fbkingsuk.s3.amazonaws.com
 fblogin.me
 fbmusic.com
+fbot.me
 fbprotector.com
 fc2.com
 fceptthis.biz
@@ -3363,6 +3371,7 @@ geo-targetly.com
 geo-tracker.smadex.com
 geoadnxs.com
 geoedge.be
+geoedge.com
 geoip.alm.com
 geoip.ifunny.co
 geolocation.onetrust.com
@@ -3371,6 +3380,7 @@ get-confirmation.com
 get-free-gitf.com
 get-login.com
 get-refund1.com
+get-report.site
 get-verived-account.com
 getadmiral.com
 getambassador.com
@@ -3426,6 +3436,7 @@ glassboxcloud.com
 glassboxdigital.com
 gld35wndkn.com
 gleamingtrade.com
+glib-warnings.000webhostapp.com
 globalip.melissadata.net
 globalnetworkissues.com
 globalsiteanalytics.com
@@ -3451,6 +3462,7 @@ gobrowsi.com
 golangwq.info
 goldman-travel.com
 golp4elik.com
+gonamod.com
 gondolagnome.com
 goo2anywhere.com
 goo4anywhere.com
@@ -3658,6 +3670,14 @@ hloginnow.net
 hm732.com
 hmv9mvx5.top
 hnnp4ixxkl.com
+hochdlincheon.mypressonline.com
+hochuliasdfasfdncheon.mypressonline.com
+hochulidncheon.mypressonline.com
+hochulincddheon.mypressonline.com
+hochulincheon.mypressonline.com
+hochulindcheon.mypressonline.com
+hochulindddcheon.mypressonline.com
+hochulinsfdgasdfcheon.mypressonline.com
 hockeyapp.net
 hognoob.se
 hollowshake.com
@@ -4307,6 +4327,7 @@ jshosting.win
 jsmagento.com
 jsoktin.sytes.net
 jspoi.com
+jst.ai
 jua05myfbe.com
 juicenectar.com
 jumhuria.com
@@ -4379,9 +4400,12 @@ knottysticks.com
 konferenciya-zoom.com
 koo6myletj.com
 korea-tax.info
+koreajjjjj.atwebpages.com
+koreajjjjj.sportsontheweb.net
 korrelate.net
 kota3chat.com
 kpr2exp21.com
+kpsa20201.getenjoyment.net
 krnwhyvq.info
 kro.kr
 krogermastervard.com
@@ -4454,6 +4478,8 @@ leadzupc.com
 leanplum.com
 leanproconsulting.com.br
 leaplunchroom.com
+leehr24.mywebcommunity.org
+leehr36.mypressonline.com
 left5lock.com
 leftliquid.com
 legalmember.info
@@ -5365,6 +5391,7 @@ o-payments.website
 o1mmijc4ki.com
 o1o6tadz5p.com
 o4uxrk33.com
+o61666ch.getenjoyment.net
 o6ek91ag15.com
 o7coh5tlwb.com
 o8q80l1z.top
@@ -6609,6 +6636,7 @@ sentry-cdn.com
 sentry.ameo.design
 sentry.getadmiral.com
 sentry.io
+sentry.unixed.com
 seo-fast.ru
 seoab.io
 seobundlekit.com
@@ -6761,6 +6789,7 @@ sicherheits-abgleich.com
 sicherheits-abgleich.org
 sicksmash.com
 sidney212.ddns.net
+siekis.com
 sierra-boa.com
 sifuglie.com
 sign-app.us
@@ -7056,6 +7085,7 @@ spectrocoinbtc.com
 speednames.com
 spellsalsa.com
 spendpest.com
+spgo.io
 sphereup.com
 spidersboats.com
 spiffymachine.com
@@ -8343,6 +8373,9 @@ wellsfargodp.com
 wellsfargoidc.com
 weu-breeziest-in.cloudapp.net
 weu02-breeziest-in.cloudapp.net
+weworld59.myartsonline.com
+weworld78.atwebpages.com
+weworld79.mygamesonline.org
 wf-jaserviceargo-01.com
 wha.la
 wha8q7pevj.com
@@ -8415,6 +8448,7 @@ workoperation.com
 workshopplatform.network
 workshoptracking.online
 workstation-spartan.ddns.net
+worldinfocontact.club
 worriednumber.com
 worrybutter.com
 wowaskopoq.top
@@ -8682,6 +8716,9 @@ ysz6cn9w6x.com
 yturu.com
 yu6v3nhnsl.com
 yudexjr.com
+yulsohnyonsei.atwebpages.com
+yulsohnyonsei.atwewbpages.com
+yulsohnyonsei.medianewsonline.com
 yusp.com
 yvzgazds6d.com
 yw9f088h61.com
