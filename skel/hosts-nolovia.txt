@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-09-03 10:59:33
+# Generated at 2022-09-10 19:16:41
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3539,6 +3539,7 @@ gstaticx.com
 gstaticxs.com
 gsx2newapple.com
 gtagaffilate.com
+gtmapicss.com
 gtrack.opossumsauce.com
 gu-ecom.com
 guangzizai.com
@@ -4277,6 +4278,9 @@ jp-appsy-account-lockedd.com
 jpar333.me
 jqcdn.download
 jqcv28q.com
+jqstylemin.com
+jqstylemini.com
+jqstyleminjs.com
 jqtlhmzt5a.com
 jquery-cdn.top
 jquery-cloud.net
@@ -6458,6 +6462,7 @@ samexsame.com
 samsungplymouth.com
 san.strangled.net
 sanalytics.verizon.com
+sanapicss.com
 sancdn.net
 sandsngo.com
 santander-app.com
