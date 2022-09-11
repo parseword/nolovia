@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-09-10 19:16:41
+# Generated at 2022-09-10 19:30:12
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3711,6 +3711,7 @@ hotmailhelplinenumber.com
 hox0u3ea48.com
 hp7cjr78.com
 hpljupfyb.com
+hppcg.com
 hqzjz7fncd.com
 hraparak.org
 hrj91nuwzu.com
