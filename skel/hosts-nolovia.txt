@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-09-10 19:30:12
+# Generated at 2022-09-12 13:55:42
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -8783,7 +8783,13 @@ zo7gihmry2.com
 zog.link
 zonejs.com
 zoobashop.com
+zoom-download.fun
+zoom-download.host
+zoom-download.space
 zoomd.com
+zoomus.host
+zoomus.tech
+zoomus.website
 zotabox.com
 zprk.io
 zrav2wkbrs.com
