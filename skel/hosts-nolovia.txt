@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-09-12 13:55:42
+# Generated at 2022-09-13 17:01:02
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -653,6 +653,7 @@ adwords-login.com
 adwords-online.org
 adwords-ppc.org
 adwords-track.com
+adwords.l.google.com
 adx.opera.com
 adxcel-ec2.com
 adxcore.com
