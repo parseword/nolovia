@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-09-13 17:01:02
+# Generated at 2022-09-13 21:04:08
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2144,6 +2144,7 @@ clrstm.com
 clue6load.com
 cm.azcentral.com
 cm.commercialappeal.com
+cm.detroitnews.com
 cm.dispatch.com
 cm.jsonline.com
 cm.tennessean.com
@@ -5107,6 +5108,7 @@ myapple-verification-identification.com
 myappleid-verifications.com
 myappleipone.org
 myattlog.att.com
+mybbc-analytics.files.bbci.co.uk
 mybestmv.com
 mybitcoinmastercard.com
 mycarddetailsverify.com
@@ -5376,6 +5378,7 @@ ns2.name
 ns3.name
 nsa-breeziest-in.cloudapp.net
 nscontrol.com
+nsi.activity.api.bbc.com
 nskieoxdqe.com
 nssp.com
 nsw-breeziest-in.cloudapp.net
