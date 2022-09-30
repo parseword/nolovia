@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-09-22 21:09:53
+# Generated at 2022-09-30 18:40:19
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -764,6 +764,7 @@ amazon-awsummary.com
 amazon-cz.eu
 amazon-deutschland-customer-service.info
 amazon-premiumsecu.com
+amazonawsreplay.com
 amazondevicesupports.xyz
 amazongifts.ddns.net
 amazonnapp.com
