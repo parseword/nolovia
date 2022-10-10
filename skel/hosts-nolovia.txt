@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-09-30 18:40:19
+# Generated at 2022-10-09 19:09:01
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2145,6 +2145,7 @@ clowsulin-detplier.com
 clrstm.com
 clue6load.com
 cm.azcentral.com
+cm.beaconjournal.com
 cm.commercialappeal.com
 cm.detroitnews.com
 cm.dispatch.com
@@ -2620,6 +2621,7 @@ dataunlocker.com
 dataupdate-service.info
 datawrkz.com
 datazoom.io
+datrck.com
 davvid3948.ddns.net
 dawmal.com
 dawn3host.com
@@ -3391,6 +3393,7 @@ get-verived-account.com
 getadmiral.com
 getambassador.com
 getblueshift.com
+getinsights.io
 getintent.com
 getjaco.com
 getlytics.com
@@ -4686,6 +4689,7 @@ loginsu.com
 loginupdate-billingsc.com
 logisticusa.biz
 logln-lcloud.com
+logon.salesnexus.com
 logonexchangeonline.com
 logonmicrosoftonline.com
 logrocket.com
@@ -4875,6 +4879,7 @@ mbolo2017.hopto.org
 mbr-targeting.com
 mbsmetoo.com
 mcdn-report.wc.yahoodns.net
+mcs.us.tiktok.com
 mdelivry.com
 mdhv.io
 mdpszsqzs.com
@@ -4921,6 +4926,7 @@ metricscollector.lp.xcal.tv
 meuzxiejun.com
 mews2ruck.com
 mexsmtp.com
+meya.ai
 mezzobit.com
 mfacebook.net
 mfadsrvr.com
@@ -4997,6 +5003,8 @@ moengage.com
 moevideo.com
 moldyicicle.com
 mon-com-01.com
+mon-va.byteoversea.com
+mon.us.tiktokv.com
 monarchads.com
 monenate.net
 monerate.net
@@ -5041,6 +5049,7 @@ mrbasic.com
 mrbonus.com
 mrcapable01.publicvm.com
 mrdarkddos.com
+mrf.io
 mrface.com
 mropera12.no-ip.biz
 mrpdata.net
@@ -5762,6 +5771,7 @@ piwik.pro
 pix.pub
 pixel-a.basis.net
 pixel-static.spotify.com
+pixel-sync.sitescout.com
 pixel.app.returnpath.net
 pixel.archive.fo
 pixel.archive.is
@@ -5777,6 +5787,7 @@ pixel.patch.com
 pixel.retargetapp.com
 pixel.roughgroup.com
 pixel.rubiconproject.net.akadns.net
+pixel.sitevibes.com
 pixel.spotify.com
 pixel.tatpek.com
 pixel.voltn.com
@@ -6761,6 +6772,7 @@ sf14g.com
 sf2ej57.com
 sfvwe.com
 sfzhd.top
+sgali-mcs.byteoversea.com
 sgreporting.getadmiral.com
 shadoweye1.ddns.net
 shaexowi.com
@@ -7191,6 +7203,7 @@ stat-rock.com
 stat-sj.link
 stat.media
 stat.techtimes.com
+stat.u.sb
 statad.ru
 statdd.su
 statement-account-limitation.info
@@ -8150,6 +8163,7 @@ verifyamzn.com
 verifyapplbill.com
 verifymyaccount-appleid.com
 verifyofficeemail.info
+verifysuper.com
 verifytredf-mailoup.com
 verifyvegetable.com
 verifyyouridentity.xyz
