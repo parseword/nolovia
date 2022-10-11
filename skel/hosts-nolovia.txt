@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-10-09 19:09:01
+# Generated at 2022-10-11 11:26:23
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -561,6 +561,7 @@ adnegah.com
 adnegah.ir
 adnegah.net
 adnium.com
+adnxs-simple.com
 adobes.software
 adoning-unducted.com
 adorableanger.com
@@ -659,6 +660,7 @@ adxcel-ec2.com
 adxcore.com
 adxtracking.com
 adxyield.com
+adzerk.net
 adzumi.com
 ae21a0ad95016488.com
 aeckcjy.com
@@ -1273,6 +1275,7 @@ aso1.net
 asopctrack.com
 asorock.mooo.com
 assd-webapps.com
+assemblyexchange.com
 assetmage.com
 assets.sni-dat.com
 assetsbrain.com
@@ -1283,6 +1286,7 @@ aswpsdkeu.com
 aswpsdkus.com
 at-o.net
 atmrum.net
+atmtd.com
 atoms.tennessean.com
 atoms.usatoday.com
 atomx.com
@@ -4885,6 +4889,7 @@ mdhv.io
 mdpszsqzs.com
 me-look-update-now.com
 meadowtitle.info
+measure.office.com
 measured.com
 meatydime.com
 mediabong.com
@@ -6124,6 +6129,7 @@ ransomware.bit
 rapiddomainbuilder.com
 rapidkittens.com
 raresummer.com
+ras.yahoo.com
 rasef22.com
 rastreador-apple.com
 rastrear-lphone-id.com
@@ -6932,6 +6938,7 @@ sloppyearthquake.com
 slripe.com
 slyngshot.io
 sm534z1jpx.com
+smaato.net
 smallbutterfly1.xyz
 smalldealsupportappclicks.top
 smallduck1.xyz
@@ -7806,6 +7813,7 @@ tumblebirds.com
 tumejortorrent.com
 tune.com
 turf.digital
+turn.com
 turtl.co
 tuvvpas.com
 tv-youtube.com
