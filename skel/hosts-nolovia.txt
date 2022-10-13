@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-10-11 11:26:23
+# Generated at 2022-10-12 20:17:29
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3148,6 +3148,7 @@ fear7calk.com
 fearfowl.com
 fearfulfish.com
 featureforward.com
+featuregates.org
 feb12740de5be9b3.com
 feebleshock.com
 feed5baby.com
@@ -6050,6 +6051,7 @@ q8eqh.top
 q8ntfhfngm.com
 q8ux4fscc7.com
 qaykb.com
+qccerttest.com
 qd3u5eeuos.com
 qfdn3gyfbs.com
 qh2020.org
