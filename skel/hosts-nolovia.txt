@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-10-12 20:17:29
+# Generated at 2022-10-25 15:08:34
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -728,6 +728,7 @@ alcmpn.com
 alda1mure.com
 alea6badb.com
 alertafterthought.com
+alertnest.com
 alfadart.com
 alfcdn.com
 alga9frog.com
@@ -877,6 +878,7 @@ api.e-toys.cn
 api.huckabuy.com
 api.limbik.com
 api.mypurecloud.com
+api.radar.cloudflare.com
 api.statsig.com
 api.userstyles.org
 api.whizzco.com
@@ -1448,6 +1450,7 @@ beget.tech
 beijingvampires.com
 belexglokmpld.com
 bemitho.com
+benchmark.1e100cdn.net
 benn8bord.com
 benthose.com
 benx234.ddns.net
@@ -1854,6 +1857,7 @@ cardlytics.com
 care-ph.reviews
 care5alea.com
 careeronestop.site
+carefully-rested-condor.edgecompute.app
 caringzinc.com
 carlos88.ddns.net
 carlosluize88.zapto.org
@@ -1923,7 +1927,11 @@ cdnscriptx.com
 cdnwhiltelist.com
 cdnwidget.com
 cdpsvc.com
+cds.x7t9n8c4.hwcdn.net
 cedato.com
+cedexis-1.s.llnwi.net
+cedexis-test.com
+cedexis-test.com.wsoversea.com
 cellubiue.com
 cellublue.info
 cenb.gdn
@@ -3007,6 +3015,7 @@ es-webapps.com
 esmtp.biz
 esputnik.com
 essentialetimes.com
+essl-cdxs.edgekey.net
 essztednsbk.ddns.net
 estara.com
 estatcounter.com
@@ -5955,6 +5964,7 @@ prvtsmtp.com
 ps-webapps.com
 pswec.com
 ptarepjx.com
+ptcfc.com
 pub2srv.com
 publicnode.ydns.eu
 publicsgroupe.net
@@ -6695,6 +6705,8 @@ servenobid.com
 server-account.com
 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 serverbid.com
+serverless-benchmarks-js.compute-pipe.com
+serverless-benchmarks-rust.compute-pipe.com
 serversoftwarebase.com
 servespring.com
 serveuser.com
@@ -7566,6 +7578,8 @@ terworkingaccountapple-yourverifiedhanc.com
 teschenite.com
 test-adsafeprotected.com
 testhjfbhjasbf.com
+testingcf.jsdelivr.net
+testingcf.jsdelivr.net.cdn.cloudflare.net
 tetra.email
 text6film.com
 texturetrick.com
@@ -7681,6 +7695,7 @@ toyotacamryy.com
 toythieves.com
 tport9.com
 tqff3qkzsq.com
+tr.www.cloudflare.com
 trace-device.us
 tracedesire.com
 track-latency.cmcassets.com
