@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-10-25 15:08:34
+# Generated at 2022-11-04 17:33:44
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2674,6 +2674,7 @@ decisiveducks.com
 decoroustitle.com
 decoycreation.com
 ded733b374cc1c3f.com
+deeginews.com
 deep-water.anchor.host
 deep.bi
 deepintent.com
@@ -3483,6 +3484,7 @@ go2vnow.net
 goaffpro.com
 gobankingrates.com
 gobrowsi.com
+gofenews.com
 golangwq.info
 goldman-travel.com
 golp4elik.com
@@ -3573,6 +3575,7 @@ gubuh.com
 guce.engadget.com
 guerly.com
 guerritor.info
+guesswhatnews.com
 guiltlessbasketball.com
 guitarbelieve.com
 gulliblecamp.com
@@ -3763,6 +3766,7 @@ humbing-impliver.icu
 humdrumhat.com
 hunbabe.com
 hunter.io
+huronews.com
 hurtgrape.com
 hurtteeth.com
 hvooyieoei.com
@@ -4269,6 +4273,7 @@ jdocfrez.us
 jdzw3frs.com
 jebb8hurt.com
 jeffe231.ddns.net
+jemonews.com
 jeoyehkc7z.com
 jeremizo888.ddns.net
 jessicamcgill.life
@@ -4721,8 +4726,10 @@ longinglettuce.com
 longmusic.com
 loocrum.com
 loom3otto.com
+loopanews.com
 loopme.com
 loopme.me
+lootynews.com
 lope4refl.com
 lopsidedspoon.com
 lorenzourban.com
@@ -4752,6 +4759,7 @@ lucretius-ada.com
 lumberamount.com
 lumpyleaf.com
 lumpylumber.com
+luronews.com
 lvgvax82bp.com
 lw2ofgc2zo.com
 lwaeh-iteham-alasra.com
@@ -6258,6 +6266,7 @@ relabe.com
 relandssymphoking.info
 relogin-euwee.com
 rememberroute.com
+reminews.com
 remp.dailymaverick.co.za
 remp.nv.ua
 renewal-user.com
@@ -6391,6 +6400,7 @@ rolandcomputers.com
 ronesio.xyz
 ronytazz2121.ddns.net
 roofrelation.com
+rookinews.com
 roosterfirework.com
 rosmtp.com
 rote8mino.com
@@ -6674,6 +6684,7 @@ selfmademan.ddns.net
 selfmademan2.ddns.net
 sellclassics.com
 selligent.com
+selornews.com
 semantiqo.com
 semasio.net
 sendapidata.com
@@ -6843,6 +6854,7 @@ sicksmash.com
 sidney212.ddns.net
 siekis.com
 sierra-boa.com
+sifenews.com
 sifuglie.com
 sign-app.us
 sign-fmicloud.com
@@ -7541,6 +7553,7 @@ teemo.co
 teenytinytongue.com
 teenyvolcano.com
 teethfan.com
+tegronews.com
 tehrantimes.org
 teknosurf.com
 teknosurf2.com
@@ -7554,6 +7567,7 @@ telemetry.jivosite.com
 telemetry.mozilla.org
 telemetry.servers.getgo.com
 telemetry.tradingview.com
+telemetry.wall-box.com
 teleweb.world
 tellapart.com
 temporaryhold-webappssvcs.com
