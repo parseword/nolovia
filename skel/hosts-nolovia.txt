@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-12-03 20:02:57
+# Generated at 2022-12-13 23:09:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2529,6 +2529,7 @@ cryptonotepool.org.uk
 cryptotab.net
 cs6hm.com
 cssrvsync.com
+ct.pinterest.com
 cuba7tilt.com
 cubchannel.com
 cuberoot.co
@@ -3066,6 +3067,7 @@ event.syndigo.cloud
 eventlog.bradsdeals.com
 eventlog.jackpot.de
 events.attentivemobile.com
+events.launchdarkly.us
 events.webdock.io
 eventtrack-api-prod.s4spujqaty.us-east-1.elasticbeanstalk.com
 eventtracking-log.services.video.ibm.com
@@ -4026,6 +4028,7 @@ importlocate.com
 importloggm.duckdns.org
 impossibleexpansion.com
 impossiblemove.com
+impresivedate.com
 improvedigital.com
 improving.duckduckgo.com
 impulsehands.com
@@ -6502,6 +6505,7 @@ rzzc.pw
 s-adobeanalytics.vice.com
 s-msg-myetherwallet.com
 s-onetag.com
+s.pinimg.com
 s2.reutersmedia.net
 s20dh7e9dh.com
 s24hc8xzag.com
