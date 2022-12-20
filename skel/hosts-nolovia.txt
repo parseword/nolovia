@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-12-19 22:23:47
+# Generated at 2022-12-20 08:41:59
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -823,6 +823,7 @@ analytics.dvidshub.net
 analytics.edgekey.net
 analytics.freesound.org
 analytics.getshogun.com
+analytics.githubassets.com
 analytics.govinfo.gov
 analytics.hotyon.com
 analytics.inform.com
@@ -2517,6 +2518,7 @@ create2fear.com
 creditonebanklogin.live
 crimtan.com
 crisiswatchsupport.shop
+crisp.chat
 criticalalert.xyz
 criticalwarraningalert.xyz
 critictruck.com
@@ -4230,6 +4232,7 @@ ipstatp.com
 iqcpm.com
 iqtel.org
 irgulzk8bi.com
+iris.informa.com
 iris.tv
 iron0walk.com
 ironsrc.com
@@ -7800,6 +7803,7 @@ tracking.marketing
 tracking.nationalfamily.com
 tracking.news.trade-point.co.uk
 tracking.nextdoor.com
+tracking.pandoiq.com
 tracking.redfir.net
 tracking.sezzle.com
 tracking.shopstyle.com
@@ -8393,6 +8397,7 @@ web-frontend-dot-sc-analytics.appspot.com
 web-halkbank.net
 web-id-securedinformation.com
 web-info.me
+web-performance-testing.vercel.app
 web-rank.cc
 web-stat.biz
 web-stat.me
