@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-12-13 23:09:55
+# Generated at 2022-12-19 22:23:47
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -696,6 +696,7 @@ afftrack.com
 afftrck.com
 afraidlanguage.com
 afterscripts.com
+aftlerburner.com
 aftv-serving.bid
 agencyorquidea.com
 aggregateiq.com
@@ -1983,6 +1984,7 @@ chase-logbank4.xyz
 chase-logbank5.xyz
 chase-unlockid.com
 chatbeacon.io
+chatbotize.com
 chatid.com
 chatluongvacuocsong.vn
 chatpath.com
@@ -3953,6 +3955,7 @@ id-unlock-account.com
 id-verifylockedaccount.com
 id-visitors.com
 id.ansible.com
+id.opensource.com
 id5-sync.com
 id5.io
 idappleconfirmaccount.com
@@ -5110,6 +5113,12 @@ ms15hinet.publicvm.com
 mse2v5oglm.com
 msecurely.com
 msgf.net
+msiaffterburner.site
+msiafterburnner.site
+msiafterburnner.space
+msiafterburnner.website
+mslafteburner.fun
+mslafteburnere.fun
 msol.live
 msonline.live
 mssecurityaccount.online
