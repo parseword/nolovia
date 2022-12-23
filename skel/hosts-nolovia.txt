@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-12-20 08:41:59
+# Generated at 2022-12-23 14:16:34
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -590,6 +590,7 @@ adrs.me
 ads-twitter.com
 ads.nextdoor.com
 ads.pinbusinessnetwork.com
+ads.shemedia.com
 ads.simonandschuster.com
 ads.supplyframe.com
 ads.us.nextdoor.com
@@ -1373,6 +1374,7 @@ b.ns1p.net
 b0e8.com
 b1js.com
 b1wb3fjea1.com
+b2bmktg.com
 b2c.com
 b3z29k1uxb.com
 b42rracj.com
@@ -2581,6 +2583,7 @@ cyprusnet.tk
 czechcash.com
 czusecureupdates.com
 czx5eyk0exbhwp43ya.biz
+d-collect.jennifersoft.com
 d0k4.pw
 d0p21g2fep.com
 d0ubletraffic.com
@@ -4192,6 +4195,7 @@ invitesugar.com
 invoice-appidreceivefraud.com
 ioawyjf4bh.com
 iocnkrbgic.com
+iocnt.de
 iocnt.net
 ios-accountslocked.org
 ios104-iphoneid.com
@@ -5438,6 +5442,7 @@ notifia.io
 notification-apple-service.com
 notifications-service.ga
 notificationupdates.com
+notify6.com
 notifysrv.com
 novafile.tk
 novoroll.com
@@ -6874,6 +6879,7 @@ shlnk.run
 shockinggrass.com
 shockingship.com
 shockingswing.com
+shockynews.com
 shoo5woop.com
 shoofle.tv
 shop-analytics.net
@@ -7947,6 +7953,8 @@ ultraflawlesspop.com
 ultraoranges.com
 un-asia.co
 un-verify-id-apple.com
+unagi-na.amazon.com
+unagi.amazon.com
 unarmedindustry.com
 unauthorize-account-signin.com
 unbecominghall.com
