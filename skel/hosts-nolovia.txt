@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2022-12-23 14:16:34
+# Generated at 2023-01-01 15:54:44
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1214,6 +1214,7 @@ applie-servicee.com
 applied-claimrefund.com
 applinks.org
 applletv.com
+applog.cdn.greensky.com
 appls-access-limited.com
 applsaccount-information.net
 applycredit-paypal.com
@@ -1355,6 +1356,7 @@ avsvmcloud.com
 aw-test.com
 awakebird.com
 awesome.section.io
+aws-wwcloud.net
 awscan.eu
 awscan.info
 awtest.eu
@@ -3621,6 +3623,7 @@ gz06x5tqlj.com
 h-bid.com
 h12-media.com
 h2ku87viwi.com
+h4ck.cfd
 h552terriddows.com
 h5q3e661po.com
 h5tjj3loy2.com
@@ -3752,6 +3755,28 @@ honorableland.com
 hoo1luha.com
 hoplessinple.com
 hoplessinples.com
+host g10102301085.co
+host g10300385420.co
+host g10498469755.co
+host g10696554090.co
+host g10894638425.co
+host g11092722760.co
+host g11290807095.co
+host g1386590345.co
+host g1584674680.co
+host g1584674681.co
+host g1782759015.co
+host g1980843350.co
+host g2575096355.co
+host g792337341.co
+host g9111879410.co
+host g9309963745.co
+host g9706132415.co
+host g990421675.co
+host g9904216750.co
+host geo-targetly.com
+host geotargetly.co
+host geotargetly.com
 hosted-microsoft.com
 hostedprebid.com
 hostingcloud.accountant
@@ -4510,6 +4535,7 @@ lameletters.com
 lamplow.com
 lamtrigger.com
 languagelake.com
+laoisiol.info
 laptopdata.xyz
 larryaffiliates.com
 lashy.ddns.net
@@ -5028,6 +5054,7 @@ mka8vaj2ru.com
 mktossl.com
 ml-api.io
 ml-attr.com
+mlcrosofteams.top
 mm-syringe.com
 mms.al.com
 mms.chip.de
@@ -6092,6 +6119,7 @@ pwrads.net
 pwufxar8.top
 pwutc.live
 px-cloud.net
+px.srvcs.tumblr.com
 px1alsry.com
 pxchk.net
 pxladb.club
@@ -7942,8 +7970,10 @@ udrivemyr54.com
 udxsva.com
 ufqfnecblo.com
 uh3ye6ux.com
+uidapi.com
 uie.data.cbc.ca
 uimserv.net
+uirix.com
 uj0g7.com
 ujccccb.com
 uk-lcloud.com
@@ -8527,6 +8557,7 @@ whocame.ovh
 whoint.co
 whoisvisiting.com
 whoslooking.herokuapp.com
+whothitheka.com
 whs82908.com
 whugesto.net
 wideorbit.com
