@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-01-01 15:54:44
+# Generated at 2023-01-08 15:03:32
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -644,6 +644,7 @@ adversal.com
 advertica.ae
 advertisementafterthought.com
 advertisers-openx.com
+advertising.walmart.com
 advertmention.com
 advertnotices.com
 advertzing.com
@@ -3371,16 +3372,34 @@ g-analytics.com
 g-cloud.pro
 g-cloud.win
 g-statistic.com
+g10102301085.co
 g10300385420.co
+g10498469755.co
+g10696554090.co
+g10894638425.co
+g11092722760.co
+g11290807095.co
+g1386590345.co
+g1584674680.co
+g1584674681.co
+g1782759015.co
+g1980843350.co
 g1hmcmp.com
 g1xgeb82nj.com
 g22rbb7.com
+g2575096355.co
 g27zkdvsxl.com
 g2crowd.com
 g2insights-cdn.azureedge.net
 g2tt3n5jch.com
 g4p1gtll.com
 g6zkzy0g2g.com
+g792337341.co
+g9111879410.co
+g9309963745.co
+g9706132415.co
+g990421675.co
+g9904216750.co
 ga87z2o.com
 gaei.tk
 gall-tarquin.com
@@ -3425,6 +3444,8 @@ geoedge.com
 geoip.alm.com
 geoip.ifunny.co
 geolocation.onetrust.com
+geotargetly.co
+geotargetly.com
 gestyy.com
 get-confirmation.com
 get-free-gitf.com
@@ -7407,6 +7428,8 @@ strivesidewalk.com
 structurerod.com
 structuresofa.com
 studentworkbook.pw
+stun.kaptcha.com
+stun1.l.google.com
 stupendoussleet.com
 stusing-cracieved.com
 sube-hizmeti.org
