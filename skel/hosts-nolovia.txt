@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-01-08 15:03:32
+# Generated at 2023-01-11 10:07:05
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -714,6 +714,7 @@ ahwrin88tl.com
 aidaigry.com
 aiea6gaza.com
 ailtumty.net
+aiqidwcfrm.com
 airconditionerreviews.com
 aj1610.online
 aj2073.online
@@ -2980,6 +2981,7 @@ eliminateeffect.com
 ellatrujillo.com
 ellcurvth.com
 email-g.com
+email-updatepolicy.com
 emailcostumers-limited.com
 emaile.org
 emailimagecdnr7fb.com
@@ -3401,6 +3403,7 @@ g9706132415.co
 g990421675.co
 g9904216750.co
 ga87z2o.com
+gactivityinfo.com
 gaei.tk
 gall-tarquin.com
 gamacdn.com
@@ -4662,6 +4665,7 @@ linksbit.com
 linkslot.ru
 linodepower.com
 linq.ink
+linqia.ooh.li
 linuxsmtp.com
 liod1ours.com
 lioiamcount.com
@@ -4898,6 +4902,7 @@ mailboxmeeting.com
 mailmunch.co
 mailpublisher.live
 mails.center
+mailsecurity-alerts.com
 mailservice-apple.com
 mainlink.cool
 mainnine.stream
@@ -8599,6 +8604,7 @@ winclicks.info
 window5.win
 windowinstalldealaflash.icu
 windowmentaria.com
+windowsmail-update.com
 windowsupdatesalert.ml
 windowsupdatesupport.org
 winfreesupport.club
