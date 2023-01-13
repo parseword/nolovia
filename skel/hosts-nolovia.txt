@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-01-11 10:07:05
+# Generated at 2023-01-13 10:38:01
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1898,6 +1898,7 @@ cavy9soho.com
 caxvm62zyz.com
 cbarsrv.com
 cbdatatracker.com
+cbphe.com
 cbsileads.com
 cc-security-inc.email
 cc.swiftype.com
@@ -8869,6 +8870,7 @@ yamoo.com.ng
 yatrk.xyz
 ybkxsm.com
 ybp.yahoo.com
+ycxrl.com
 ye185hcamw.com
 yealnk.com
 yeld9auto.com
