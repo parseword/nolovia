@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-01-13 10:38:01
+# Generated at 2023-01-26 21:59:45
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1445,6 +1445,7 @@ beacon.qq.com
 beacon.riskified.com
 beacon.searchspring.io
 beacon.sftoaa.com
+beacon.shutterfly.com
 beacon.tingyun.com
 beacon.v.dropbox.com
 beacon.walmart.com
@@ -2501,6 +2502,7 @@ counter.edlio.com
 counter.joeldare.com
 counter.unian.net
 country-blocker.zend-apps.com
+countryblocker.tible.tech
 counts.air.tv
 coup7cold.com
 coxmt.com
@@ -5498,6 +5500,7 @@ notifications-service.ga
 notificationupdates.com
 notify6.com
 notifysrv.com
+nottepaddpluss.com
 novafile.tk
 novoroll.com
 np1t0bcj0n.com
@@ -5600,6 +5603,8 @@ onestart-up.com
 onetag-sys.com
 onetag.com
 onetag.io
+onetrust.com
+onetrust.io
 onevanillachecker.com
 oneyservics.com
 onfocus.io
@@ -5908,6 +5913,7 @@ pixel.newscgp.com
 pixel.newscred.com
 pixel.parsely.com
 pixel.patch.com
+pixel.prime.amazon.dev
 pixel.retargetapp.com
 pixel.roughgroup.com
 pixel.rubiconproject.net.akadns.net
@@ -5974,6 +5980,7 @@ possibleboats.com
 post-jquery.com
 postback.info
 posttagmapapi.com
+potrax.com
 powerad.ai
 powerinbox.com
 powerlinks.com
@@ -6939,6 +6946,7 @@ shoo5woop.com
 shoofle.tv
 shop-analytics.net
 shopbreakfast.com
+shopmsg.me
 short-l.link
 shortcm.li
 shortli.live
@@ -7818,6 +7826,7 @@ toweringrun.com
 tox.cheap
 toyotacamryy.com
 toythieves.com
+tp88trk.com
 tport9.com
 tqff3qkzsq.com
 tr.www.cloudflare.com
