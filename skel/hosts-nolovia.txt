@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-01-26 21:59:45
+# Generated at 2023-01-28 21:05:35
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1462,6 +1462,7 @@ beemray.com
 beforescripts.com
 begemotventures.com
 beget.tech
+behave.com
 beijingvampires.com
 belexglokmpld.com
 bemitho.com
@@ -2396,6 +2397,7 @@ concertads-configs.vox-cdn.com
 conditioncrush.com
 coneptor.qarallax.com
 confiant-integrations.global.ssl.fastly.net
+confiant-integrations.net
 configloginsecure.com
 configmage.com
 configsysrc.com
@@ -3067,6 +3069,7 @@ etreasury-tdbark.com
 etreasury-tdbarks.com
 etreflased.info
 etym6cero.com
+eu-1-id5-sync.com
 eulenformacion.com
 eulerian.net
 eum-appdynamics.com
@@ -3661,6 +3664,7 @@ h8vzwpv.com
 haag0some.com
 hablemosdecdt.com
 hackucdt.com
+hadronid.net
 haig7anax.com
 hajimusa.ddns.net
 half1hell.com
@@ -5071,6 +5075,7 @@ minifyscripts.com
 minormeeting.com
 minpays.com
 minstagram.net
+minutemedia-prebid.com
 mipss.su
 misc1bulk.com
 mispace.cam
@@ -7203,6 +7208,7 @@ snaphyteplieldup.xyz
 sneaklevel.com
 sneakystamp.com
 sneakystew.com
+sng.link
 sni-dat.com
 snigelweb.com
 snigelweb.net
@@ -8667,6 +8673,7 @@ wru.ai
 wryfinger.com
 ws.facil-iti.com
 wt-eu02.net
+wunderkind.co
 wus2-breeziest-in.cloudapp.net
 wus22-breeziest-in.cloudapp.net
 wusecureaccountsworld.com
