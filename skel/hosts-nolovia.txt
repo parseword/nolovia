@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-01-28 21:05:35
+# Generated at 2023-01-30 15:35:36
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1495,6 +1495,7 @@ bhcumsc.com
 bidbarrel.cbsnews.com
 bidbarrel.cbsnews.com.edgekey.net
 bidcollect.com
+bidderstack.com
 biddr.io
 bidellect.com
 bidfilter.com
@@ -2651,6 +2652,7 @@ datadome.co
 datanyze.com
 datapropria.com
 dataq.stream
+dataseat.com
 datasecure-member.info
 datasphere.com
 datasteam.io
@@ -5090,6 +5092,7 @@ ml-api.io
 ml-attr.com
 mlcrosofteams.top
 mm-syringe.com
+mmi360.net
 mms.al.com
 mms.chip.de
 mms.cnn.com
@@ -7338,6 +7341,7 @@ sso-billingservice-webapps.com
 ssp.yahoo.com
 ssphwy.com
 ssraju3n.com
+sstats.arstechnica.com
 sstats.kroger.com
 ssvwv.com
 stack-sonar.com
@@ -7851,6 +7855,7 @@ track.klickly.com
 track.nzz.ch
 track.opossumsauce.com
 track.thesaurus.com
+track.torrage.info
 track.volo-mobile.com
 track.wakelet.com
 track.wayin.com
@@ -7960,6 +7965,7 @@ trustkemi.duckdns.org
 trustmordor.pw
 trustx.org
 truthfulturn.com
+trx-hub.com
 ttauri.techradar.com
 ttoc8ok.com
 ttraff.cc
