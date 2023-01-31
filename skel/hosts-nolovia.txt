@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-01-30 15:35:36
+# Generated at 2023-01-31 13:36:06
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4495,6 +4495,7 @@ kbx1sth37s.com
 kbzdxt.com
 kdata.fr
 kdc7f2ifcc.com
+keap-link020.com
 keep-your-account.com
 keet1liod.com
 kennedyform.com
@@ -4523,6 +4524,7 @@ klclick1.com
 klclick3.com
 knifeoctopus.com
 knottysticks.com
+kohlermetricssecure.kohler.com
 konferenciya-zoom.com
 koo6myletj.com
 korea-tax.info
@@ -7212,6 +7214,7 @@ sneaklevel.com
 sneakystamp.com
 sneakystew.com
 sng.link
+sni-ads-creativeservices.s3.amazonaws.com
 sni-dat.com
 snigelweb.com
 snigelweb.net
