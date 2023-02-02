@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-01-31 13:36:06
+# Generated at 2023-02-02 12:39:30
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3606,6 +3606,7 @@ greetzebra.com
 greyinstrument.com
 gri98.com
 grocless.vip
+groovinews.com
 gropinggo.com
 groundtruth.com
 group-secureservice.xyz
@@ -5045,6 +5046,7 @@ metrics.getvitals.io
 metrics.jumprope.com
 metrics.kirklands.com
 metrics.macys.net
+metrics.media-amazon.com
 metricscollector.lp.xcal.tv
 meuzxiejun.com
 mews2ruck.com
@@ -5911,6 +5913,7 @@ pixel-a.basis.net
 pixel-static.spotify.com
 pixel-sync.sitescout.com
 pixel.app.returnpath.net
+pixel.apps.tieks.com
 pixel.archive.fo
 pixel.archive.is
 pixel.archive.ph
