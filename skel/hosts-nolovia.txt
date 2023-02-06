@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-02-02 12:39:30
+# Generated at 2023-02-06 15:01:37
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -508,6 +508,7 @@ ad4screen.com
 ad6media.es
 ad6media.fr
 adagio.io
+adainstaller.com
 adamatic.co
 adapex.io
 adaptiveads.com
@@ -739,6 +740,7 @@ alertnest.com
 alfadart.com
 alfcdn.com
 alga9frog.com
+algbid.app
 algolia.net
 algoplyg.com
 algovid.com
@@ -8371,6 +8373,7 @@ vfgtb.com
 vfgte.com
 vfsglobal.fr
 vg74gi6mea.com
+vghu896yh.cfd
 vhbx.co
 vhldwuv6om.com
 vi.ai
@@ -8743,6 +8746,7 @@ x8rxr.top
 xapads.com
 xbzwwsagli.com
 xcacherdie.stream
+xdrt656y.cfd
 xendiz.com
 xev2o.com
 xghfi97mk6.com
