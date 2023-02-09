@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-02-06 15:01:37
+# Generated at 2023-02-08 18:05:25
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -902,6 +902,7 @@ apissystem.com
 apiurl.org
 apk-bancodobrasil.com
 apl.report
+apm.blackfire.io
 apomaya.tech
 app-bancobrasil.com
 app-bancodobrasil.com
@@ -3252,6 +3253,7 @@ findmyph0ne.com
 findni-iphone.net
 findyouriphones.com
 fingahvf.top
+fingerprint.com
 firebaselogging.googleapis.com
 firm-intl.com
 firsatziraatdesizinlle.com
@@ -3328,6 +3330,9 @@ fourfork.com
 foxpush.com
 foxsmtp.com
 fpapi.io
+fpjs.io
+fptls.com
+fptls2.com
 fqvkntefmd.com
 fraddation-pyments-acounting.com
 frailoffer.com
@@ -5861,6 +5866,7 @@ perf-html.io
 perf-serving.com
 perf.hsforms.com
 perfectmarket.com
+performance-events.guardianapis.com
 perimeterx.net
 perk0mean.com
 perkele.ovh
@@ -5982,6 +5988,7 @@ poonstate.click
 poor5zero.com
 pop-convert.com
 pop6.com
+pop6serve.com
 popkit.club
 popmyads.com
 popt.in
