@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-02-08 18:05:25
+# Generated at 2023-02-18 20:35:26
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -143,6 +143,7 @@
 3vwp.org
 3wt4c.com
 3z6hirxo24.com
+404nfound.com
 421npyd4nd.com
 42632zfylf.com
 43yagowe3y.com
@@ -1793,6 +1794,7 @@ broadboundary.com
 broadcastbed.com
 broaddoor.com
 brontocdn.com
+brotherslocket.com
 brownpanda1.xyz
 browser-intake-datadoghq.com
 browser-intake-datadoghq.eu
@@ -2193,6 +2195,7 @@ cmcore.com
 cmdscan.info
 cmp.network-n.com
 cmp.osano.com
+cms.analytics.yahoo.com
 cmytuok.top
 cnbcnews.email
 cnn24-7.online
@@ -2525,6 +2528,7 @@ craigslist-verification.com
 crawlclocks.com
 crayoncompetition.com
 crazycat1.xyz
+crazyegg.com
 crazypanda1.xyz
 crazypeacock1.xyz
 crazyrocket.io
@@ -3044,6 +3048,7 @@ erne.co
 erraticreaction.com
 error-detected-need-attention.xyz
 error-detected.com
+error-tracking.zipify.com
 errorception.com
 errortablet.com
 es-find.net
@@ -4657,6 +4662,8 @@ ligadx.com
 ligatus.com
 lightcushion.com
 lightning.cnn.com
+lightning.foodnetwork.com
+lightning.hgtv.com
 lightning.warnermediacdn.com
 lightstep.com
 lightstep.medium.systems
@@ -5745,6 +5752,7 @@ pages-stats.rbl.ms
 pagesense-collect.zoho.com
 pagesense.io
 paibopse.com
+painstakingpickle.com
 palaccountsubmit.com
 paleleaf.com
 palletbush.hopto.org
@@ -8423,6 +8431,7 @@ vitme.bid
 vizsense.com
 vizvaz.com
 vkaofq64zz.com
+vknd8q3trk.com
 vlitag.com
 vmaxjs.com
 vmg.host
