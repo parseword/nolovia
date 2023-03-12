@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-02-18 20:35:26
+# Generated at 2023-03-12 12:26:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -498,6 +498,7 @@ ad-cache.tabarn.app
 ad-generation.jp
 ad-goi.com
 ad-pixel.com
+ad-tech.nbcuni.com
 ad.iplayer.org
 ad.plus
 ad.spreaker.com
@@ -595,6 +596,7 @@ ads.pinbusinessnetwork.com
 ads.shemedia.com
 ads.simonandschuster.com
 ads.supplyframe.com
+ads.travelaudience.com
 ads.us.nextdoor.com
 ads.viralize.tv
 ads4pics.com
@@ -3479,6 +3481,7 @@ get-verived-account.com
 getadmiral.com
 getambassador.com
 getblueshift.com
+getcookiestxt.com
 getinsights.io
 getintent.com
 getjaco.com
@@ -5947,6 +5950,7 @@ pixel.retargetapp.com
 pixel.roughgroup.com
 pixel.rubiconproject.net.akadns.net
 pixel.sitevibes.com
+pixel.sojern.com
 pixel.spotify.com
 pixel.tatpek.com
 pixel.voltn.com
@@ -8487,6 +8491,7 @@ wakefulcook.com
 walkme.com
 wallstsxer.hopto.org
 want7feed.com
+warmachine.su
 warmquiver.com
 warnermediaprivacy.com
 warraningalert.xyz
