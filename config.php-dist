@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Copyright 2015, 2022 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
+ * Copyright 2015, 2023 Shaun Cummiskey, <shaun@shaunc.com> <https://shaunc.com>
  * Repository: <https://github.com/parseword/nolovia>
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
@@ -25,7 +25,6 @@
  * Peter Lowe at http://pgl.yoyo.org/adservers/
  * Dan Pollock at http://someonewhocares.org/hosts/
  * Malicious Hosts Blocklist at https://malware-filter.gitlab.io/
- * smed79 at https://github.com/smed79/blacklist/
  * Spammer Slapper at http://spammerslapper.com/
  * Vetyt Yhonay at https://github.com/Yhonay/antipopads/
  * Willem de Groot at https://github.com/gwillem/magento-malware-scanner
@@ -61,7 +60,7 @@ define('REGEX_MULTIPART_TLD',
     '/\.(com?|org?|inc)\.(ar|au|bo|br|cc|cn|co|id|il|in|hk|jp|kr|kz|mx|nz|ph|pt|rs|tr|ua|uk|uy|vn|za)$/');
 
 //Should we send a non-blank User-Agent when fetching web resources?
-ini_set("user_agent", "Mozilla/5.0 (X11; Linux x86_64; rv:91.0) Gecko/20100101 Firefox/91.0");
+ini_set("user_agent", "Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0");
 
 //Set up the resolvers we're going to generate config files for
 $resolvers = array();
@@ -162,20 +161,20 @@ $sl->setMinimumExpectedBytes(32768);
 $sl->setValidationText('2o7.net');
 $serverLists[] = $sl;
 
+$sl = new ServerList('Easylist Popups');
+$sl->setFilePath('./data/hosts-easylist-popups.txt');
+$sl->setUri('https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt');
+$sl->setMinimumExpectedBytes(10240);
+$sl->setValidationText('popup');
+$sl->setMatchAllPattern('/\|\|(.*[a-z].*?)\^\$popup/i');
+$serverLists[] = $sl;
+
 $sl = new ServerList('EasyPrivacy Tracking Server List');
 $sl->setFilePath('./data/hosts-easyprivacy-tracking.txt');
 $sl->setUri('https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_trackingservers.txt');
 $sl->setMinimumExpectedBytes(10240);
 $sl->setValidationText('2o7.net');
 $sl->setMatchAllPattern('~\|\|(.*?)\^\$third-party~');
-$serverLists[] = $sl;
-
-$sl = new ServerList('GetAdmiral Anti-Adblock List from smed79');
-$sl->setFilePath('./data/hosts-admiral-antiadblock.txt');
-$sl->setUri('https://raw.githubusercontent.com/smed79/blacklist/master/hosts/admiral.txt');
-$sl->setMinimumExpectedBytes(1024);
-$sl->setValidationText('Admiral HOSTS list');
-$sl->setReplacePatterns(array('|^0.0.0.0(\s+)|m'));
 $serverLists[] = $sl;
 
 $sl = new ServerList('hpHosts Legacy Backup');
