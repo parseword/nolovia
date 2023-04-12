@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-04-10 13:00:34
+# Generated at 2023-04-12 17:21:58
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -593,6 +593,7 @@ adrock.tv
 adrokt.com
 adrolx.com
 adrs.me
+ads-dev.sportradar.com
 ads-twitter.com
 ads.nextdoor.com
 ads.pinbusinessnetwork.com
@@ -2555,6 +2556,7 @@ crazyrocket.io
 crealytics.com
 create2fear.com
 creditonebanklogin.live
+cresfpho2ntesepapillo3.com
 crimtan.com
 crisiswatchsupport.shop
 crisp.chat
@@ -5035,6 +5037,7 @@ marketingautomation.services
 marketjar.ca
 marketjar.com
 markowen.duckdns.org
+markreptiloid.com
 markscot.ddns.net
 mars.media
 marx7loki.com
