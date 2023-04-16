@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-04-12 17:21:58
+# Generated at 2023-04-16 13:19:08
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4147,6 +4147,7 @@ improvedigital.com
 improving.duckduckgo.com
 impruads.com
 impulsehands.com
+imsjjk309.com
 imstks.com
 in-page-push.com
 inbenta.com
@@ -5796,6 +5797,7 @@ ozpr.net
 p-n.io
 p-w.kr
 p.nfltags.com
+p1nptrk.com
 p5genexs.com
 p78lld1s.top
 p9oqu.com
@@ -6651,10 +6653,39 @@ rudderstack.com
 ruddycast.com
 rulerabbit.com
 rum-static.pingdom.net
+rum.af-south-1.amazonaws.com
+rum.ap-east-1.amazonaws.com
+rum.ap-northeast-1.amazonaws.com
+rum.ap-northeast-2.amazonaws.com
+rum.ap-northeast-3.amazonaws.com
+rum.ap-south-1.amazonaws.com
+rum.ap-south-2.amazonaws.com
+rum.ap-southeast-1.amazonaws.com
+rum.ap-southeast-2.amazonaws.com
+rum.ap-southeast-3.amazonaws.com
+rum.ap-southeast-4.amazonaws.com
+rum.ca-central-1.amazonaws.com
 rum.conde.io
 rum.dynapis.com
 rum.dynapis.info
+rum.eu-central-1.amazonaws.com
+rum.eu-central-2.amazonaws.com
+rum.eu-north-1.amazonaws.com
+rum.eu-south-1.amazonaws.com
+rum.eu-south-2.amazonaws.com
+rum.eu-west-1.amazonaws.com
+rum.eu-west-2.amazonaws.com
+rum.eu-west-3.amazonaws.com
+rum.me-central-1.amazonaws.com
+rum.me-south-1.amazonaws.com
+rum.sa-east-1.amazonaws.com
 rum.uptime.com
+rum.us-east-1.amazonaws.com
+rum.us-east-2.amazonaws.com
+rum.us-gov-east-1.amazonaws.com
+rum.us-gov-west-1.amazonaws.com
+rum.us-west-1.amazonaws.com
+rum.us-west-2.amazonaws.com
 rumtest-aka.ts.mtvnservices.com
 run2anywhere.com
 runconverge.com
@@ -7260,6 +7291,7 @@ smetrics.rcsmetrics.it
 smetrics.realtor.com
 smetrics.redbox.com
 smetrics.ryanair.com
+smetrics.schwans.com
 smetrics.sephora.com
 smetrics.sfr.fr
 smetrics.shinseibank.com
@@ -7332,6 +7364,7 @@ soc-usa.email
 soflopxl.com
 softbank-securitys.com
 softcode2017.hopto.org
+sokiran.xyz
 solads.media
 solartrackingsystem.net
 soleyserver.com
@@ -7733,6 +7766,7 @@ tagdeliver.com
 tagdelivery.com
 tagon.co
 tags.creditkarma.com
+tags.dillards.com
 tags.newscgp.com
 tags.rvere.com
 tags.tiqcdn.com.edgekey.net
