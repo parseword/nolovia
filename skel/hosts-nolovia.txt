@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-04-18 12:32:09
+# Generated at 2023-04-24 20:54:03
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -101,6 +101,7 @@
 2go7v1nes8.com
 2gok8g15p2.com
 2hus8ekwlk.com
+2ihsfa.com
 2iiyrxk0.com
 2kl08cd74f.com
 2lwlh385os.com
@@ -594,6 +595,7 @@ adrokt.com
 adrolx.com
 adrs.me
 ads-dev.sportradar.com
+ads-tm-glb.click
 ads-twitter.com
 ads.nextdoor.com
 ads.pinbusinessnetwork.com
@@ -767,6 +769,7 @@ allmygreatestlife.com
 allmygreatlife.com
 allmyverygreatlife.com
 allornamenti.com
+allowlisted.net
 alluorine.info
 almostmy.com
 aloofmetal.com
@@ -1315,6 +1318,7 @@ associated-account-purchase.com
 aswpsdkeu.com
 aswpsdkus.com
 at-o.net
+atlas-upd.com
 atmrum.net
 atmtd.com
 atoms.tennessean.com
@@ -1922,6 +1926,7 @@ cavy9soho.com
 caxvm62zyz.com
 cbarsrv.com
 cbdatatracker.com
+cbox4.ignorelist.com
 cbphe.com
 cbsileads.com
 cc-security-inc.email
@@ -2099,6 +2104,7 @@ clarium.io
 class2deal.com
 classifiedlookup.com
 classifieds2000.com
+claudfront.net
 clcktrk.com
 cldtefnt.net
 clean.gg
@@ -2418,6 +2424,7 @@ compte-idapple.com
 compteur.websiteout.net
 conample-essures.com
 conceau.co
+conceitosseg.com
 concernedcondition.com
 concernrain.com
 concert.io
@@ -2654,6 +2661,7 @@ damselclimb.com
 dana8herb.com
 danalinc.com
 dancemistake.com
+dancevalidator.io
 dap.digitalgov.gov
 dapperdiscussion.com
 dapperfloor.com
@@ -3887,6 +3895,7 @@ hsadspixel.net
 hsappstatic.net
 hsbcuksecure.com
 hscta.net
+hsdps.cc
 hsforms.net
 hsleadflows.net
 hsstatic.net
