@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-04-24 20:54:03
+# Generated at 2023-05-05 15:39:13
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4396,7 +4396,6 @@ itunes-renewal-subscription.com
 itunes-store-buy-blocked.com
 itunesapple.org
 itunesapplenvoice.info
-iubenda.com
 iverifyaccount.info
 ividence.com
 ivstat-failover.index.hu
