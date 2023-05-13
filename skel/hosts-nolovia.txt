@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-05-05 15:39:13
+# Generated at 2023-05-12 19:41:33
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -595,6 +595,7 @@ adrokt.com
 adrolx.com
 adrs.me
 ads-dev.sportradar.com
+ads-static.conde.digital
 ads-tm-glb.click
 ads-twitter.com
 ads.nextdoor.com
@@ -860,6 +861,7 @@ analytics.publitas.com
 analytics.roboturk.co
 analytics.rosehosting.com
 analytics.schoolwires.com
+analytics.shorthand.com
 analytics.snidigital.com
 analytics.stacker.com
 analytics.supplyframe.com
@@ -1448,6 +1450,7 @@ bawdypets.com
 bbcnews.email
 bbypass.pw
 bc0a.com
+bcdata.dallasnews.com
 bcdn1234325.com
 bcdn7843241.com
 bcdn87454132.com
@@ -1825,6 +1828,8 @@ browsiprod.com
 brsrvr.com
 bruisebaseball.com
 bsbrxl7znz.com
+bsightful.co
+bsightful.com
 btez8.xyz
 btgtrack.com
 btloader.com
@@ -3429,6 +3434,7 @@ fuzzybasketball.com
 fuzzyflavor.com
 fuzzyweather.com
 fw5e8yga.top
+fz360trcking.com
 g-analytics.com
 g-cloud.pro
 g-cloud.win
@@ -3641,6 +3647,7 @@ gotprofits.com
 gov-secure.co.uk
 govfree.pw
 govsecure.co.uk
+gpsecureads.com
 gpxsmtp.com
 gqqdlckj8y.com
 gr8domain.biz
@@ -4157,6 +4164,7 @@ impresivedate.com
 improvedigital.com
 improving.duckduckgo.com
 impruads.com
+impulsedsp.com
 impulsehands.com
 imsjjk309.com
 imstks.com
@@ -4353,6 +4361,7 @@ iprom.eu
 iprom.net
 ipstatp.com
 iqcpm.com
+iqm.com
 iqtel.org
 irgulzk8bi.com
 iris.informa.com
@@ -4560,6 +4569,7 @@ kdata.fr
 kdc7f2ifcc.com
 keap-link020.com
 keep-your-account.com
+keepitpumpin.io
 keet1liod.com
 kennedyform.com
 kenoratravels.com
@@ -5063,6 +5073,7 @@ materialisticfan.com
 materialmoon.com
 matomo.org
 mawlaybob.com
+maxepv.com
 maxijs.com
 maximusstafastoriesticks.info
 maxipartners.ru
@@ -5801,6 +5812,8 @@ ovnwislxf.info
 ovz1.j19544519.pr46m.vps.myjino.ru
 owen6000.hopto.org
 owlsr.us
+oxevents.io
+oxillon.com
 oyi9f1kbaj.com
 ozonestsscareer.info
 ozpr.net
@@ -6062,6 +6075,8 @@ pocketmath.com
 podiumpresto.com
 pointlessrifle.com
 poiuytyuiopkjfnf.com
+polaranalytics.co
+polaranalytics.com
 polarbear.freeddns.org
 police-pypal.com
 policy-activityaccount.com
@@ -6379,6 +6394,7 @@ rastreador-apple.com
 rastrear-lphone-id.com
 rate2self.com
 rationalyze.com
+rayzone.com
 rbcliveverifications.com
 rbcroyalbank-security.com
 rbnt.org
@@ -6878,6 +6894,7 @@ secure-myaccount.online
 secure-myappie-purchase.com
 secure-myappleid.com
 secure-resolve-accountverificationid.com
+secure-track1.com
 secure-verification-account-required.com
 secure-verification-account.com
 secure-verification-activity.com
@@ -7610,6 +7627,12 @@ stun1.l.google.com
 stupendoussleet.com
 stusing-cracieved.com
 sube-hizmeti.org
+sublytics-5bb3bd7244788.com
+sublytics-5be5edecc10bf.com
+sublytics-5cffe909e69e6.com
+sublytics-5db9e5dd1b2c2.com
+sublytics-5df8eec4bca66.com
+sublytics-600afc6bd3e89.com
 subscriptions-apple.com
 subsequentswim.com
 substantialcarpenter.com
@@ -7779,6 +7802,7 @@ tagon.co
 tags.creditkarma.com
 tags.dillards.com
 tags.newscgp.com
+tags.pw.adn.cloud
 tags.rvere.com
 tags.tiqcdn.com.edgekey.net
 tagsrvcs.com
@@ -7800,6 +7824,7 @@ targeting.mco.arcpublishing.com
 targeting.perso.aws.arc.pub
 targeting.tbt.arcpublishing.com
 targeting.tgam.arcpublishing.com
+targeting.unrulymedia.com
 targetingedge.com
 tarttendency.com
 tastefulsongs.com
@@ -7854,6 +7879,7 @@ telemetry.tradingview.com
 telemetry.wall-box.com
 teleweb.world
 tellapart.com
+tellosed-dectly.com
 temporaryhold-webappssvcs.com
 tempttalk.com
 tendertest.com
