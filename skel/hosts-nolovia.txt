@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-05-12 19:41:33
+# Generated at 2023-05-17 16:34:53
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -554,6 +554,7 @@ adleave.com
 adlightning.com
 adlive.io
 adlmerge.com
+admanagerplus.yahoo-inc.com
 admanmedia.com
 admantx.com
 admaru.com
@@ -1824,6 +1825,7 @@ browser.events.data.microsoft.com
 browser.events.data.msn.com
 browserhawk.com
 browsers.support
+browserupdate.org
 browsiprod.com
 brsrvr.com
 bruisebaseball.com
@@ -2190,6 +2192,7 @@ clkfeed1009.com
 clklab.com
 clmbtech.com
 clnwve.com
+cloakit.house
 cloffext.com
 cloisteredhydrant.com
 close2seven.com
@@ -7528,6 +7531,7 @@ starreviews.com
 stat-rock.com
 stat-sj.link
 stat.media
+stat.ovh
 stat.techtimes.com
 stat.u.sb
 statad.ru
@@ -8362,6 +8366,7 @@ user-stats.rbl.ms
 user-summary-account.com
 user3.altcoinfan.com
 useraccountverifications-appleid.com
+userback.io
 userdatatrust.com
 userinfos.com
 userinfos.info
