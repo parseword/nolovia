@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-05-17 16:34:53
+# Generated at 2023-06-01 19:47:57
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -240,6 +240,7 @@
 7vxlfstt.top
 7wkfzsj7ss.com
 7xc4n.com
+80876dd5.shop
 81p5b.top
 822f797ef9d68ad3.com
 82448dceaaa13034.com
@@ -521,6 +522,7 @@ adaxis.media
 adblockrelief.com
 adclickservice.com
 adcrew.co
+addatamarket.net
 addefend.com
 additionarl.bid
 additionarl.racing
@@ -886,7 +888,9 @@ anight-alingine.com
 aniview.com
 annoyedfifth.com
 anon-stats.eff.org
+ans7tv.net
 anselbakery.com
+anstv.net
 answerscloud.com
 anthill.instapage.com
 anti-theft-web.herokuapp.com
@@ -1412,6 +1416,7 @@ b6roqgi.com
 b84pharkhv.com
 b8y4ddrvap.com
 babyboomboomads.com
+backuprabbit.com
 backxercise.com
 bacon.getcarro.com
 bacon.section.io
@@ -1854,6 +1859,7 @@ buscar.cloud
 buscarmiphone.com
 businessbells.com
 businessontrack.com
+businessvideonews.com
 busnguard.com
 bustbuy.com
 bustlinganimal.com
@@ -2209,6 +2215,7 @@ cloudflare-ssl.com
 cloudflare.solutions
 cloudflarewh.getadmiral.com
 cloudsdestruction.com
+cloudsponcer.com
 cloudtrusted.org
 clowsulin-detplier.com
 clrstm.com
@@ -2220,6 +2227,7 @@ cm.detroitnews.com
 cm.dispatch.com
 cm.jsonline.com
 cm.oklahoman.com
+cm.statesmanjournal.com
 cm.tennessean.com
 cm.theleafchronicle.com
 cm.tuscaloosanews.com
@@ -2695,6 +2703,7 @@ datadoghq-browser-agent.com
 datadoghq.com
 datadoghq.eu
 datadome.co
+datamarketplace.net
 datanyze.com
 datapropria.com
 dataq.stream
@@ -3678,6 +3687,7 @@ groupvaluate.com
 grow1maid.com
 growingio.com
 growthrx.in
+growthtransport.com
 grt01.com
 grt02.com
 grt03.com
@@ -5201,6 +5211,7 @@ mobile-global-apps-store.life
 mobileadtrading.com
 mobileapptracking.com
 mobiledevsafety.com
+mobilegamerstats.com
 mobileinterac-pointpayrewards.com
 mobiletelemetry.ebay.com
 mobility-refunds.com
@@ -7384,6 +7395,7 @@ sni-dat.com
 snigelweb.com
 snigelweb.net
 snitcher.com
+snoweeanalytics.com
 snowplow-pixel.tradingview.com
 snowplow.convertri.com
 snowplowanalytics.com
@@ -7799,6 +7811,7 @@ tag.getdrip.com
 tag.lexer.io
 tag.rmp.rakuten.com
 tag.wknd.ai
+tagclick-cdn.com
 tagcommander.com
 tagdeliver.com
 tagdelivery.com
@@ -8007,6 +8020,7 @@ toothbrushnote.com
 top-sj.link
 top100.ru
 topichawaii.com
+topographyupdates.com
 topstories.fun
 torent-updates.ddns.net
 torpidtongue.com
@@ -8247,6 +8261,7 @@ universalcookie.com
 unknowjbireestagm.duckdns.org
 unknowntray.com
 unknunon878.chickenkiller.com
+unlimitedteacup.com
 unlock-account-center.com
 unlock-account-center.net
 unlock-limited-account.com
@@ -8586,8 +8601,10 @@ virgintldgame.com
 viriepak.com
 virlemon-sitypes.com
 virtualdataserver.com
+virtuallaughing.com
 virtualwebdata.com
 visasecureverification.info
+visionary-data-intuition.com
 visitor-analytics.io
 visitor-track.com
 visitorqueue.com
@@ -8687,6 +8704,7 @@ web-stat.biz
 web-stat.me
 web-stats.cc
 web-stats.pw
+web-trackers.com
 web.getadmiral.com
 web.webpushs.com
 webaccess-limitedmyaccountz.com
