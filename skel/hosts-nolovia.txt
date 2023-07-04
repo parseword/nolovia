@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-06-01 19:47:57
+# Generated at 2023-07-03 19:10:12
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1511,6 +1511,7 @@ bestboundary.com
 bestcontentfood.top
 bestdisplayformats.com
 bestemailverificator.com
+bestfindthetruth.com
 bestprizesday4.life
 bestrevie.ws
 bestsecuritysearch.com
@@ -2225,7 +2226,9 @@ cm.beaconjournal.com
 cm.commercialappeal.com
 cm.detroitnews.com
 cm.dispatch.com
+cm.jacksonville.com
 cm.jsonline.com
+cm.news-press.com
 cm.oklahoman.com
 cm.statesmanjournal.com
 cm.tennessean.com
