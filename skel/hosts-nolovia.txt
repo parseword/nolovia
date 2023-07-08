@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-07-03 19:10:12
+# Generated at 2023-07-07 20:50:42
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2248,6 +2248,7 @@ cnnnews.global
 cnnx.link
 coachquartz.com
 coax7nice.com
+cobrowse.screenmeet.com
 code203.ddns.net
 codeingasmylife.com
 codejquery-ui.com
@@ -3558,6 +3559,9 @@ gexperiments1.com
 gexperiments2.com
 gexperiments3.com
 gexperiments4.com
+gexperiments5.com
+gexperiments6.com
+gexperiments7.com
 gfbnr.com
 gfgixev3d4.com
 ghochv3eng.trafficmanager.net
@@ -6201,6 +6205,7 @@ profiles.ClickOnDetroit.com
 profiles.click2houston.com
 profiles.clickorlando.com
 profiles.ksat.com
+profiles.local10.com
 profiles.news4jax.com
 profiles.wsls.com
 profitrumour.com
@@ -6329,6 +6334,7 @@ qfdn3gyfbs.com
 qh2020.org
 qhigh.com
 qiheptnm80.com
+qixbmhnpi.xyz
 qjjto.com
 qkpcihpo16.com
 ql6401rkow.com
