@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-07-07 20:50:42
+# Generated at 2023-07-09 19:58:46
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -515,6 +515,7 @@ ad6media.fr
 adagio.io
 adainstaller.com
 adamatic.co
+adap.tv
 adapex.io
 adaptiveads.com
 adaranth.com
@@ -624,6 +625,7 @@ adserver.video
 adservices.brandcdn.com
 adsfirstsun.com
 adshort.co
+adskeeper.co.uk
 adskeeper.com
 adsninja.ca
 adsolut.in
@@ -2255,6 +2257,7 @@ codejquery-ui.com
 codeonclick.com
 coderoute.ma
 codesmagento.com
+coherentpath.link
 coin-service.com
 coinangel.online
 coinbaseverifier.com
@@ -3803,6 +3806,7 @@ help-you-in-confirmation.info
 help365.us
 helplimit.net
 helpscout.net
+hengam.io
 herb2warn.com
 herb7calk.com
 hetq.org
@@ -4475,6 +4479,7 @@ jisusaiche.global.ssl.fastly.net
 jisusaiche.secure.footprint.net
 jjmdavj.com
 jkub.com
+jmdoceyfiilke.xyz
 jmuaoupnykie.com
 joaffs.com
 jody0sora.com
@@ -4816,6 +4821,7 @@ lo70s.com
 loading-apple.com
 loadingpages.info
 loaxuflhen.com
+local-marketing-reports.com
 localiser-icloud.info
 localization-phone.us
 localize-icloud.com
@@ -5594,6 +5600,7 @@ ninjaoutreach.com
 ninstream.com
 ninth.biz
 ninthdecimal.com
+nir.theregister.com
 nisdably.com
 nitropay.com
 nlwy0.com
