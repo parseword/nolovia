@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-07-09 19:58:46
+# Generated at 2023-07-25 21:18:24
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -298,6 +298,7 @@ a1webstrategy.com
 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 a3cloud.net
 a4.tl
+a47b.com
 a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
 a63t9o1azf.com
 a8.net
@@ -1493,6 +1494,7 @@ bebi.com
 bedsbreath.com
 bedtellect.com
 beemray.com
+beer7live.com
 beforescripts.com
 begemotventures.com
 beget.tech
@@ -1937,6 +1939,7 @@ cau-breeziest-in.cloudapp.net
 causecherry.com
 cautiouscredit.com
 cavanic9.net
+cave9tape.com
 cavixo.com
 cavy9soho.com
 caxvm62zyz.com
@@ -4854,6 +4857,7 @@ log.bc.aarp.org
 log.hitsteps.net
 log.outbrain.org
 log.outbrainimg.com
+log.prezi.com
 log.propermessage.io
 log.quora.com
 log.shortbread.aws.dev
@@ -6102,6 +6106,7 @@ pocketfaucet.com
 pocketmath.com
 podiumpresto.com
 pointlessrifle.com
+pointmediatracker.com
 poiuytyuiopkjfnf.com
 polaranalytics.co
 polaranalytics.com
@@ -6374,6 +6379,7 @@ quick-help.us
 quickhelpdesk.in
 quickhelpdeskk.us
 quickintertac-paymentrewards.com
+quicklynks.com
 quicksandear.com
 quietknowledge.com
 quikcdn.com
@@ -7908,6 +7914,7 @@ telemetry.api.wmcdp.io
 telemetry.jivosite.com
 telemetry.mozilla.org
 telemetry.servers.getgo.com
+telemetry.tataritv.com
 telemetry.tradingview.com
 telemetry.wall-box.com
 teleweb.world
