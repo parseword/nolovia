@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-07-25 21:18:24
+# Generated at 2023-08-11 20:10:09
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5570,6 +5570,7 @@ newsfacebook24h.com
 newsharecounts.com
 newsl.ink
 newsmaxfeednetwork.com
+newsstat.dallasnews.com
 newsunads.com
 newthuads.com
 newtueads.com
