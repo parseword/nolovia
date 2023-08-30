@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-08-11 20:10:09
+# Generated at 2023-08-30 13:04:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -533,6 +533,7 @@ addroplet.com
 adentifi.com
 adept.li
 adexchangedirect.com
+adfixus.com
 adform.com
 adform.dk
 adform.net
@@ -823,6 +824,7 @@ ampush.io
 amtminjo.com
 analiticoscdn.com
 analysis.fi
+analysis.valpak.com
 analytics-api-s.cloudinary.com
 analytics-api.cerebra.tech
 analytics-collector-28944298.us-east-1.elb.amazonaws.com
@@ -1880,6 +1882,7 @@ c02o3mpych.com
 c0cd2idcl5.com
 c3tag.com
 c52llumx.com
+c6orlterk.com
 caai83kh6p.com
 cad-secure-returns.top
 cage6west.com
@@ -1924,6 +1927,7 @@ carpentercomparison.com
 carriagecan.com
 carscannon.com
 cart8draw.com
+cartkitten.com
 cartolarepresentacoes.com.br
 cartself-amoneorem.com
 cashiopeia-updates.com
@@ -2054,6 +2058,7 @@ check-accountlocked.com
 check-active-acces.com
 check-idevice.online
 check-you-robot.online
+checkerproxy.net
 checkingwindowsforcleaning-here01.life
 cheerfulrange.com
 chemicalcoach.com
@@ -5816,6 +5821,7 @@ origin-analytics-prod.production.braintree-api.com
 orinks-prence.com
 ornament-i.com
 orquideassp.com
+osano.com
 osesgy-unmissions.org
 oskiwood.com
 osny2p7a0k.com
@@ -7113,6 +7119,7 @@ sexad.net
 sexadnetwork.com
 sexidude.com
 sexxxy.biz
+seyishalom.com
 sf-syn.com
 sf14g.com
 sf2ej57.com
@@ -7416,6 +7423,7 @@ sni-ads-creativeservices.s3.amazonaws.com
 sni-dat.com
 snigelweb.com
 snigelweb.net
+sniperl.ink
 snitcher.com
 snoweeanalytics.com
 snowplow-pixel.tradingview.com
@@ -7812,6 +7820,7 @@ swordgoose.com
 sxk8xrjtaikv3dxl7hgghw3vptvxpzzxeynrcltu4k3yeecjq3.online
 sxygdmkway.com
 symbolizebeast.com
+synctrack.io
 sysduo.com
 syst-sj.link
 system-account-verification.com
@@ -8094,6 +8103,7 @@ tracker.ntunhs.net
 tracker.ranker.com
 tracker.smadex.com
 tracker.unbxdapi.com
+tracker.wordgenius.com
 trackimo.com
 tracking-na.hawksearch.com
 tracking-sales-pop.carecart.io
