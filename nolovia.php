@@ -212,6 +212,11 @@ $hosts = array_map(function($val) {
 debug('Discarding entries with invalid characters');
 $hosts = strip_invalid($hosts);
 
+/* Discard records with unrealistic lengths */
+$hosts = array_filter($hosts, function($val) {
+    return !(strlen($val) > 200);
+});
+
 /* Remove any duplicate hosts */
 debug('Deduplicating hosts');
 $hosts = array_unique(array_map('strtolower', $hosts));
