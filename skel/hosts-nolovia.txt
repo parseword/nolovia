@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-08-30 13:04:48
+# Generated at 2023-09-02 20:00:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -576,6 +576,7 @@ adnegah.net
 adnium.com
 adnxs-simple.com
 adobes.software
+adobetm.com
 adoning-unducted.com
 adorableanger.com
 adoric-om.com
@@ -1995,6 +1996,7 @@ cdnwhiltelist.com
 cdnwidget.com
 cdpsvc.com
 cds.x7t9n8c4.hwcdn.net
+cdtx.co
 cedato.com
 cedexis-1.s.llnwi.net
 cedexis-test.com
@@ -2027,6 +2029,7 @@ changeip.name
 changeip.net
 changeip.org
 channelcamp.com
+channelexco.com
 charlesdukem.chickenkiller.com
 chase-banking-login1.xyz
 chase-banking-login2.xyz
@@ -2669,6 +2672,7 @@ d0v5g1vb.top
 d10lpsik1i8c69.cloudfront.net
 d1272serve.xyz
 d14emrg9.com
+d15kdpgjg3unno.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
 d1vl8wytztdz.cloudfront.net
 d22chwk8np.com
@@ -3444,6 +3448,7 @@ frightenedpotato.com
 frog9alea.com
 frontpage-stats.rbl.ms
 frontstatics.com
+ft.net
 ftp1.biz
 ftpserver.biz
 fullstory.com
@@ -4603,6 +4608,7 @@ kdc7f2ifcc.com
 keap-link020.com
 keep-your-account.com
 keepitpumpin.io
+keepmystation.com
 keet1liod.com
 kennedyform.com
 kenoratravels.com
@@ -5168,6 +5174,7 @@ metrics.macys.net
 metrics.media-amazon.com
 metricscollector.lp.xcal.tv
 meuzxiejun.com
+mevarabon.com
 mews2ruck.com
 mexsmtp.com
 meya.ai
@@ -6891,6 +6898,7 @@ scotiabankdelperu.com
 scrappcloud-idapple.com
 scratchsofa.com
 screechingfurniture.com
+script.ac
 scripts.agilone.com
 scriptsform.com
 scriptsjzone.com
@@ -6905,6 +6913,7 @@ sd5doozry8.com
 sdasasyydd.com
 sddos.xyz
 sdreif.com
+se-fe-analytics.ui.sportngin.com
 sea-breeziest-in.cloudapp.net
 searchlinks.com
 searchmulty.com
@@ -8810,6 +8819,7 @@ websevervaliidationneeded.info
 websevervaliidationneeded.xyz
 websignin-secure-payment-update.com
 websitepolicies.io
+websitereview.corp.apple.com
 webssl-apple.com
 webstatistic.pw
 webstatistic.ws
