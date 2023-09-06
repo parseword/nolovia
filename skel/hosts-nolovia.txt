@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-09-02 20:00:16
+# Generated at 2023-09-05 19:09:45
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -657,8 +657,10 @@ adtrue.com
 adv.mxmcdn.net
 advalue.com.vn
 advanced-web-analytics.com
+advancedscanner.link
 advandmedia.com
 advangelists.com
+adventurousamount.com
 adversal.com
 advertica.ae
 advertisementafterthought.com
@@ -669,6 +671,7 @@ advertnotices.com
 advertzing.com
 advidi.com
 advinteo.com
+advnced-lp-scanner.com
 advocatecdn.com
 advservert.com
 adwerx.com
@@ -926,6 +929,7 @@ apidatacss.com
 apiserverdata1.com
 apismanagers.com
 apissystem.com
+apitd.net
 apiurl.org
 apk-bancodobrasil.com
 apl.report
@@ -1978,6 +1982,7 @@ cdn.bestreviews.com
 cdn.familyfocus.us
 cdn.firstpromoter.com
 cdn.matomo.cloud
+cdn.motor-junkie.com
 cdn.sift.com
 cdn1272serve.xyz
 cdnads.geeksforgeeks.org
@@ -2224,6 +2229,7 @@ cloud-jquery.org
 cloud-privacy.com
 cloud-wp.org
 cloudcommerce.com
+cloudfastin.top
 cloudflare-cdnjs.com
 cloudflare-ssl.com
 cloudflare.solutions
@@ -2674,6 +2680,7 @@ d1272serve.xyz
 d14emrg9.com
 d15kdpgjg3unno.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
+d1g3myji5lplsh.cloudfront.net
 d1vl8wytztdz.cloudfront.net
 d22chwk8np.com
 d2c7xlmseob604.cloudfront.net
@@ -2785,6 +2792,7 @@ deesktops.info
 defectivesun.com
 defiantrice.com
 deftsecurity.com
+defybrick.com
 dehaizegroup35.hopto.org
 delegatediscussion.com
 delence-trapril.com
@@ -2844,6 +2852,7 @@ diagnostics.redditmedia.com
 dial4gwyn.com
 dialogtech.com
 differentdesk.com
+digbearings.com
 digi-cert.org
 digitalcollege.org
 digitaltarget.ru
@@ -4270,6 +4279,7 @@ infotradelinks.ddns.net
 infoupdateppl.com
 ingage.tech
 ingest.crash.vault-tec.systems
+inisia-abelling.icu
 initiatefreeintenselyplayer.icu
 inmoment.com
 inner-active.com
@@ -4661,6 +4671,7 @@ ktyawzg.com
 ku6.com
 kubecloud.com
 kubient.com
+kueezrtb.com
 kuhls2ao.top
 kumma.com
 kupony-rohlik.cz
@@ -5278,6 +5289,7 @@ mookie1.com
 moomeeo.com
 moopisndvdvr.com
 moorexx.hopto.org
+moorshoes.com
 moprd-telemetryapi-gtm.trafficmanager.net
 moprd-telemetryapi-ue2.azurewebsites.net
 mopub.com
@@ -6107,6 +6119,7 @@ plausible.xojoc.pw
 player.mediafuse.com
 playground.xyz
 playwire.com
+pleasantpump.com
 pleasetrack.com
 plug1luge.com
 plusmarketingagency.com
@@ -6184,6 +6197,7 @@ prd-collector-anon.playbuzz.com
 prebid.org
 preciousyoke.com
 predep.com
+predicto.ai
 preequell.com
 prefiles.ml
 prefixpatriot.com
@@ -6247,6 +6261,7 @@ protect-appleid.com
 provideplant.com
 provnkfexxw.com
 proxydns.com
+prreqcroab.icu
 prtrackings.com
 prtrackings.g2afse.com
 prvtsmtp.com
@@ -7666,6 +7681,7 @@ straightnest.com
 straightschool.com
 strangefullthiggngs.com
 strangesink.com
+streamhub.tech
 streamrail.com
 streamrail.net
 stremanp.com
@@ -7681,6 +7697,7 @@ stun.kaptcha.com
 stun1.l.google.com
 stupendoussleet.com
 stusing-cracieved.com
+stytch.com
 sube-hizmeti.org
 sublytics-5bb3bd7244788.com
 sublytics-5be5edecc10bf.com
@@ -8022,6 +8039,7 @@ thxczhfzad.com
 ticketaunt.com
 ticklesign.com
 ticklishpanda1.xyz
+tidio.co
 tidytrail.com
 tika-search.com
 timesink.com
