@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-09-07 21:41:36
+# Generated at 2023-09-08 09:21:00
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1617,6 +1617,7 @@ blast.ddns.net
 blatwalm.com
 blazeapi.com
 bleeper.io
+blgbeach.com
 bliink.io
 blis.com
 blismedia.com
@@ -2757,6 +2758,7 @@ db-control-uplink.com
 db1.us
 db5.us
 dbbp1.pro
+dbgsymbol.com
 dbmads.com
 dc.applicationinsights.microsoft.com
 dc.services.visualstudio.com
