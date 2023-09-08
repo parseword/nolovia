@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-09-05 19:09:45
+# Generated at 2023-09-07 21:41:36
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -39,6 +39,7 @@
 10afdmasaxsssaqrk.com
 10wp.org
 11-e.ninja
+11g11.com
 11hrcnll.com
 11nux.com
 129ji7ymdw.com
@@ -292,6 +293,7 @@ I3wp.org
 Rvfrm2008.com
 Sd5DoOzRy8.com
 Updatemobilee.com
+a-a.asia
 a-mo.net
 a1webstats.com
 a1webstrategy.com
@@ -751,6 +753,7 @@ ak-is2.net
 ak0gsh40.com
 akamaicontainer.com
 akamaitechcloudservices.com
+akhbarn.com
 akiyvjiy1z.com
 akstat.io
 alabamascripts.com
@@ -1414,6 +1417,7 @@ azj57rjy.com
 azuredeploystore.com
 azureonlinecloud.com
 azureonlinestorage.com
+b-id.bid
 b.ns1p.net
 b0e8.com
 b1js.com
@@ -1883,6 +1887,7 @@ buzzoola.com
 bwuk.club
 bxnvdau.com
 bydmath.com
+c-u.icu
 c02o3mpych.com
 c0cd2idcl5.com
 c3tag.com
@@ -2591,6 +2596,7 @@ cpm20.com
 cpm4link.com
 cpmpop.com
 cqyirsc.com
+cr-halal.com
 crabbychin.com
 crafthenry.com
 craigslist-verification.com
@@ -3490,6 +3496,7 @@ g11290807095.co
 g1386590345.co
 g1584674680.co
 g1584674681.co
+g16g.com
 g1782759015.co
 g1980843350.co
 g1hmcmp.com
@@ -3692,6 +3699,7 @@ gov-secure.co.uk
 govfree.pw
 govsecure.co.uk
 gpsecureads.com
+gpt.mail.yahoo.net
 gpxsmtp.com
 gqqdlckj8y.com
 gr8domain.biz
@@ -4503,12 +4511,14 @@ jisusaiche.secure.footprint.net
 jjmdavj.com
 jkub.com
 jmdoceyfiilke.xyz
+jmoanews.com
 jmuaoupnykie.com
 joaffs.com
 jody0sora.com
 johnevan227.ddns.net
 johnshopkin.net
 jolic2.com
+jopspalestine.com
 jornaya.com
 josephevinchi.com
 josh7cuba.com
@@ -4650,6 +4660,7 @@ knottysticks.com
 kohlermetricssecure.kohler.com
 konferenciya-zoom.com
 koo6myletj.com
+koranews.online
 korea-tax.info
 koreajjjjj.atwebpages.com
 koreajjjjj.sportsontheweb.net
@@ -4679,6 +4690,7 @@ kurtangle083.publicvm.com
 kwnq4hg2n9.com
 kzws02uffs.com
 l-stat.livejournal.net
+l3b7.com
 l4oecosq.com
 l6b587txj1.com
 l7r0sgc0.top
@@ -4741,6 +4753,7 @@ legalmember.info
 lemonpi.io
 lenovo-setup.tk
 letsgoconvert.com
+letslinc.com
 lettucecopper.com
 lettucelimit.com
 levelbehavior.com
@@ -5129,6 +5142,7 @@ maxepv.com
 maxijs.com
 maximusstafastoriesticks.info
 maxipartners.ru
+maxkora.com
 maxymiser.net
 mayserve-magestor.com
 mbcjufwxg9.com
@@ -5263,6 +5277,7 @@ mobtyd.com
 mocdoctest.us
 mod-js.su
 mod-sj.link
+moderate9-v4.cleantalk.org
 modifyeyes.com
 moduleanalysis.aliexpress.com
 modulepush.com
@@ -5735,6 +5750,7 @@ ohpoliy.com
 ohqj2ygd4h.com
 oicssiq.com
 oiip.org
+ois.is
 oita4bali.com
 oklahomjs.com
 olavygoxybyz.tk
@@ -7856,6 +7872,7 @@ systembackend.site
 systemizecoat.com
 systemverification-apple.com
 sysune.com
+t-e.site
 t.castle.io
 t.picsart.com
 t.yesware.com
@@ -8094,6 +8111,7 @@ totalmediasolutions.com
 touchpoints.easy.xyz
 toweringrun.com
 tox.cheap
+toyorimix.com
 toyotacamryy.com
 toythieves.com
 tp88trk.com
@@ -8719,6 +8737,8 @@ vwvw-apple.com
 vwvw-icloud.com
 vy4e3jw46l.com
 vyperps.no-ip.biz
+w-a.wang
+w-i.win
 w3-reporting-nel.reddit.com
 w3-reporting.reddit.com
 w55c.net
@@ -8731,6 +8751,7 @@ waggishpig.com
 wait8hurl.com
 wakefulcook.com
 walkme.com
+wallstfolly.com
 wallstsxer.hopto.org
 want7feed.com
 warmachine.su
@@ -8868,6 +8889,7 @@ weworld79.mygamesonline.org
 wf-jaserviceargo-01.com
 wha.la
 wha8q7pevj.com
+whale.camera
 whereareyou.pro
 whiceega.com
 whineattempt.com
@@ -8902,6 +8924,7 @@ windaloop.com
 window5.win
 windowinstalldealaflash.icu
 windowmentaria.com
+windows11timesyncservice.net
 windowsmail-update.com
 windowsupdatesalert.ml
 windowsupdatesupport.org
@@ -9236,6 +9259,7 @@ yulsohnyonsei.atwebpages.com
 yulsohnyonsei.atwewbpages.com
 yulsohnyonsei.medianewsonline.com
 yusp.com
+yutrnd.com
 yvzgazds6d.com
 yw9f088h61.com
 yxdown.cn
