@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-09-08 09:21:00
+# Generated at 2023-09-08 19:56:34
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2130,6 +2130,7 @@ cjsanandreas.com
 cjvj6jqxpf.com
 ckk69drbro.com
 cko-breeziest-in.cloudapp.net
+cl0sed00r.co
 cl0udfiare.com
 cl96rwprue.com
 claim-policyupdate.com
@@ -2688,13 +2689,19 @@ d14emrg9.com
 d15kdpgjg3unno.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
 d1g3myji5lplsh.cloudfront.net
+d1lu3pmaz2ilpx.cloudfront.net
 d1vl8wytztdz.cloudfront.net
 d22chwk8np.com
+d2aejv7a8aapgp.cloudfront.net
 d2c7xlmseob604.cloudfront.net
 d2cli4kgl5uxre.cloudfront.net
 d2ergeh3ul.com
+d2hrivdxn8ekm8.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
 d2rp1k1dldbai6.cloudfront.net
+d2t77mnxyo7adj.cloudfront.net
+d2wy8f7a9ursnm.cloudfront.net
+d330aiyvva2oww.cloudfront.net
 d39ievd5spb5kl.cloudfront.net
 d41.co
 d4q8zgf756.com
@@ -2996,6 +3003,7 @@ dustywave.com
 dvla-refund-gov.online
 dvla-swansea-refund.online
 dvoyy3qexr.com
+dvqigh9b7wa32.cloudfront.net
 dw-arabic.com
 dynad.net
 dynadmic.com
@@ -7922,6 +7930,7 @@ targetingedge.com
 tarttendency.com
 tastefulsongs.com
 tastelesstrees.com
+tatari.tv
 tatic-hotjar.com
 tattle.api.osano.com
 tavertotsand.info
@@ -8197,6 +8206,7 @@ traskedlink.com
 tray0bury.com
 trck.youvisit.com
 trckk.com
+trckmaniac.com
 treadbun.com
 treasury-government.com
 treasury.email
@@ -9319,6 +9329,7 @@ zme8o3l1c4.com
 zmjagawa.com
 zo7gihmry2.com
 zog.link
+zomchairs.com
 zonejs.com
 zoobashop.com
 zoom-download.fun
