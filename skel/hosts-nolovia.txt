@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-09-14 21:24:43
+# Generated at 2023-09-18 20:03:32
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -754,6 +754,9 @@ ak0gsh40.com
 akamaicontainer.com
 akamaitechcloudservices.com
 akhbarn.com
+akisinn.info
+akisinn.me
+akisinn.site
 akiyvjiy1z.com
 akstat.io
 alabamascripts.com
@@ -2856,6 +2859,9 @@ device.clearsale.com.br
 devie-location.review
 devo.io
 dewifal.com
+dewrain.life
+dewrain.site
+dewrain.world
 dexessee.com
 df8li6at9c.com
 dgaytd37.com
@@ -8136,6 +8142,7 @@ tr.crooksandliars.com
 tr.www.cloudflare.com
 trace-device.us
 tracedesire.com
+tracing.toc.platform.michaels.com
 track-latency.cmcassets.com
 track-v2.funnelytics.io
 track.beyondmenu.com
@@ -8498,6 +8505,9 @@ uymkdz9s.com
 v3rjvtt.com
 va-endpoint.com
 vadideo.com
+vaicore.site
+vaicore.store
+vaicore.xyz
 validate-to-get-access.xyz
 validate2explore.xyz
 validateconnection.xyz
@@ -8712,12 +8722,15 @@ vizsense.com
 vizvaz.com
 vkaofq64zz.com
 vknd8q3trk.com
+vlancaa.fun
+vlancaa.site
 vlitag.com
 vmaxjs.com
 vmg.host
 vmg.nyc
 vmmpxl.com
 vneffwecka.com
+vnhonri2c.michaels.com
 vnldaly8r5.com
 vnrherdsxr.com
 vntsm.com
