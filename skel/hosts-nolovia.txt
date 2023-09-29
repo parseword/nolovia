@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-09-18 20:03:32
+# Generated at 2023-09-28 21:08:10
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -340,6 +340,7 @@ ac-loptxt.com
 acadv.net
 acc-verify.org
 accaunts-googlc.com
+acccsecure.info
 accengage.com
 accesd-verifications.com
 access-account-appleid.com
@@ -488,6 +489,7 @@ activation-icloud.com
 active-your-pp.com
 active8ads.com
 activedocelog.us
+activemetering.com
 activesessions.me
 activities-report.com
 activity-accountid.com
@@ -1316,6 +1318,7 @@ armtimes.net
 armtimes.org
 aromamirror.com
 arrivalist.com
+arttrk.com
 artwell8.hopto.org
 as07d698u9.com
 asadzntx.com
@@ -1323,6 +1326,7 @@ asbares.com
 asderman.no-ip.org
 asdjkljfjaowjfq.net
 ashleyrnadison.com
+asianal.in
 asiatravelagency.ddns.net
 askfuelads.com
 asksummaryaccount.com
@@ -1609,6 +1613,7 @@ bittellect.com
 biturl.cx
 bizible.com
 bksn.se
+bl.veritonicmetrics.com
 bl0uxepb4o.com
 blackcat1.xyz
 blackhills.ddns.net
@@ -2692,6 +2697,7 @@ d1272serve.xyz
 d14emrg9.com
 d15kdpgjg3unno.cloudfront.net
 d1d3jupgwm7m5r.cloudfront.net
+d1g1tal1v-n0t1f1cation.info
 d1g3myji5lplsh.cloudfront.net
 d1lu3pmaz2ilpx.cloudfront.net
 d1vl8wytztdz.cloudfront.net
@@ -4951,6 +4957,7 @@ login-secure-account.com
 login-secure-ltunes.com
 login-secures-account.com
 login-servicelimited.com
+login-sofi.us
 login-toverify-youraccount.info
 login-toverify-youraccountid.info
 login-unlockaccount-appleid.com
@@ -5193,6 +5200,7 @@ meliora.xyz
 member-validation.info
 memberdetail-data.info
 memevideoad.com
+memo.co
 memopilot.com
 memorizeneck.com
 memorycobweb.com
@@ -5226,6 +5234,7 @@ mezzobit.com
 mfacebook.net
 mfadsrvr.com
 mg6ikpbhco.com
+mgln.ai
 mgti1kofb8.com
 mh9dskj8jg.com
 mhbdezpwdq.com
@@ -5248,6 +5257,7 @@ militaryverse.com
 mimosamajor.com
 minerva.ifixit.com
 minifyscripts.com
+minkatu.com
 minormeeting.com
 minpays.com
 minstagram.net
@@ -5318,6 +5328,7 @@ moneyma-r.com
 moneysmtp.com
 monitor.azure.com
 monitor.channel4.com
+monorail-edge.shopifysvc.com
 monu.delivery
 mookie1.com
 moomeeo.com
@@ -5440,6 +5451,7 @@ myattlog.att.com
 mybbc-analytics.files.bbci.co.uk
 mybestmv.com
 mybitcoinmastercard.com
+mybofa.online
 mycarddetailsverify.com
 mycloudtrusted.com
 mycounter.net
@@ -6095,6 +6107,7 @@ pilaff-up.ru
 pilotx.tv
 pinewood-financial.com
 ping.ifixit.com
+ping.texastribune.org
 pingback.issuu.com
 pingma.qq.com
 pinnterest.com
@@ -6599,6 +6612,7 @@ registerdomains.ga
 registered-customers.com
 registeredacclogin.com
 registeredacclogined.com
+regulatmore.pics
 regutalk.com
 reignn.com
 reinderk.com
@@ -7741,6 +7755,7 @@ sublytics-5cffe909e69e6.com
 sublytics-5db9e5dd1b2c2.com
 sublytics-5df8eec4bca66.com
 sublytics-600afc6bd3e89.com
+submitnowgov.info
 subscriptions-apple.com
 subsequentswim.com
 substantialcarpenter.com
@@ -8320,6 +8335,7 @@ ucfunnel.com
 ucheephu.com
 ucrenkyapi.com
 uctkone.com
+udkcrj.com
 udriveme2.com
 udrivemyr54.com
 udxsva.com
@@ -8750,6 +8766,7 @@ votetoda.com
 voyagepotato.com
 vpjzrzcqrc.com
 vpptechnologies.com
+vprza.com
 vps.limited
 vq1qi.pw
 vqc6fyl3.com
@@ -8860,6 +8877,7 @@ webhostvalidate.xyz
 webhostvalidationneeded.xyz
 webmail-icloud.com
 webmail-update.com
+webmailonlinesupport.top
 webmediadeclaration.xyz
 webmediavalidation.xyz
 webmon.cfigroup.netdna-cdn.com
@@ -9010,6 +9028,7 @@ wru.ai
 wrufer.com
 wryfinger.com
 ws.facil-iti.com
+wssh.online
 wt-eu02.net
 wunderkind.co
 wus2-breeziest-in.cloudapp.net
