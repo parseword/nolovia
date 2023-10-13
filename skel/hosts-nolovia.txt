@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-09-28 21:08:10
+# Generated at 2023-10-13 11:50:28
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -858,6 +858,7 @@ analytics.chegg.com
 analytics.cincopa.com
 analytics.cloud.coveo.com
 analytics.comalatech.io
+analytics.console.aws.a2z.com
 analytics.dnnapi.com
 analytics.dvidshub.net
 analytics.edgekey.net
@@ -5205,6 +5206,7 @@ memopilot.com
 memorizeneck.com
 memorycobweb.com
 memozilla.org
+merchant-center-analytics.goog
 mercycoin.org
 meremark.com
 meresomastewini.com
@@ -5952,7 +5954,9 @@ panini101.chickenkiller.com
 panoramicbutter.com
 paradoxfactor.com
 parafarmaciaabascal.com
+parcelchange.com
 parcelcreature.com
+parcelposting.com
 parchedangle.com
 pardot.com
 park-travels.com
@@ -7644,6 +7648,7 @@ standingnest.com
 standtrouble.com
 starcyclone.com
 starreviews.com
+stash.webstaurantstore.com
 stat-rock.com
 stat-sj.link
 stat.media
@@ -8429,6 +8434,7 @@ update-apple-info.com
 update-bilingappl.com
 update-billing-info-security.com
 update-client.info
+update-complete.com
 update-emailx.info
 update-home-works.com
 update-icloud-works.com
