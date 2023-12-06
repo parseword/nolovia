@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-10-13 11:50:28
+# Generated at 2023-12-05 19:55:12
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2848,7 +2848,6 @@ descargas2020.com
 desertedbreath.com
 desertedrat.com
 desiredirt.com
-desmoinesregister.com
 dessertcount.com
 detailaccount.info
 detailedglue.com
