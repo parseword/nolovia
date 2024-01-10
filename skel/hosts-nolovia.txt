@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2023-12-05 19:55:12
+# Generated at 2024-01-09 21:40:22
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -172,6 +172,7 @@
 4th-smtp2go.email
 4ukqzi8d7l.com
 4v9wp.com
+5103c0n1c.texasmonthly.com
 5155352.com
 51nlno7cgy.com
 544bd1e82a9c8c39.com
@@ -1576,6 +1577,7 @@ bidtellectual.com
 bidtheatre.com
 bidtheorem.com
 bidtillect.com
+bigabid.com
 bigbird1.xyz
 bigcat1.xyz
 bigdataexchange.com
@@ -1847,6 +1849,7 @@ brilliantcollector.com
 broadboundary.com
 broadcastbed.com
 broaddoor.com
+broadstreet.b-cdn.net
 brontocdn.com
 brotherslocket.com
 brownpanda1.xyz
@@ -1900,6 +1903,7 @@ bydmath.com
 c-u.icu
 c02o3mpych.com
 c0cd2idcl5.com
+c2t.zwt.co
 c3tag.com
 c52llumx.com
 c6orlterk.com
@@ -2067,6 +2071,7 @@ chase-logbank4.xyz
 chase-logbank5.xyz
 chase-unlockid.com
 chatbeacon.io
+chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 chatbotize.com
 chatid.com
 chatluongvacuocsong.vn
@@ -2261,6 +2266,7 @@ cm.beaconjournal.com
 cm.commercialappeal.com
 cm.detroitnews.com
 cm.dispatch.com
+cm.goerie.com
 cm.jacksonville.com
 cm.jsonline.com
 cm.news-press.com
@@ -2278,6 +2284,7 @@ cmp.osano.com
 cms.analytics.yahoo.com
 cmytuok.top
 cnbcnews.email
+cnc.kintaro.cc
 cnn24-7.online
 cnnnews.global
 cnnx.link
@@ -2886,6 +2893,7 @@ digi-cert.org
 digitalcollege.org
 digitaltarget.ru
 digitru.st
+digrazia.tucsonsentinel.com
 dimorphism.stream
 dionbeno.me
 diplomahawaii.com
@@ -3334,6 +3342,7 @@ fidzup.com
 fiechaev.com
 fieldtest.cc
 fieldtest.la
+fightbrink.org
 figpii.com
 file3size.com
 fileblade.ga
@@ -3490,6 +3499,7 @@ frontstatics.com
 ft.net
 ftp1.biz
 ftpserver.biz
+fuckmy.site
 fullstory.com
 functionads.com
 functionalclam.com
@@ -3540,6 +3550,7 @@ g9706132415.co
 g990421675.co
 g9904216750.co
 ga87z2o.com
+gaconnector.com
 gactivityinfo.com
 gaei.tk
 gall-tarquin.com
@@ -3620,6 +3631,7 @@ gexperiments6.com
 gexperiments7.com
 gfbnr.com
 gfgixev3d4.com
+ggh7ojxxwiyx4oyj4vhw3cmcnm0nswpf.lambda-url.us-west-2.on.aws
 ghochv3eng.trafficmanager.net
 ghostery-collector-115893389.us-east-1.elb.amazonaws.com
 ghostery-collector.ghostery.com
@@ -3931,6 +3943,7 @@ honorableland.com
 hoo1luha.com
 hoplessinple.com
 hoplessinples.com
+hospitablehall.com
 host g10102301085.co
 host g10300385420.co
 host g10498469755.co
@@ -4286,6 +4299,7 @@ indominestuff33.hopto.org
 indoprogress.co
 ineed-location.com
 inerpretzel.com
+infectedchink.cat
 infinitads.com
 info-accessvalidatesumary.com
 info-account-verification.com
@@ -6242,6 +6256,7 @@ ppintl-servicesolutionlimitservcs-id1.com
 ppl-checker-for-family.com
 ppleid-lockedid.com
 ppmon.com
+pqazham.ink
 practicetoothpaste.com
 prd-collector-anon-video.playbuzz.com
 prd-collector-anon.ex.co
@@ -9072,6 +9087,7 @@ www1-apple.store
 www1-cserviceapple.com
 www1-cservicepaeyipal.com
 www1.biz
+www2.ispot.tv
 www3mth.com
 wwwacessocooopnore.com
 wwwanalytics.novanthealth.org
