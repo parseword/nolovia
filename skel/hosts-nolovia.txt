@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-01-09 21:40:22
+# Generated at 2024-01-17 20:07:14
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -863,6 +863,7 @@ analytics.console.aws.a2z.com
 analytics.dnnapi.com
 analytics.dvidshub.net
 analytics.edgekey.net
+analytics.eip.telegraph.co.uk
 analytics.freesound.org
 analytics.getshogun.com
 analytics.githubassets.com
@@ -1508,6 +1509,7 @@ beacons.mediamelon.com
 beadbears.com
 beamincrease.com
 beamkite.com
+beastanalytics.app
 beastbeef.com
 beautifulelephant1.xyz
 bebi.com
@@ -1606,6 +1608,7 @@ biocatch.com
 bipovnerlvd.com
 biqle.ru
 birect-nammer.com
+birthdaybelief.com
 bitcoin-transaction-accelerator.website
 bitcoin.co.pt
 bitly.cam
@@ -1901,6 +1904,7 @@ bwuk.club
 bxnvdau.com
 bydmath.com
 c-u.icu
+c.arstechnica.com
 c02o3mpych.com
 c0cd2idcl5.com
 c2t.zwt.co
@@ -5056,6 +5060,7 @@ m-img.org
 m2.ai
 m24js.com
 m3bnqqqw.com
+m3pixel.com
 m9in5.top
 macdanielo.hopto.org
 macfantsy.com
@@ -5560,6 +5565,7 @@ n1g459ky7y.com
 nae-breeziest-in.cloudapp.net
 nanovisor.io
 naosecgomosec.gq
+narrativ.ai
 narrativ.com
 narrative.io
 narusnex.info
@@ -5940,6 +5946,7 @@ ozonestsscareer.info
 ozpr.net
 p-n.io
 p-w.kr
+p.flipp.com
 p.nfltags.com
 p1nptrk.com
 p5genexs.com
@@ -8211,6 +8218,7 @@ tracking-na.hawksearch.com
 tracking-sales-pop.carecart.io
 tracking.aegpresents.com
 tracking.api.shoppinggives.com
+tracking.bloomberg.com
 tracking.curafen-at.com
 tracking.debrain.cloud
 tracking.friends2follow.com
