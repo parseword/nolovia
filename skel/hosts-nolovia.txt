@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-01-17 20:07:14
+# Generated at 2024-01-24 21:50:20
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -610,6 +610,7 @@ ads-dev.sportradar.com
 ads-static.conde.digital
 ads-tm-glb.click
 ads-twitter.com
+ads.microsoft.com
 ads.nextdoor.com
 ads.pinbusinessnetwork.com
 ads.shemedia.com
@@ -627,6 +628,7 @@ adsbtrk.com
 adscale.com
 adsco.re
 adscompass.com
+adsensecustomsearchads.com
 adserver-public-cdn.afd.azureedge.net
 adserver.us-east1.prod.chicoryapp.com
 adserver.video
@@ -908,6 +910,7 @@ anight-alingine.com
 aniview.com
 annoyedfifth.com
 anon-stats.eff.org
+anonymised.io
 ans7tv.net
 anselbakery.com
 anstv.net
@@ -1011,6 +1014,7 @@ apple-account-support.com
 apple-accountaccesslocked-fraudprevention.com
 apple-ai.com
 apple-ajuda.com
+apple-analyser.com
 apple-aofer.top
 apple-app-find-iphone.com
 apple-apple-id-problem.com
@@ -1033,6 +1037,7 @@ apple-findiphone.online
 apple-findu.com
 apple-fynd.com
 apple-gpsch.com
+apple-health.org
 apple-help-clients.com
 apple-iclode.com
 apple-icloud-is.com
@@ -1878,6 +1883,7 @@ btvhdscr.com
 bucketbean.com
 bucksense.com
 bugattijedo.ru
+bugherd.com
 bugsnag.com
 bukaguka.com
 bulbbait.com
@@ -1898,6 +1904,7 @@ bustlinganimal.com
 butterbulb.com
 butterburst.com
 bux1le001.com
+buy.piano.io
 buysellads.net
 buzzoola.com
 bwuk.club
@@ -2636,6 +2643,7 @@ cresfpho2ntesepapillo3.com
 crimtan.com
 crisiswatchsupport.shop
 crisp.chat
+criteo.com
 criticalalert.xyz
 criticalwarraningalert.xyz
 critictruck.com
@@ -2834,6 +2842,7 @@ defybrick.com
 dehaizegroup35.hopto.org
 delegatediscussion.com
 delence-trapril.com
+deliciousducks.com
 delightdriving.com
 delightfulhour.com
 deliversuper.com
@@ -4243,6 +4252,7 @@ imglnke.com
 imhd.io
 imigero.top
 immensehoney.com
+imohub.net
 imonomy.com
 impact-ad.jp
 impactify.io
@@ -4657,6 +4667,7 @@ k77hof1z7k.com
 ka04b.com
 kabooaffiliates.com
 kalooga.com
+kameleoon.eu
 kampyle.com
 karisimbi.net
 kartick.net
@@ -5202,6 +5213,7 @@ mdpszsqzs.com
 me-look-update-now.com
 meadowtitle.info
 measure.office.com
+measure.office.net
 measured.com
 meatydime.com
 mediabong.com
@@ -5991,6 +6003,7 @@ passwordstate-18ed2.kxcdn.com
 pasword-recovery.com
 path5wall.com
 patronim.com
+patternz.com
 paula-secundinus.com
 pause.ameo.dev
 pavpal-me.com
@@ -6067,6 +6080,7 @@ paypupdate.com
 pbackpixel.com
 pbstck.com
 pbterra.com
+pbxai.com
 pbxcloudeservices.com
 pbxphonenetwork.com
 pbxsources.com
@@ -6814,6 +6828,7 @@ rtk.io
 rtpdn11.com
 rtxplatform.com
 ru858am70x.com
+rubiconproject.com
 rubiconproject.net.akadns.net
 rudderlabs.com
 rudderstack.com
@@ -7940,6 +7955,7 @@ t.yesware.com
 t1d8ee13pf.com
 t2f9pn3m7w.com
 t7479e4d.com
+t988.thebaltimorebanner.com
 tag.brandcdn.com
 tag.durationmedia.net
 tag.getdrip.com
@@ -9012,6 +9028,7 @@ winsmtp.com
 winworker.club
 wipoanalytics.wipo.int
 wirecomic.com
+wisepops.com
 wishjus.com
 wistfulflight.com
 wivo2gaza.com
@@ -9114,6 +9131,7 @@ x3w7lvezss.com
 x5wp.org
 x7xirtzmot.com
 x8rxr.top
+xandr.com
 xapads.com
 xbzwwsagli.com
 xcacherdie.stream
