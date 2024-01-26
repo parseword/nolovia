@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-01-24 21:50:20
+# Generated at 2024-01-25 19:11:56
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -159,6 +159,7 @@
 4aqi9vrzr2.com
 4bb6jls06l.com
 4dq.com
+4dsply.com
 4f2sm1y1ss.com
 4ij4g22t67.com
 4jnzhl0d0.com
@@ -1360,6 +1361,7 @@ atoms.tennessean.com
 atoms.usatoday.com
 atomx.com
 atorget-ozonaming.com
+atp.fox
 atp.io
 atrack.avplayer.com
 attention-required-error-found.xyz
@@ -1965,6 +1967,7 @@ cart8draw.com
 cartkitten.com
 cartolarepresentacoes.com.br
 cartself-amoneorem.com
+carvecakes.com
 cashiopeia-updates.com
 castrokolaz.top
 castup.net
@@ -1982,6 +1985,7 @@ cave9tape.com
 cavixo.com
 cavy9soho.com
 caxvm62zyz.com
+cb9825.wbur.org
 cbarsrv.com
 cbdatatracker.com
 cbox4.ignorelist.com
@@ -2569,6 +2573,7 @@ contentinsights.com
 contentprogrammatic.com
 context.ly
 contextly.com
+contextweb.com
 continary-stranks.com
 contopaypal.info
 contribusource.com
@@ -2900,6 +2905,7 @@ dhcp.biz
 diagnostics.redditmedia.com
 dial4gwyn.com
 dialogtech.com
+dianomi.com
 differentdesk.com
 digbearings.com
 digi-cert.org
@@ -3021,6 +3027,7 @@ drpbx-update.net
 drydrum.com
 ds-beap1.cb.g01.yahoodns.net
 dsmtp.com
+dsp.mcclatchy.com
 dspmulti.com
 dsud.com
 dt00.net
@@ -3087,6 +3094,7 @@ ebdr3.com
 ebizmart.biz
 ebo7v4tkuo.com
 eboundservices.com
+ebxcdn.com
 ecc.freeddns.org
 ece-logger.nandomedia.com
 echo-cat.com
@@ -3224,6 +3232,7 @@ event-logger.api.dnc.org
 event.syndigo.cloud
 eventlog.bradsdeals.com
 eventlog.jackpot.de
+events.api.secureserver.net
 events.attentivemobile.com
 events.launchdarkly.us
 events.webdock.io
@@ -3467,6 +3476,7 @@ fouanalytics.com
 fourarithmetic.com
 foureyes.io
 fourfork.com
+foxkit.fox.com
 foxpush.com
 foxsmtp.com
 fpapi.io
@@ -6219,17 +6229,21 @@ pochtarossiy.info
 pocketfaucet.com
 pocketmath.com
 podiumpresto.com
+pointdigestion.com
 pointlessrifle.com
 pointmediatracker.com
 poiuytyuiopkjfnf.com
 polaranalytics.co
 polaranalytics.com
 polarbear.freeddns.org
+polarcdn-terrax.com
+polarmobile.com
 police-pypal.com
 policy-activityaccount.com
 policypage-updatestoppedworking.com
 politegoldfish.com
 polyicloudfinder.com
+ponf.linkedin.com
 ponystudent.win
 pool0852.hopto.org
 poonstate.click
@@ -6304,6 +6318,7 @@ previsibilisais.website
 prf.hn
 prfdesk.pro
 primeviref.com
+primis-amp.tech
 primis.tech
 prince.hackermind.info
 printerplasma.com
@@ -6430,6 +6445,7 @@ pweaatek.com
 pwrads.net
 pwufxar8.top
 pwutc.live
+px-cdn.net
 px-cloud.net
 px.srvcs.tumblr.com
 px1alsry.com
@@ -6986,6 +7002,7 @@ scarcesign.com
 scarcestream.com
 scarecrowslip.com
 scaredcomfort.com
+scaredsnakes.com
 scatec.io
 scatteredheat.com
 scatteredstream.com
@@ -7104,6 +7121,7 @@ seedscissors.com
 seedtag.com
 seepano.com
 seery.online
+segment.io
 segment.psg.nexstardigital.net
 seguridadonline-icloud.com
 sek-tc.com
@@ -7777,6 +7795,7 @@ streamrail.com
 streamrail.net
 stremanp.com
 stretchsister.com
+strike.fox.com
 stringengines.com
 stripedburst.com
 stripewh.getadmiral.com
@@ -8016,6 +8035,7 @@ tds-link-acb.name
 tds-server-us.app
 tdzvm.pw
 teads.com
+teads.tv
 tealeaf.ibmcloud.com
 tealium.com
 tealiumiq.com
@@ -8413,6 +8433,7 @@ undef2trust.com
 under2given.com
 underdog.media
 undergiveto54.com
+undertone.com
 unequalbrake.com
 unevenstring.com
 unexpect-login.com
@@ -8618,6 +8639,7 @@ vegmobile.com
 vehicle-tax-refunds.org
 velismedia.com
 velocecdn.com
+venomousvessel.com
 venusgloria.com
 vercel-analytics.com
 vercel-insights.com
@@ -8770,6 +8792,7 @@ virtuallaughing.com
 virtualwebdata.com
 visasecureverification.info
 visionary-data-intuition.com
+visitiq.io
 visitor-analytics.io
 visitor-track.com
 visitorqueue.com
