@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-01-25 19:11:56
+# Generated at 2024-01-28 12:07:28
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1418,6 +1418,7 @@ awesome.section.io
 aws-wwcloud.net
 awscan.eu
 awscan.info
+awstrack.me
 awtest.eu
 awzbijw.com
 axclick.store
@@ -1589,6 +1590,7 @@ bidtillect.com
 bigabid.com
 bigbird1.xyz
 bigcat1.xyz
+bigcrunch.com
 bigdataexchange.com
 bigduck1.xyz
 bigfish1.xyz
@@ -2284,8 +2286,10 @@ cm.dispatch.com
 cm.goerie.com
 cm.jacksonville.com
 cm.jsonline.com
+cm.montgomeryadvertiser.com
 cm.news-press.com
 cm.oklahoman.com
+cm.seacoastonline.com
 cm.statesmanjournal.com
 cm.tennessean.com
 cm.theleafchronicle.com
@@ -3854,6 +3858,7 @@ hamtinqton.com
 hamtlnqton.com
 handleteeth.com
 handsomeindustry.com
+handsomelythumb.com
 handyfield.com
 hanstrackr.com
 hantimqton.com
@@ -4563,6 +4568,7 @@ jewelcheese.com
 jf71qh5v14.com
 jguery.com
 jhomeland.ddns.net
+jie50dcwuh.execute-api.us-east-1.amazonaws.com
 jisusaiche-475487.c.cdn77.org
 jisusaiche-componentrysolut.netdna-ssl.com
 jisusaiche.biz
@@ -4887,6 +4893,7 @@ liod1ours.com
 lioiamcount.com
 liondigitalserving.com
 liqwid.com
+liqwid.net
 liqwid.solutions
 lirsmmnsaixa.com
 lisasmithpypl.com
@@ -5249,6 +5256,7 @@ memozilla.org
 merchant-center-analytics.goog
 mercycoin.org
 meremark.com
+merequartz.com
 meresomastewini.com
 merklesearch.com
 mesoquant.org
@@ -6590,6 +6598,7 @@ readmo.yahoo.com
 readymoon.com
 readysnails.com
 realcenter-mobileapps.com
+realizedoor.com
 realizerecess.com
 realizevacation.com
 realshieldlinked.com
@@ -7658,6 +7667,7 @@ spur-metrics.com
 spuriousbase.com
 spurioussteam.com
 spuriousstranger.com
+spysubstance.com
 sqrve-online.net
 squashfriction.com
 squeakzinc.com
@@ -7762,6 +7772,7 @@ stereotypedsugar.com
 stetic.com
 steve654321.ddns.net
 stickssheep.com
+stickyadstv.com
 stiffstem.com
 stolen-icloud.com
 stopenumarationsz.com
@@ -7797,6 +7808,7 @@ stremanp.com
 stretchsister.com
 strike.fox.com
 stringengines.com
+stripedbat.com
 stripedburst.com
 stripewh.getadmiral.com
 strivesidewalk.com
