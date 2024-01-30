@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-01-28 12:07:28
+# Generated at 2024-01-29 21:42:37
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1734,6 +1734,7 @@ blue.pix11.com
 blue.rochesterfirst.com
 blue.siouxlandproud.com
 blue.texomashomepage.com
+blue.thehill.com
 blue.tristatehomepage.com
 blue.upmatters.com
 blue.valleycentral.com
@@ -3438,6 +3439,7 @@ flocdn.com
 flogextension.grammarly.io
 floodprincipal.com
 flow8free.com
+flowerstreatment.com
 floweryoperation.com
 flowkir.com
 fluct.jp
