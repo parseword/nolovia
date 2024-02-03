@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-01-29 21:42:37
+# Generated at 2024-02-03 12:35:57
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -300,12 +300,15 @@ a-mo.net
 a1webstats.com
 a1webstrategy.com
 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
+a352.sandiegouniontribune.com
 a3cloud.net
 a4.tl
+a433.dailypress.com
 a47b.com
 a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
 a63t9o1azf.com
 a8.net
+a869.mercurynews.com
 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 a9nf3hg5c2.com
 aanqylta.com
@@ -902,6 +905,7 @@ analytics.worldtable.co
 analytics.xcal.tv
 analytics.yahoo
 analytics.yopify.com
+analyze-82dfgsi2.m-w.com
 and.co.uk
 andbeyond.media
 andspurs.com
@@ -928,7 +932,9 @@ anura.io
 anxiousapples.com
 anyclip-media.com
 anytrack.io
+ap.blueconic.net
 apathetictheory.com
+apcdp.apnews.com
 api-profit.com
 api-telemetry.servers.getgo.com
 api.aws.parking.godaddy.com
@@ -2732,6 +2738,7 @@ d1g3myji5lplsh.cloudfront.net
 d1lu3pmaz2ilpx.cloudfront.net
 d1vl8wytztdz.cloudfront.net
 d22chwk8np.com
+d250.baltimoresun.com
 d2aejv7a8aapgp.cloudfront.net
 d2c7xlmseob604.cloudfront.net
 d2cli4kgl5uxre.cloudfront.net
@@ -2744,6 +2751,7 @@ d2wy8f7a9ursnm.cloudfront.net
 d330aiyvva2oww.cloudfront.net
 d39ievd5spb5kl.cloudfront.net
 d41.co
+d485.capitalgazette.com
 d4q8zgf756.com
 d7t0ajd8uy1xk.cloudfront.net
 d7vjqf37fh.com
@@ -2915,10 +2923,12 @@ differentdesk.com
 digbearings.com
 digi-cert.org
 digitalcollege.org
+digitalfirstmedia.blueconic.net
 digitaltarget.ru
 digitru.st
 digrazia.tucsonsentinel.com
 dimorphism.stream
+dinnerquartz.com
 dionbeno.me
 diplomahawaii.com
 direct-verified.com
@@ -3069,6 +3079,7 @@ e-onlinegirisim.com
 e-transfer11-interac.com
 e.reddit.com
 e1-interac.com
+e147.growthspotter.com
 e21b1642db801b2a.com
 e2b9jbowv7.com
 e4w50tqnqk.com
@@ -3118,6 +3129,7 @@ edvfwlacluo.com
 eecd179r3b.com
 eeq1s8pqpk.com
 eesiiuroffde445.com
+eexsync.com
 efbthmoiuykmkjkjgt.com
 efficaciouscactus.com
 ehanklng-servlces.com
@@ -3838,8 +3850,10 @@ h12-media.com
 h2ku87viwi.com
 h4ck.cfd
 h552terriddows.com
+h562.pasadenastarnews.com
 h5q3e661po.com
 h5tjj3loy2.com
+h689.nydailynews.com
 h78xb.pw
 h83zvgrg29.com
 h8bjfdcu.com
@@ -4539,6 +4553,7 @@ ixeq490u20.com
 izooto.com
 j-p-morgan-check-onli.com
 j1vtm.top
+j300.dailynews.com
 j3wp.org
 j4a73n7v5k.com
 j93557g.com
@@ -5087,10 +5102,12 @@ lytics.minty.com
 lzpv4rsmat.com
 m-facebook-com.xyz
 m-img.org
+m161.sbsun.com
 m2.ai
 m24js.com
 m3bnqqqw.com
 m3pixel.com
+m869.presstelegram.com
 m9in5.top
 macdanielo.hopto.org
 macfantsy.com
@@ -5594,6 +5611,7 @@ mzol7lbm.com
 mzyfkfj.com
 n.rich
 n1g459ky7y.com
+n475.pilotonline.com
 nae-breeziest-in.cloudapp.net
 nanovisor.io
 naosecgomosec.gq
@@ -5980,6 +5998,8 @@ p-n.io
 p-w.kr
 p.flipp.com
 p.nfltags.com
+p030.courant.com
+p192.eastbaytimes.com
 p1nptrk.com
 p5genexs.com
 p78lld1s.top
@@ -6175,6 +6195,7 @@ piquantpigs.com
 piquantstove.com
 pitchleads.com
 piwik.d3vcloud.com
+piwik.mefi.us
 piwik.pro
 pix.pub
 pixel-a.basis.net
@@ -6380,6 +6401,7 @@ prtrackings.g2afse.com
 prvtsmtp.com
 ps-webapps.com
 pswec.com
+pt.dwcdn.net
 ptarepjx.com
 ptcfc.com
 pub2srv.com
@@ -6479,6 +6501,7 @@ q111333.top
 q1connect.com
 q20jqurls0y7gk8.info
 q64a9ris0j.com
+q770.whittierdailynews.com
 q8eqh.top
 q8ntfhfngm.com
 q8ux4fscc7.com
@@ -6542,6 +6565,7 @@ r00tziby.ddns.net
 r2b2.cz
 r2b2.io
 r4nwdude.com
+r610.chicagotribune.com
 r66at6sf.com
 r8mxl.top
 r8oyegintx.com
@@ -6875,6 +6899,7 @@ rum.ap-southeast-3.amazonaws.com
 rum.ap-southeast-4.amazonaws.com
 rum.ca-central-1.amazonaws.com
 rum.conde.io
+rum.condenastdigital.com
 rum.dynapis.com
 rum.dynapis.info
 rum.eu-central-1.amazonaws.com
@@ -6933,12 +6958,14 @@ s-msg-myetherwallet.com
 s-onetag.com
 s2.reutersmedia.net
 s20dh7e9dh.com
+s211.mcall.com
 s24hc8xzag.com
 s2sterra.com
 s3-us-west.com
 s3xified.com
 s4yxaqyq95.com
 s5prou7ulr.com
+s762.pressenterprise.com
 s7c66wkh8k.com
 s7kkpeo6e2.com
 s9jp9xogfz.com
@@ -7985,6 +8012,7 @@ t-e.site
 t.castle.io
 t.picsart.com
 t.yesware.com
+t133.sun-sentinel.com
 t1d8ee13pf.com
 t2f9pn3m7w.com
 t7479e4d.com
@@ -8395,11 +8423,14 @@ typeklt.com
 typicalteeth.com
 tyseck.com
 tzwaw.pw
+u066.ocregister.com
 u21drwj6mp.com
 u29ngmuc.top
+u300.dailybulletin.com
 u39chju32a.com
 u4ghzfb.com
 u595sebqih.com
+u654.santacruzsentinel.com
 u8vysb7s2v.com
 u9oxdnxk8b.com
 uacexchange.us
@@ -8576,6 +8607,7 @@ usefomo.com
 useproof.cc
 user-stats.rbl.ms
 user-summary-account.com
+user-sync-api.anyclip.com
 user3.altcoinfan.com
 useraccountverifications-appleid.com
 userback.io
@@ -8867,6 +8899,7 @@ vy4e3jw46l.com
 vyperps.no-ip.biz
 w-a.wang
 w-i.win
+w138.redlandsdailyfacts.com
 w3-reporting-nel.reddit.com
 w3-reporting.reddit.com
 w55c.net
@@ -9164,8 +9197,12 @@ wzdzht7am5.com
 x-magesecurity.com
 x24hr.com
 x2d2m87csh.com
+x315.siliconvalley.com
 x3w7lvezss.com
+x446.orlandosentinel.com
+x455.dailybreeze.com
 x5wp.org
+x680.sgvtribune.com
 x7xirtzmot.com
 x8rxr.top
 xandr.com
@@ -9403,6 +9440,7 @@ z1ujd76gd6.com
 z3c7c0fgu2.com
 z52jp0na9z.com
 z6vmw.top
+z953.marinij.com
 zacharryblogs.com
 zaeyaeph.com
 zahlungs-verifikation.com
