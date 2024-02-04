@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-02-03 12:35:57
+# Generated at 2024-02-04 13:40:17
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5645,6 +5645,7 @@ navdmp.com
 navistone.com
 navy9gear.com
 nbcuas-tracker.us-east-1.elasticbeanstalk.com
+ncaudienceexchange.com
 ncjkedu.com
 near-located.com
 neartsay.com
@@ -5706,6 +5707,7 @@ newrellc.com
 news-mitteilung.online
 news-smtp2go.email
 newsatads.com
+newscorp-newsiq-dev.appspot.com
 newsepads.com
 newsfacebook24h.com
 newsharecounts.com
@@ -6118,6 +6120,8 @@ paypl-direct-resolutioncenter.com
 paypol-securities.biz
 paypupdate.com
 pbackpixel.com
+pbc.wsj.com
+pblog.wsj.com
 pbstck.com
 pbterra.com
 pbxai.com
