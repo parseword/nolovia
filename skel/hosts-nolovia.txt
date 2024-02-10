@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-02-10 13:08:23
+# Generated at 2024-02-10 15:31:22
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1504,6 +1504,7 @@ bcdn7843241.com
 bcdn87454132.com
 bcleaningservice.com
 bcnmonetize.com
+bcon.ecdns.net
 bcwdv5bsxi.com
 bdg-analytics.appspot.com
 bdwafx.com
