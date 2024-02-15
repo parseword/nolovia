@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-02-10 15:31:22
+# Generated at 2024-02-15 12:19:23
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -158,6 +158,7 @@
 49oa3o49b6.com
 4aqi9vrzr2.com
 4bb6jls06l.com
+4dex.io
 4dq.com
 4dsply.com
 4f2sm1y1ss.com
@@ -911,6 +912,7 @@ analyze-82dfgsi2.m-w.com
 and.co.uk
 andbeyond.media
 andspurs.com
+anglesyen.org
 angsrvr.com
 angular.club
 anight-alingine.com
@@ -4440,6 +4442,7 @@ int-halkbankasi.com
 intangibleconcordant.com
 intango.com
 inte-authorization0102.com
+intellexa.com
 intellibid.com
 intelligentscissors.com
 intellimize.co
@@ -5426,6 +5429,7 @@ moderate9-v4.cleantalk.org
 modifyeyes.com
 moduleanalysis.aliexpress.com
 modulepush.com
+modulous.huffpost.com
 moengage.com
 moevideo.com
 moldyicicle.com
@@ -6688,6 +6692,7 @@ rdsa2017.com
 rdsa2018.com
 rdsa2019.com
 rdtrker.com
+re-captha-version-3-71.com
 re-verify-id-apple.com
 reachlocalservices.com
 readgoldfish.com
@@ -7517,6 +7522,7 @@ sleeknote.com
 sleepcartoon.com
 slgnt.eu
 slgnt.us
+sli.latimes.com
 slickstream.com
 slim2disc.com
 slimcut.com
@@ -7939,6 +7945,7 @@ sucuri-cloud.com
 sucuri-js.com
 suddensidewalk.com
 suddensnake.com
+sufficeconfigure.com
 sugabit.net
 sugarcurtain.com
 sugh8yami.com
@@ -9460,6 +9467,7 @@ ye185hcamw.com
 yealnk.com
 yeld9auto.com
 yellowbird1.xyz
+yellowblue.io
 yellowleopard1.xyz
 yellowmeercat1.xyz
 yeni-safak.com
