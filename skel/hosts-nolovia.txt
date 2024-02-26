@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-02-15 12:19:23
+# Generated at 2024-02-25 20:10:19
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -824,6 +824,7 @@ amazongifts.ddns.net
 amazonnapp.com
 amazonsse.com
 ambientdigitalgroup.com
+ambiguousafternoon.com
 ambiguousquilt.com
 ambitiousagreement.com
 ambrosialsummit.com
@@ -2307,6 +2308,7 @@ cm.jacksonville.com
 cm.jsonline.com
 cm.montgomeryadvertiser.com
 cm.news-press.com
+cm.northjersey.com
 cm.oklahoman.com
 cm.seacoastonline.com
 cm.statesmanjournal.com
@@ -4315,6 +4317,7 @@ imglnkd.com
 imglnke.com
 imhd.io
 imigero.top
+imm.ewscloud.com
 immensehoney.com
 imohub.net
 imonomy.com
@@ -8092,6 +8095,7 @@ t-e.site
 t.castle.io
 t.picsart.com
 t.yesware.com
+t13.io
 t133.sun-sentinel.com
 t199.crbjbizwire.com
 t1d8ee13pf.com
@@ -8915,6 +8919,7 @@ view-location.top
 viewdeos.com
 viid.me
 vilynx.com
+vindicosuite.com
 vinfdv6b4j.com
 vipddos.com
 virgintldgame.com
@@ -9076,6 +9081,7 @@ webfotce.me
 webfreecounter.com
 webfx.com
 webgrowthdoc.us
+webhooks.fivetran.com
 webhostvalidate.xyz
 webhostvalidationneeded.xyz
 webmail-icloud.com
