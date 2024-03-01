@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-02-25 20:10:19
+# Generated at 2024-02-29 20:17:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1583,6 +1583,7 @@ bidfilter.com
 bidfluence.com
 bidgear.com
 bidintrinsic.com
+bidmatic.io
 bidphysics.com
 bidr.io
 bidsimulator.com
@@ -3070,6 +3071,7 @@ dubaiexchange.dynu.net
 dumb1.com
 dunamistrd.com
 dunhillmild-payment07.com
+duorhytm.fun
 dur6g49t7u.com
 duserjs.com
 dustywave.com
@@ -3151,6 +3153,7 @@ eesiiuroffde445.com
 eexsync.com
 efbthmoiuykmkjkjgt.com
 efficaciouscactus.com
+ehangmun.com
 ehanklng-servlces.com
 ejdkqclkzq.com
 ejhrins16z.com
@@ -3804,6 +3807,7 @@ gotprofits.com
 gov-secure.co.uk
 govfree.pw
 govsecure.co.uk
+gpoaccess.com
 gpsecureads.com
 gpt.mail.yahoo.net
 gpxsmtp.com
@@ -7171,6 +7175,7 @@ secure-02network-update.website
 secure-2stepverification-requires.com
 secure-appleid.net
 secure-applesid.com
+secure-cama.com
 secure-claimpolicyupdate.com
 secure-commerzbank.gdn
 secure-customers.email
@@ -8080,6 +8085,7 @@ switchconcepts.com
 swordgoose.com
 sxk8xrjtaikv3dxl7hgghw3vptvxpzzxeynrcltu4k3yeecjq3.online
 sxygdmkway.com
+symantke.com
 symbolizebeast.com
 synctrack.io
 sysduo.com
@@ -9072,6 +9078,7 @@ webappsc-cgi-access-service.com
 webappsecurityupdate.com
 webappsrequired-accrenew22125122.com
 webappss-security-bin-apple.com
+webb-institute.com
 webcodez.com
 webcontentassessor.global.ssl.fastly.net
 webdeclaration.xyz
