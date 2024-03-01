@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-02-29 20:17:55
+# Generated at 2024-03-01 16:37:22
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1808,6 +1808,7 @@ bm24.info
 bm24.org
 bmsusqt94u.com
 bn-multired1.com
+bni-madagascar.com
 bnmla.com
 bnrnboerxce.com
 bnsjb1ab1e.com
@@ -1944,6 +1945,7 @@ c6orlterk.com
 c830.valawyersweekly.com
 c991.businessoflawdigest.com
 caai83kh6p.com
+cabinet-salyk.kz
 cad-secure-returns.top
 cage6west.com
 calculatingcircle.com
@@ -3093,6 +3095,7 @@ dynssl.com
 dzjv9gbu8a.com
 dzxsqoh01i.com
 e-1interac.com
+e-kgd.kz
 e-onlinegirisim.com
 e-transfer11-interac.com
 e.reddit.com
@@ -3531,6 +3534,7 @@ fpjs.io
 fptls.com
 fptls2.com
 fqvkntefmd.com
+fr-monde.com
 fraddation-pyments-acounting.com
 frailoffer.com
 fralstamp-genglyric.icu
@@ -4717,6 +4721,7 @@ jst.ai
 jua05myfbe.com
 juicenectar.com
 jumhuria.com
+jumia-egy.com
 jump-time.com
 jump4geo.com
 jumpetiter.info
@@ -4767,6 +4772,7 @@ keep-your-account.com
 keepitpumpin.io
 keepmystation.com
 keet1liod.com
+kejoranews.net
 kennedyform.com
 kenoratravels.com
 kenshoo.com
@@ -5402,6 +5408,7 @@ ml-api.io
 ml-attr.com
 mlcrosofteams.top
 mm-syringe.com
+mmegi.co
 mmi360.net
 mms.al.com
 mms.chip.de
@@ -5618,6 +5625,7 @@ myetnerwalletr.com
 myetrherwallert.com
 myettherwallett.trade
 myezt1q2il.com
+myfawry.net
 myfinance.com
 myfraudtransactionaccount.center
 myftp.info
@@ -7157,6 +7165,7 @@ scus02-breeziest-in.cloudapp.net
 sd5doozry8.com
 sdasasyydd.com
 sddos.xyz
+sdntribune.co
 sdreif.com
 se-fe-analytics.ui.sportngin.com
 sea-breeziest-in.cloudapp.net
@@ -7936,6 +7945,7 @@ stun1.l.google.com
 stupendoussleet.com
 stusing-cracieved.com
 stytch.com
+suarapapua.co
 sube-hizmeti.org
 sublytics-5bb3bd7244788.com
 sublytics-5be5edecc10bf.com
@@ -8551,6 +8561,7 @@ ujccccb.com
 uk-lcloud.com
 uk-netfilx-membership.com
 uk-paypal.net
+ulstur.co
 ultraflawlesspop.com
 ultraoranges.com
 un-asia.co
@@ -8951,6 +8962,7 @@ vkaofq64zz.com
 vknd8q3trk.com
 vlancaa.fun
 vlancaa.site
+vlast-news.com
 vlitag.com
 vmaxjs.com
 vmg.host
@@ -9510,6 +9522,7 @@ ymstat.com
 ymwcfopsie.com
 ynhhgr2zen.com
 ynxs.io
+yo-um7.com
 yoc.com
 yottaa.net
 youbora.com
