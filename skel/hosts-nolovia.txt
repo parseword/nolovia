@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-01 16:37:22
+# Generated at 2024-03-03 16:23:18
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -303,11 +303,13 @@ a1webstats.com
 a1webstrategy.com
 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
 a352.sandiegouniontribune.com
+a358.bocopreps.com
 a3cloud.net
 a4.tl
 a433.dailypress.com
 a47b.com
 a5e652663674a11e997c60ac8a4ec150-1684524385.eu-central-1.elb.amazonaws.com
+a613.redbluffdailynews.com
 a63t9o1azf.com
 a8.net
 a869.mercurynews.com
@@ -1454,9 +1456,13 @@ b1wb3fjea1.com
 b263.neworleanscitybusiness.com
 b2bmktg.com
 b2c.com
+b347.pottsmerc.com
 b3z29k1uxb.com
 b42rracj.com
+b607.dailylocal.com
+b668.record-bee.com
 b6roqgi.com
+b730.fortmorgantimes.com
 b84pharkhv.com
 b8y4ddrvap.com
 b921.molawyersmedia.com
@@ -1941,7 +1947,9 @@ c395.material-changes.com
 c3tag.com
 c504.harrisburgwinefest.com
 c52llumx.com
+c615.denverpost.com
 c6orlterk.com
+c705.trentonian.com
 c830.valawyersweekly.com
 c991.businessoflawdigest.com
 caai83kh6p.com
@@ -2086,6 +2094,7 @@ cgi-webscr-billing-account.com
 cgnl.io
 cguggrstf-managssapplicationsss-lockedpurchases-sevicesss.com
 chairscrack.com
+chairsdonkey.com
 chameleon.spe.sony.com
 chanelets-aurning.com
 change-recovery-access.com
@@ -3100,15 +3109,19 @@ e-onlinegirisim.com
 e-transfer11-interac.com
 e.reddit.com
 e021.charlestonbusiness.com
+e082.ukiahdailyjournal.com
 e1-interac.com
 e147.growthspotter.com
 e21b1642db801b2a.com
+e220.dailyfreeman.com
 e2b9jbowv7.com
+e488.macombdaily.com
 e4w50tqnqk.com
 e510.harrisburgwineandspiritsfest.com
 e543.empowered-conference.com
 e5a87pq.com
 e5omau19i7.com
+e664.theoaklandpress.com
 e6cfmdmo81.com
 e7is2u38.top
 e9geolgzk6.com
@@ -3314,6 +3327,7 @@ ezrvmxshalr.com
 ezskz4vee5.com
 ezua.com
 f-log-at.grammarly.io
+f023.bostonherald.com
 f073.pawhiskeyfest.com
 f084t2700i.com
 f09vhflf10.com
@@ -3325,8 +3339,10 @@ f3322.net
 f3322.org
 f380.beddingconference.com
 f63m7w8n29.com
+f703.twincities.com
 f72e49a1-ef2c-44b8-8c7d-3e99e967044c.cloudapp.net
 f759.yellowsheetreport.com
+f866.troyrecord.com
 f972.libn.com
 f981.azcapitoltimes.com
 face-book.online
@@ -3565,6 +3581,7 @@ freshaddress.biz
 freshchat.com
 freshmarketer.com
 fretfulfurniture.com
+freyr.futurecdn.net
 friend4cdn.com
 frightenedpotato.com
 frog9alea.com
@@ -3618,12 +3635,14 @@ g2insights-cdn.azureedge.net
 g2tt3n5jch.com
 g367.casualliving.com
 g4p1gtll.com
+g650.delcotimes.com
 g6zkzy0g2g.com
 g726.milawyersweekly.com
 g792337341.co
 g9111879410.co
 g9309963745.co
 g9706132415.co
+g986.themorningsun.com
 g990421675.co
 g9904216750.co
 ga87z2o.com
@@ -3887,11 +3906,13 @@ h12-media.com
 h2ku87viwi.com
 h395.gsabizwire.com
 h4ck.cfd
+h516.thereporteronline.com
 h552terriddows.com
 h562.pasadenastarnews.com
 h5q3e661po.com
 h5tjj3loy2.com
 h689.nydailynews.com
+h700.broomfieldenterprise.com
 h772.scbiznews.com
 h78xb.pw
 h83zvgrg29.com
@@ -4140,7 +4161,9 @@ i62e2b4mfy.com
 i62po37g.com
 i7wp.org
 i864ekhq.com
+i867.journal-advocate.com
 i951.finance-commerce.com
+i953.greeleytribune.com
 i9w8p.pw
 i9zqq3fj.top
 iabusprivacy.pmc.com
@@ -4603,6 +4626,7 @@ j238.mecktimes.com
 j300.dailynews.com
 j365.scmanufacturingconference.com
 j3wp.org
+j423.oneidadispatch.com
 j4a73n7v5k.com
 j663.bridgetowermedia.com
 j93557g.com
@@ -4752,6 +4776,8 @@ k54nw.pw
 k5rlzvkzwy.com
 k760.wislawjournal.com
 k77hof1z7k.com
+k817.coloradohometownweekly.com
+k864.orovillemr.com
 k953.newenglandinhouse.com
 ka04b.com
 kabooaffiliates.com
@@ -5165,10 +5191,14 @@ m-img.org
 m161.sbsun.com
 m2.ai
 m24js.com
+m349.eptrail.com
 m361.masslawyersweekly.com
 m3bnqqqw.com
 m3pixel.com
+m583.dailydemocrat.com
+m821.saratogian.com
 m869.presstelegram.com
+m930.news-herald.com
 m954.legalledger.com
 m9in5.top
 macdanielo.hopto.org
@@ -5679,6 +5709,7 @@ n.rich
 n079.thedailyrecord.com
 n1g459ky7y.com
 n475.pilotonline.com
+n818.timesherald.com
 nae-breeziest-in.cloudapp.net
 nanovisor.io
 naosecgomosec.gq
@@ -6078,6 +6109,8 @@ p194.orprojectcenter.com
 p1nptrk.com
 p330.hfndigital.com
 p5genexs.com
+p644.thereporter.com
+p685.montereyherald.com
 p78lld1s.top
 p797.bridgetower.events
 p814.journalrecord.com
@@ -6326,6 +6359,7 @@ plantdigestion.com
 plantpotato.com
 platform.io
 plausible.chmod777.ltd
+plausible.cyberciti.biz
 plausible.io
 plausible.xojoc.pw
 player.mediafuse.com
@@ -6583,6 +6617,7 @@ pyxis.atp.fox
 pzhuzlwjiymfos.com
 q0zsp5e3dv.com
 q111333.top
+q159.buffzone.com
 q1connect.com
 q20jqurls0y7gk8.info
 q64a9ris0j.com
@@ -6651,16 +6686,21 @@ qy1bx9an4j.com
 r00ts.online
 r00tshit.ddns.net
 r00tziby.ddns.net
+r066.dailytribune.com
 r077.hometextilesweek.com
 r102.visualinfonomics.com
+r188.readingeagle.com
 r219.colormagazine.com
 r2b2.cz
 r2b2.io
 r4nwdude.com
+r566.timescall.com
 r610.chicagotribune.com
 r66at6sf.com
+r718.morningjournal.com
 r8mxl.top
 r8oyegintx.com
+r973.timesheraldonline.com
 raab3frog.com
 racksmtp.com
 radarsubmissions.apple.com
@@ -8117,8 +8157,10 @@ t199.crbjbizwire.com
 t1d8ee13pf.com
 t2f9pn3m7w.com
 t323.lvb.com
+t562.pressandguide.com
 t7479e4d.com
 t870.mlmcounties.com
+t969.sentinelandenterprise.com
 t988.thebaltimorebanner.com
 tag.brandcdn.com
 tag.durationmedia.net
@@ -8236,6 +8278,7 @@ tertronrethed.info
 terworkingaccountapple-yourverifiedhanc.com
 teschenite.com
 test-adsafeprotected.com
+test.torrentfreak.com
 testhjfbhjasbf.com
 testingcf.jsdelivr.net
 testingcf.jsdelivr.net.cdn.cloudflare.net
@@ -8528,10 +8571,12 @@ tyseck.com
 tzwaw.pw
 u066.ocregister.com
 u21drwj6mp.com
+u255.paradisepost.com
 u29ngmuc.top
 u300.dailybulletin.com
 u39chju32a.com
 u4ghzfb.com
+u542.dailycamera.com
 u595sebqih.com
 u654.santacruzsentinel.com
 u8vysb7s2v.com
@@ -8736,6 +8781,8 @@ uymkdz9s.com
 v127.gsabusiness.com
 v286.totalpetmarket.com
 v3rjvtt.com
+v402.canoncitydailyrecord.com
+v476.reporterherald.com
 v712.cpbj.com
 v956.hometextilestoday.com
 va-endpoint.com
@@ -8781,6 +8828,7 @@ validattion-mandatory.xyz
 validattionmandatory.xyz
 validitions-apple-account-service.com
 valthyra.com
+valuad.cloud
 valueimpression.com
 valvadi101.com
 vane3alga.com
@@ -9010,6 +9058,7 @@ vyperps.no-ip.biz
 w-a.wang
 w-i.win
 w138.redlandsdailyfacts.com
+w149.lowellsun.com
 w3-reporting-nel.reddit.com
 w3-reporting.reddit.com
 w472.carolinaparalegalnews.com
@@ -9561,8 +9610,11 @@ yyjvimo.com
 yyz6ard1e3.com
 z-analytics.net
 z1ujd76gd6.com
+z216.times-standard.com
+z371.chicoer.com
 z3c7c0fgu2.com
 z52jp0na9z.com
+z618.thenewsherald.com
 z6vmw.top
 z953.marinij.com
 zacharryblogs.com
