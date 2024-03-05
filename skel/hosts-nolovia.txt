@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-03 16:23:18
+# Generated at 2024-03-05 14:32:02
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3217,6 +3217,7 @@ engageads.xml.ak-is.net
 engagement.ai
 engageya.com
 eni-procurement.info
+enigmaticcanyon.com
 enjws5329l.com
 enl.duckdns.org
 enloe6qtkd.com
