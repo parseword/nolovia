@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-05 14:32:02
+# Generated at 2024-03-07 18:40:08
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -253,6 +253,7 @@
 88hb7evabd.com
 89tmolir.top
 8br8gm2r15.com
+8c11ebd904100d.rogersmedia.com
 8d6j7qp6pw.com
 8dsd3.top
 8iqpy8cgkk.com
@@ -846,6 +847,7 @@ amp-error-reporting.appspot.com
 ampcid.google.com
 ampugi334f.com
 ampush.io
+amspbs.com
 amtminjo.com
 analiticoscdn.com
 analysis.fi
@@ -953,6 +955,7 @@ api.radar.cloudflare.com
 api.statsig.com
 api.userstyles.org
 api.whizzco.com
+api.wral.com
 apidatacss.com
 apiserverdata1.com
 apismanagers.com
@@ -2666,6 +2669,7 @@ cpm10.com
 cpm20.com
 cpm4link.com
 cpmpop.com
+cqlcorp.atlassian.net
 cqyirsc.com
 cr-halal.com
 crabbychin.com
@@ -6857,6 +6861,7 @@ repeatsweater.com
 repixel-sdk.netlify.com
 repixel.co
 replaceroute.com
+replay.reviews.io
 report-us-apple.pro
 report-us-appleid.com
 report.23video.com
@@ -7735,6 +7740,7 @@ snitcher.com
 snoweeanalytics.com
 snowplow-pixel.tradingview.com
 snowplow.convertri.com
+snowplow.wral.com
 snowplowanalytics.com
 snplow.net
 snta0034.com
@@ -8014,6 +8020,7 @@ sulkybutter.com
 sulvo.co
 sulvo.com
 sumary-repoerteraccount.com
+summari.com
 summary-account-service.org
 summary-report.com
 summary-resolutioncenter.com
@@ -8150,6 +8157,7 @@ systemverification-apple.com
 sysune.com
 t-e.site
 t.castle.io
+t.defector.com
 t.picsart.com
 t.yesware.com
 t13.io
@@ -8773,6 +8781,8 @@ users-accouna-update.com
 userslimited.org
 uslogisticexpress.com
 utelemetrics.atwebpages.com
+utilityx-prod.herokuapp.com
+utilityx.rogersmedia.com
 uttermosthobbies.com
 utubedelivery.com
 uxbewzrfyp.com
