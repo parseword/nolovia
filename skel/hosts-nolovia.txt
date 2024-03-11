@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-09 15:20:49
+# Generated at 2024-03-11 17:58:39
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -748,6 +748,7 @@ agreeableprice.com
 agreeablestew.com
 agreeabletouch.com
 agreensdistra.info
+ah2trk.com
 ah8asl94hs.com
 aheadday.com
 ahwrin88tl.com
@@ -4792,6 +4793,7 @@ kameleoon.eu
 kampyle.com
 karisimbi.net
 kartick.net
+kartinki.cz
 kartratracking.com
 kaspersky.team
 kaycee7.ddns.net
@@ -5306,6 +5308,7 @@ maps-findmyiphone.online
 marchdom4.com
 marchex.io
 marfeel.com
+marfeelrev.com
 mari4norm.com
 mariopuzo.ddns.net
 markedcrayon.com
@@ -5489,6 +5492,7 @@ moldyicicle.com
 mon-com-01.com
 mon-va.byteoversea.com
 mon.us.tiktokv.com
+monacobeatles.com
 monarchads.com
 monenate.net
 monerate.net
@@ -6244,6 +6248,7 @@ pbc.wsj.com
 pbcs.decider.com
 pbcs.nypost.com
 pblog.wsj.com
+pbs.nypost.com
 pbstck.com
 pbterra.com
 pbxai.com
@@ -6339,6 +6344,7 @@ pixel.legit.ng
 pixel.mintigo.com
 pixel.newscgp.com
 pixel.newscred.com
+pixel.nypp.data.newscorp.com
 pixel.parsely.com
 pixel.patch.com
 pixel.poptok.com
@@ -7117,6 +7123,7 @@ sabic.work
 sabio.us
 sabiomobile.com
 sablesmile.com
+sac.nypost.com
 sack.world
 safe-activity-resume.com
 safe-i.cloud
@@ -8168,6 +8175,7 @@ t13.io
 t133.sun-sentinel.com
 t199.crbjbizwire.com
 t1d8ee13pf.com
+t1l1x.com
 t2f9pn3m7w.com
 t323.lvb.com
 t562.pressandguide.com
@@ -8981,6 +8989,7 @@ vhbx.co
 vhldwuv6om.com
 vi.ai
 viadata.store
+vibrantpact.com
 vice4beek.com
 vick6duty.com
 vicomi.com
@@ -9099,6 +9108,7 @@ warnermediaprivacy.com
 warraningalert.xyz
 waryfog.com
 watch-youtube.com
+watchingthat.net
 waterdiepattern10.live
 wateryvan.com
 watwait.com
