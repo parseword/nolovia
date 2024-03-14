@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-11 17:58:39
+# Generated at 2024-03-13 19:14:10
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1914,6 +1914,7 @@ bttrack.com
 btvhdscr.com
 bucketbean.com
 bucksense.com
+buf.lemonde.fr
 bugattijedo.ru
 bugherd.com
 bugsnag.com
@@ -1982,6 +1983,8 @@ cannontwin.com
 capablecows.com
 capablecup.com
 capitalones.co
+capping.lemonde.fr
+capptain.com
 capriciouscorn.com
 captainbicycle.com
 carajoin.me
@@ -2336,6 +2339,7 @@ cm.usatoday.com
 cmbestsrv.com
 cmcore.com
 cmdscan.info
+cmp.lemonde.fr
 cmp.network-n.com
 cmp.osano.com
 cms.analytics.yahoo.com
@@ -2549,6 +2553,7 @@ concernedcondition.com
 concernrain.com
 concert.io
 concertads-configs.vox-cdn.com
+condatis.sky
 conditioncrush.com
 coneptor.qarallax.com
 confiant-integrations.global.ssl.fastly.net
@@ -8193,6 +8198,7 @@ tagclick-cdn.com
 tagcommander.com
 tagdeliver.com
 tagdelivery.com
+tagembed.com
 tagon.co
 tags.creditkarma.com
 tags.dillards.com
@@ -8333,6 +8339,7 @@ thetimmedia.site
 thetradedesk.com
 theuserlimit.org
 theuserlimite.org
+thewebpush.com
 theyardservice.com
 thicktrucks.com
 thiksikr.com
@@ -9140,6 +9147,7 @@ web.webpushs.com
 webaccess-limitedmyaccountz.com
 webaccess-limitedmyaccountz.info
 webanalytics.lexisnexis.com
+webanalytics.unl.edu
 webapps-account.com
 webapps-app-scur.com
 webapps-checking.com
