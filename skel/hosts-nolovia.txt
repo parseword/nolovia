@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-13 19:14:10
+# Generated at 2024-03-23 11:44:43
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -568,6 +568,7 @@ adiply.com
 adipolo.com
 adipolovideo.com
 adjosh.com
+adjust.com
 adjux.com
 adleave.com
 adlightning.com
@@ -808,6 +809,7 @@ alluorine.info
 almostmy.com
 aloofmetal.com
 alooma.com
+alpha-gpt.mail.yahoo.net
 alpixtrack.com
 already-apple.com
 altervista.org
@@ -885,6 +887,7 @@ analytics.getshogun.com
 analytics.githubassets.com
 analytics.govinfo.gov
 analytics.hotyon.com
+analytics.ietf.org
 analytics.inform.com
 analytics.jst.ai
 analytics.kapost.com
@@ -918,6 +921,7 @@ analytics.yopify.com
 analyze-82dfgsi2.m-w.com
 and.co.uk
 andbeyond.media
+androundher.info
 andspurs.com
 anglesyen.org
 angsrvr.com
@@ -1372,6 +1376,7 @@ associated-account-purchase.com
 aswpsdkeu.com
 aswpsdkus.com
 at-o.net
+athyimemediates.info
 atlas-upd.com
 atmrum.net
 atmtd.com
@@ -2700,6 +2705,7 @@ criteo.com
 criticalalert.xyz
 criticalwarraningalert.xyz
 critictruck.com
+crowdedmass.com
 crownclam.com
 crptentry.com
 crt-event-ingest.services.video.ibm.com
@@ -3074,6 +3080,7 @@ drberg.store
 dripappliance.com
 driverequest.com
 drivingdirt.com
+drivingfoot.website
 dropboxfingerprintjs.com
 dropped-clicks.com
 drossel.me
@@ -3510,6 +3517,7 @@ flndmyiphone-applelocation.com
 flocdn.com
 flogextension.grammarly.io
 floodprincipal.com
+floors.guru
 flow8free.com
 flowerstreatment.com
 floweryoperation.com
@@ -3609,6 +3617,7 @@ functionalclam.com
 functionalcrown.com
 funnyairplane.com
 furryhorses.com
+futurehybrid.tech
 futuristicapparatus.com
 futuristicfairies.com
 futuristicfear.com
@@ -4320,6 +4329,7 @@ ie3wisa4.com
 ie8eamus.com
 ielohga9.com
 iemail.today
+iesnare.com
 ifind-inc.com
 iforgot-account.info
 iforgot-accounts.info
@@ -4444,6 +4454,7 @@ information-account-limited.org
 information-accountdb.com
 informengine.com
 informer.yandex.ru
+informeventually.com
 infoserver4.review
 infotradelinks.ddns.net
 infoupdateppl.com
@@ -5199,6 +5210,7 @@ lw2ofgc2zo.com
 lwaeh-iteham-alasra.com
 lwl5xolpiv.com
 lxpx813cta.com
+lytics.cyberriskalliance.com
 lytics.io
 lytics.minty.com
 lzpv4rsmat.com
@@ -5443,6 +5455,7 @@ minstagram.net
 minutemedia-prebid.com
 mipss.su
 misc1bulk.com
+misitemgr.com
 mispace.cam
 misskey-forkbomb.cf
 mixadvert.com
@@ -6096,6 +6109,7 @@ ouradse.com
 ourhobby.com
 ourjra52fullexchgm.duckdns.org
 ours3care.com
+ourtshipanditlas.info
 outbrainimg.com
 outfunnel.com
 outlook-services.com
@@ -6399,6 +6413,7 @@ pochtarossiy.info
 pocketfaucet.com
 pocketmath.com
 podiumpresto.com
+pogothere.xyz
 pointdigestion.com
 pointlessrifle.com
 pointmediatracker.com
@@ -6467,6 +6482,7 @@ prd-collector-anon-video.playbuzz.com
 prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prebid.org
+prebidwrapper.com
 preciousyoke.com
 predep.com
 predicto.ai
@@ -6475,6 +6491,7 @@ prefiles.ml
 prefixpatriot.com
 prenteams-junter.com
 prepare2upvideo.findtheultimateplayerfirst.info
+preparedfile.com
 prepareplanes.com
 presetrabbits.com
 presjra52opdoxgm.duckdns.org
@@ -6727,6 +6744,7 @@ radarsubmissions.apple.com
 rahasn.akamake.net
 rahasn.homewealth.biz
 rahasn.webhop.org
+rahmagtgingleaga.info
 railwayrainstorm.com
 railwayreason.com
 raingamess.com
@@ -7572,6 +7590,7 @@ sincerebuffalo.com
 sinceresofa.com
 sincerespy.com
 sinklery.com
+sinlovewiththemo.info
 sinslave.damnitjim.xyz
 site-tracking.com
 site1.life
@@ -7947,6 +7966,7 @@ stattrack.com
 statuesquebrush.com
 status.getadmiral.com
 statusdelivery.com
+stbeautifuleedeha.info
 steadfastsound.com
 steadfastsystem.com
 steamchristmas.com
@@ -8368,6 +8388,7 @@ thrtle.com
 ths9j89.com
 thundernews.org
 thxczhfzad.com
+ticalasterfrowned.info
 ticketaunt.com
 ticklesign.com
 ticklishpanda1.xyz
@@ -8383,6 +8404,7 @@ tinmoivietnam.com
 tinpiecessful.info
 tinybear1.xyz
 tinylink.pro
+tinylytics.app
 tinytrk.com
 tinyurl.gold
 tiqcdn.com
@@ -9621,6 +9643,7 @@ yourbestandupdatesafe.pw
 yourbigexplosivewin.life
 yourfreepdfconverternow.com
 yourinformationupdate.com
+yourjsdelivery.com
 yourreliablesite4content.bid
 yourtrap.com
 youtubee.life
@@ -9677,6 +9700,7 @@ zfix.tech
 zg-api.com
 zha6ivnktt.com
 zhtlvag.com
+zi-scripts.com
 zidedge.com
 zineone.com
 zion.api.cnn.io
