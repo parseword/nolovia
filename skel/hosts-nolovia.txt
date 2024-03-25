@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-23 11:44:43
+# Generated at 2024-03-25 09:33:09
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -882,6 +882,7 @@ analytics.dnnapi.com
 analytics.dvidshub.net
 analytics.edgekey.net
 analytics.eip.telegraph.co.uk
+analytics.foodnetwork.com
 analytics.freesound.org
 analytics.getshogun.com
 analytics.githubassets.com
@@ -2391,6 +2392,7 @@ collector.xhamster.com
 colorfulafterthought.com
 colorpallatess.com
 colossalchance.com
+colossalcry.com
 colossusssp.com
 colpirio.com
 com--signin.support
@@ -3827,6 +3829,7 @@ google-money.com
 google-sale.com
 google-standard.com
 googleads.github.io
+googleadservice.com
 googleadsl.com
 googlecdnjs.com
 googlecloud.su
@@ -4316,6 +4319,7 @@ idcwp6j6sm.com
 idealmedia.com
 idelv.net
 identity-acces-unlocked-disab1e-secure.com
+identityservices.io
 idevice-locate.us
 idevicemap-location.com
 idfwellsfargo.com
@@ -7082,6 +7086,7 @@ rum.eu-south-2.amazonaws.com
 rum.eu-west-1.amazonaws.com
 rum.eu-west-2.amazonaws.com
 rum.eu-west-3.amazonaws.com
+rum.hlx.page
 rum.me-central-1.amazonaws.com
 rum.me-south-1.amazonaws.com
 rum.sa-east-1.amazonaws.com
