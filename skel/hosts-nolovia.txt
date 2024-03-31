@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-25 09:33:09
+# Generated at 2024-03-30 20:20:58
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1311,6 +1311,7 @@ apps8kjdjglkdfg.herokuapp.com
 appsantander.mobi
 appserviceinformation.com
 appsflyer.com
+appsignal-endpoint.net
 appstore-centers-i.cloud
 appstore-confirmation.com
 appstore-locked-i.cloud
@@ -3095,6 +3096,7 @@ dspmulti.com
 dsud.com
 dt00.net
 dt2xr6g2i5.com
+dtheharityhild.info
 dttrk.com
 dttrpx.com
 dualstack.collector-nginx-1035376720.us-east-1.elb.amazonaws.com
@@ -3269,6 +3271,7 @@ es-find.net
 es-webapps.com
 esmtp.biz
 esputnik.com
+espy.boehs.org
 essentialetimes.com
 essl-cdxs.edgekey.net
 essztednsbk.ddns.net
@@ -3308,6 +3311,7 @@ event-logger.api.dnc.org
 event.syndigo.cloud
 eventlog.bradsdeals.com
 eventlog.jackpot.de
+eventrecorder.cm.bloomberg.com
 events.api.secureserver.net
 events.attentivemobile.com
 events.launchdarkly.us
@@ -7810,6 +7814,7 @@ sombrero.yahoo.com
 sombrero.yahoo.net
 somelandingpage.com
 somoaudience.com
+sonalrecomefu.info
 songs.linkpc.net
 sonobi.com
 sootheside.com
@@ -8353,6 +8358,7 @@ thegardian.ml
 thegaurdian.live
 thegreenmy87.com
 thelimitedaccount.org
+thematicalastero.info
 themediagrid.com
 theroswaf.com
 thesandonesof.info
@@ -9324,6 +9330,7 @@ winworker.club
 wipoanalytics.wipo.int
 wirecomic.com
 wisepops.com
+wisepops.net
 wishjus.com
 wistfulflight.com
 wivo2gaza.com
