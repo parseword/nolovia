@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-03-30 20:20:58
+# Generated at 2024-04-06 21:03:25
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2208,6 +2208,7 @@ cjsanandreas.com
 cjvj6jqxpf.com
 ckk69drbro.com
 cko-breeziest-in.cloudapp.net
+ckxj10om5j.execute-api.us-east-2.amazonaws.com
 cl0sed00r.co
 cl0udfiare.com
 cl96rwprue.com
@@ -2338,6 +2339,7 @@ cm.news-press.com
 cm.northjersey.com
 cm.oklahoman.com
 cm.seacoastonline.com
+cm.statesman.com
 cm.statesmanjournal.com
 cm.tennessean.com
 cm.theleafchronicle.com
@@ -2621,6 +2623,7 @@ contact-securemyaccount.com
 contact-verify-center.com
 contactcostumer-service.com
 content-recommendation.net
+content-settings.com
 contentabc.com
 contentabc.net
 contentignite.com
@@ -3500,6 +3503,7 @@ firstinstallmac.club
 firstprolvdrec.com
 firststep-login.com
 fiservcareers.com
+fishingrealinvestments.com
 fisrdteditionps.com
 fisrteditionps.com
 fisrtinlogin.com
@@ -8032,6 +8036,7 @@ stripewh.getadmiral.com
 strivesidewalk.com
 structurerod.com
 structuresofa.com
+stubhub-proxy.genius.com
 studentworkbook.pw
 stun.kaptcha.com
 stun1.l.google.com
@@ -8082,6 +8087,7 @@ suntnusting.com
 superdimensionalfolder.com
 superficialsink.com
 superficialsquare.com
+supertreetrunk.com
 supervisegoldfish.com
 suport-garena.com
 suport-lcloud.com
