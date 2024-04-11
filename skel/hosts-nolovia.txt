@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-04-06 21:03:25
+# Generated at 2024-04-11 14:37:53
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1963,6 +1963,7 @@ c52llumx.com
 c615.denverpost.com
 c6orlterk.com
 c705.trentonian.com
+c783.fastcompany.com
 c830.valawyersweekly.com
 c991.businessoflawdigest.com
 caai83kh6p.com
@@ -1980,6 +1981,7 @@ calmcactus.com
 calmfoot.com
 cambridgeanalytica.net
 cambridgeanalytica.org
+camp.fastcompany.com
 cancel-paymentorderpaypal-check.com
 canceledpayment.com
 cancelitationebaytransaction.com
@@ -3370,6 +3372,7 @@ f63m7w8n29.com
 f703.twincities.com
 f72e49a1-ef2c-44b8-8c7d-3e99e967044c.cloudapp.net
 f759.yellowsheetreport.com
+f793.inc.com
 f866.troyrecord.com
 f972.libn.com
 f981.azcapitoltimes.com
