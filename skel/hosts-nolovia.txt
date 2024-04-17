@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-04-11 14:37:53
+# Generated at 2024-04-17 18:35:59
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -529,6 +529,7 @@ ad6media.es
 ad6media.fr
 adagio.io
 adainstaller.com
+adalytics.io
 adamatic.co
 adap.tv
 adapex.io
@@ -7769,6 +7770,7 @@ smtpro101.com
 smtptemp.site
 smtptogo.pw
 smyte.com
+snacktoken.com
 snakemineral.com
 snakesort.com
 snakesshop.com
