@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-04-17 18:35:59
+# Generated at 2024-04-20 19:23:39
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1479,6 +1479,7 @@ b730.fortmorgantimes.com
 b84pharkhv.com
 b8y4ddrvap.com
 b921.molawyersmedia.com
+b932.wesh.com
 babyboomboomads.com
 backuprabbit.com
 backxercise.com
@@ -1962,6 +1963,7 @@ c3tag.com
 c504.harrisburgwinefest.com
 c52llumx.com
 c615.denverpost.com
+c677.wisn.com
 c6orlterk.com
 c705.trentonian.com
 c783.fastcompany.com
@@ -3143,6 +3145,7 @@ e147.growthspotter.com
 e21b1642db801b2a.com
 e220.dailyfreeman.com
 e2b9jbowv7.com
+e459.kcci.com
 e488.macombdaily.com
 e4w50tqnqk.com
 e510.harrisburgwineandspiritsfest.com
@@ -3152,6 +3155,7 @@ e5omau19i7.com
 e664.theoaklandpress.com
 e6cfmdmo81.com
 e7is2u38.top
+e993.wlky.com
 e9geolgzk6.com
 e9kv7bhnzt.com
 eaconhop.online
@@ -3368,6 +3372,7 @@ f201.nclawyersweekly.com
 f2q1u44h4m.com
 f3322.net
 f3322.org
+f361.wvtm13.com
 f380.beddingconference.com
 f63m7w8n29.com
 f703.twincities.com
@@ -3938,6 +3943,7 @@ gynax.com
 gypsypy.duckdns.org
 gz06x5tqlj.com
 h-bid.com
+h019.wtae.com
 h12-media.com
 h2ku87viwi.com
 h395.gsabizwire.com
@@ -4660,6 +4666,8 @@ ixeq490u20.com
 izooto.com
 j-p-morgan-check-onli.com
 j067.furnituretoday100.com
+j104.abc-7.com
+j178.wmur.com
 j1vtm.top
 j238.mecktimes.com
 j300.dailynews.com
@@ -4807,6 +4815,7 @@ jwvwak1a.com
 jxru2djgqm.com
 jynp9m209p.com
 jzdstqhknq.com
+k030.koco.com
 k148.leadershipcon.com
 k162.mnprojectcenter.com
 k423.northcharlestonexpo.com
@@ -5242,6 +5251,7 @@ m3pixel.com
 m583.dailydemocrat.com
 m821.saratogian.com
 m869.presstelegram.com
+m886.kmbc.com
 m930.news-herald.com
 m954.legalledger.com
 m9in5.top
@@ -5756,6 +5766,7 @@ n.rich
 n079.thedailyrecord.com
 n1g459ky7y.com
 n475.pilotonline.com
+n565.verylocal.com
 n818.timesherald.com
 nae-breeziest-in.cloudapp.net
 nanovisor.io
@@ -6159,6 +6170,7 @@ p330.hfndigital.com
 p5genexs.com
 p644.thereporter.com
 p685.montereyherald.com
+p769.wgal.com
 p78lld1s.top
 p797.bridgetower.events
 p814.journalrecord.com
@@ -6673,6 +6685,7 @@ q111333.top
 q159.buffzone.com
 q1connect.com
 q20jqurls0y7gk8.info
+q511.wpbf.com
 q64a9ris0j.com
 q770.whittierdailynews.com
 q8eqh.top
@@ -6744,6 +6757,7 @@ r077.hometextilesweek.com
 r102.visualinfonomics.com
 r188.readingeagle.com
 r219.colormagazine.com
+r255.wmtw.com
 r2b2.cz
 r2b2.io
 r4nwdude.com
@@ -7152,11 +7166,13 @@ s24hc8xzag.com
 s2sterra.com
 s3-us-west.com
 s3xified.com
+s438.mynbc5.com
 s4yxaqyq95.com
 s5prou7ulr.com
 s762.pressenterprise.com
 s7c66wkh8k.com
 s7kkpeo6e2.com
+s811.ketv.com
 s9jp9xogfz.com
 saambaa.com
 sabic.work
@@ -7388,6 +7404,7 @@ seodollars.com
 separatesilver.com
 seprough-galivised.com
 serach-icloud.com
+serenesurf.com
 serivice-limiited-account.com
 serivice-limited-account.com
 serped.net
@@ -8225,6 +8242,7 @@ t1l1x.com
 t2f9pn3m7w.com
 t323.lvb.com
 t562.pressandguide.com
+t733.wjcl.com
 t7479e4d.com
 t870.mlmcounties.com
 t969.sentinelandenterprise.com
@@ -8643,6 +8661,7 @@ typicalteeth.com
 tyseck.com
 tzwaw.pw
 u066.ocregister.com
+u082.wapt.com
 u21drwj6mp.com
 u255.paradisepost.com
 u29ngmuc.top
@@ -8650,9 +8669,11 @@ u300.dailybulletin.com
 u39chju32a.com
 u4ghzfb.com
 u542.dailycamera.com
+u578.wlwt.com
 u595sebqih.com
 u654.santacruzsentinel.com
 u8vysb7s2v.com
+u999.wcvb.com
 u9oxdnxk8b.com
 uacexchange.us
 uappllee.com
@@ -8854,12 +8875,16 @@ uxbewzrfyp.com
 uxxr80jwng.com
 uyechyymr.com
 uymkdz9s.com
+v063.4029tv.com
+v066.wxii12.com
 v127.gsabusiness.com
+v225.ksbw.com
 v286.totalpetmarket.com
 v3rjvtt.com
 v402.canoncitydailyrecord.com
 v476.reporterherald.com
 v712.cpbj.com
+v878.mor-tv.com
 v956.hometextilestoday.com
 va-endpoint.com
 vadideo.com
@@ -9134,6 +9159,7 @@ vy4e3jw46l.com
 vyperps.no-ip.biz
 w-a.wang
 w-i.win
+w110.kcra.com
 w138.redlandsdailyfacts.com
 w149.lowellsun.com
 w3-reporting-nel.reddit.com
@@ -9453,6 +9479,7 @@ x680.sgvtribune.com
 x766.rilawyersweekly.com
 x7xirtzmot.com
 x8rxr.top
+x982.koat.com
 xandr.com
 xapads.com
 xbzwwsagli.com
@@ -9598,13 +9625,16 @@ xywdvhd.com
 xyzsitexyz.xyz
 xzipy.com
 y-medialink.com
+y000.wyff4.com
 y1jxiqds7v.com
 y2rmo576.top
+y494.wdsu.com
 y4jtnergka.com
 y568.giftsanddec.com
 y689.sclawyersweekly.com
 y6a7tqyr.com
 y799.columbiabusinessreport.com
+y884.wbaltv.com
 y96q29a1fo.com
 yabidos.com
 yadangz.ddns.net
@@ -9690,6 +9720,7 @@ yxdown.cn
 yyjvimo.com
 yyz6ard1e3.com
 z-analytics.net
+z127.nbc-2.com
 z1ujd76gd6.com
 z216.times-standard.com
 z371.chicoer.com
