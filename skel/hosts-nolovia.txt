@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-04-20 19:23:39
+# Generated at 2024-04-26 17:41:33
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3754,6 +3754,7 @@ getpagespeed.com
 getpaidlikeus.com
 getpolymorph.com
 getpublica.com
+getrunkhomuto.info
 getsearchgo.com
 getsitecontrol.com
 getsurl.com
@@ -8447,6 +8448,7 @@ tinylink.pro
 tinylytics.app
 tinytrk.com
 tinyurl.gold
+tionforeathyoug.info
 tiqcdn.com
 tiqcdn.com.edgekey.net
 tire1soak.com
@@ -8565,6 +8567,7 @@ trafficjunky.com
 trafficninjas.co
 trafficpoizon.com
 tranquilside.com
+tranquilveil.com
 transaction-payment07.com
 transaction-secure5.com
 translateoatmeal.com
@@ -8937,6 +8940,7 @@ vanfireworks.com
 vaxaqngzs3.com
 vdbhe7ti.com
 vdo.ai
+vecohgmpl.info
 veeseo.com
 vegmobile.com
 vehicle-tax-refunds.org
@@ -9127,6 +9131,7 @@ vnw2gd68pb.com
 voastauz.net
 vodafone-verificatie.com
 voicevegetable.com
+voidgoo.com
 voievnenibrinw.com
 voksmtp.com
 vols7feed.com
