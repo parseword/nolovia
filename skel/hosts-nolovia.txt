@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-04-26 17:41:33
+# Generated at 2024-05-06 11:48:05
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -883,6 +883,7 @@ analytics.dnnapi.com
 analytics.dvidshub.net
 analytics.edgekey.net
 analytics.eip.telegraph.co.uk
+analytics.esa.atanar.net
 analytics.foodnetwork.com
 analytics.freesound.org
 analytics.getshogun.com
@@ -3901,6 +3902,7 @@ group-secureservice.xyz
 groupvaluate.com
 grow1maid.com
 growingio.com
+growthbook-proxy-platform-intel.gp-prod-na-0.conde.digital
 growthrx.in
 growthtransport.com
 grt01.com
@@ -4869,6 +4871,7 @@ kirgeemo.com
 kissmetrik.com
 kj2hy.com
 kjke.pw
+kkthreas.com
 klantenservice-inlogin.pro
 klca5rlwdr.com
 klclick1.com
@@ -5186,6 +5189,7 @@ logs-id.us
 logs-in.us
 logs-sign.us
 logs.autofi.com
+logs.guardianapis.com
 logs.psm.wmcdp.io
 logtrust.io
 loki8lave.com
@@ -9428,6 +9432,7 @@ wv76ecypi5.com
 wvhba6470p.com
 wvw-payipal.com
 ww3-appleid-store.com
+www-analytics.esa.int
 www-appleid-notify.com
 www-desjardins-com.com
 www-ebay-dispute-payment.com
