@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-05-06 11:48:05
+# Generated at 2024-05-13 12:45:09
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2036,6 +2036,7 @@ causecherry.com
 cautiouscredit.com
 cavanic9.net
 cave9tape.com
+cavecurtain.com
 cavixo.com
 cavy9soho.com
 caxvm62zyz.com
@@ -2334,10 +2335,12 @@ clrstm.com
 clue6load.com
 cm.azcentral.com
 cm.beaconjournal.com
+cm.clarionledger.com
 cm.commercialappeal.com
 cm.detroitnews.com
 cm.dispatch.com
 cm.goerie.com
+cm.jacksonsun.com
 cm.jacksonville.com
 cm.jsonline.com
 cm.montgomeryadvertiser.com
@@ -3101,6 +3104,7 @@ drydrum.com
 ds-beap1.cb.g01.yahoodns.net
 dsmtp.com
 dsp.mcclatchy.com
+dsp.miamiherald.com
 dspmulti.com
 dsud.com
 dt00.net
@@ -4643,6 +4647,7 @@ isupports.care
 isupports.center
 itcfnfi.com
 itemdb.com
+itemslice.com
 itiee.life
 itieee.life
 its-up.com
@@ -5270,6 +5275,7 @@ madrivo.com
 madrivo.digital
 mads.com
 maebtjn.com
+maersk-internal.com
 mage-cdn.link
 mage-js.link
 mage-js.su
@@ -6358,6 +6364,7 @@ phone2347.ddns.net
 phonebillsrefund.com
 phonefix.guru
 photographpan.com
+pi.ispot.tv
 pi.pardot.com
 pibserver.com
 pic-shareonline.com
@@ -6460,6 +6467,7 @@ police-pypal.com
 policy-activityaccount.com
 policypage-updatestoppedworking.com
 politegoldfish.com
+politeplanes.com
 polyicloudfinder.com
 ponf.linkedin.com
 ponystudent.win
@@ -6481,9 +6489,11 @@ possessivebucket.com
 possibleboats.com
 post-jquery.com
 postback.info
+posthog.com
 posttagmapapi.com
 potrax.com
 powerad.ai
+powerfulblends.com
 powerinbox.com
 powerlinks.com
 powerrballi.top
@@ -7247,6 +7257,7 @@ scandalcity.tv
 scar231.zapto.org
 scaraabresearch.com
 scarabresearch.com
+scarceshock.com
 scarcesign.com
 scarcestream.com
 scarecrowslip.com
@@ -7372,6 +7383,7 @@ seedscissors.com
 seedtag.com
 seepano.com
 seery.online
+seg-telemetry.contra.com
 segment.io
 segment.psg.nexstardigital.net
 seguridadonline-icloud.com
@@ -7951,6 +7963,7 @@ sstats.kroger.com
 ssvwv.com
 stack-sonar.com
 stackadapt.com
+staging-pi.ispot.tv
 staging.getadmiral.com
 stakingscrew.com
 stakingslope.com
@@ -8268,6 +8281,7 @@ tags.creditkarma.com
 tags.dillards.com
 tags.newscgp.com
 tags.pw.adn.cloud
+tags.rferl.org
 tags.rvere.com
 tags.tiqcdn.com.edgekey.net
 tagsrvcs.com
