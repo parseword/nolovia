@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-05-13 12:45:09
+# Generated at 2024-05-23 20:48:44
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -617,6 +617,7 @@ adrock.tv
 adrokt.com
 adrolx.com
 adrs.me
+ads-api.x.com
 ads-dev.sportradar.com
 ads-static.conde.digital
 ads-tm-glb.click
@@ -1995,6 +1996,7 @@ cannonjudo.com
 cannontwin.com
 capablecows.com
 capablecup.com
+capi.elements.video
 capitalones.co
 capping.lemonde.fr
 capptain.com
@@ -3752,6 +3754,7 @@ getcookiestxt.com
 getinsights.io
 getintent.com
 getjaco.com
+getjan.io
 getlytics.com
 getmyconfigplease.com
 getmyfreetraffic.com
@@ -5386,6 +5389,7 @@ masttracker.com
 matchcows.com
 materialisticfan.com
 materialmoon.com
+matomo.correctiv.org
 matomo.org
 mawlaybob.com
 maxepv.com
@@ -5452,6 +5456,7 @@ metrics.jumprope.com
 metrics.kirklands.com
 metrics.macys.net
 metrics.media-amazon.com
+metrics.nymag.com
 metricscollector.lp.xcal.tv
 meuzxiejun.com
 mevarabon.com
@@ -6858,6 +6863,7 @@ receiverinformation.com
 receptivebranch.com
 receptiveink.com
 receptivereaction.com
+receptivity.io
 recommender.scarabresearch.com
 reconditeprison.com
 reconditerake.com
@@ -9312,6 +9318,7 @@ websevervaliidationneeded.xyz
 websignin-secure-payment-update.com
 websitepolicies.io
 websitereview.corp.apple.com
+websitesdude.com
 webssl-apple.com
 webstatistic.pw
 webstatistic.ws
