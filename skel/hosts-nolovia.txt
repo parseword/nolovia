@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-06-01 21:51:23
+# Generated at 2024-06-16 19:50:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2441,6 +2441,7 @@ cm.azcentral.com
 cm.beaconjournal.com
 cm.clarionledger.com
 cm.commercialappeal.com
+cm.desmoinesregister.com
 cm.detroitnews.com
 cm.dispatch.com
 cm.goerie.com
@@ -3401,6 +3402,7 @@ email-updatepolicy.com
 emailcostumers-limited.com
 emaile.org
 emailimagecdnr7fb.com
+emailsys1a.net
 emanalyst.biz
 emeu0circ.com
 emltrk.com
@@ -3799,7 +3801,10 @@ foxsmtp.com
 fpapi.io
 fpjs.io
 fptls.com
+fptls1.com
 fptls2.com
+fptls3.com
+fptls4.com
 fqvkntefmd.com
 fr-monde.com
 fraddation-pyments-acounting.com
@@ -5158,6 +5163,7 @@ kloperd.com
 knifeoctopus.com
 knotkettle.com
 knottysticks.com
+knowledconsideunden.info
 kohlermetricssecure.kohler.com
 konferenciya-zoom.com
 koo6myletj.com
@@ -5218,6 +5224,7 @@ larryaffiliates.com
 lashy.ddns.net
 lastbornk1.ddns.net
 lastdaysonlines.com
+lasttaco.com
 late6year.com
 laughablecopper.com
 laughablelizards.com
@@ -5751,6 +5758,7 @@ metric.makemytrip.com
 metrica.yandex.com
 metrics-api.dimensions.ai
 metrics-dev.macys.net
+metrics.g2xchange.com
 metrics.getvitals.io
 metrics.jumprope.com
 metrics.kirklands.com
@@ -6354,6 +6362,7 @@ oita4bali.com
 oklahomjs.com
 olavygoxybyz.tk
 olayomad.com
+oldfashionedoffer.com
 olfkptkfop.com
 oluwahkudi.cf
 olytics.omeda.com
@@ -6469,6 +6478,7 @@ otzo.com
 oupe71eiun.com
 oupushee.com
 ouradse.com
+ourblogthing.com
 ourhobby.com
 ourjra52fullexchgm.duckdns.org
 ours3care.com
@@ -6674,6 +6684,7 @@ perf-serving.com
 perf.hsforms.com
 perfectmarket.com
 performance-events.guardianapis.com
+performance.squarespace.com
 perimeterx.net
 periodicpocket.com
 perk0mean.com
@@ -8830,6 +8841,7 @@ targeting.tgam.arcpublishing.com
 targeting.unrulymedia.com
 targetingedge.com
 tarttendency.com
+tarvardsusyseinpou.info
 tastefulsongs.com
 tastelesstoes.com
 tastelesstrees.com
@@ -9231,6 +9243,7 @@ tworiversboat.com
 typejsx.com
 typekitcloud.com
 typeklt.com
+typesense-qrp-production.up.railway.app
 typicalairplane.com
 typicalteeth.com
 tyseck.com
