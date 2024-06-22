@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-06-16 19:50:48
+# Generated at 2024-06-22 11:45:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2444,6 +2444,7 @@ cm.commercialappeal.com
 cm.desmoinesregister.com
 cm.detroitnews.com
 cm.dispatch.com
+cm.freep.com
 cm.goerie.com
 cm.jacksonsun.com
 cm.jacksonville.com
@@ -5013,6 +5014,7 @@ josmtp.com
 journalide.org
 journey.vanityfair.com
 journey.wired.com
+journeymv.com
 jp-appsy-account-lockedd.com
 jpar333.me
 jqcdn.download
@@ -7713,6 +7715,7 @@ script.ac
 scripts.agilone.com
 scriptsform.com
 scriptsjzone.com
+scriptwrapper.com
 scrollservice.com
 scrubsky.com
 scrubswim.com
