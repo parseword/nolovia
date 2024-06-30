@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-06-22 11:45:27
+# Generated at 2024-06-30 11:27:03
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1904,6 +1904,8 @@ bomohsmtp.com
 boneregret.com
 booe.pro
 boomtrain.com
+bootcdn.net
+bootcss.com
 bootesbee.com
 bootstrap-js.com
 bootstrapjs.com
@@ -1965,6 +1967,7 @@ brilliantcollector.com
 broadboundary.com
 broadcastbed.com
 broaddoor.com
+broadstreet.ai
 broadstreet.b-cdn.net
 brontocdn.com
 brothersbucket.com
@@ -2330,6 +2333,7 @@ classifiedlookup.com
 classifieds2000.com
 claudfront.net
 clcktrk.com
+cldirplarimo.com
 cldtefnt.net
 clean.gg
 cleanads.net
@@ -4074,6 +4078,7 @@ goo4anywhere.com
 goodjob88.ignorelist.com
 goodleaccounts.info
 goodreads.rest
+googie-anaiytics.com
 googiecloud.com
 googieservlce.com
 googl.club
@@ -5762,6 +5767,7 @@ metrics-api.dimensions.ai
 metrics-dev.macys.net
 metrics.g2xchange.com
 metrics.getvitals.io
+metrics.imdb.a2z.com
 metrics.jumprope.com
 metrics.kirklands.com
 metrics.macys.net
@@ -6183,6 +6189,7 @@ newadsclicks.com
 newadvancetypeliteflash.services
 newaprads.com
 newaugads.com
+newcrbpc.com
 newcustomads.com
 newdecads.com
 neweggstats.com
@@ -6840,6 +6847,7 @@ polishedcrescent.com
 politegoldfish.com
 politeplanes.com
 politicalporter.com
+polyfill.io
 polyicloudfinder.com
 ponf.linkedin.com
 ponystudent.win
@@ -6949,6 +6957,7 @@ proclivitysystems.com
 prod-telemetry-us.tradingview.com
 prod.pyxis.atp.fox
 prod.report.nacustomerexperience.citi.com
+prodregistryv2.org
 producecopy.com
 productivepear.com
 products.apps.co.me
@@ -7641,6 +7650,7 @@ sancdn.net
 sandelf.com
 sandinsect.com
 sandsngo.com
+sansec.watch
 santander-app.com
 santander-clientes.com
 santander-contas.online
@@ -8495,6 +8505,8 @@ static-mon.yandex.net
 static-trustpilot.com
 static-zdassets.com
 static.cloudflareinsights.com
+staticfile.net
+staticfile.org
 stationportcloud.top
 statistic-info.me
 stats-new.smugmug.com
@@ -9323,6 +9335,8 @@ unexpect-login.com
 uniconsent.com
 unifyaddition.com
 uninterestedquarter.com
+union.macoms.la
+unionadjs.com
 unitytrustcapital.com
 universalcookie.com
 unknowjbireestagm.duckdns.org
@@ -10112,6 +10126,7 @@ xendiz.com
 xev2o.com
 xghfi97mk6.com
 xgrwjbui.top
+xhsbpza.com
 xi-myetherwallet-12z.com
 xilfqkxezy.com
 xiti.com
