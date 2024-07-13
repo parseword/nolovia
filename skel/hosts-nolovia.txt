@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-06-30 11:27:03
+# Generated at 2024-07-13 16:07:09
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -5805,6 +5805,7 @@ migration101.us
 mile0tire.com
 militaryverse.com
 mimosamajor.com
+mindfulgem.com
 mindlessmark.com
 minerva.ifixit.com
 minifyscripts.com
@@ -8833,6 +8834,7 @@ tags.pw.adn.cloud
 tags.rferl.org
 tags.rvere.com
 tags.tiqcdn.com.edgekey.net
+tags.voanews.com
 tagsrvcs.com
 tagtracking.vibescm.com
 talentedsteel.com
@@ -9963,6 +9965,7 @@ whisperingcrib.com
 whitecanvasgroup.com
 whitekoala1.xyz
 whitelistjs.com
+whoami-static.barstoolsports.com
 whocame.ovh
 whoint.co
 whoisvisiting.com
