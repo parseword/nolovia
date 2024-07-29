@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-07-13 16:07:09
+# Generated at 2024-07-28 20:43:12
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -916,6 +916,7 @@ analytics.ietf.org
 analytics.inform.com
 analytics.jst.ai
 analytics.kapost.com
+analytics.kibty.town
 analytics.linktr.ee
 analytics.myfidevs.io
 analytics.newscred.com
@@ -3777,6 +3778,7 @@ foamybox.com
 foamyfood.com
 foamypain.com
 fodlkf9d1p.com
+fohr.co
 follingerservicemabe.com
 followsite.com
 fomo.com
@@ -5530,6 +5532,7 @@ lragir.org
 ls.chatid.com
 lsd.systemten.org
 lskjirn.life
+ltmsphrcl.net
 ltunes.cloud
 ltunescancelationpayment.com
 luckstarclub.com
@@ -5617,6 +5620,7 @@ mailservice-apple.com
 mainlink.cool
 mainnine.stream
 mainsmtp.com
+majesticwilderness.com
 makaronibasah.com
 make6pain.com
 makeshiftmine.com
@@ -7030,6 +7034,7 @@ pushmaster-in.xyz
 pushnami.com
 pushowl.com
 pushpad.xyz
+pushplanet.com
 pushplay.tv
 pushpros.tech
 pushwoosh.com
@@ -8664,6 +8669,7 @@ sumologic.com
 sumtrustng.com
 sundayredz.com
 sunmedia.tv
+sunshinegates.com
 suntnusting.com
 superdimensionalfolder.com
 superficialeyes.com
