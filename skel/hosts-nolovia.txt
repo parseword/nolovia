@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-08-05 19:45:05
+# Generated at 2024-08-12 21:23:05
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -907,6 +907,7 @@ analytics.dvidshub.net
 analytics.edgekey.net
 analytics.eip.telegraph.co.uk
 analytics.esa.atanar.net
+analytics.euanalysis.com
 analytics.foodnetwork.com
 analytics.freesound.org
 analytics.getshogun.com
@@ -3369,6 +3370,7 @@ ebxcdn.com
 ecc.freeddns.org
 ece-logger.nandomedia.com
 echo-cat.com
+echochief.com
 economicoutlook.net
 economicpizzas.com
 ecpms.net
@@ -3480,6 +3482,7 @@ errortablet.com
 es-find.net
 es-webapps.com
 esmtp.biz
+esnfublender.com
 esputnik.com
 espy.boehs.org
 essentialetimes.com
@@ -3744,6 +3747,7 @@ flakyfeast.com
 flameuncle.com
 flashnetic.com
 flask.nextdoor.com
+flavedo.io
 flavordecision.com
 flikpop.com
 flimsycircle.com
@@ -3864,6 +3868,7 @@ ftp1.biz
 ftpserver.biz
 fuckmy.site
 fujiladder.com
+fullmoonmasks.com
 fullstory.com
 fumblingform.com
 fumblingselection.com
@@ -4248,6 +4253,7 @@ hantlnqton.com
 hapc.gdn
 happenhistory.com
 happyisp.com
+har-beacon.har.com
 harborcub.com
 hardtofindmilk.com
 harethrough.com
@@ -6248,6 +6254,7 @@ niftyhospital.com
 niftyjelly.com
 nightswatch-go-collector-y2.yieldify-production.com
 nighttstand.com
+nimbleplot.com
 nimiq-network.com
 nimiq.ag
 nimiq.agency
@@ -6296,6 +6303,7 @@ notifysrv.com
 nottepaddpluss.com
 novafile.tk
 novoroll.com
+nowl.ink
 np1t0bcj0n.com
 npm.hacktask.net
 npttrk.com
@@ -7716,6 +7724,7 @@ scarfthought.com
 scatec.io
 scatteredheat.com
 scatteredstream.com
+scenicdrops.com
 schemics.club
 scientificshirt.com
 scientificsneeze.com
@@ -8130,6 +8139,7 @@ sitelabweb.com
 siteofupdate.info
 sitescout.com
 sitespeeds.com
+sittingpets.com
 sityinition.top
 sixauthority.com
 sixscissors.com
