@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-08-14 14:46:36
+# Generated at 2024-08-19 11:00:58
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2258,6 +2258,7 @@ ccvalidate.com
 cd-cont.com
 cdn-analytics.syndeca.com
 cdn-channels-pixel.ex.co
+cdn-clavis-advancelocal-prod.arc-perso.aws.arc.pub
 cdn-doubleclick.net
 cdn-googleapi.com
 cdn-googleservice.com
@@ -2457,6 +2458,7 @@ class2deal.com
 classifiedlookup.com
 classifieds2000.com
 claudfront.net
+clavis-advancelocal-prod.arc-perso.aws.arc.pub
 clcktrk.com
 cldirplarimo.com
 cldtefnt.net
@@ -2506,6 +2508,7 @@ clientmediaserver.com
 clientspaymentservicers-nettflixdataresolvs.com
 clifads.com
 cliipa.com
+clilogs.windy.com
 clinch.co
 clintareasinginservicelimtednpphome-indexhtml.com
 cliqz.com
@@ -5922,6 +5925,7 @@ logs-sign.us
 logs.autofi.com
 logs.guardianapis.com
 logs.psm.wmcdp.io
+logs1.smithsonian.museum
 logtrust.io
 loki8lave.com
 lolfree.pw
@@ -9198,9 +9202,11 @@ stats.biotrust.com
 stats.bt4g.org
 stats.datawrapper.de
 stats.heyoya.com
+stats.ibtimes.com
 stats.justpaste.it
 stats.klevu.com
 stats.monohost.com
+stats.myibtimes.com
 stats.planespotters.net
 stats.rbl.ms
 stats.streamhub.io
@@ -9542,6 +9548,7 @@ tag.rmp.rakuten.com
 tag.wknd.ai
 tagclick-cdn.com
 tagcommander.com
+tagconcierge.com
 tagdeliver.com
 tagdelivery.com
 tagembed.com
