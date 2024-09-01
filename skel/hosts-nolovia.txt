@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-08-31 20:04:47
+# Generated at 2024-09-01 13:59:46
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -466,6 +466,7 @@ accounts-verifications.com
 accounts-verify-paypal.com
 accounts.cam
 accountsauthentification.com
+accountsdoor.com
 accountservice-limited.org
 accountservicenotification.com
 accountsinfos.com
@@ -833,6 +834,7 @@ alikearm.com
 aliveachiever.com
 aliveappliance.com
 aljtrckr.com
+alkimi-onboarding.com
 all-ransomware.info
 alleyarm.com
 alleyskin.com
@@ -3940,6 +3942,7 @@ fearfulfish.com
 fearfulmint.com
 fearlessfaucet.com
 fearlesstramp.com
+feast-events.guardianapis.com
 featherstage.com
 featureforward.com
 featuregates.org
@@ -6239,10 +6242,12 @@ metrics-dev.macys.net
 metrics.g2xchange.com
 metrics.getvitals.io
 metrics.imdb.a2z.com
+metrics.imdb.com
 metrics.jumprope.com
 metrics.kirklands.com
 metrics.macys.net
 metrics.media-amazon.com
+metrics.n-tv.de
 metrics.nymag.com
 metricscollector.lp.xcal.tv
 metroaverage.com
@@ -6777,6 +6782,7 @@ notifia.io
 notification-apple-service.com
 notifications-service.ga
 notificationupdates.com
+notify-bugs-fra1.rtl.de
 notify6.com
 notifyglass.com
 notifysrv.com
@@ -7353,6 +7359,7 @@ plutosmto.com
 pm48j.top
 pmadx.com
 pmi5media.com
+pmur.org
 pndelfast.com
 pochtarossiy.info
 pocketfaucet.com
@@ -8590,6 +8597,7 @@ servlet-appleidverification.com
 ses-smtp.com
 sescure-icloud.com
 seskeu3zk7.com
+session-bugs-fra1.rtl.de
 sessioncam.com
 setforconfigplease.com
 setforspecialdomain.com
@@ -9042,7 +9050,9 @@ sourserve.com
 sovrn.com
 sovrnlabs.net
 sowlettuce.com
+sp-collector-lb-1480291537.us-west-2.elb.amazonaws.com
 sp-wukong-tracker.b-cdn.net
+sp.yelp.com
 spadelocket.com
 sparkgoal.com
 sparklesleet.com
@@ -9206,6 +9216,7 @@ stats.datawrapper.de
 stats.heyoya.com
 stats.ibtimes.com
 stats.justpaste.it
+stats.kenhv.com
 stats.klevu.com
 stats.monohost.com
 stats.myibtimes.com
@@ -9298,6 +9309,7 @@ strangefullthiggngs.com
 strangersponge.com
 strangesink.com
 streamhub.tech
+streamingerror.rtl.de
 streamrail.com
 streamrail.net
 streetsort.com
