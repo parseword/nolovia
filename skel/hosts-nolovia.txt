@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-08-19 11:00:58
+# Generated at 2024-08-31 20:04:47
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -6665,6 +6665,7 @@ netflix-report.com
 netflixbrasil.website
 netflixcolombia.net
 netflixsclientservicrs-managepaymentsubscribers.com
+nethcdn.com
 netmg-cdn.com
 network-security-alerts.com
 networkdocweb.us
@@ -7552,6 +7553,7 @@ ptcfc.com
 pub2srv.com
 pubfs.com
 pubimgs.com
+pubimgs.net
 publicnode.ydns.eu
 publicsgroupe.net
 publicsofa.com
