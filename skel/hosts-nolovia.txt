@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-09-01 13:59:46
+# Generated at 2024-09-02 21:09:22
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2612,6 +2612,7 @@ cnc.kintaro.cc
 cnn24-7.online
 cnnnews.global
 cnnx.link
+co932.coloradopolitics.com
 coachquartz.com
 coatfood.com
 coax7nice.com
@@ -3111,6 +3112,7 @@ czechcash.com
 czusecureupdates.com
 czx5eyk0exbhwp43ya.biz
 d-collect.jennifersoft.com
+d077.gazette.com
 d0k4.pw
 d0p21g2fep.com
 d0ubletraffic.com
@@ -10594,6 +10596,7 @@ w472.carolinaparalegalnews.com
 w55c.net
 w606.sodacitybizwire.com
 w6lkr4s8wu.com
+w890.denvergazette.com
 wa-solutation-limited.com
 wa4etw9l.top
 waardex.com
