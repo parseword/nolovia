@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-09-02 21:09:22
+# Generated at 2024-09-13 13:56:12
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -354,6 +354,7 @@ absurdwater.com
 abtasty.com
 abundantcoin.com
 abuse-js.link
+abzaligtwd.com
 ac-loptxt.com
 acadv.net
 acc-verify.org
@@ -1458,6 +1459,7 @@ astrallullaby.com
 aswpsdkeu.com
 aswpsdkus.com
 at-o.net
+athena.archive.org
 athyimemediates.info
 atlas-upd.com
 atmrum.net
@@ -2126,6 +2128,7 @@ buysellads.net
 buzzoola.com
 bwuk.club
 bxnvdau.com
+bxss.in
 bydmath.com
 c-u.icu
 c.arstechnica.com
@@ -2357,6 +2360,7 @@ chatbotize.com
 chatid.com
 chatluongvacuocsong.vn
 chatpath.com
+chatra-usercontent.com
 chatra.io
 chatterbuzz-media.com
 chazebankgroup.com
@@ -2436,6 +2440,7 @@ cityofberkeley.support
 citywiners.com
 cjezgbjbltos.com
 cjl58f3agc.com
+cjpowered.com
 cjpufffy.hopto.org
 cjsanandreas.com
 cjvj6jqxpf.com
@@ -2896,6 +2901,7 @@ consensu.org
 consent-notice.ft.com
 consent.api.osano.com
 consent.b-cdn.net
+consent.lep.co.uk
 consentframework.com
 considermice.com
 consistpotato.com
@@ -6859,6 +6865,7 @@ observantice.com
 ocaeliek.com
 oclasrv.com
 ocry.com
+octaneai.com
 odufh13vjw.com
 offeradvertising.biz
 offeranda.biz
@@ -7579,6 +7586,7 @@ puffypurpose.com
 puhtml.com
 pujj652hkm.com
 pulsatingmeadow.com
+pulse.nasa.gov
 pumpedpancake.com
 pumpedpurpose.com
 pumpmywallet.com
@@ -9614,6 +9622,7 @@ tattle.api.osano.com
 tavertotsand.info
 tawdryson.com
 tay-sun.ru
+tblnreehmapc.com
 tbn.ru
 tbnmmjm.com
 tbv157xq.com
