@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-09-13 13:56:12
+# Generated at 2024-10-01 18:12:57
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -699,6 +699,7 @@ adtrack.calls.net
 adtrack.voicestar.com
 adtrackdirect.com
 adtracker.link
+adtrafficquality.google
 adtrue.com
 adv.mxmcdn.net
 advalue.com.vn
@@ -982,6 +983,7 @@ analytics.xcal.tv
 analytics.yahoo
 analytics.yopify.com
 analyze-82dfgsi2.m-w.com
+analyze.bage.dev
 analyzecorona.com
 ancientact.com
 and.co.uk
@@ -1464,6 +1466,7 @@ athyimemediates.info
 atlas-upd.com
 atmrum.net
 atmtd.com
+atoms.beaconjournal.com
 atoms.tennessean.com
 atoms.usatoday.com
 atomx.com
@@ -1681,6 +1684,7 @@ beijingvampires.com
 belexglokmpld.com
 bemitho.com
 benchmark.1e100cdn.net
+benchmetrics.app
 beneficialbeef.com
 benn8bord.com
 benthose.com
@@ -2097,6 +2101,7 @@ bugsnag.com
 buildingknife.com
 bukaguka.com
 bulbbait.com
+bullwhip.cloud
 bumlam.com
 bumpydevelopment.com
 bunchance.com
@@ -2414,10 +2419,12 @@ chocolateplatform.com
 choicepoint.com
 choozle.com
 chriswork999.ddns.net
+cht-srvc.net
 chubbycreature.com
 chuksthedon.duckdns.org
 chunkycactus.com
 chunyg21.sportsontheweb.net
+churnkey.co
 churnsignal.com
 ci-mpsnare.iovation.com
 cibconline-verifications.com
@@ -2585,6 +2592,7 @@ cm.azcentral.com
 cm.beaconjournal.com
 cm.clarionledger.com
 cm.commercialappeal.com
+cm.courier-journal.com
 cm.desmoinesregister.com
 cm.detroitnews.com
 cm.dispatch.com
@@ -3603,6 +3611,7 @@ ece-logger.nandomedia.com
 echo-cat.com
 echochief.com
 echoinghaven.com
+ecomsend.com
 economicoutlook.net
 economicpizzas.com
 ecpms.net
@@ -3959,6 +3968,7 @@ feebleshock.com
 feeblestamp.com
 feed5baby.com
 feed5mown.com
+feedblitz.com
 feedify.net
 feedvertizus.com
 feefo.com
@@ -4632,6 +4642,7 @@ hapc.gdn
 haplesshydrant.com
 haplessland.com
 happenhistory.com
+happierleads.com
 happyisp.com
 happysponge.com
 har-beacon.har.com
@@ -4708,6 +4719,7 @@ highcpms.com
 highfalutinbox.com
 highfalutinhoney.com
 highfalutinroom.com
+hightouch-events.com
 hike.studio
 hilariouszinc.com
 hilltopads.com
@@ -6307,6 +6319,7 @@ miscreantmine.com
 miscreantmoon.com
 misitemgr.com
 mispace.cam
+misshit.top
 misskey-forkbomb.cf
 mistyhorizon.com
 mittencattle.com
@@ -6863,6 +6876,7 @@ oboe3broo.com
 obscenesidewalk.com
 observantice.com
 ocaeliek.com
+ocdn.eu
 oclasrv.com
 ocry.com
 octaneai.com
@@ -7197,6 +7211,7 @@ paypol-securities.biz
 paypupdate.com
 pbackpixel.com
 pbc.nypost.com
+pbc.pagesix.com
 pbc.wsj.com
 pbcs.decider.com
 pbcs.nypost.com
@@ -7566,6 +7581,7 @@ psychedelicchess.com
 pt.dwcdn.net
 ptarepjx.com
 ptcfc.com
+ptr.the-sun.com
 pub2srv.com
 pubfs.com
 pubimgs.com
@@ -8228,6 +8244,7 @@ s3xified.com
 s438.mynbc5.com
 s4yxaqyq95.com
 s5prou7ulr.com
+s650.zoetisus.com
 s762.pressenterprise.com
 s7c66wkh8k.com
 s7kkpeo6e2.com
@@ -10250,6 +10267,7 @@ us-track.sync.tv
 us-track.wayin.com
 usageanalytics.coveo.com
 usbktransact.com
+usbrowserspeed.com
 uscert.top
 uscourtsgov.com
 usdailypost.com
@@ -10465,6 +10483,7 @@ verived-service.com
 verpayment.com
 verpayments.com
 verseballs.com
+versusgame.com
 vertamedia.com
 vertification-accountproblemcstmr.com
 vertification-applesinc.com
@@ -10605,6 +10624,7 @@ w472.carolinaparalegalnews.com
 w55c.net
 w606.sodacitybizwire.com
 w6lkr4s8wu.com
+w8510.com
 w890.denvergazette.com
 wa-solutation-limited.com
 wa4etw9l.top
