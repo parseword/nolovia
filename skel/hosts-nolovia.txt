@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-10-01 18:12:57
+# Generated at 2024-10-09 13:24:19
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -559,6 +559,7 @@ adaptiveads.com
 adaranth.com
 adaxis.media
 adblockrelief.com
+adbundle.empowerlocal.co
 adclickservice.com
 adcrew.co
 addatamarket.net
@@ -766,6 +767,7 @@ affrh2024.com
 affrh2025.com
 afftrack.com
 afftrck.com
+afnhc.com
 afraidlanguage.com
 aftermathbrother.com
 afterscripts.com
@@ -3653,6 +3655,7 @@ electric-sheep.tv
 elegantboulevard.com
 elephantqueue.com
 eliminateeffect.com
+elite-net.org
 ellatrujillo.com
 ellcurvth.com
 elusivebreeze.com
@@ -3665,6 +3668,7 @@ emaile.org
 emailimagecdnr7fb.com
 emailsys1a.net
 emanalyst.biz
+embed-analytics.ddhq.io
 embellishedmeadow.com
 embermosaic.com
 emberwhisper.com
@@ -4104,6 +4108,7 @@ fmiemail-icloud.com
 fmimaps-apple.com
 fmip-icloud.com
 fmlpmails-icloud.com
+fmoezqerkepc.com
 foambench.com
 foamybox.com
 foamyfood.com
@@ -4202,6 +4207,7 @@ frogtray.com
 frontpage-stats.rbl.ms
 frontstatics.com
 fronttoad.com
+frspecifics.com
 frugalfiestas.com
 ft.net
 ftp1.biz
@@ -4281,6 +4287,7 @@ gactivityinfo.com
 gaei.tk
 gall-tarquin.com
 gamacdn.com
+gamalpha.com
 game9time.com
 gammae.com
 gammamaximum.com
@@ -4510,6 +4517,7 @@ grayreceipt.com
 greasegarden.com
 greasemotion.com
 greasysquare.com
+greatbigiceberg.com
 gredgar-prevalid.com
 green-red.com
 greenadexchange.com
@@ -4720,6 +4728,7 @@ highfalutinbox.com
 highfalutinhoney.com
 highfalutinroom.com
 hightouch-events.com
+hightouch.com
 hike.studio
 hilariouszinc.com
 hilltopads.com
@@ -4998,6 +5007,8 @@ icloudsite.com
 icloup-yuie.cn
 icluodx.info
 icon-base.biz
+icon-cdn.com
+icon.me
 icq-apples.com
 id-acount.com
 id-apple-suporte.com
@@ -5077,6 +5088,7 @@ ilog-ins.us
 ilovejuju.be
 ilxhsgd.com
 im2ss2ss.top
+images-home.com
 img-taboola.com
 imgadult.com
 imglnka.com
@@ -5429,6 +5441,7 @@ jf71qh5v14.com
 jguery.com
 jhomeland.ddns.net
 jie50dcwuh.execute-api.us-east-1.amazonaws.com
+jifo.co
 jimny.pro
 jisusaiche-475487.c.cdn77.org
 jisusaiche-componentrysolut.netdna-ssl.com
@@ -5791,6 +5804,7 @@ linkedin-jobs.com
 linkgen.me
 linkmaniak.com
 linknetwork.com
+links-all.store
 linksbit.com
 linkslot.ru
 linodepower.com
@@ -5992,6 +6006,7 @@ ls.chatid.com
 lsd.systemten.org
 lskjirn.life
 ltmsphrcl.net
+ltroute.com
 ltunes.cloud
 ltunescancelationpayment.com
 luckstarclub.com
@@ -6971,6 +6986,7 @@ opecloud.com
 openads.com
 opendingweb.us
 openfpcdn.io
+openwebmp.com
 openx.jp
 openxadexchange.com
 openxenterprise.com
@@ -6986,6 +7002,7 @@ opreseynatcreativei.com
 opstag.com
 optad360.com
 optanon.blob.core.windows.net
+opti-digital.com
 optimallimit.com
 optimatic.com
 optimize-stats.voxmedia.com
@@ -7603,6 +7620,7 @@ puhtml.com
 pujj652hkm.com
 pulsatingmeadow.com
 pulse.nasa.gov
+pulseresearch.com
 pumpedpancake.com
 pumpedpurpose.com
 pumpmywallet.com
