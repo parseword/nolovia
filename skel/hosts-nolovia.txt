@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-10-20 15:57:12
+# Generated at 2024-10-31 15:46:20
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -843,6 +843,7 @@ all-ransomware.info
 alleyarm.com
 alleyskin.com
 alleythecat.com
+alliai.com
 allmygreatestlife.com
 allmygreatlife.com
 allmyverygreatlife.com
@@ -958,6 +959,7 @@ analytics.jst.ai
 analytics.kapost.com
 analytics.kibty.town
 analytics.linktr.ee
+analytics.mrblithe.com
 analytics.myfidevs.io
 analytics.newscred.com
 analytics.nextopia.net
@@ -1745,6 +1747,7 @@ bidtellectual.com
 bidtheatre.com
 bidtheorem.com
 bidtillect.com
+bifrost-bfp.pages.dev
 bigabid.com
 bigbird1.xyz
 bigcat1.xyz
@@ -2040,6 +2043,7 @@ bravecalculator.com
 bravo-dog.com
 braze.com
 brazersd.top
+brcclx.com
 brdcst.email
 brdlplgvdq.com
 breadbalance.com
@@ -2136,9 +2140,11 @@ buzzoola.com
 bwuk.club
 bxnvdau.com
 bxss.in
+bydata.com
 bydmath.com
 c-u.icu
 c.arstechnica.com
+c.businessinsider.com
 c012.furnishingsresearchstore.com
 c02o3mpych.com
 c0cd2idcl5.com
@@ -2302,6 +2308,7 @@ cdnwidget.com
 cdpsvc.com
 cds.x7t9n8c4.hwcdn.net
 cdtx.co
+cdvmgqs-ggh.tech
 ceciliavenus.com
 cedato.com
 cedexis-1.s.llnwi.net
@@ -2601,6 +2608,7 @@ cm.dispatch.com
 cm.elpasotimes.com
 cm.freep.com
 cm.goerie.com
+cm.indystar.com
 cm.jacksonsun.com
 cm.jacksonville.com
 cm.jsonline.com
@@ -2608,6 +2616,7 @@ cm.montgomeryadvertiser.com
 cm.news-press.com
 cm.northjersey.com
 cm.oklahoman.com
+cm.pnj.com
 cm.seacoastonline.com
 cm.statesman.com
 cm.statesmanjournal.com
@@ -4048,6 +4057,7 @@ firsthotelgroup.com
 firstimpression.io
 firstinstallmac.club
 firstprolvdrec.com
+firstpromoter.com
 firststep-login.com
 firsttexture.com
 fiservcareers.com
@@ -4668,6 +4678,7 @@ hasbeenlimited-stoppedworking.com
 hatefulrequest.com
 hauntlist.com
 haupsoti.net
+hawk.tomsguide.com
 hazy4cant.com
 hd-plugins.com
 head3high.com
@@ -4751,6 +4762,7 @@ hitleap.com
 hiug862dj0.com
 hizaxytv.com
 hloginnow.net
+hls-beacons.xumo.com
 hm732.com
 hmv9mvx5.top
 hnnp4ixxkl.com
@@ -6000,6 +6012,8 @@ lowerdocieu.us
 lowlocket.com
 loxitdat.com
 lp3tdqle.com
+lpages.co
+lpcontent.net
 lphone-local.com
 lpstrk.com
 lqw.me
@@ -7347,6 +7361,7 @@ pixel.legit.ng
 pixel.mintigo.com
 pixel.newscgp.com
 pixel.newscred.com
+pixel.nudgify.com
 pixel.nypp.data.newscorp.com
 pixel.parsely.com
 pixel.patch.com
@@ -7606,6 +7621,7 @@ ptcfc.com
 ptr.the-sun.com
 pub2srv.com
 pubfs.com
+pubgifs.com
 pubimgs.com
 pubimgs.net
 publicnode.ydns.eu
@@ -7962,6 +7978,7 @@ refundradar.com
 refunds-confirmation.com
 refunds-program.com
 refunds-program.net
+regexmail.com
 register-account.online
 registerdata.info
 registerdomains.ga
@@ -8162,6 +8179,7 @@ rs-stripe.com
 rset-update.com
 rstyle.me
 rta2.metro.co.uk
+rtb-bid.com
 rtb-seller.com
 rtb123.com
 rtbcatalyst.com
@@ -8694,6 +8712,8 @@ sheltercellar.com
 shelterstraw.com
 shemeejo.com
 shesubscriptions.com
+shgcdn2.com
+shgcdn3.com
 shiek1ph.com
 shinesavage.com
 shinestuart.com
@@ -9157,6 +9177,7 @@ spottedsnow.com
 spottysense.com
 spotx.tv
 spoutable.com
+spr-ops.com
 spreadme.international
 springaftermath.com
 springolive.com
@@ -9211,6 +9232,7 @@ ssphwy.com
 ssraju3n.com
 sstats.arstechnica.com
 sstats.kroger.com
+sstats.nymag.com
 ssvwv.com
 stack-sonar.com
 stackadapt.com
@@ -10053,6 +10075,7 @@ trustx.org
 truthfulturn.com
 trx-hub.com
 trycloudflare.com
+trypico.com
 ttauri.techradar.com
 ttoc8ok.com
 ttraff.cc
@@ -10084,6 +10107,7 @@ twitterredeirect.com
 twitterverifiedapplication.com
 twk20rw5v1.com
 tworiversboat.com
+tyfuufdp-xbd.top
 typejsx.com
 typekitcloud.com
 typeklt.com
@@ -10558,6 +10582,7 @@ vindicosuite.com
 vinfdv6b4j.com
 violetreading.com
 vipddos.com
+viral-loops.com
 virgintldgame.com
 virgoplato.com
 viriepak.com
@@ -10568,6 +10593,7 @@ virtualvincent.com
 virtualwebdata.com
 visasecureverification.info
 visionary-data-intuition.com
+visionary-enterprise-wisdom.com
 visitiq.io
 visitor-analytics.io
 visitor-track.com
@@ -10924,6 +10950,7 @@ ws.facil-iti.com
 wssh.online
 wt-eu02.net
 wtaccesscontrol.com
+wtb-tag.mikmak.ai
 wunderkind.co
 wus2-breeziest-in.cloudapp.net
 wus22-breeziest-in.cloudapp.net
