@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-10-31 15:46:20
+# Generated at 2024-11-04 20:50:59
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4538,6 +4538,7 @@ greenbird1.xyz
 greenmouse1.xyz
 greetzebra.com
 greyinstrument.com
+greylabeldelivery.com
 gri98.com
 gripcorn.com
 grocless.vip
@@ -9641,6 +9642,7 @@ tagembed.com
 tagon.co
 tags.creditkarma.com
 tags.dillards.com
+tags.nba.com
 tags.newscgp.com
 tags.pw.adn.cloud
 tags.rferl.org
