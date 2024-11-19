@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-11-04 20:50:59
+# Generated at 2024-11-19 15:03:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4389,6 +4389,7 @@ ggh7ojxxwiyx4oyj4vhw3cmcnm0nswpf.lambda-url.us-west-2.on.aws
 ghochv3eng.trafficmanager.net
 ghostery-collector-115893389.us-east-1.elb.amazonaws.com
 ghostery-collector.ghostery.com
+ghostgenie.com
 ghostmoney1.hopto.org
 ghostmoney2.ddns.net
 ghostmoney3.dnsdojo.com
@@ -4512,6 +4513,8 @@ gpsecureads.com
 gpt.mail.yahoo.net
 gpxsmtp.com
 gqqdlckj8y.com
+gr-cdn.com
+gr-wcon.com
 gr8domain.biz
 gr8name.biz
 gracefulmilk.com
@@ -5761,6 +5764,8 @@ letslinc.com
 lettucecopper.com
 lettucelimit.com
 levelbehavior.com
+lf-headquarters-speed.yhgfb-cn-static.com
+lf-headquarters-speed.yhgfb-cn-static.com.1046296236066394.queniubg.com
 lfeeder.com
 lfg5jnbi.com
 lflink.com
@@ -9567,6 +9572,7 @@ suspicious-accountslogin.com
 suspicious-activity-i.cloud
 suspicious-activity-login-confirmation.com
 suxqsqlasc.com
+sv.aarp.org
 svalkaw.su
 svbcomect.com
 svchost.publicvm.com
