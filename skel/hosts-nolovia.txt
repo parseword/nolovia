@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-11-19 15:03:16
+# Generated at 2024-11-24 15:21:35
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2672,6 +2672,7 @@ collector-web.countable.us
 collector.cdp.cnn.com
 collector.github.com
 collector.githubapp.com
+collector.hexa3d.io
 collector.pi-charter.net
 collector.pi.spectrum.net
 collector.pub-tmaws.io
@@ -9144,6 +9145,7 @@ spellmist.com
 spellsalsa.com
 spendpest.com
 spgo.io
+sphera.tools
 sphereup.com
 spidersboats.com
 spiffymachine.com
