@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-11-24 15:21:35
+# Generated at 2024-12-04 11:06:59
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3882,6 +3882,7 @@ f3322.net
 f3322.org
 f361.wvtm13.com
 f380.beddingconference.com
+f4k.in
 f63m7w8n29.com
 f703.twincities.com
 f72e49a1-ef2c-44b8-8c7d-3e99e967044c.cloudapp.net
@@ -4504,6 +4505,7 @@ gossipmiser.com
 got-game.org
 gothamads.com
 gotoip55.com
+gotolstoy.com
 gotprofits.com
 gov-secure.co.uk
 govfree.pw
@@ -7329,6 +7331,7 @@ pibserver.com
 pic-shareonline.com
 piespower.com
 pietexture.com
+pig.redact.dev
 pigspie.com
 piksyon.com
 pilaff-up.ru
@@ -7408,6 +7411,7 @@ platform.io
 plausible.chmod777.ltd
 plausible.cyberciti.biz
 plausible.io
+plausible.redact.dev
 plausible.xojoc.pw
 plausiblecable.com
 player.mediafuse.com
@@ -9292,6 +9296,7 @@ stats.biotrust.com
 stats.bt4g.org
 stats.datawrapper.de
 stats.heyoya.com
+stats.hovancik.net
 stats.ibtimes.com
 stats.justpaste.it
 stats.kenhv.com
