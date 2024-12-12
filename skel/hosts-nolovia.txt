@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-12-04 11:06:59
+# Generated at 2024-12-11 18:46:35
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -64,6 +64,7 @@
 1dmp.co
 1dumb.com
 1e-transfer-interac.com
+1e.vc
 1ea1sley.com
 1etransfer--sent.com
 1gkjk1ms15.com
@@ -1473,6 +1474,7 @@ atmtd.com
 atoms.beaconjournal.com
 atoms.tennessean.com
 atoms.usatoday.com
+atoms.vcstar.com
 atomx.com
 atorget-ozonaming.com
 atp.fox
@@ -1665,6 +1667,7 @@ beadbears.com
 beamincrease.com
 beamkite.com
 beamvolcano.com
+beanbag.boehs.org
 beancontrol.com
 bearmoonlodge.com
 beastanalytics.app
@@ -2624,6 +2627,7 @@ cm.tennessean.com
 cm.theleafchronicle.com
 cm.tuscaloosanews.com
 cm.usatoday.com
+cm.vcstar.com
 cm.yorkdispatch.com
 cmbestsrv.com
 cmcore.com
@@ -3020,6 +3024,7 @@ cpm10.com
 cpm20.com
 cpm4link.com
 cpmpop.com
+cpngiubbcnq.love
 cqlcorp.atlassian.net
 cqyirsc.com
 cr-halal.com
@@ -5753,6 +5758,7 @@ leaplunchroom.com
 learnedmarket.com
 leehr24.mywebcommunity.org
 leehr36.mypressonline.com
+leetleech.org
 left5lock.com
 leftliquid.com
 legalleg.com
@@ -7760,6 +7766,7 @@ qhigh.com
 qiheptnm80.com
 qixbmhnpi.xyz
 qjjto.com
+qkly.co
 qkpcihpo16.com
 ql6401rkow.com
 qlitics.com
@@ -7802,6 +7809,7 @@ quicklynks.com
 quicksandear.com
 quietknowledge.com
 quikcdn.com
+quikly.com
 quillkick.com
 quintag.com
 quiq-api.com
@@ -8284,6 +8292,7 @@ rzzc.pw
 s-adobeanalytics.vice.com
 s-msg-myetherwallet.com
 s-onetag.com
+s.therecord.com
 s2.reutersmedia.net
 s20dh7e9dh.com
 s211.mcall.com
@@ -10092,6 +10101,7 @@ trypico.com
 ttauri.techradar.com
 ttoc8ok.com
 ttraff.cc
+ttrk.io
 tu42het22n.com
 tubroaffs.org
 tudou.com
@@ -11167,6 +11177,7 @@ xts7fgss.com
 xu5ctufltn.com
 xv9xm6zxb8.com
 xvidmovies.in
+xwzbpkku-i.site
 xxe2.com
 xxuz.com
 xxxy.biz
@@ -11338,6 +11349,7 @@ zkpkaqboez.com
 zlp6s.pw
 zme8o3l1c4.com
 zmjagawa.com
+zmqyzjlozoybq.top
 zo7gihmry2.com
 zog.link
 zomchairs.com
