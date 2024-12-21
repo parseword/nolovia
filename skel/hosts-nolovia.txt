@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-12-11 18:46:35
+# Generated at 2024-12-21 10:46:56
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1472,6 +1472,7 @@ atlas-upd.com
 atmrum.net
 atmtd.com
 atoms.beaconjournal.com
+atoms.oklahoman.com
 atoms.tennessean.com
 atoms.usatoday.com
 atoms.vcstar.com
@@ -2442,6 +2443,7 @@ ci-mpsnare.iovation.com
 cibconline-verifications.com
 cicdserver.com
 cicloserv.com
+ciderfeast.com
 cignal.io
 cin-breeziest-in.cloudapp.net
 cinemabonus.com
@@ -4317,6 +4319,7 @@ ganon.yahoo.com
 ganti-nama-facebook.com
 ganzerri.me
 gapps.site
+garageserviceoperation.com
 gard4mass.com
 gardenovens.com
 garm9yuma.com
@@ -5989,6 +5992,7 @@ logs-id.us
 logs-in.us
 logs-sign.us
 logs.autofi.com
+logs.betterstack.com
 logs.guardianapis.com
 logs.psm.wmcdp.io
 logs1.smithsonian.museum
@@ -7285,6 +7289,7 @@ pedropanther.com
 peep1alea.com
 pegasusplate.com
 pegloang.com
+pegsbuttons.com
 pendo.io
 penjazzvice.com
 penspade.com
