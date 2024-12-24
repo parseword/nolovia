@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-12-21 10:46:56
+# Generated at 2024-12-23 22:09:53
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -613,6 +613,7 @@ admiral.pub
 admixer.com
 admob.mobi
 admonks.io
+adn.blueconic.net
 adnegah.com
 adnegah.ir
 adnegah.net
@@ -977,6 +978,7 @@ analytics.snidigital.com
 analytics.stacker.com
 analytics.supplyframe.com
 analytics.syndeca.com
+analytics.terrapin-attack.com
 analytics.tiktok.com
 analytics.tout.com
 analytics.trovit.com
@@ -2883,6 +2885,7 @@ coneptor.qarallax.com
 confesschairs.com
 confiant-integrations.global.ssl.fastly.net
 confiant-integrations.net
+config-factory.com
 config-security.com
 configchain.com
 configloginsecure.com
@@ -3884,6 +3887,7 @@ f09vhflf10.com
 f104.wiprojectcenter.com
 f1smtp.com
 f201.nclawyersweekly.com
+f238.adnstore.com
 f2q1u44h4m.com
 f3322.net
 f3322.org
@@ -4930,6 +4934,7 @@ i4rsrcj6.top
 i4yfew0k6j.com
 i62e2b4mfy.com
 i62po37g.com
+i691.akmovingguide.com
 i7wp.org
 i864ekhq.com
 i867.journal-advocate.com
@@ -5592,6 +5597,7 @@ jzdstqhknq.com
 k030.koco.com
 k148.leadershipcon.com
 k162.mnprojectcenter.com
+k203.adn.com
 k423.northcharlestonexpo.com
 k491.arizonalegislativereport.com
 k54nw.pw
@@ -6423,6 +6429,7 @@ moengage.com
 moevideo.com
 moldyicicle.com
 mon-com-01.com
+mon-trk.com
 mon-va.byteoversea.com
 mon.us.tiktokv.com
 monacobeatles.com
@@ -7845,6 +7852,7 @@ r4nwdude.com
 r566.timescall.com
 r610.chicagotribune.com
 r66at6sf.com
+r687.myalaskatix.com
 r718.morningjournal.com
 r8mxl.top
 r8oyegintx.com
