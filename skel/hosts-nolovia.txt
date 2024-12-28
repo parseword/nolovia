@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-12-23 22:09:53
+# Generated at 2024-12-27 21:56:30
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2590,6 +2590,7 @@ cloud-wp.org
 cloudcommerce.com
 cloudfastin.top
 cloudflare-cdnjs.com
+cloudflare-ipfs.io
 cloudflare-ssl.com
 cloudflare.solutions
 cloudflarewh.getadmiral.com
@@ -4538,6 +4539,7 @@ grandfatherguitar.com
 grandiosefire.com
 grandioseguide.com
 grandmotherunit.com
+granlite.com
 grapeopinion.com
 gravitygive.com
 gravitykick.com
@@ -4762,6 +4764,7 @@ highfalutinroom.com
 hightouch-events.com
 hightouch.com
 hike.studio
+hikingladyboots.com
 hilariouszinc.com
 hilltopads.com
 hilocake.info
@@ -6506,6 +6509,7 @@ mssecurityaccount.online
 msstorageazure.com
 msstorageboxes.com
 msstore.io
+mt.flightera.net
 mtvp05j.com
 mtzenhigqg.com
 muddledaftermath.com
@@ -8046,6 +8050,7 @@ repixel-sdk.netlify.com
 repixel.co
 replaceroute.com
 replay.reviews.io
+replo-analytics-fire.fly.dev
 report-us-apple.pro
 report-us-appleid.com
 report.23video.com
@@ -10345,6 +10350,7 @@ urlads.net
 urldelivery.com
 urlife2all.com
 urnachay.com
+urs.tvguide.com
 us-central1-amp-error-reporting.cloudfunctions.net
 us-track.sync.tv
 us-track.wayin.com
