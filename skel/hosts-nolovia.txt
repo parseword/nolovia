@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-12-27 21:56:30
+# Generated at 2024-12-30 10:52:23
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1439,6 +1439,7 @@ artwell8.hopto.org
 as07d698u9.com
 asadzntx.com
 asbares.com
+ascendeummedia.com
 asderman.no-ip.org
 asdjkljfjaowjfq.net
 ashleyrnadison.com
@@ -2300,7 +2301,9 @@ cdnads.geeksforgeeks.org
 cdnassels.com
 cdnbronto.com
 cdnbronto.info
+cdndex.io
 cdngoogle.com
+cdnhwcick110.com
 cdnmage.com
 cdnmobile.io
 cdnpayment.com
@@ -3564,6 +3567,7 @@ dvla-refund-gov.online
 dvla-swansea-refund.online
 dvoyy3qexr.com
 dvqigh9b7wa32.cloudfront.net
+dvxrxm-cxo.top
 dw-arabic.com
 dynad.net
 dynadmic.com
@@ -3664,6 +3668,7 @@ ehangmun.com
 ehanklng-servlces.com
 ejdkqclkzq.com
 ejhrins16z.com
+ejitmssx-rk.icu
 ejp-breeziest-in.cloudapp.net
 ejurzsax.com
 ejyymghi.com
@@ -4273,6 +4278,7 @@ g-analytics.com
 g-cloud.pro
 g-cloud.win
 g-statistic.com
+g.lazcdn.com
 g10102301085.co
 g10300385420.co
 g10498469755.co
@@ -5685,6 +5691,7 @@ krogermastervard.com
 krs1v2sl.com
 krux.com
 krxd.net
+ksyunv5.com
 kt5850pjz0.com
 ktag.kaxcdn.com
 ktf5kbl2m4.com
@@ -6190,6 +6197,8 @@ mandate-to-validate.xyz
 mandatetovalidate.xyz
 mangement-purchaseappleid-investigation.store
 maniacalappliance.com
+mantis-intelligence.com
+mantissolutions.com
 mantrafox.com
 manzorro.duckdns.org
 map-localisation.me
@@ -8254,6 +8263,7 @@ rum.conde.io
 rum.condenastdigital.com
 rum.dynapis.com
 rum.dynapis.info
+rum.edgio.net
 rum.eu-central-1.amazonaws.com
 rum.eu-central-2.amazonaws.com
 rum.eu-north-1.amazonaws.com
@@ -8263,6 +8273,7 @@ rum.eu-west-1.amazonaws.com
 rum.eu-west-2.amazonaws.com
 rum.eu-west-3.amazonaws.com
 rum.hlx.page
+rum.ingress.edgio.net
 rum.me-central-1.amazonaws.com
 rum.me-south-1.amazonaws.com
 rum.sa-east-1.amazonaws.com
@@ -8344,6 +8355,7 @@ safebanking.biz
 safefastverifyserviced.com
 safegraph.com
 safekey-verificationrequaires.com
+safeopt.com
 safepassword.ru
 safepaypal.com
 safeprivatcy.com
@@ -8768,6 +8780,7 @@ shockynews.com
 shoo5woop.com
 shoofle.tv
 shop-analytics.net
+shop.pe
 shopbreakfast.com
 shopmsg.me
 short-l.link
@@ -8882,6 +8895,7 @@ site2scureinfo.com
 siteanalytics.whatcounts.com
 sitelabweb.com
 siteofupdate.info
+siteperformancetest.net
 sitescout.com
 sitespeeds.com
 sittingpets.com
@@ -10112,6 +10126,7 @@ trusteddatainterchange.com
 trustkemi.duckdns.org
 trustmordor.pw
 trustx.org
+trusty-shovel-1234.paul-f22.workers.dev
 truthfulturn.com
 trx-hub.com
 trycloudflare.com
