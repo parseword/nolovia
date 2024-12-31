@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-12-30 10:52:23
+# Generated at 2024-12-30 20:35:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -597,6 +597,7 @@ adipolovideo.com
 adjosh.com
 adjust.com
 adjux.com
+adkit.9pub.io
 adleave.com
 adlightning.com
 adlive.io
@@ -3123,6 +3124,7 @@ customer-verify-information.com
 customer.io
 customeraccountummary.info
 customerdetailoreses.com
+customerioforms.com
 customerlabs.co
 customerloginupdate.com
 customerprestige-interacpay.com
@@ -3140,6 +3142,7 @@ cuteturkey.com
 cuturl.app
 cuturl.space
 cvqgnkeqme.com
+cvthnmrfwfgfv.com
 cwkuki.com
 cws.conviva.com
 cxense.com
@@ -4384,6 +4387,7 @@ getinsights.io
 getintent.com
 getjaco.com
 getjan.io
+getkoala.com
 getlytics.com
 getmyconfigplease.com
 getmyfreetraffic.com
@@ -4391,11 +4395,13 @@ getpagespeed.com
 getpaidlikeus.com
 getpolymorph.com
 getpublica.com
+getreditus.com
 getrunkhomuto.info
 getsearchgo.com
 getsitecontrol.com
 getsurl.com
 gettrials.com
+getwarmly.com
 gexperiments1.com
 gexperiments2.com
 gexperiments3.com
@@ -5082,6 +5088,7 @@ idcwp6j6sm.com
 idealmedia.com
 idelv.net
 identity-acces-unlocked-disab1e-secure.com
+identitymatrix.ai
 identityservices.io
 idevice-locate.us
 idevicemap-location.com
@@ -6846,6 +6853,7 @@ nitropay.com
 nlwy0.com
 nmcyclingexperience.com
 nnycrypto.com
+nobuffer.net
 noc-service-streamer.com
 nocturnalloom.com
 nocturnalmystique.com
@@ -9835,6 +9843,7 @@ tfa5e.top
 tfx1jtisbb.com
 tg1.aniview.com
 thatmember.com
+thatsnoble.com
 the-ozone-project.com
 theaccountjoined.org
 theagency.com
@@ -10355,6 +10364,7 @@ uppromote.com
 ups-webaps.net
 upscore.com
 upsu.tk
+upvert.io
 uqie4nzy.com
 urbanairship.com
 urechar.com
@@ -10484,6 +10494,7 @@ velvetquasar.com
 vengefulgrass.com
 venomousvessel.com
 venusgloria.com
+veraviews.com
 vercel-analytics.com
 vercel-insights.com
 verdantanswer.com
@@ -10747,6 +10758,7 @@ want7feed.com
 wantingwindow.com
 warmachine.su
 warmafterthought.com
+warmly.ai
 warmquiver.com
 warnermediaprivacy.com
 warnwing.com
