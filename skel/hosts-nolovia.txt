@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2024-12-30 20:35:27
+# Generated at 2025-01-08 14:40:49
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -224,6 +224,7 @@
 6v0dgrcr6q.com
 6wxduscd9p.com
 6zw2rcfd.com
+73ed366d3137ec936bd60b1184467776.com
 73g509fk9a.com
 746fyw2v.com
 74im4p7xq6.com
@@ -956,6 +957,7 @@ analytics.getshogun.com
 analytics.githubassets.com
 analytics.govinfo.gov
 analytics.hotyon.com
+analytics.hrblock.com
 analytics.ietf.org
 analytics.inform.com
 analytics.jst.ai
@@ -1463,6 +1465,7 @@ assetsbrain.com
 assetsbraln.com
 assist-service.info
 associated-account-purchase.com
+asteriobid.com
 astonishingair.com
 astonishingfood.com
 astralhustle.com
@@ -1628,6 +1631,7 @@ barbarousnerve.com
 barometric.com
 baronsmedia.com
 baseballbone.com
+baserzein.top
 basilfish.com
 basketballbelieve.com
 baskettexture.com
@@ -3419,6 +3423,8 @@ directvaporonline.com
 directvaporus.com
 directvaprr.com
 direfuldesk.com
+direqt.ai
+direqt.io
 diretrak.com
 disable-id-apple.com
 disagreeabledrop.com
@@ -3700,6 +3706,7 @@ emailimagecdnr7fb.com
 emailsys1a.net
 emanalyst.biz
 embed-analytics.ddhq.io
+embed-direqt-ai.web.app
 embellishedmeadow.com
 embermosaic.com
 emberwhisper.com
@@ -4276,6 +4283,7 @@ fuzzyflavor.com
 fuzzyweather.com
 fvl1f.pw
 fw5e8yga.top
+fywiei.com
 fz360trcking.com
 g-analytics.com
 g-cloud.pro
@@ -4337,6 +4345,8 @@ garageserviceoperation.com
 gard4mass.com
 gardenovens.com
 garm9yuma.com
+gas.digitalbox.workers.dev
+gas2.digitalbox.workers.dev
 gate.hockeyapp.net
 gaudyairplane.com
 gaudybeginner.com
@@ -4453,6 +4463,7 @@ glassboxcloud.com
 glassboxdigital.com
 glcloudservice.com
 gld35wndkn.com
+gldkzr-lpqw.buzz
 gleamingcow.com
 gleaminghaven.com
 gleamingtrade.com
@@ -4698,6 +4709,7 @@ happenhistory.com
 happierleads.com
 happyisp.com
 happysponge.com
+happyvalentinesday2020.online
 har-beacon.har.com
 harborcaption.com
 harborcub.com
@@ -4865,6 +4877,7 @@ hostingcloud.faith
 hostingcloud.loan
 hostprivate.us
 hot-mob.com
+hotcore.info
 hotjar.com
 hotlable.com
 hotmailhelplinenumber.com
@@ -4893,6 +4906,7 @@ html5.onl
 http.ps
 httplogserver-lb.global.unified-prod.sharethis.net
 https-localbitcoin.com
+https-rulesets.org
 https443.net
 https443.org
 hubapi.com
@@ -5182,6 +5196,7 @@ imstks.com
 in-page-push.com
 inbenta.com
 inbound-analytics.pixlee.com
+inbox-dot-api-direqt-io.uc.r.appspot.com
 inc-app.us
 inc-appleid.com
 inc-apps.us
@@ -6414,6 +6429,7 @@ mms.chip.de
 mms.cnn.com
 mms.huffingtonpost.com
 mms.lifehacker.com
+mmt.delivery
 mmunitedaw.info
 mnbvcxzzz12.com
 mnd-track-backend.herokuapp.com
@@ -6673,6 +6689,7 @@ mysecure-id-icloud.com
 myserviceaccount.net
 mysetherwalletz.com
 mysteriousmonth.com
+mysticechohaven.com
 mysticresponses.com
 mytransaction-account-fraudprevention.center
 myuaccname-apple.info
@@ -7000,6 +7017,7 @@ onclickalgo.com
 onclickgenius.com
 one4p.aol.com
 onecount.net
+onedollarstats.com
 onedrive.one
 onedumb.com
 onesignal.com
@@ -7349,6 +7367,7 @@ pexgle.com
 pffw8mgd.com
 pfk9fywba5.com
 pgh76i5ya5.com
+ph.theyseeyourphotos.com
 pharhmonk1.hopto.org
 phee1oci.com
 pheihoe8.com
@@ -7749,6 +7768,7 @@ putrr5.com
 putrr6.com
 putrr7.com
 putrr8.com
+puttanlabrum.top
 puzzlingfall.com
 puzzlingproperty.com
 pw.adn.cloud
@@ -8180,6 +8200,7 @@ rime8lope.com
 ringplant.com
 ringplayground.com
 ringsrecord.com
+riotedstuccos.top
 ripe8book.com
 riserange.com
 ritzykey.com
@@ -9295,6 +9316,7 @@ sstats.nymag.com
 ssvwv.com
 stack-sonar.com
 stackadapt.com
+stacks.digitalbox.workers.dev
 staging-pi.ispot.tv
 staging.getadmiral.com
 stakingbasket.com
@@ -10060,6 +10082,7 @@ trafficjunky.com
 trafficninjas.co
 trafficpoizon.com
 trafficviews.com
+traktortds.com
 tranquilamulet.com
 tranquilarchipelago.com
 tranquilcanyon.com
@@ -10221,6 +10244,7 @@ ujccccb.com
 uk-lcloud.com
 uk-netfilx-membership.com
 uk-paypal.net
+ulnhz.site
 ulstur.co
 ultraflawlesspop.com
 ultraoranges.com
@@ -10237,6 +10261,7 @@ unarmedindustry.com
 unauthorize-account-signin.com
 unbecominghall.com
 unbecominglamp.com
+unblitzlean.com
 unblocked-account.com
 unblocked-account.net
 unblocker.bounceme.net
@@ -10890,6 +10915,7 @@ wedirectmedia.com
 wedogreatpurchases.com
 weeb-icloud.top
 weed6tape.com
+weftybaggage.top
 wehaa.net
 wehaveupdate-policypageserv.com
 wellgroomedapparel.com
@@ -11254,6 +11280,7 @@ yami8alea.com
 yamoo.com.ng
 yamstamp.com
 yatrk.xyz
+yawltelurgy.shop
 ybkxsm.com
 ybp.yahoo.com
 ycxrl.com
