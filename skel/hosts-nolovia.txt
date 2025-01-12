@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-01-08 14:40:49
+# Generated at 2025-01-11 22:05:36
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1567,6 +1567,7 @@ ayc0zsm69431gfebd.xyz
 aysnmnzu4u.com
 azadify.com
 azj57rjy.com
+azotuto.xyz
 azuredeploystore.com
 azuremystique.com
 azureonlinecloud.com
@@ -7369,6 +7370,7 @@ pfk9fywba5.com
 pgh76i5ya5.com
 ph.theyseeyourphotos.com
 pharhmonk1.hopto.org
+phcteam.com
 phee1oci.com
 pheihoe8.com
 phererol12.ddns.net
@@ -8388,6 +8390,7 @@ safeopt.com
 safepassword.ru
 safepaypal.com
 safeprivatcy.com
+safetrcktoday.com
 safetybrush.com
 safeyouform.com
 saffronrefuge.com
@@ -8447,6 +8450,7 @@ sc.adobedc.net
 sc.omtrdc.net
 scan6show.com
 scanapple-cleaning.live
+scanavtoday.com
 scandalcity.tv
 scar231.zapto.org
 scaraabresearch.com
