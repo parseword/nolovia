@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-01-11 22:05:36
+# Generated at 2025-01-13 13:08:08
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2135,6 +2135,7 @@ buscar-id-icloud.com
 buscar.cloud
 buscarmiphone.com
 bushesbag.com
+business-noreplymail.com
 businessbells.com
 businessontrack.com
 businessvideonews.com
@@ -2915,6 +2916,7 @@ confirmation-billing-payment.com
 confirmation-billing-setup.com
 confirmation-hold-payment.com
 confirmation-login.com
+confirmation-noreply.com
 confirmation-now.com
 confirmation-transaction.com
 confirmation-your-payment.com
@@ -6338,6 +6340,7 @@ meresomastewini.com
 merklesearch.com
 merryopal.com
 mesoquant.org
+message-noreply.info
 messageaccount.com
 messagenovice.com
 messaginganalytics.athena.io
@@ -6383,6 +6386,7 @@ micorsoftonline.xyz
 micpn.com
 micro-earth.com
 microad.jp
+microsoft-noreply.com
 microsoftoffice.systems
 microsoftonilne.cloud
 mighting-minese.com
@@ -6777,6 +6781,7 @@ neqbzz4p.top
 nerloop.com
 nervoussummer.com
 nesmotrinamenya.ru
+net-onboarding-login.com
 netfilx-failed-membership.com
 netflix-domain.com
 netflix-mob.com
@@ -6889,6 +6894,10 @@ nonomee2017.ddns.net
 noqukjy.com
 nora7nice.com
 noreplay.email
+noreply-homeoffice.co.uk
+noreplyairtelbank.com
+noreplygoogle.com
+noreplyinfo-accout.net
 norm0care.com
 nostalgicknot.com
 nostalgicneed.com
@@ -11138,7 +11147,9 @@ xmagejs.com
 xmagesecurity.com
 xml-appleid-onlineservice.com
 xmlterra.com
+xn--accountavst-t8a.se
 xn--adids-m11b.com
+xn--ahhs-bbc.com
 xn--amazn-9ta.com
 xn--ameripris-3f7d.com
 xn--bittrx-th8b.com
@@ -11208,6 +11219,7 @@ xn--mythewallet-3qb3158g.com
 xn--mzn-elan5i.com
 xn--naviqatorsky-ce6f.com
 xn--ngineering-yed.com
+xn--norvpn-y2a.com
 xn--nstagrm-2wa6g.com
 xn--nuella-j17b.com
 xn--ocusign-f7a.com
