@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-01-13 13:08:08
+# Generated at 2025-01-24 11:06:51
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -818,7 +818,10 @@ akiyvjiy1z.com
 akstat.io
 alabamascripts.com
 aladdin-iulius.com
+alansh.com
+alanyasmmm.com
 albacross.com
+albalondres.com
 alcmpn.com
 alda1mure.com
 alea6badb.com
@@ -1591,6 +1594,7 @@ b84pharkhv.com
 b8y4ddrvap.com
 b921.molawyersmedia.com
 b932.wesh.com
+babilonbeto.com
 babyboomboomads.com
 backupcat.com
 backuprabbit.com
@@ -1604,6 +1608,7 @@ badgeboat.com
 badgerabbit.com
 badgevolcano.com
 bagbeam.com
+bahisbudurtr.com
 bahri.site
 baipagid.com
 bait4role.com
@@ -1721,8 +1726,12 @@ bestfindthetruth.com
 bestprizesday4.life
 bestrevie.ws
 bestsecuritysearch.com
+betgargirisyap.com
+betrollere.com
 betsransfercomunications.org
+betswot.com
 bettermetrics.co
+betturkeygiris.org
 betweendigital.com
 bewilderedbattle.com
 bewilderedblade.com
@@ -2148,6 +2157,7 @@ butterbulb.com
 butterburst.com
 buttonladybug.com
 bux1le001.com
+buy.fans
 buy.piano.io
 buysellads.net
 buzzoola.com
@@ -2443,6 +2453,7 @@ chmguide.atwebpages.com
 chocolateplatform.com
 choicepoint.com
 choozle.com
+chrisspielman.com
 chriswork999.ddns.net
 cht-srvc.net
 chubbycreature.com
@@ -3045,6 +3056,7 @@ cpngiubbcnq.love
 cqlcorp.atlassian.net
 cqyirsc.com
 cr-halal.com
+cr-relay.com
 crabbychin.com
 crackedsafe.com
 crafthenry.com
@@ -3346,6 +3358,7 @@ deluxecrate.com
 delvelogic.us
 demand.supply
 denakop.com
+denemebonususiteleri.net
 deng3rada.com
 denizbank-esube.com
 denizibankasi.com
@@ -4017,6 +4030,7 @@ feed5baby.com
 feed5mown.com
 feedblitz.com
 feedify.net
+feedten.com
 feedvertizus.com
 feefo.com
 feesmtp.com
@@ -4258,6 +4272,7 @@ ftp1.biz
 ftpserver.biz
 fuckmy.site
 fujiladder.com
+fullfilmizle.net
 fullmoonmasks.com
 fullstory.com
 fumblingform.com
@@ -5528,6 +5543,7 @@ joblessdrum.com
 jody0sora.com
 johnevan227.ddns.net
 johnshopkin.net
+joinoilfield.com
 jolic2.com
 jollylens.com
 jopspalestine.com
@@ -5616,6 +5632,7 @@ jupitersmt.com
 just-easy-travel.com
 justdied.com
 juste-travel.com
+justgpu.com
 justicejudo.com
 justmineit.com
 justpremium.com
@@ -5677,6 +5694,7 @@ kfqked6fgj.com
 kidone.xyz
 kilo6alga.com
 kindhush.com
+kineticartstucson.com
 kingdon.dynu.net
 kinoprofi.hhos.ru
 kip5j.com
@@ -5855,6 +5873,9 @@ lightning.hgtv.com
 lightning.warnermediacdn.com
 lightstep.com
 lightstep.medium.systems
+ligobetbahis.com
+ligobetgiris.org
+ligobetgirisi.com
 likevertising.com
 limat-is-account-me.com
 limetalk.com
@@ -6441,6 +6462,7 @@ mnd-track-backend.herokuapp.com
 mnfioew.info
 mnoa6ez1eq.com
 mobifoth.com
+mobilbahisgir.net
 mobile-found.com
 mobile-global-apps-storages.life
 mobile-global-apps-store.life
@@ -6688,6 +6710,7 @@ mypop3.net
 mypop3.org
 mypressonline.com
 myrcrypto.com
+myremedyproducts.com
 mysamba.tv
 mysecondarydns.com
 mysecure-id-icloud.com
@@ -6796,6 +6819,7 @@ network-security-alerts.com
 networkdocweb.us
 neu-breeziest-in.cloudapp.net
 neuro-id.com
+nevizadecafe.com
 new-analytics-production.threshold360.com
 new-feedback-apple-information-by-administrator.com
 new-loginservice.com
@@ -7346,6 +7370,7 @@ peep1alea.com
 pegasusplate.com
 pegloang.com
 pegsbuttons.com
+pendikroyal.com
 pendo.io
 penjazzvice.com
 penspade.com
@@ -7498,6 +7523,7 @@ plutosmto.com
 pm48j.top
 pmadx.com
 pmi5media.com
+pmtips.net
 pmur.org
 pndelfast.com
 pochtarossiy.info
@@ -7630,6 +7656,7 @@ primeviref.com
 primis-amp.tech
 primis.tech
 prince.hackermind.info
+princearthurherald.com
 printerplasma.com
 printertender.be
 printfinger.tech
@@ -8239,8 +8266,14 @@ rock5rice.com
 rockpebbles.com
 rodeopolice.com
 roistat.com
+roketbet.net
+roketbetgiris.com
+roketbetgirisyap.com
+rokubetgir.com
 rolandcomputers.com
 rollconnection.com
+romabet.online
+romabetgiris3.com
 ronesio.xyz
 ronytazz2121.ddns.net
 roofrelation.com
@@ -8512,6 +8545,7 @@ screechingstove.com
 scribbleson.com
 scribblestring.com
 script.ac
+scriptapi.dev
 scripts.agilone.com
 scriptsform.com
 scriptsjzone.com
@@ -8751,6 +8785,7 @@ servicessupports.com
 servicetech.site
 serviceuser-lockeds.com
 servisedelivery.com
+servissirinevler.com
 servlet-appleidverification.com
 ses-smtp.com
 sescure-icloud.com
@@ -8903,6 +8938,7 @@ signinwebappsresolvehight.info
 silentcredit.com
 silentwrench.com
 siliconslow.com
+siliconvalleywineries.com
 silkysoda.com
 silkysquirrel.com
 sill.no-ip.biz
@@ -9152,6 +9188,7 @@ softbank-securitys.com
 softcode2017.hopto.org
 soggysponge.com
 soggyzoo.com
+sojienergy.com
 sokiran.xyz
 solads.media
 solarislabyrinth.com
@@ -9443,6 +9480,7 @@ stingyspoon.com
 stockingsleet.com
 stockingsneeze.com
 stolen-icloud.com
+stolenbeauty.org
 stomachscience.com
 stonechin.com
 stopenumarationsz.com
@@ -9759,6 +9797,7 @@ tangyamount.com
 tangycover.com
 tank3pull.com
 tapnative.com
+tapoutdrinks.com
 tappx.com
 taptapvideo.com
 targetemsecure.blob.core.windows.net
@@ -10939,6 +10978,7 @@ wellsfargo-config.xyz
 wellsfargodp.com
 wellsfargoidc.com
 westpalmweb.com
+westpasco.com
 weu-breeziest-in.cloudapp.net
 weu02-breeziest-in.cloudapp.net
 weworld59.myartsonline.com
@@ -11086,13 +11126,24 @@ www-spotify.com
 www-unlocked-accounts.com
 www-unlocked-service.com
 www-webuserprotection-appleid.com
+www.airstreamofchicago.com
+www.bahiscom.info
+www.bestwesterndesignerinn.com
+www.bilgihocasi.com
+www.catch25li.com
 www.creativeforwardings.cf
 www.getadmiral.com
+www.ipsnews.net
 www.jrocketmassive.cf
 www.leanproconsulting.com.br
 www.malaika-jp.com
+www.qujapan1635.com
 www.roofmantf.cf
 www.sba-gov-us.xyz
+www.shushescort.com
+www.trbetr.com
+www.wiibet.com
+www.xxxpornxxx.net
 www1-apple.store
 www1-cserviceapple.com
 www1-cservicepaeyipal.com
@@ -11259,6 +11310,7 @@ xncb6.top
 xovq5nemr.com
 xpanama.net
 xqkzsifxgv.com
+xslotx.com
 xsubin3310.sytes.net
 xsvpn.cf
 xts7fgss.com
@@ -11295,6 +11347,7 @@ yama1hove.com
 yami8alea.com
 yamoo.com.ng
 yamstamp.com
+yatirimbonusu.com
 yatrk.xyz
 yawltelurgy.shop
 ybkxsm.com
@@ -11394,6 +11447,7 @@ zallmytextmessagescipq1.info
 zaomavzcoww.com
 zapplestore.com
 zarget.com
+zbahisz.com
 zbs9uwl4xy.com
 zbwp6ghm.com
 zd2i6k4qi1.com
