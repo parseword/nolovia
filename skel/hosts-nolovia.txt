@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-01-27 12:58:29
+# Generated at 2025-02-09 12:19:47
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -250,6 +250,7 @@
 7vxlfstt.top
 7wkfzsj7ss.com
 7xc4n.com
+7yucca158.net
 80876dd5.shop
 81p5b.top
 822f797ef9d68ad3.com
@@ -729,6 +730,7 @@ advmanager.techfun.pl
 advnced-lp-scanner.com
 advocatecdn.com
 advservert.com
+adwantech.com
 adwerx.com
 adwidecenter.com
 adwol.com
@@ -2216,6 +2218,7 @@ bux1le001.com
 buy.fans
 buy.piano.io
 buysellads.net
+buzzaoutlet.com
 buzzoola.com
 bwuk.club
 bxnvdau.com
@@ -3884,6 +3887,7 @@ endurablecrayon.com
 endurableshop.com
 energeticexample.com
 energeticladybug.com
+energize.ai
 eng-servicesonlineactivity.com
 engageads.com
 engageads.xml.ak-is.net
@@ -4603,6 +4607,7 @@ gexperiments6.com
 gexperiments7.com
 gfbnr.com
 gfgixev3d4.com
+ggbepmk06k.execute-api.us-west-2.amazonaws.com
 ggh7ojxxwiyx4oyj4vhw3cmcnm0nswpf.lambda-url.us-west-2.on.aws
 ghochv3eng.trafficmanager.net
 ghostery-collector-115893389.us-east-1.elb.amazonaws.com
@@ -4705,6 +4710,7 @@ google-standard.com
 googleads.github.io
 googleadservice.com
 googleadsl.com
+googleapis.luchifab.com
 googlecdnjs.com
 googlecloud.su
 googledrivers.com
@@ -5487,6 +5493,7 @@ infotradelinks.ddns.net
 infoupdateppl.com
 ingage.tech
 ingest.crash.vault-tec.systems
+ingress.prod.use1.greenhouse.io
 inisia-abelling.icu
 initiatefreeintenselyplayer.icu
 inmoment.com
@@ -5750,6 +5757,7 @@ jkub.com
 jmdoceyfiilke.xyz
 jmoanews.com
 jmuaoupnykie.com
+jnl7d8fsqlfo91xd.hudl.com
 joaffs.com
 joblessdrum.com
 jody0sora.com
@@ -5914,6 +5922,7 @@ keznews.com
 kfiopkln.com
 kfqked6fgj.com
 kidone.xyz
+kidpowers.com
 kilo6alga.com
 kindhush.com
 kineticartstucson.com
@@ -7458,6 +7467,7 @@ osano.com
 osesgy-unmissions.org
 oskiwood.com
 osny2p7a0k.com
+ost-track.smtp.com
 ote.lt
 otefauks.link
 otm-r.com
@@ -7823,6 +7833,7 @@ plausible.io
 plausible.redact.dev
 plausible.xojoc.pw
 plausiblecable.com
+player-metrics.instaread.co
 player.mediafuse.com
 playfulriver.com
 playground.xyz
@@ -9635,6 +9646,7 @@ sovrnlabs.net
 sowlettuce.com
 sp-collector-lb-1480291537.us-west-2.elb.amazonaws.com
 sp-wukong-tracker.b-cdn.net
+sp.retailmenot.com
 sp.yelp.com
 spadelocket.com
 sparkgoal.com
@@ -10170,6 +10182,7 @@ t133.sun-sentinel.com
 t199.crbjbizwire.com
 t1d8ee13pf.com
 t1l1x.com
+t2037ulzqct5.com
 t2f9pn3m7w.com
 t323.lvb.com
 t562.pressandguide.com
@@ -10307,6 +10320,7 @@ tempttalk.com
 temptteam.com
 tendersugar.com
 tendertest.com
+tenhourweek.com
 tent0mown.com
 tepatonol.com
 terdiparcalpe.info
@@ -10516,6 +10530,7 @@ track.volo-mobile.com
 track.wakelet.com
 track.wayin.com
 track.wickedreports.com
+track2.kimblegroup.com
 trackcaddie.com
 tracker-sp-elb-1474841806.us-east-1.elb.amazonaws.com
 tracker.affirm.com
@@ -11250,6 +11265,7 @@ vq1qi.pw
 vqc6fyl3.com
 vrtcal.com
 vuble.tv
+vucworlds.com
 vukhhjzd.com
 vuserjs.com
 vuukle-analytics.appspot.com
