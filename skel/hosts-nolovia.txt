@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-02-09 12:19:47
+# Generated at 2025-02-19 18:59:02
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -3986,6 +3986,7 @@ evanescentedge.com
 evasivejar.com
 evenirpage.tk
 event-logger.api.dnc.org
+event-tracking-services.global.commerce-connector.com
 event.2performant.com
 event.syndigo.cloud
 eventexistence.com
@@ -11190,6 +11191,7 @@ viid.me
 vilynx.com
 vindicosuite.com
 vinfdv6b4j.com
+violations-x.com
 violetreading.com
 vip-news.org
 vipddos.com
