@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-02-19 18:59:02
+# Generated at 2025-02-27 11:25:10
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1474,6 +1474,7 @@ aromamirror.com
 arrivalist.com
 arrivegrowth.com
 artichoc.io
+artstrailreviews.com
 artthevoid.com
 arttrk.com
 artwell8.hopto.org
@@ -1563,6 +1564,7 @@ authentication-appleaccount.com
 authentication-appleid.com
 authorization-account.com
 authorization-apple-security-id.com
+authorization-x.xyz
 authorizeddns.net
 authorizeddns.org
 authorizeddns.us
@@ -2602,6 +2604,7 @@ clearcabbage.com
 clearcomb.com
 clearload.bid
 clearpier.com
+clearsystemwo.net
 clearview.ai
 cli.bz
 click-cpa.net
@@ -5592,6 +5595,7 @@ intrinzic.com
 intvide1.com
 inventionpassenger.com
 investigatepin.com
+investsystemus.net
 invibes.com
 invisiblename.com
 invisiblename.pro
@@ -8173,6 +8177,7 @@ pxchk.net
 pxladb.club
 pxlclnvwe-a.akamaihd.net
 pxlctl.elpais.com
+pxleo5fbca7141b5.com
 pxlgnpgecom-a.akamaihd.net
 pxlsrc.com
 pxlsrv.net
@@ -8359,6 +8364,7 @@ readpeak.com
 readymoon.com
 readysnails.com
 realcenter-mobileapps.com
+realeinvestment.net
 realizedoor.com
 realizerecess.com
 realizevacation.com
@@ -9070,6 +9076,7 @@ sendapidata.com
 sendblaster.org
 sender.gb.net
 sendingspire.com
+sendmemessage.bio
 sendpulse.com
 sendsmtp.com
 sensorsmile.com
@@ -9540,6 +9547,7 @@ smtptogo.pw
 smyte.com
 snacktoken.com
 snailsengine.com
+snakeers.com
 snakemineral.com
 snakeslang.com
 snakesort.com
@@ -9762,6 +9770,7 @@ ssl443.org
 ssl4anyone2.com
 ssl4anyone3.com
 ssl4anyone4.com
+ssl8rrs2.com
 sslbrainform.com
 sslnewupdatess2017.com
 sslpayform.com
@@ -9862,6 +9871,7 @@ steadfastsystem.com
 steadycopper.com
 stealsteel.com
 steamchristmas.com
+steamteamdev.net
 stecker.su
 steelcentral.net
 steepscale.com
@@ -10667,9 +10677,11 @@ trycloudflare.com
 trypico.com
 tsargrad.tv
 ttauri.techradar.com
+ttekf42.com
 ttoc8ok.com
 ttraff.cc
 ttrk.io
+ttss442.com
 tu42het22n.com
 tubroaffs.org
 tudou.com
@@ -10677,6 +10689,8 @@ tula9mari.com
 tumblebirds.com
 tumbleicicle.com
 tumejortorrent.com
+tumune.com
+tumune3.com
 tune.com
 tuneupcoffee.com
 turf.digital
@@ -11186,6 +11200,7 @@ vidsdelivery.com
 vidssp.com
 vidstart.com
 view-location.top
+viewboot.com
 viewdeos.com
 viid.me
 vilynx.com
@@ -11563,6 +11578,8 @@ wordzmncount.com
 workableachiever.com
 workaj.com
 workoperation.com
+works883.com
+works883.xyz
 workshopplatform.network
 workshoptracking.online
 workstation-spartan.ddns.net
