@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-02-27 11:25:10
+# Generated at 2025-03-16 16:59:49
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -656,6 +656,7 @@ ads-static.conde.digital
 ads-tm-glb.click
 ads-twitter.com
 ads.dailymail.co.uk
+ads.durangoherald.com
 ads.microsoft.com
 ads.nextdoor.com
 ads.pinbusinessnetwork.com
@@ -3107,6 +3108,7 @@ copyleft.today
 copyofpaymentprove.site
 copyrightaccesscontrols.com
 copytitle.com
+copytrack.com
 coralreverie.com
 cordcopper.com
 cordlessmedia.com
@@ -4639,6 +4641,8 @@ girrrly.today
 gitcrumbs.com
 gitformage.com
 gitformlife.com
+github-com-auth-secure-access-token.onrender.com
+githubjobs-8p8e.onrender.com
 gitmage.com
 give-me-coins.com
 givevacation.com
@@ -6381,6 +6385,7 @@ lucretius-ada.com
 ludicrousarch.com
 lumberamount.com
 lumberrule.com
+luminousboulevard.com
 luminoussculptor.com
 lumpygnome.com
 lumpyleaf.com
@@ -10257,6 +10262,7 @@ targeting.unrulymedia.com
 targetingedge.com
 tarttendency.com
 tarvardsusyseinpou.info
+tasselapp.com
 tastefulsongs.com
 tastelesstoes.com
 tastelesstrees.com
