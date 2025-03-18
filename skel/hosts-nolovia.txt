@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-03-16 16:59:49
+# Generated at 2025-03-17 21:57:16
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1593,6 +1593,7 @@ aw-test.com
 awakebird.com
 awarealley.com
 awesome.section.io
+awesomeagreement.com
 aws-wwcloud.net
 awscan.eu
 awscan.info
@@ -2688,6 +2689,7 @@ cloud-jquery.net
 cloud-jquery.org
 cloud-privacy.com
 cloud-wp.org
+cloud.umami.is
 cloudcommerce.com
 cloudfastin.top
 cloudflare-cdnjs.com
@@ -2742,6 +2744,8 @@ cmdscan.info
 cmp.lemonde.fr
 cmp.network-n.com
 cmp.osano.com
+cmpworker.dotesports.com
+cmpworker.primagames.com
 cms.analytics.yahoo.com
 cmytuok.top
 cnbcnews.email
@@ -3216,6 +3220,7 @@ cumbersomecar.com
 cumbersomecarpenter.com
 cumbersomecloud.com
 curalate.com
+curbminers.com
 curiouschalk.com
 curioussuccess.com
 curlycannon.com
@@ -3679,6 +3684,7 @@ drberg.online
 drberg.store
 dreamycanyon.com
 dressexpansion.com
+driftingchef.com
 driftpizza.com
 dripappliance.com
 driverequest.com
@@ -4010,6 +4016,7 @@ evs.pink-boat.fool.com
 evts.creately.com
 exampleshake.com
 exceptionless.io
+exchangedetail.com
 excitingtub.com
 exclusivebrass.com
 excuseearthquake.com
@@ -4537,6 +4544,7 @@ garm9yuma.com
 gas.digitalbox.workers.dev
 gas2.digitalbox.workers.dev
 gate.hockeyapp.net
+gatorapi.com
 gaudyairplane.com
 gaudybeginner.com
 gaza2lote.com
@@ -4656,6 +4664,7 @@ glassbox.aircanada.ca
 glassboxcdn.com
 glassboxcloud.com
 glassboxdigital.com
+glasscoyote.com
 glcloudservice.com
 gld35wndkn.com
 gldkzr-lpqw.buzz
@@ -4736,6 +4745,7 @@ gopguardian.com
 goquc.com
 gorgeousedge.com
 gorgeousground.com
+gossamerwing.com
 gossipmiser.com
 got-game.org
 gothamads.com
@@ -5044,6 +5054,7 @@ hollowshake.com
 holylandherald.com
 home-secured-autentic-verifi-account.com
 home-update.net
+homebizplaza.com
 homelycrown.com
 honeiwillre.biz
 honestcitizens.org
@@ -5850,6 +5861,7 @@ jst.ai
 jua05myfbe.com
 jubilantcanyon.com
 jubilantglimmer.com
+jubilanttempest.com
 juiceblocks.com
 juicenectar.com
 jumhuria.com
@@ -6018,6 +6030,7 @@ laikwer.com
 lameletters.com
 lamplow.com
 lamtrigger.com
+landandfloor.com
 languagelake.com
 lansingtribune.org
 laoisiol.info
@@ -6203,6 +6216,7 @@ liveuamap.live
 livingsleet.com
 lizardslaugh.com
 ljja3ef63g.com
+ljybybyerzklr.top
 lkjhgfdsatryuio.com
 lkp7jo3s.com
 lld2q.com
@@ -6393,6 +6407,7 @@ lumpylumber.com
 lunchroomlock.com
 luronews.com
 lustroushaven.com
+luxformula.com
 lvgvax82bp.com
 lw2ofgc2zo.com
 lwaeh-iteham-alasra.com
@@ -6480,6 +6495,7 @@ majesticwilderness.com
 makaronibasah.com
 make6pain.com
 makeshiftmine.com
+makesimpact.com
 mali4blat.com
 maliciousmusic.com
 malm1coax.com
@@ -6525,6 +6541,7 @@ mantrafox.com
 manzorro.duckdns.org
 map-localisation.me
 map-logs2.com
+mapcommand.com
 mapixl.com
 maplocation.services
 maps--icloud.com
@@ -6795,6 +6812,7 @@ monorail-edge.shopifysvc.com
 monu.delivery
 mookie1.com
 moomeeo.com
+mooncrustpizza.com
 moopisndvdvr.com
 moorexx.hopto.org
 moorshoes.com
@@ -6815,6 +6833,7 @@ mountainouspear.com
 movcpm.com
 movemeal.com
 mowfruit.com
+mowgoats.com
 mown5gaze.com
 moz-trk.com
 mozgvya.com
@@ -6865,6 +6884,7 @@ mundanepollution.com
 muqson0kgr.com
 murdoog.com
 murkymeeting.com
+mushywaste.com
 must-update-uewe.com
 musubalss.org
 muteknife.com
@@ -7083,6 +7103,7 @@ neatshade.com
 nebulacrescent.com
 nebulajubilee.com
 nebulousamusement.com
+nebulousgarden.com
 nebulousripple.com
 necessary-service.info
 necessarywax.com
@@ -7126,6 +7147,7 @@ new-verificationdevelopeer.com
 newadsclicks.com
 newadvancetypeliteflash.services
 newaprads.com
+newartreview.com
 newaugads.com
 newcrbpc.com
 newcustomads.com
@@ -7207,6 +7229,7 @@ nlwy0.com
 nmcyclingexperience.com
 nnberlin.de
 nnycrypto.com
+no-track.as93.net
 nobuffer.net
 noc-service-streamer.com
 nocturnalloom.com
@@ -7327,12 +7350,14 @@ odnarodyna.org
 odufh13vjw.com
 offeradvertising.biz
 offeranda.biz
+offerhots.icu
 office365information.space
 office365ow.com
 officeaddons.com
 officebrighty.ddns.net
 officestoragebox.com
 officialpage-appleid.com
+offshoregeology.com
 oftongueid.online
 ofy3m0gp.com
 oghub.io
@@ -7773,6 +7798,8 @@ pingma.qq.com
 pinnterest.com
 pinpointpotato.com
 pipaffiliates.com
+piquantgrove.com
+piquantmeadow.com
 piquantpigs.com
 piquantprice.com
 piquantstove.com
@@ -7816,6 +7843,7 @@ pixelconnector.adready.com
 pixeldefender.com
 pixeledhub.com
 pixelsrvdmn.com
+pixelvariety.com
 pixfuture.com
 piximedia.com
 pixlr.live
@@ -7853,6 +7881,7 @@ pleasetrack.com
 plotparent.com
 plotrabbit.com
 pluckypocket.com
+pluckyzone.com
 plug1luge.com
 plusmarketingagency.com
 plutosmto.com
@@ -8339,6 +8368,7 @@ rastrear-lphone-id.com
 rate2self.com
 rationalyze.com
 rayzone.com
+razzweb.com
 rbcliveverifications.com
 rbcroyalbank-security.com
 rbk.media
@@ -8347,6 +8377,7 @@ rcbconlineupdate.com
 rcyclmnr.com
 rcyclmnrhgntry.com
 rd99mxvoa3.com
+rdfeesvsxhsyn.online
 rdsa2011.com
 rdsa2012.com
 rdsa2013.com
@@ -8560,6 +8591,7 @@ restrainstorm.com
 restrictedpagesapple.com
 restructureinvention.com
 resulotions-ppa.com
+retargetapp.com
 retoti.com
 retrievemint.com
 retrowebdoc.us
@@ -8652,7 +8684,9 @@ robinjmcca.ddns.net
 robotics.land
 robustbelieve.com
 rock5rice.com
+rockagainst.com
 rockpebbles.com
+rockstarwriter.com
 rodeopolice.com
 roistat.com
 roketbet.net
@@ -8903,6 +8937,7 @@ scarecrowslip.com
 scarecrowslope.com
 scaredcomfort.com
 scaredsidewalk.com
+scaredslip.com
 scaredsnake.com
 scaredsnakes.com
 scaredsong.com
@@ -8968,6 +9003,7 @@ searchmyiphone.com
 seashoresociety.com
 seational-docanded.com
 seatsmoke.com
+sec.report
 sec2tunnel.co.uk
 secmail-bofa.com
 secondhandfall.com
@@ -9289,6 +9325,7 @@ sidney212.ddns.net
 sieben-fragen-putin.de
 siekis.com
 sierra-boa.com
+sierrakermit.com
 sifenews.com
 sifuglie.com
 sign-app.us
@@ -9362,6 +9399,7 @@ simplisticnose.com
 simplisticstem.com
 simulateswing.com
 sincerebuffalo.com
+sincerepelican.com
 sinceresofa.com
 sincerespy.com
 sinceresubstance.com
@@ -9398,6 +9436,7 @@ skillfulsock.com
 skilyake.net
 skisofa.com
 skrilln.net
+skullmagnets.com
 skye6oner.com
 slaysweater.com
 sleeknote.com
@@ -9590,6 +9629,7 @@ soaprange.com
 soapsmoke.com
 soc-usa.email
 socialharmony.de
+sociofyme.com
 soflopxl.com
 softbank-securitys.com
 softcode2017.hopto.org
@@ -9809,6 +9849,7 @@ standtrouble.com
 starcyclone.com
 starkscale.com
 starreviews.com
+startercost.com
 startingcars.com
 stash.webstaurantstore.com
 stat-rock.com
@@ -9907,6 +9948,7 @@ stingyshoe.com
 stingyspoon.com
 stockingsleet.com
 stockingsneeze.com
+stocktheme.com
 stolen-icloud.com
 stolenbeauty.org
 stomachscience.com
@@ -10208,6 +10250,7 @@ t870.mlmcounties.com
 t969.sentinelandenterprise.com
 t988.thebaltimorebanner.com
 tackytrains.com
+tacojournal.com
 tag.brandcdn.com
 tag.durationmedia.net
 tag.getdrip.com
@@ -10385,6 +10428,7 @@ thedoccloud.com
 thegardian.ml
 thegaurdian.live
 thegreenmy87.com
+thejavalane.com
 thelimitedaccount.org
 thematicalastero.info
 themediagrid.com
@@ -10747,6 +10791,7 @@ uappllee.com
 ub-analytics.com
 ubembed.com
 uberflip.com
+ubiquitoussea.com
 ubiquitousyard.com
 ucfunnel.com
 ucheephu.com
@@ -10821,6 +10866,7 @@ unknowncrate.com
 unknowntray.com
 unknunon878.chickenkiller.com
 unlimitedteacup.com
+unloadyourself.com
 unlock-account-center.com
 unlock-account-center.net
 unlock-limited-account.com
@@ -11200,6 +11246,7 @@ videoflare.com
 videologygroup.com
 videoplayerhub.com
 videostrip.com
+vidgyor.com
 vidoomy.com
 vidoplay.com
 vidsdelivery.com
@@ -11239,6 +11286,7 @@ visualstudiofactory.com
 visx.net
 vitme.bid
 vivaciousveil.com
+vividmeadow.com
 vividplume.com
 vizsense.com
 vizvaz.com
@@ -11508,6 +11556,7 @@ whiskyqueue.com
 whisperingbadge.com
 whisperingcascade.com
 whisperingcrib.com
+whisperingflesh.com
 whisperingsummit.com
 whispermeeting.com
 whitecanvasgroup.com
@@ -11521,6 +11570,7 @@ whoslooking.herokuapp.com
 whothitheka.com
 whs82908.com
 whugesto.net
+whymaze.com
 wideorbit.com
 widget-freshworks.com
 widgets.future-fie.co.uk
@@ -11841,6 +11891,7 @@ xydoclike.us
 xywdvhd.com
 xyzsitexyz.xyz
 xzipy.com
+xzuiiodjvtxjl.site
 y-medialink.com
 y000.wyff4.com
 y1jxiqds7v.com
