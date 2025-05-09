@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-03-17 21:57:16
+# Generated at 2025-05-09 10:56:42
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -888,6 +888,7 @@ aloofvest.com
 alooma.com
 alpha-gpt.mail.yahoo.net
 alpineactor.com
+alpineiq.com
 alpixtrack.com
 already-apple.com
 alternativereport.us
@@ -934,6 +935,7 @@ amex2018.com
 amex2019.com
 amexopesx.com
 amhs.club
+aminos.ai
 amlg.io
 amnestyreports.com
 amos5lynn.com
@@ -1521,7 +1523,9 @@ atlas-upd.com
 atmrum.net
 atmtd.com
 atoms.beaconjournal.com
+atoms.democratandchronicle.com
 atoms.oklahoman.com
+atoms.palmbeachpost.com
 atoms.tennessean.com
 atoms.usatoday.com
 atoms.vcstar.com
@@ -1628,6 +1632,7 @@ b263.neworleanscitybusiness.com
 b2bmktg.com
 b2c.com
 b347.pottsmerc.com
+b37mrtl.ru
 b3z29k1uxb.com
 b42rracj.com
 b607.dailylocal.com
@@ -2062,6 +2067,7 @@ bofa-checkings.com
 bofa-linkchecking-onlineteam.com
 bofa-review.com
 bofa-settings-log.com
+boiledegglabs.com
 boilingbeetle.com
 boilingcredit.com
 boilingumbrella.com
@@ -2423,6 +2429,7 @@ centionbreased.info
 cerebro.edna.yahoo.net
 ceros.com
 ceryhtjge.xyz
+cf.x.com
 cfgcpyqx40di.changeip.com
 cfigroup.com
 cfqpxzx.com
@@ -2714,6 +2721,7 @@ cm.cjonline.com
 cm.clarionledger.com
 cm.commercialappeal.com
 cm.courier-journal.com
+cm.democratandchronicle.com
 cm.desmoinesregister.com
 cm.detroitnews.com
 cm.dispatch.com
@@ -2728,6 +2736,7 @@ cm.montgomeryadvertiser.com
 cm.news-press.com
 cm.northjersey.com
 cm.oklahoman.com
+cm.palmbeachpost.com
 cm.pnj.com
 cm.seacoastonline.com
 cm.statesman.com
@@ -3845,6 +3854,7 @@ electionwatch.live
 electric-sheep.tv
 elegantboulevard.com
 elephantqueue.com
+elevate14r.com
 eliminateeffect.com
 elite-net.org
 ellatrujillo.com
@@ -3949,6 +3959,7 @@ error-detected.com
 error-tracking.zipify.com
 errorception.com
 errortablet.com
+errortracking-lb.deepl.com
 es-find.net
 es-webapps.com
 esmtp.biz
@@ -4331,6 +4342,7 @@ foambench.com
 foamybox.com
 foamyfood.com
 foamypain.com
+foccqbujbfcyj.love
 fodlkf9d1p.com
 fohr.co
 follingerservicemabe.com
@@ -4638,6 +4650,7 @@ gift2pair.com
 giftedglue.com
 giftedthumb.com
 gifts-cards.review
+gigkarma.com
 gigya-api.com
 gigya.com
 gimbal.com
@@ -5022,6 +5035,7 @@ hilocake.info
 hims1nice.com
 hipfowlzeal.icu
 hipstarclub.com
+hirefrederick.com
 hiremilitaryheroes.com
 hiss3lark.com
 historicalbeam.com
@@ -5375,6 +5389,7 @@ ihelp-intunlcked-tunes-bin-id.com
 ihelp-unlckaccess-bin-id-home.com
 ihelper-service-account.com
 ihelper-service-account.net
+iiris.com
 ikwauek.com
 ikwb.com
 il-corrispondente.com
@@ -5528,6 +5543,7 @@ inputicicle.com
 inquisitiveice.com
 inquisitiveinvention.com
 ins-gesicht.de
+inscribemutenessforced.com
 inside-graph.com
 inspcloud.com
 insta-signin.xyz
@@ -6395,6 +6411,7 @@ ltunes.cloud
 ltunescancelationpayment.com
 luckstarclub.com
 luckyorange.net
+luckytiger-promo.com
 lucretius-ada.com
 ludicrousarch.com
 lumberamount.com
@@ -6662,6 +6679,7 @@ message-noreply.info
 messageaccount.com
 messagenovice.com
 messaginganalytics.athena.io
+messenger.mindbodyonline.com
 messyoranges.com
 metacafe.live
 metajaws.com
@@ -7708,6 +7726,7 @@ pbcs.decider.com
 pbcs.nypost.com
 pblog.wsj.com
 pbs.nypost.com
+pbs.yahoo.com
 pbstck.com
 pbterra.com
 pbxai.com
@@ -7895,7 +7914,10 @@ pochtarossiy.info
 pocketfaucet.com
 pocketmath.com
 pocketsonic.com
+podcastswaves.com
+podium.com
 podiumpresto.com
+podiums.link
 poemprompt.com
 poeticpackage.com
 pogothere.xyz
@@ -8052,6 +8074,7 @@ privacyaccountlimited.com
 privacycollector-production-457481513.us-east-1.elb.amazonaws.com
 privacyform.com
 privacymanager.io
+privateiptvaccess.com
 privatejs.com
 privatixjs.com
 prmutv.co
@@ -8305,6 +8328,7 @@ qvjql3e.com
 qwepoi123098.com
 qwertize.com
 qwervpnchik.shop
+qwlbvlyeqlljj.top
 qy1bx9an4j.com
 r00ts.online
 r00tshit.ddns.net
@@ -8604,6 +8628,7 @@ reuters.sbs
 revalidatelicence.xyz
 revcontent.com
 revealmobile.com
+revenueboost.net
 revenuehits.com
 revenuenetwork.com
 revenuepervisit.com
@@ -9129,6 +9154,7 @@ sentry.io
 sentry.unixed.com
 seo-fast.ru
 seoab.io
+seobuddyapp.com
 seobundlekit.com
 seoconsultants.org
 seodollars.com
@@ -9909,6 +9935,7 @@ statuesquebrush.com
 statuesqueship.com
 status.getadmiral.com
 statusdelivery.com
+statusus.academy
 stayaction.com
 stbeautifuleedeha.info
 steadfastseat.com
@@ -10367,6 +10394,7 @@ telemetry.api.wmcdp.io
 telemetry.jivosite.com
 telemetry.mozilla.org
 telemetry.servers.getgo.com
+telemetry.stepsecurity.io
 telemetry.tataritv.com
 telemetry.tradingview.com
 telemetry.wall-box.com
@@ -10629,6 +10657,7 @@ tracking.shopstyle.com
 tracking.skyword.com
 tracking.socketlabs.com
 tracking.univtec.com
+tracking.wpnetwork.eu
 trackingapp.info
 trackjs.com
 trackmyshows.tv
@@ -10820,7 +10849,9 @@ ulstur.co
 ultraflawlesspop.com
 ultraoranges.com
 ultravalid.com
+umami.is
 umescomymanda.info
+umwoibvsbnhrh.xyz
 un-asia.co
 un-verify-id-apple.com
 unablehope.com
@@ -11021,6 +11052,7 @@ utilityx-prod.herokuapp.com
 utilityx.rogersmedia.com
 uttermosthobbies.com
 utubedelivery.com
+uwqsacaoeshlz.rocks
 uxbewzrfyp.com
 uxxr80jwng.com
 uyechyymr.com
@@ -11261,6 +11293,7 @@ vindicosuite.com
 vinfdv6b4j.com
 violations-x.com
 violetreading.com
+viously.com
 vip-news.org
 vipddos.com
 viral-loops.com
@@ -11276,6 +11309,7 @@ visasecureverification.info
 visionar-info.de
 visionary-data-intuition.com
 visionary-enterprise-wisdom.com
+visitiq.conde.io
 visitiq.io
 visitor-analytics.io
 visitor-track.com
@@ -11943,6 +11977,7 @@ yieldoptimizer.com
 yim3eyv5.top
 yirr5frog.com
 yjchiakozj.com
+yjgrhzvtvkqen.tech
 ylskyueqya.com
 ylx-4.com
 ymail-account.support
