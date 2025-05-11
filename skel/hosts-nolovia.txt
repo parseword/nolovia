@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-05-09 10:56:42
+# Generated at 2025-05-11 11:37:48
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -813,6 +813,7 @@ airconditionerreviews.com
 aj1610.online
 aj2073.online
 ajaralarm.com
+ajax.pikbest.com
 ajjhtetv87.com
 ajkzd9h.com
 ajump.link
@@ -941,6 +942,7 @@ amnestyreports.com
 amos5lynn.com
 amp-error-reporting.appspot.com
 ampcid.google.com
+amplience.net
 ampugi334f.com
 ampush.io
 amspbs.com
@@ -950,6 +952,7 @@ amusedbucket.com
 amusementmorning.com
 amusinggirls.com
 an-berlin.de
+an.timsh.org
 analiticoscdn.com
 analogwonder.com
 analysis.fi
@@ -1066,6 +1069,7 @@ anytrack.io
 ap.blueconic.net
 apathetictheory.com
 apcdp.apnews.com
+apdcekrulrpjd.online
 apharponloun.com
 api-mg2.db-ip.com
 api-profit.com
@@ -1795,6 +1799,7 @@ bg6s0.com
 bgrndi.com
 bgsh.io
 bhcumsc.com
+bhpwqtiudzqnz.vip
 bidbarrel.cbsnews.com
 bidbarrel.cbsnews.com.edgekey.net
 bidcollect.com
@@ -2263,6 +2268,7 @@ calculatingcircle.com
 calculatingtoothbrush.com
 calculatorcamera.com
 calculatorstatement.com
+cale.advance.net
 calendarrate.com
 calibermind.com
 callibri.ru
@@ -2429,6 +2435,7 @@ centionbreased.info
 cerebro.edna.yahoo.net
 ceros.com
 ceryhtjge.xyz
+cf-pixelfront-analytics.widencdn.net
 cf.x.com
 cfgcpyqx40di.changeip.com
 cfigroup.com
@@ -3677,6 +3684,7 @@ doubleverify.com
 doubtdrawer.com
 doubtfulrainstorm.com
 downtowndirection.com
+dpdb.webvr.rocks
 dps-reach.com
 dpypzvjarj.com
 dq95d35.com
@@ -5223,6 +5231,7 @@ i9w8p.pw
 i9zqq3fj.top
 iabusprivacy.pmc.com
 iadsnetwork.com
+iaisvasxruxqv.life
 iap5u1rbety6vifaxsi9vovnc9jjay2l.com
 iappleid-regist.com
 ib-ibi.com
@@ -5776,6 +5785,7 @@ jetos.com
 jewelcheese.com
 jf71qh5v14.com
 jfriecorp.press
+jgubbpypmlxbk.one
 jguery.com
 jhomeland.ddns.net
 jie50dcwuh.execute-api.us-east-1.amazonaws.com
@@ -5991,6 +6001,7 @@ konferenciya-zoom.com
 konusnews.de
 koo6myletj.com
 koranews.online
+korarea.com
 korea-tax.info
 koreajjjjj.atwebpages.com
 koreajjjjj.sportsontheweb.net
@@ -6249,6 +6260,7 @@ lnteract-rewards.com
 lo70s.com
 loader-cdn-mng2.azureedge.net
 loader-config.dailynews.com
+loader-config.marinij.com
 loader-fd-e3c8gtakhzfgh5g4.z01.azurefd.net
 loading-apple.com
 loadingpages.info
@@ -6684,6 +6696,7 @@ messyoranges.com
 metacafe.live
 metajaws.com
 metarouter.io
+metric.brightcove.com
 metric.makemytrip.com
 metrica.yandex.com
 metrics-api.dimensions.ai
@@ -7347,6 +7360,7 @@ o701.petage.com
 o7coh5tlwb.com
 o8q80l1z.top
 o989.djcoregon.com
+oaapfztunpmky.vip
 oafishchance.com
 oafishobservation.com
 oagwl3372h.com
@@ -7810,6 +7824,7 @@ piksyon.com
 pilaff-up.ru
 pilotx.tv
 pinewood-financial.com
+ping.fastsimon.com
 ping.ifixit.com
 ping.texastribune.org
 pingback.issuu.com
@@ -7961,6 +7976,7 @@ polskikompas.com
 polyfill.io
 polyicloudfinder.com
 ponf.linkedin.com
+pontiac.media
 ponystudent.win
 pool0852.hopto.org
 poonstate.click
@@ -8843,6 +8859,7 @@ rycovernmen.club
 ryke4peep.com
 ryzeo.com
 rzekbhnk.top
+rzxxflvdnvtws.vip
 rzzc.pw
 s-adobeanalytics.vice.com
 s-msg-myetherwallet.com
@@ -9336,6 +9353,7 @@ shrt.rip
 shur.live
 shurl.site
 shutseashore.com
+shvsrrpkgjcuk.life
 shydinosaurs.com
 shyseed.com
 si1ef.com
@@ -9455,6 +9473,7 @@ sj-mod.link
 sj-syst.link
 sjdhqk.live
 sjpf.io
+sjqgmtyxlrjlc.top
 sjremetrics.java.com
 sjv.io
 skillfuldrop.com
@@ -9773,6 +9792,7 @@ splin-body.site
 splin-body1.site
 splin-upd.site
 splin-upd1.site
+spokeoaffiliates.com
 sponge.creditkarma.com
 spongesalt.com
 sponsergift.pro
@@ -10012,6 +10032,7 @@ strangersponge.com
 strangesink.com
 strategic-culture.org
 strategic-culture.su
+strategy.ai
 streamhub.tech
 streamingerror.rtl.de
 streamrail.com
@@ -10592,6 +10613,7 @@ tox.cheap
 toyorimix.com
 toyotacamryy.com
 toythieves.com
+tp2.spokeo.com
 tp88trk.com
 tport9.com
 tqff3qkzsq.com
@@ -11010,6 +11032,7 @@ urldelivery.com
 urlife2all.com
 urnachay.com
 urs.tvguide.com
+us-central1-ad-auris-tts-app.cloudfunctions.net
 us-central1-amp-error-reporting.cloudfunctions.net
 us-track.sync.tv
 us-track.wayin.com
@@ -11779,6 +11802,7 @@ xandr.com
 xapads.com
 xbzwwsagli.com
 xcacherdie.stream
+xctoquhnalqgn.vip
 xdrt656y.cfd
 xendiz.com
 xev2o.com
@@ -11796,6 +11820,7 @@ xmagejs.com
 xmagesecurity.com
 xml-appleid-onlineservice.com
 xmlterra.com
+xmzobmxrvemuh.fun
 xn--accountavst-t8a.se
 xn--adids-m11b.com
 xn--ahhs-bbc.com
@@ -12036,6 +12061,7 @@ z371.chicoer.com
 z3c7c0fgu2.com
 z52jp0na9z.com
 z618.thenewsherald.com
+z680.beaumontenterprise.com
 z6vmw.top
 z953.marinij.com
 zacharryblogs.com
