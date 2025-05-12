@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-05-11 11:37:48
+# Generated at 2025-05-12 10:54:14
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1092,6 +1092,7 @@ apitd.net
 apiurl.org
 apk-bancodobrasil.com
 apl.report
+aplo-evnt.com
 apm.blackfire.io
 apomaya.tech
 app-bancobrasil.com
@@ -1506,6 +1507,7 @@ aspiringtoy.com
 assd-webapps.com
 assemblyexchange.com
 assetmage.com
+assets.apollo.io
 assets.sni-dat.com
 assetsbrain.com
 assetsbraln.com
@@ -2715,6 +2717,7 @@ cloudhustles.com
 cloudjumbo.com
 cloudsdestruction.com
 cloudsponcer.com
+cloudsponge.com
 cloudtrusted.org
 clovercabbage.com
 clowsulin-detplier.com
@@ -3427,6 +3430,7 @@ de-sichererlogin-kundencheckout.ru
 de-sicherermitglieder-checkout.ru
 de-sicherheit-check-true.info
 de-sicherheit-check-valid.info
+de5282c3ca0c.edge.sdk.awswaf.com
 deadpangate.com
 deadpantruck.com
 deafeningdock.com
@@ -5055,6 +5059,7 @@ hitcpm.com
 hitleap.com
 hiug862dj0.com
 hizaxytv.com
+hkjfukkhwfepo.club
 hloginnow.net
 hls-beacons.xumo.com
 hm732.com
@@ -7257,6 +7262,7 @@ nir.theregister.com
 nisdably.com
 nitropay.com
 nlwy0.com
+nmajjhzqyckro.icu
 nmcyclingexperience.com
 nnberlin.de
 nnycrypto.com
@@ -7901,6 +7907,7 @@ platescarecrow.com
 platform.io
 plausible.chmod777.ltd
 plausible.cyberciti.biz
+plausible.gateway.trailofbits.com
 plausible.io
 plausible.redact.dev
 plausible.xojoc.pw
