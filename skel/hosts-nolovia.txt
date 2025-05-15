@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-05-12 10:54:14
+# Generated at 2025-05-14 22:08:56
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1553,6 +1553,7 @@ aubhiple2.com
 aud3g.com
 audience.newscgp.com
 audienceamplify.com
+audiencenet.ru
 audienciad.com
 audioarctic.com
 audtd.com
@@ -4037,6 +4038,7 @@ evidon.com
 evocterm.com
 evs.pink-boat.fool.com
 evts.creately.com
+ewltkoajehyzr.click
 exampleshake.com
 exceptionless.io
 exchangedetail.com
@@ -4357,6 +4359,7 @@ foamypain.com
 foccqbujbfcyj.love
 fodlkf9d1p.com
 fohr.co
+foisonad.com
 follingerservicemabe.com
 followborder.com
 followsite.com
@@ -4879,6 +4882,7 @@ gurl101.services
 gustocooking.com
 gustygrandmother.com
 guvencingiller.com
+gvt2.com
 gw1001099.chickenkiller.com
 gw1001099.duckdns.org
 gw2prodsc.southcentralus.cloudapp.azure.com
@@ -5384,6 +5388,7 @@ ie8eamus.com
 ielohga9.com
 iemail.today
 iesnare.com
+ifgzbqqkakhzb.today
 ifind-inc.com
 iforgot-account.info
 iforgot-accounts.info
@@ -5488,6 +5493,7 @@ inc-views.com
 incing-marganic.icu
 include-modal.com
 includemodal.com
+incognia.com
 incognito.today
 incomehippo.com
 incomeupdate.com
@@ -5562,6 +5568,7 @@ inside-graph.com
 inspcloud.com
 insta-signin.xyz
 instaaccount.xyz
+instafeed.nfcube.com
 instagarm.net
 instagram-checkout.com
 instagram-log-user.com
@@ -5637,6 +5644,7 @@ intrinsicplatform.com
 intrinsicrtb.com
 intrinsicteam.com
 intrinzic.com
+intrustedzone.site
 intvide1.com
 inventionpassenger.com
 investigatepin.com
@@ -5709,6 +5717,7 @@ iservershost.com
 ishahguv.com
 isign-in.us
 ispot.tv
+isprog.com
 issquareonly10.live
 issue-access.com
 istomembersproduct.com
@@ -6156,6 +6165,7 @@ lgnqyr3yg6.com
 lh5lg.top
 lh7e9xjy5x.com
 lhqojeofvo.com
+lhwimdpdjajfx.rocks
 liadm.com
 libertylagoon.org
 libertylantern.org
@@ -6827,6 +6837,8 @@ modulous.huffpost.com
 moengage.com
 moevideo.com
 moldyicicle.com
+momently.info
+momntly.com
 mon-com-01.com
 mon-trk.com
 mon-va.byteoversea.com
@@ -7914,6 +7926,7 @@ plausible.xojoc.pw
 plausiblecable.com
 player-metrics.instaread.co
 player.mediafuse.com
+playerhq.co
 playfulriver.com
 playground.xyz
 playwire.com
@@ -7997,6 +8010,7 @@ popmyads.com
 popplantation.com
 popt.in
 popularenlineaservicios.com
+popupsmart.com
 popxxx.net
 port.sec.miui.com
 port25.biz
@@ -8667,6 +8681,7 @@ revmasters.com
 rewards-litecoin.win
 rexrtb.com
 reyweb.com
+rezply.com
 rezync.com
 rfihub.com
 rfihub.net
@@ -8922,6 +8937,7 @@ salaure.pro
 salemove.com
 salesforceliveagent.com
 salesiq.zohopublic.com
+salespop.com
 salidzini.lv
 saltsacademy.com
 samba.tv
@@ -9751,6 +9767,8 @@ sovrn.com
 sovrnlabs.net
 sowlettuce.com
 sp-collector-lb-1480291537.us-west-2.elb.amazonaws.com
+sp-micro-next.b-cdn.net
+sp-micro-proxy.b-cdn.net
 sp-wukong-tracker.b-cdn.net
 sp.retailmenot.com
 sp.yelp.com
@@ -9826,6 +9844,7 @@ spotx.tv
 spoutable.com
 spr-ops.com
 spreadme.international
+sprig.com
 springaftermath.com
 springolive.com
 springserve.com
@@ -10610,6 +10629,7 @@ torrent-supd.space
 torrent-updates.ddns.net
 torrenti.al
 toru0vane.com
+toruftuiov.com
 tosecurecode-appleid.info
 total-slovenia-news.net
 totalmediasolutions.com
@@ -11402,6 +11422,8 @@ vrtcal.com
 vuble.tv
 vucworlds.com
 vukhhjzd.com
+vungle.com
+vungle.io
 vuserjs.com
 vuukle-analytics.appspot.com
 vuukle.com
