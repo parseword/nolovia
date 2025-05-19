@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-05-14 22:08:56
+# Generated at 2025-05-19 10:46:22
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1066,6 +1066,7 @@ anura.io
 anxiousapples.com
 anyclip-media.com
 anytrack.io
+aoopk8trk.com
 ap.blueconic.net
 apathetictheory.com
 apcdp.apnews.com
@@ -2060,6 +2061,8 @@ bm-verification.com
 bm24.biz
 bm24.info
 bm24.org
+bmrg.haproxy.com
+bmrg.haproxy.com.sds.haproxyedge.net
 bmsusqt94u.com
 bn-multired1.com
 bni-madagascar.com
@@ -2413,6 +2416,9 @@ cdnppay.com
 cdnpps.us
 cdnral.com
 cdnrfv.com
+cdnrum1.haproxy.com
+cdnrum2.haproxy.com
+cdnrum3.haproxy.com
 cdnscriptx.com
 cdnwhiltelist.com
 cdnwidget.com
@@ -4334,6 +4340,7 @@ floweryfact.com
 floweryflavor.com
 floweryoperation.com
 flowkir.com
+flowsyncshield.com
 fluct.jp
 fludies-coaticted.com
 flutteringfireman.com
@@ -4731,6 +4738,7 @@ gobrowsi.com
 godiciardstia.com
 godlygeese.com
 gofenews.com
+gojbtiqarctsc.life
 golangwq.info
 goldfishgrowth.com
 goldman-travel.com
@@ -5252,6 +5260,7 @@ ibillboard.com
 ibmoption.com
 iceanedy.com
 icebergindigo.com
+icg-in.com
 iciould.services
 icl0ud-iphone.com
 icl0ud-locked-detail.com
@@ -5719,6 +5728,7 @@ isign-in.us
 ispot.tv
 isprog.com
 issquareonly10.live
+isstarsbuilding.com
 issue-access.com
 istomembersproduct.com
 isupport-device.xyz
@@ -6736,6 +6746,7 @@ meya.ai
 mezzobit.com
 mfacebook.net
 mfadsrvr.com
+mfbvgcjkqpxup.xyz
 mg2insights.com
 mg6ikpbhco.com
 mgln.ai
@@ -7173,6 +7184,7 @@ nerloop.com
 nervoussummer.com
 nesmotrinamenya.ru
 net-onboarding-login.com
+netfasttrack.co.in
 netfilx-failed-membership.com
 netflix-domain.com
 netflix-mob.com
@@ -7392,6 +7404,7 @@ obscenesidewalk.com
 observantice.com
 observateurcontinental.fr
 ocaeliek.com
+ocalesit.com
 ocdn.eu
 oclasrv.com
 ocry.com
@@ -7926,6 +7939,7 @@ plausible.xojoc.pw
 plausiblecable.com
 player-metrics.instaread.co
 player.mediafuse.com
+player.remixd.com
 playerhq.co
 playfulriver.com
 playground.xyz
@@ -8340,6 +8354,7 @@ quarterbean.com
 quebec-bin.com
 quebec-lea.com
 queenskart.com
+questdagnostics.com
 questionableobservation.com
 quick-help.us
 quickhelpdesk.in
@@ -9245,6 +9260,7 @@ service-information-helper.com
 service-information-updated.com
 service-information-webapps.com
 service-informations.net
+service-new.com
 service-paypail.net
 service-paypel-login-new.com
 service-ppl-safe.com
@@ -11725,6 +11741,7 @@ works883.xyz
 workshopplatform.network
 workshoptracking.online
 workstation-spartan.ddns.net
+workwanso.com
 worldinfocontact.club
 worldlever.com
 worriednumber.com
