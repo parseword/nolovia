@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-05-19 10:46:22
+# Generated at 2025-06-01 22:00:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1496,6 +1496,7 @@ asdjkljfjaowjfq.net
 ashleyrnadison.com
 asianal.in
 asiatravelagency.ddns.net
+askdriver.com
 askfuelads.com
 asksummaryaccount.com
 askwithads.com
