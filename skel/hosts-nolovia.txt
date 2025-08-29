@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2025-06-01 22:00:55
+# Generated at 2025-08-28 21:06:08
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2118,6 +2118,7 @@ boundlessbrake.com
 boundlessveil.com
 bp01.net
 bprise.com
+bqcue.ink
 bqiovml.com
 brainpad.co.jp
 brainpayments.com
@@ -4308,6 +4309,7 @@ fivzzu1vyo.com
 fixedfold.com
 fixidle.com
 fixionmedia.com
+fjnrp.ink
 fjobiwouldli.biz
 fkbwtoopwg.com
 fkksjobnn43.org
@@ -4693,6 +4695,7 @@ givevacation.com
 givirsou.net
 gjthub.app
 gjthub.team
+gjvuy.xyz
 gladglen.com
 gladysway.com
 glamhawk.com
@@ -6754,6 +6757,7 @@ mgln.ai
 mgti1kofb8.com
 mh9dskj8jg.com
 mhbdezpwdq.com
+mhecm.pro
 mhoblysantanderbr.com
 miastagebuch.com
 michigan-construction.com
@@ -9326,6 +9330,7 @@ seyishalom.com
 sf-syn.com
 sf14g.com
 sf2ej57.com
+sfjfa.ink
 sfvwe.com
 sfzhd.top
 sgali-mcs.byteoversea.com
@@ -11720,6 +11725,7 @@ wixsite.com
 wizaly.com
 wizardsbd.com
 wjs.wurflcloud.com
+wkdvb.ink
 wklimited.com
 wlespuld.me
 wlespulsd1.me
@@ -11987,6 +11993,7 @@ xts7fgss.com
 xu5ctufltn.com
 xv9xm6zxb8.com
 xvidmovies.in
+xvqxa.pro
 xwzbpkku-i.site
 xxe2.com
 xxuz.com
@@ -12122,6 +12129,7 @@ zaomavzcoww.com
 zapplestore.com
 zarget.com
 zbahisz.com
+zbhqu.ink
 zbs9uwl4xy.com
 zbwp6ghm.com
 zd2i6k4qi1.com
@@ -12166,6 +12174,7 @@ ziraatintbankasi.com
 zjo0tjqpm1.com
 zkpkaqboez.com
 zlp6s.pw
+zlulp.ink
 zme8o3l1c4.com
 zmjagawa.com
 zmqyzjlozoybq.top
