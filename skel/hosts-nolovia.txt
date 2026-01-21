@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-01-19 14:48:17
+# Generated at 2026-01-21 11:19:56
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -74,6 +74,7 @@
 1l-view.my.games
 1myetherwallet.info
 1myetherwallet.net
+1p-data.co
 1paj4kmp.top
 1redira.com
 1rx.io
@@ -111,6 +112,7 @@
 2kl08cd74f.com
 2lwlh385os.com
 2nd-smtp2go.email
+2o7.net
 2ptxxjjzpy.com
 2pxg8bcf.top
 2qgsjjy89k.com
@@ -302,6 +304,7 @@
 a*.smlog.co.kr
 a-a.asia
 a-mo.net
+a-mx.com
 a-reporting.nytimes.com
 a.brack.ch
 a.flux.jp
@@ -329,6 +332,7 @@ a8.net
 a869.mercurynews.com
 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
 a9nf3hg5c2.com
+aai-experiment.ft.com
 aanqylta.com
 aaucwbe.com
 aawulszemel.com
@@ -557,10 +561,12 @@ ad*.ettoday.net
 ad-auris-logging-db-l72twop3ra-uc.a.run.app
 ad-back.net
 ad-cache.tabarn.app
+ad-cloud.jp
 ad-generation.jp
 ad-goi.com
 ad-log.wemakeprice.com
 ad-pixel.com
+ad-shield.cc
 ad-tech.nbcuni.com
 ad.bench.utorrent.com
 ad.eval.hu
@@ -660,6 +666,7 @@ adnium.com
 adnxs-simple.com
 adobes.software
 adobetm.com
+adocean.pl
 adoning-unducted.com
 adorableanger.com
 adorableattention.com
@@ -692,6 +699,7 @@ ads-static.conde.digital
 ads-tm-glb.click
 ads-trk.vidible.tv
 ads-twitter.com
+ads.bid
 ads.dailymail.co.uk
 ads.durangoherald.com
 ads.microsoft.com
@@ -803,6 +811,7 @@ afcwyxnwl0.com
 afd.baidu.com
 aff.sendhub.pl
 affex.org
+affilbox.cz
 affiliate.gameladen.com
 affiliate.gamesdeal.com
 affiliate.resellerclub.com
@@ -960,6 +969,7 @@ altitudedigital.com
 alwqfajh.com
 alxc.addlv.smt.docomo.ne.jp
 amadagasca.com
+amaerodactylon.com
 amarachi.hopto.org
 amasty.biz
 amazingairplane.com
@@ -1685,6 +1695,7 @@ aptivada.com
 apv-launcher.minute.ly
 apvo.club
 apxy.io
+aquaplatform.com
 aquaticalarm.com
 aquaticanswer.com
 aquaticowl.com
@@ -1789,6 +1800,7 @@ attention-required-error-found.xyz
 attention-required.xyz
 attentiveads.com
 attesent-aments.com
+attntags.com
 attractionbanana.com
 attractiveafternoon.com
 attractivecap.com
@@ -2345,6 +2357,7 @@ bmrg.haproxy.com
 bmrg.haproxy.com.sds.haproxyedge.net
 bmsusqt94u.com
 bn-multired1.com
+bnc.lt
 bni-madagascar.com
 bnmla.com
 bnrnboerxce.com
@@ -2970,6 +2983,7 @@ click.jasmin.com
 click.udimg.com
 click2.cafepress.com
 clickability.com
+clickaine.com
 clickback.com
 clickcease.com
 clickferret.com
@@ -3083,6 +3097,7 @@ clue6load.com
 clumsycar.com
 clumsyrock.com
 clvk.viki.io
+cm.app.com
 cm.azcentral.com
 cm.beaconjournal.com
 cm.cjonline.com
@@ -3705,12 +3720,14 @@ curvycry.com
 cus-breeziest-in.cloudapp.net
 cushiondrum.com
 cushionpig.com
+custom.plausible.io
 customer-account-confirm.com
 customer-accountacces.com
 customer-help-care-centre.com
 customer-service-manager.net
 customer-service-resolution-center-paypal.com
 customer-verify-information.com
+customer.etracker.com
 customer.io
 customeraccountummary.info
 customerdetailoreses.com
@@ -4331,6 +4348,7 @@ e-onlinegirisim.com
 e-stat.huya.com
 e-transfer11-interac.com
 e.reddit.com
+e.truedata.co
 e.tw.cx
 e.viously.com
 e021.charlestonbusiness.com
@@ -4417,6 +4435,7 @@ edanklng-servlces.com
 edge-mcdn-beacon.secure.yahoo.com
 edge.quantserve.com
 edge.wholesalerandy.com
+edgetag.io
 edigitalsurvey.com
 edns.biz
 edua29146y.com
@@ -4461,6 +4480,7 @@ eliminateeffect.com
 elite-net.org
 ellatrujillo.com
 ellcurvth.com
+eloqua.com
 elusivebreeze.com
 elusivecascade.com
 elysiantraverse.com
@@ -4485,6 +4505,7 @@ emoryday-analytics.com
 emptyescort.com
 ems.youku.com
 emsecure.net
+emtag.net
 emv3.com
 emxdgt.com
 en-verify.com
@@ -4685,6 +4706,7 @@ evt.houzz.com
 evts.creately.com
 ewltkoajehyzr.click
 exacttarget.api.mashery.com
+exacttarget.com
 exampleshake.com
 exc.ns.nl
 exceptionless.io
@@ -4716,6 +4738,8 @@ ext.host-tracker.com
 extad.info
 extend.tv
 external-promo-metrics.yandex.net
+extole.com
+extole.io
 extractobservation.com
 extralocker.com
 extramonies.com
@@ -5167,6 +5191,7 @@ fuzzyflavor.com
 fuzzyweather.com
 fvl1f.pw
 fw5e8yga.top
+fwpixel.com
 fywiei.com
 fz360trcking.com
 fznc.world
@@ -5266,6 +5291,7 @@ generalprose.com
 generateoffice.com
 genesis.malwarebytes.com
 genesismedia.com
+genieespv.jp
 gentlemoonlight.com
 genus.ai
 geo-targetly.com
@@ -5425,10 +5451,13 @@ gnar.grammarly.com
 gnetwork.me
 gnpge.com
 go.bidfluence.com
+go.goadserver.com
+go.pardot.com
 go.ro
 go2click.org
 go2vnow.net
 goaffpro.com
+goatcounter.com
 gobankingrates.com
 gobrowsi.com
 gocp.stroeermediabrands.de
@@ -5722,6 +5751,7 @@ heavenlybike.com
 heavydetail.com
 heavypanda1.xyz
 heavyplayground.com
+heleric.com
 help-facebook.com
 help-forgot-information.net
 help-forgot-information.org
@@ -6368,6 +6398,7 @@ intango.com
 inte-authorization0102.com
 intellexa.com
 intellibid.com
+intelligems.io
 intelligentscissors.com
 intellimize.co
 intellimizeio.com
@@ -6718,6 +6749,7 @@ jwvwak1a.com
 jxru2djgqm.com
 jynp9m209p.com
 jzdstqhknq.com
+k.keyade.com
 k030.koco.com
 k148.leadershipcon.com
 k162.mnprojectcenter.com
@@ -6773,6 +6805,7 @@ keywee.co
 keznews.com
 kfiopkln.com
 kfqked6fgj.com
+kib.hu
 kidone.xyz
 kidpowers.com
 kilo6alga.com
@@ -6995,6 +7028,7 @@ lh5lg.top
 lh7e9xjy5x.com
 lhqojeofvo.com
 lhwimdpdjajfx.rocks
+li-apps.com
 liadm.com
 libertylagoon.org
 libertylantern.org
@@ -7283,6 +7317,7 @@ loginupdate-billingsc.com
 logisticusa.biz
 loglady.publicbroadcasting.net
 logln-lcloud.com
+logly.co.jp
 logon.salesnexus.com
 logonexchangeonline.com
 logonmicrosoftonline.com
@@ -7970,6 +8005,7 @@ muteknife.com
 mutemailbox.com
 muterange.com
 muxy.io
+muzikguide.com
 mva1.maeva.com
 mw19c3mi5a.com
 mxpl.9gag.com
@@ -8175,6 +8211,7 @@ naviga.com
 navistone.com
 navy9gear.com
 nbcuas-tracker.us-east-1.elasticbeanstalk.com
+nc0.co
 ncaudienceexchange.com
 ncjkedu.com
 ncx2.voyage-prive.it
@@ -8329,6 +8366,7 @@ nocturnalloom.com
 nocturnalmystique.com
 nofejectontrab.info
 noiselessplough.com
+non.li
 nonameriky10.live
 nonchalantnerve.com
 nondescriptcrowd.com
@@ -8393,7 +8431,9 @@ nssp.com
 nsw-breeziest-in.cloudapp.net
 nta1vb6cdlrl.com
 ntlw.net
+ntv.io
 ntvk1.ru
+ntvpforever.com
 nudgeduck.com
 nudis-verbis.de
 nukqimllza.com
@@ -8525,6 +8565,7 @@ online-affiliate-mon.com
 online-check.org
 online-device.info
 online-hsbcgoodwill.com
+online-metrix.net
 online-source-validate.com
 online-swaggy.com
 online-us-account.com
@@ -8737,8 +8778,10 @@ pardonpopular.com
 pardot.com
 parentpicture.com
 park-travels.com
+park.realbig.online
 parscale.com
 parscalecloud.com
+parsely.com
 parsimoniouspolice.com
 partner.api.getadmiral.com
 partner.shareaholic.com
@@ -9163,6 +9206,7 @@ poor5zero.com
 pop-convert.com
 pop6.com
 pop6serve.com
+popcashjs.b-cdn.net
 popcornfood.com
 popkit.club
 popmyads.com
@@ -9183,6 +9227,7 @@ post-jquery.com
 postback.info
 posthog.com
 posthog.tarnkappe.info
+postrelease.com
 posttagmapapi.com
 potatoinvention.com
 potrax.com
@@ -9645,6 +9690,7 @@ rdsa2016.com
 rdsa2017.com
 rdsa2018.com
 rdsa2019.com
+rdtk.io
 rdtrker.com
 re-captha-version-3-71.com
 re-verify-id-apple.com
@@ -10015,6 +10061,7 @@ rtbstandards.com
 rtclx.com
 rtk.io
 rtpdn11.com
+rttrk.com
 rtxplatform.com
 ru858am70x.com
 rubicon.wellsfargo.com
@@ -10165,6 +10212,7 @@ sag-das.de
 sagargift.com
 sail-personalize.com
 sailsuit.com
+sailthru.com
 sajari.com
 salaure.pro
 salemove.com
@@ -11190,6 +11238,7 @@ spiegeli.today
 spiegelr.life
 spiegelr.live,
 spiegelr.today
+spiffy.ai
 spiffymachine.com
 spillero.com
 spillvacation.com
@@ -11320,6 +11369,8 @@ stampknot.com
 standingnest.com
 standingsack.com
 standtrouble.com
+stape.io
+stape.net
 starcyclone.com
 starkscale.com
 starreviews.com
@@ -12105,6 +12156,7 @@ thegreenmy87.com
 thejavalane.com
 thelimitedaccount.org
 thematicalastero.info
+theme-picker.com
 themediagrid.com
 therapeuticcars.com
 thered.stream
@@ -12445,6 +12497,7 @@ tracking.battleon.com
 tracking.bdi-services.de
 tracking.bloomberg.com
 tracking.bonnier.news
+tracking.bp01.net
 tracking.carsales.com.au
 tracking.centerfield.com
 tracking.chacha.com
@@ -12521,6 +12574,7 @@ trackjs.com
 trackmyshows.tv
 trackonomics.net
 tracksrv.zdf.de
+trackwilltrk.com
 tradetooth.com
 trafficanalyzer.biz
 trafficbroker.xyz
@@ -12961,6 +13015,7 @@ ut.gamersyde.com
 utelemetrics.atwebpages.com
 utilityx-prod.herokuapp.com
 utilityx.rogersmedia.com
+utiq-aws.net
 utsssl.auction.co.kr
 uttermosthobbies.com
 utubedelivery.com
@@ -13881,6 +13936,7 @@ xncb6.top
 xovq5nemr.com
 xpanama.net
 xqkzsifxgv.com
+xray-superpixel.com
 xray.mail.ru
 xslotx.com
 xsubin3310.sytes.net
