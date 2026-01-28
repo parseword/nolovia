@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-01-28 11:23:09
+# Generated at 2026-01-28 12:43:26
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1256,6 +1256,7 @@ analytics.yahoo.com
 analytics.yopify.com
 analytics.zoomit.ir
 analytics2.tvreport.co.kr
+analyticsapi.patriot123.com
 analyticsengine.s3.amazonaws.com
 analyticshipaa.cloud.coveo.com
 analyticsnew.overwolf.com
@@ -5345,6 +5346,7 @@ ft.net
 ftp1.biz
 ftpserver.biz
 fuckmy.site
+fudgegenie.com
 fuelinspector.com
 fuelreaction.com
 fujiladder.com
@@ -5583,6 +5585,7 @@ giantsvessel.com
 giddycoat.com
 gifinate-loggage.com
 gift2pair.com
+giftclothings.com
 giftedglue.com
 giftedthumb.com
 gifts-cards.review
@@ -5653,6 +5656,7 @@ go.ro
 go2click.org
 go2vnow.net
 goaffpro.com
+goatbillions.com
 goatcounter.com
 gobankingrates.com
 gobrowsi.com
@@ -7427,6 +7431,7 @@ lnteract-rewards.com
 lo70s.com
 loadedhearts.com
 loader-cdn-mng2.azureedge.net
+loader-config.baltimoresun.com
 loader-config.dailynews.com
 loader-config.marinij.com
 loader-fd-e3c8gtakhzfgh5g4.z01.azurefd.net
@@ -8942,6 +8947,7 @@ onmypc.org
 onmypc.us
 onpointcorp.co
 oo-syringe.com
+oopsie.wtf
 ooq5z.com
 opalquill.com
 opecloud.com
@@ -9480,6 +9486,7 @@ plainrequest.com
 planebasin.com
 planesorder.com
 planet49.com
+planifyx.com
 plantdigestion.com
 plantpotato.com
 plantrelation.com
@@ -10241,6 +10248,7 @@ rendfy.com
 renewal-user.com
 rensovetors.info
 rentinfinity.com
+rentpenny.com
 reoveryy-accounts-info-id.com
 repdata.usatoday.com
 repeatsweater.com
@@ -14226,6 +14234,7 @@ whothitheka.com
 whs82908.com
 whugesto.net
 whymaze.com
+wickedanimal.com
 wideorbit.com
 widget-freshworks.com
 widget.perfectmarket.com
@@ -14281,6 +14290,7 @@ wixsite.com
 wizaly.com
 wizardbuck.com
 wizardsbd.com
+wizardstrategy.com
 wjs.wurflcloud.com
 wkclick.baidu.com
 wkctj.baidu.com
