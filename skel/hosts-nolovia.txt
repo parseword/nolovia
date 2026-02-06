@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-01-28 12:43:26
+# Generated at 2026-02-06 13:48:15
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -2459,6 +2459,7 @@ boringberry.com
 boringcoat.com
 bosshugss.me
 bostontimes.org
+botcommerce.app
 botfuse.com
 bounceexchange.com
 bouncex.com
@@ -5389,6 +5390,7 @@ g-analytics.com
 g-cloud.pro
 g-cloud.win
 g-statistic.com
+g.dallasobserver.com
 g.lazcdn.com
 g10102301085.co
 g10300385420.co
@@ -11288,6 +11290,7 @@ skisofa.com
 skrilln.net
 skroutza.skroutz.gr
 skullmagnets.com
+skycloudcenter.com
 skye6oner.com
 skylightdata.com
 sl-h-statistics-ch-1.storeland.ru
@@ -14574,6 +14577,7 @@ xqkzsifxgv.com
 xray-superpixel.com
 xray.mail.ru
 xslotx.com
+xss.allsaf.eu
 xsubin3310.sytes.net
 xsvpn.cf
 xts7fgss.com
