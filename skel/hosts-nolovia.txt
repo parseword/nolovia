@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-02-06 13:48:15
+# Generated at 2026-02-22 00:00:10
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1661,6 +1661,7 @@ applexr-iphone.com
 applezcl.com
 applezr-iphone.com
 applicationinsights.azure.com
+applicationinsights.azure.us
 applicationinsights.microsoft.com
 applicloud-ios.com
 applid-webapps-mycloud.com
@@ -7436,6 +7437,7 @@ loader-cdn-mng2.azureedge.net
 loader-config.baltimoresun.com
 loader-config.dailynews.com
 loader-config.marinij.com
+loader-config.twincities.com
 loader-fd-e3c8gtakhzfgh5g4.z01.azurefd.net
 loading-apple.com
 loadingpages.info
@@ -8143,6 +8145,7 @@ mittencattle.com
 mixadvert.com
 mixedreading.com
 mixpanel-proxy.ted.com
+mixpanel-tracking-proxy-x4jwavb3wq-uc.a.run.app
 mixpo.com
 mjs24.com
 mka8vaj2ru.com
@@ -8954,6 +8957,8 @@ ooq5z.com
 opalquill.com
 opecloud.com
 openads.com
+openai-watchlistdb-testing.withpersona.com
+openai-watchlistdb.withpersona.com
 opendingweb.us
 openfpcdn.io
 openmonitor.alipay-eco.com
@@ -14275,6 +14280,7 @@ wipoanalytics.wipo.int
 wirecomic.com
 wiredforcoffee.com
 wirenewsletter.com
+wiresguard.com
 wirypaste.com
 wisedotcom.com
 wisepops.com
