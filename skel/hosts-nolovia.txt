@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-05-26 15:51:26
+# Generated at 2026-06-07 09:50:13
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -196,6 +196,7 @@
 5bir9vuqcq.com
 5db8d92zi2.com
 5g65ymza39.com
+5gtb.com
 5h5d8lt8me.com
 5hrnx8hsub.com
 5iclx7wa4q.com
@@ -803,6 +804,7 @@ adxcel-ec2.com
 adxcore.com
 adxtracking.com
 adxyield.com
+adzen.ai
 adzerk.net
 adzumi.com
 ae21a0ad95016488.com
@@ -880,6 +882,7 @@ ahwrin88tl.com
 aidaigry.com
 aiea6gaza.com
 ailtumty.net
+aim-scripts.s3.amazonaws.com
 aiqidwcfrm.com
 airconditionerreviews.com
 airplanecoffee.com
@@ -3219,6 +3222,7 @@ cm.pnj.com
 cm.seacoastonline.com
 cm.statesman.com
 cm.statesmanjournal.com
+cm.tallahassee.com
 cm.tennessean.com
 cm.theleafchronicle.com
 cm.tuscaloosanews.com
@@ -5944,6 +5948,7 @@ haupsoti.net
 hauynescherben.net
 hauynescherben.press
 hawk.tomsguide.com
+hawky.pcgamer.com
 hazmatworkshop.com
 hazy4cant.com
 hc-analytics.idp.clogin.att.com
@@ -9102,6 +9107,7 @@ p192.eastbaytimes.com
 p194.orprojectcenter.com
 p1nptrk.com
 p2trc.emv2.com
+p329.si.com
 p330.hfndigital.com
 p543.inquirer.com
 p593.seattlepi.com
@@ -10986,6 +10992,7 @@ serpentshampoo.com
 servebom.com
 servedbyopenx.net
 servedbyopenx.org
+servedxk.com
 serveipqs.com
 servenobid.com
 server-account.com
@@ -11116,6 +11123,7 @@ shapecomb.com
 shareae.cf
 shareasale-analytics.com
 sharedid.org
+sharedvision.io
 sharetrough.com
 sharkskids.com
 sharppatch.com
@@ -13393,6 +13401,7 @@ udxsva.com
 uep.gaijin.net
 ufqfnecblo.com
 uh3ye6ux.com
+uhytajrtpo-a.akamaihd.net
 uidapi.com
 uie.data.cbc.ca
 uimserv.net
@@ -13991,6 +14000,7 @@ vvpcdke43x.com
 vvqknwws.com
 vvvvvv-apple.com
 vvvvvv-icloud.com
+vwonwkaqvq-a.akamaihd.net
 vwvw-apple.com
 vwvw-icloud.com
 vy4e3jw46l.com
