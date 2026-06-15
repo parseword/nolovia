@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-06-07 09:50:13
+# Generated at 2026-06-14 21:26:27
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -619,6 +619,8 @@ addoor.net
 addroplet.com
 adentifi.com
 adept.li
+aderize.com
+aderserve.com
 adeventtrackermonitoring.spotify.com
 adexchangedirect.com
 adfixus.com
@@ -722,6 +724,7 @@ ads4pics.com
 adsafeprotected.com
 adsales.snidigital.com
 adsame.com
+adsassets.waze.com
 adsbtrack.com
 adsbtrk.com
 adscale.com
@@ -5634,6 +5637,7 @@ glassboxdigital.com
 glasscoyote.com
 glcloudservice.com
 gld35wndkn.com
+gldev.app
 gldkzr-lpqw.buzz
 gleamingcow.com
 gleaminghaven.com
@@ -5686,6 +5690,7 @@ goldman-travel.com
 goldstudies.com
 golfcartlaws.com
 golfersrow.com
+golnk.cc
 golp4elik.com
 gonamod.com
 gondolagnome.com
@@ -6480,6 +6485,8 @@ impact-ad.jp
 impactify.io
 impactradius-event.com
 impactradius-go.com
+impdelivery.xyz
+impdelivery2.xyz
 imperfectinstrument.com
 importantappleupdate.com
 importantmeat.com
@@ -11258,6 +11265,7 @@ similarsabine.com
 simonsignal.com
 simpelkocsn.com
 simpiehuman.com
+simple-apps.ai
 simpleanalytics.com
 simpleanalytics.io
 simplenaming.com
