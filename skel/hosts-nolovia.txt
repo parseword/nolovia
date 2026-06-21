@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-06-14 21:26:27
+# Generated at 2026-06-20 21:58:45
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -1139,6 +1139,7 @@ analytics.elegela.us
 analytics.esa.atanar.net
 analytics.euanalysis.com
 analytics.faceitanalytics.com
+analytics.flipp.dev
 analytics.fontanka.ru
 analytics.foodnetwork.com
 analytics.freesound.org
@@ -1845,6 +1846,7 @@ audienciad.com
 audioarctic.com
 audtd.com
 aufp.io
+auge.weavernet.at
 auiviilbp2.com
 auntants.com
 aunth-undisable-verification.info
@@ -5426,6 +5428,7 @@ g22rbb7.com
 g2575096355.co
 g27zkdvsxl.com
 g2crowd.com
+g2i.themorningsun.com
 g2insights-cdn.azureedge.net
 g2insights-fd-a0gpgwa4fycxd9d4.z01.azurefd.net
 g2tt3n5jch.com
@@ -7458,6 +7461,7 @@ loader-cdn-mng2.azureedge.net
 loader-config.baltimoresun.com
 loader-config.dailynews.com
 loader-config.marinij.com
+loader-config.themorningsun.com
 loader-config.twincities.com
 loader-fd-e3c8gtakhzfgh5g4.z01.azurefd.net
 loading-apple.com
@@ -11197,6 +11201,7 @@ sidney212.ddns.net
 sieben-fragen-putin.de
 siekis.com
 sierra-boa.com
+sierra.chat
 sierrakermit.com
 sifenews.com
 sifuglie.com
@@ -14139,6 +14144,7 @@ webappsecurityupdate.com
 webappsrequired-accrenew22125122.com
 webappss-security-bin-apple.com
 webb-institute.com
+webchat.zwiz.app
 webcodez.com
 webcontentassessor.global.ssl.fastly.net
 webdeclaration.xyz
