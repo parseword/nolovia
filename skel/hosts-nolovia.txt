@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-06-20 21:58:45
+# Generated at 2026-06-24 11:18:53
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -228,6 +228,7 @@
 6moxhf9rmm.com
 6pal.consobaby.com
 6ped2nd3yp.com
+6s83mz9kbtrj.com
 6sc.co
 6u4dxh2f14.com
 6uwehz1xp4.com
@@ -817,6 +818,7 @@ aem-collector.daumkakao.io
 aentafmxkmhea.com
 aerserv.com
 aethiopiensidamo.de
+afbvnjyxvizaz.space
 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 afcwyxnwl0.com
 afd.baidu.com
@@ -2217,6 +2219,7 @@ binspiredtees.com
 biocatch.com
 bipovnerlvd.com
 biqle.ru
+birdie.so
 birect-nammer.com
 birthdaybelief.com
 bitcoin-transaction-accelerator.website
@@ -2652,6 +2655,7 @@ c02o3mpych.com
 c0cd2idcl5.com
 c1.wfinterface.com
 c2t.zwt.co
+c353.msubmit.net
 c395.material-changes.com
 c3tag.com
 c504.harrisburgwinefest.com
@@ -3205,6 +3209,7 @@ cm.azcentral.com
 cm.beaconjournal.com
 cm.cjonline.com
 cm.clarionledger.com
+cm.columbiadailyherald.com
 cm.commercialappeal.com
 cm.courier-journal.com
 cm.democratandchronicle.com
@@ -5737,6 +5742,7 @@ gossamerwing.com
 gossipmiser.com
 got-game.org
 gothamads.com
+gotobay.co
 gotoip55.com
 gotolstoy.com
 gotprofits.com
@@ -7081,6 +7087,7 @@ keepitpumpin.io
 keepmystation.com
 keet1liod.com
 kejoranews.net
+kellethelix.com
 kennedyform.com
 kenoratravels.com
 kenshoo.com
@@ -14382,6 +14389,7 @@ wpncdn.com
 wpserve.org
 wqgdajjozr.com
 wqiwjwwgyz.science
+wr.x.com
 wrapstretch.com
 wreckvolcano.com
 wretchedfloor.com
@@ -14645,6 +14653,7 @@ y000.wyff4.com
 y197.standardspeaker.com
 y1jxiqds7v.com
 y2rmo576.top
+y384.asm.org
 y494.wdsu.com
 y4jtnergka.com
 y568.giftsanddec.com
