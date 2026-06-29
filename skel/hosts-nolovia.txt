@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-06-24 11:18:53
+# Generated at 2026-06-29 00:10:55
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4128,6 +4128,7 @@ deadpanmarble.com
 deadpantruck.com
 deafeningdock.com
 deafeningdowntown.com
+dealctr.com
 deals-discounts-codes.com
 deb.fdmpkg.org
 debonairdust.com
@@ -4429,6 +4430,7 @@ drawermice.com
 drawservant.com
 drberg.online
 drberg.store
+dreamhov.de
 dreamsdome.com
 dreamycanyon.com
 dressexpansion.com
@@ -5617,6 +5619,7 @@ gigkarma.com
 gigya-api.com
 gigya.com
 gimbal.com
+gingcaila.top
 ginzametrics.com
 giortm.com
 giraffepiano.com
@@ -5671,6 +5674,7 @@ gmail-security-account.com
 gmail-service.online
 gmaile.org
 gmidkz5tgm.com
+gmzdaily.com
 gnar.grammarly.com
 gnetwork.me
 gnpge.com
@@ -6750,6 +6754,7 @@ ip-info.ff.avast.com
 ip-tracker.aaalife.com
 ip.taobao.com
 ip91wku2.com
+ipaglov.com
 ipbsgpm4.top
 ipcc.vnpt.com.vn
 ipcypral-revused.com
@@ -7444,6 +7449,7 @@ livelyreward.com
 livesegmentservice.com
 livetracker.voa.pangea-cms.com
 liveuamap.live
+liveupdt.com
 livingsleet.com
 lizardslaugh.com
 ljja3ef63g.com
@@ -8173,6 +8179,7 @@ missionrewards.com
 misskey-forkbomb.cf
 mistervillas.com
 mistyhorizon.com
+mitarchive.info
 mittencattle.com
 mixadvert.com
 mixedreading.com
@@ -8452,6 +8459,7 @@ myddns.com
 mydepositsfunds-online.com
 mydomainxyz.xyz
 myebayaccess.com
+myec2.com
 myertrherwalletr.com
 myerypto.com
 myethehearwallet.com
@@ -11574,6 +11582,7 @@ solve-your-account.net
 solve-your-important-account.net
 solvebots.com
 soma9vols.com
+somavelee.workers.dev
 somberattack.com
 somberscarecrow.com
 sombersea.com
@@ -14753,6 +14762,7 @@ yr9n47004g.com
 yrxrbha.com
 ys3e965d.top
 ysz6cn9w6x.com
+ytmp4.page
 yturu.com
 yu6v3nhnsl.com
 yudexjr.com
