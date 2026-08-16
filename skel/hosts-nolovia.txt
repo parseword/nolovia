@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-06-29 00:10:55
+# Generated at 2026-08-16 18:36:13
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4386,6 +4386,8 @@ domainpoints.com
 domainpower.com
 domainpower.net
 domainpowered.com
+domaquinor.com
+domaxiron.org
 domclickext.xyz
 domob.cn
 donaldroberts2014.duckdns.org
