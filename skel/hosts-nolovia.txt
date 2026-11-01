@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-10-31 21:12:07
+# Generated at 2026-10-31 21:45:05
 0-day.us
 000webhostapp.com
 00zasdf.pw
