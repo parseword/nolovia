@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-09-22 22:25:54
+# Generated at 2026-10-31 20:51:44
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4614,6 +4614,7 @@ efbthmoiuykmkjkjgt.com
 effervescentcoral.com
 effervescentvista.com
 efficaciouscactus.com
+efficientdenim.com
 effulgentnook.com
 effulgenttempest.com
 ehangmun.com
