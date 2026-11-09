@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-11-05 23:53:19
+# Generated at 2026-11-08 21:16:35
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -14876,6 +14876,7 @@ whispermeeting.com
 whitecanvasgroup.com
 whitekoala1.xyz
 whitelistjs.com
+whitenois.com
 whoami-static.barstoolsports.com
 whoboring.com
 whocame.ovh
