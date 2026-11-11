@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-11-08 21:16:35
+# Generated at 2026-11-10 23:50:31
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -7702,6 +7702,7 @@ limitedaccresolve-help-service-bin.com
 limitedpurchased.com
 limitedtimepromo.com
 limitgdawe.com
+limitowl.com
 limitted-account.com
 limons.duckdns.org
 limpingline.com
