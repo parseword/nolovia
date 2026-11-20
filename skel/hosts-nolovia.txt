@@ -6,7 +6,7 @@
 # is routinely updated as new hosts are discovered. Thanks especially to "guga" 
 # (twitter.com/illegalfawn) for publishing phishing domains.
 #
-# Generated at 2026-11-13 00:02:21
+# Generated at 2026-11-20 06:17:35
 0-day.us
 000webhostapp.com
 00zasdf.pw
@@ -4352,6 +4352,7 @@ deng3rada.com
 denizbank-esube.com
 denizibankasi.com
 dens1raec.com
+deofleadyetca.org
 depart.trinitymedia.ai
 departapp.com
 department-gov.com
@@ -4539,6 +4540,7 @@ dollardelta.com
 dolldetail.com
 dollrealdoll.com
 dollrealdoll.online
+dollscough.cfd
 dolohen.com
 dolphindispute.com
 domainpoints.com
@@ -5911,6 +5913,7 @@ go.goadserver.com
 go.pardot.com
 go.ro
 go2click.org
+go2cloud.org
 go2vnow.net
 goaffpro.com
 goatbillions.com
@@ -7385,6 +7388,7 @@ kellethelix.com
 kennedyform.com
 kenoratravels.com
 kenshoo.com
+kentinedafile.org
 kenxx.ddns.net
 keqi7dh3df.com
 kernpunkt-infomedia.de
@@ -14714,6 +14718,7 @@ webaccess-limitedmyaccountz.info
 webads.nl
 webanalytics.lexisnexis.com
 webanalytics.unl.edu
+webanalyticscounter.com
 webapps-account.com
 webapps-app-scur.com
 webapps-checking.com
@@ -14834,6 +14839,7 @@ welt.ltd
 welt.media
 welt.ws
 wensixuetang.com
+werefilledwit.org
 westpalmweb.com
 westpasco.com
 weu-breeziest-in.cloudapp.net
